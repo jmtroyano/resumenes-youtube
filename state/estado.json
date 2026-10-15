@@ -414,7 +414,7 @@
    "publicado": "2026-10-15T18:00:12+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "@InversionRacional",
-   "intentos": 2,
+   "intentos": 0,
    "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
   },
   {
@@ -504,7 +504,7 @@
    "publicado": "2026-10-15T17:45:06+00:00",
    "canal": "Juan Ramón Rallo",
    "clave_canal": "@juanrallo",
-   "intentos": 2,
+   "intentos": 0,
    "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
   },
   {
@@ -694,7 +694,7 @@
    "publicado": "2026-10-15T18:05:48+00:00",
    "canal": "Bloomberg Television",
    "clave_canal": "@markets",
-   "intentos": 2,
+   "intentos": 0,
    "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
   },
   {
@@ -714,7 +714,7 @@
    "publicado": "2026-10-15T18:10:48+00:00",
    "canal": "CNBC Television",
    "clave_canal": "@CNBCtelevision",
-   "intentos": 1,
+   "intentos": 0,
    "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
   },
   {
@@ -764,7 +764,7 @@
    "publicado": "2026-10-15T18:24:02+00:00",
    "canal": "CNBC Television",
    "clave_canal": "@CNBCtelevision",
-   "intentos": 1,
+   "intentos": 0,
    "en_cola_desde": "2026-10-15T18:51:47.703968+00:00"
   }
  ],
