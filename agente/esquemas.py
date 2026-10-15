@@ -1,19 +1,14 @@
-"""Llamadas a la API de Gemini: esquema del resumen y prompts."""
+"""Formato estructurado de los resúmenes y textos de las instrucciones (prompts)."""
 from __future__ import annotations
 
-import json
-import os
-import time
 from typing import Literal
 
-from google import genai
-from google.genai import errors, types
 from pydantic import BaseModel, Field
 
 Sentimiento = Literal["muy bajista", "bajista", "neutral", "alcista", "muy alcista"]
 
-# Lista de temas "canónicos". Usar siempre los mismos nombres es lo que permite
-# comparar vídeos de canales distintos sobre un mismo tema.
+# Usar siempre los mismos nombres de tema es lo que permite comparar vídeos
+# de canales distintos sobre un mismo asunto.
 TEMAS_CANONICOS = [
     "Fed y tipos de interés EE. UU.", "BCE y tipos de interés Europa",
     "Otros bancos centrales", "Inflación", "Empleo", "Crecimiento y recesión",
@@ -25,6 +20,7 @@ TEMAS_CANONICOS = [
     "Aranceles y comercio", "Política fiscal e impuestos", "Resultados empresariales",
     "Valoración de mercado y burbujas", "Value investing", "Small caps",
     "Fondos indexados y ETFs", "Finanzas personales", "Liquidez y crédito",
+    "Análisis técnico",
 ]
 
 
@@ -60,12 +56,7 @@ class Resumen(BaseModel):
     es_contenido_de_mercados: bool = Field(description="False si el vídeo no trata de economía, mercados o inversión")
 
 
-def prompt_resumen(titulo: str, canal: str, idioma: str) -> str:
-    temas = "; ".join(TEMAS_CANONICOS)
-    return f"""Eres un analista financiero que resume vídeos de economía, inversión y mercados.
-Mira y escucha el vídeo completo "{titulo}" del canal "{canal}".
-
-Escribe TODO el resultado en {idioma}, aunque el vídeo esté en otro idioma.
+_INSTRUCCIONES_RESUMEN = """Escribe TODO el resultado en {idioma}, aunque el contenido esté en otro idioma.
 
 Instrucciones:
 - Sé fiel a lo que dicen los participantes. No añadas opiniones propias ni datos que no aparezcan.
@@ -73,14 +64,29 @@ Instrucciones:
 - Ideas clave: concretas y accionables, con cifras cuando se den. Nada de frases genéricas.
 - Sentimiento: valora la visión que transmiten sobre los mercados o la economía, no el tono emocional.
   Usa la escala -1 (muy bajista) a +1 (muy alcista); 0 es neutral.
-- sentimiento_por_tema: una entrada por cada tema relevante del vídeo.
+- sentimiento_por_tema: una entrada por cada tema relevante.
 - Para "temas" y "sentimiento_por_tema.tema" usa, siempre que encaje, exactamente uno de estos
   nombres: {temas}. Solo si ninguno encaja, crea un nombre corto nuevo.
 - predicciones: solo afirmaciones explícitas sobre el futuro (precios, tipos, recesión...).
   Lista vacía si no las hay.
-- Si el vídeo no trata de economía, mercados o inversión, marca es_contenido_de_mercados=false y
+- Si el contenido no trata de economía, mercados o inversión, marca es_contenido_de_mercados=false y
   resume igualmente en pocas líneas.
 """
+
+
+def prompt_resumen_video(titulo: str, canal: str, idioma: str) -> str:
+    return (f'Eres un analista financiero que resume vídeos de economía, inversión y mercados.\n'
+            f'Mira y escucha el vídeo completo "{titulo}" del canal "{canal}".\n\n'
+            + _INSTRUCCIONES_RESUMEN.format(idioma=idioma, temas="; ".join(TEMAS_CANONICOS)))
+
+
+def prompt_resumen_transcript(titulo: str, canal: str, idioma: str, texto: str) -> str:
+    return (f'Eres un analista financiero que resume vídeos de economía, inversión y mercados.\n'
+            f'A continuación tienes la transcripción del vídeo "{titulo}" del canal "{canal}".\n'
+            f'Puede venir de subtítulos automáticos: corrige mentalmente errores evidentes en nombres\n'
+            f'y cifras, pero no inventes nada. Las marcas [mm:ss] indican el minuto del vídeo.\n\n'
+            + _INSTRUCCIONES_RESUMEN.format(idioma=idioma, temas="; ".join(TEMAS_CANONICOS))
+            + f"\nTRANSCRIPCIÓN:\n{texto}\n")
 
 
 def prompt_informe(bloque_resumenes: str, bloque_estadisticas: str, idioma: str) -> str:
@@ -110,79 +116,28 @@ RESÚMENES DE LA SEMANA:
 """
 
 
-class CupoAgotado(Exception):
-    """Gemini ha devuelto 429: se ha agotado el cupo gratuito por ahora."""
+INSTRUCCION_ANALISIS_POR_DEFECTO = (
+    "Compara lo que dicen estos vídeos. Agrupa por temas comunes y, para cada tema, explica en qué "
+    "coinciden los canales, en qué discrepan (quién defiende qué y con qué argumentos o datos) y el "
+    "sentimiento de cada uno. Termina con las conclusiones principales, las predicciones más concretas "
+    "y los riesgos que más se repiten.")
 
 
-class ErrorConfiguracion(Exception):
-    """Clave inválida, modelo inexistente o permisos: no es culpa del vídeo."""
+def prompt_analisis(instruccion: str, contexto: str, idioma: str) -> str:
+    return f"""Eres un analista financiero independiente. Vas a analizar el contenido de varios vídeos
+de YouTube sobre economía, inversión y mercados. Cada vídeo aparece delimitado con su canal, fecha y
+título; puede venir como transcripción (subtítulos, con marcas [mm:ss]) o como resumen estructurado.
 
+PETICIÓN DEL USUARIO:
+{instruccion}
 
-def _es_error_configuracion(codigo, texto: str) -> bool:
-    t = texto.lower()
-    if codigo == 401:
-        return True
-    if codigo == 403 and ("api key" in t or "api_key" in t or "service_disabled" in t):
-        return True
-    return codigo == 404 and "model" in t
+Normas:
+- Responde en {idioma}, en Markdown (títulos con ##, listas con -, negritas con **).
+- Atribuye siempre cada idea a su canal (y minuto [mm:ss] si lo hay). No mezcles opiniones.
+- Basa todo en el contenido proporcionado. Si algo no se menciona, dilo; no inventes datos.
+- Señala cuando las fuentes se contradicen y qué argumentos usa cada una.
+- No des recomendaciones de inversión personales.
 
-
-def _cliente() -> genai.Client:
-    clave = os.environ.get("GEMINI_API_KEY", "").strip()
-    if not clave:
-        raise RuntimeError("Falta el secret GEMINI_API_KEY")
-    return genai.Client(api_key=clave)
-
-
-def _con_reintento(funcion):
-    """Un reintento tras una espera si hay límite por minuto; si persiste,
-    se considera cupo agotado."""
-    for intento in range(2):
-        try:
-            return funcion()
-        except errors.APIError as e:
-            codigo = getattr(e, "code", None)
-            if _es_error_configuracion(codigo, str(e)):
-                raise ErrorConfiguracion(str(e)) from e
-            if codigo == 429:
-                if intento == 0:
-                    print("[gemini] Límite por minuto alcanzado; espero 65 s...")
-                    time.sleep(65)
-                    continue
-                raise CupoAgotado(str(e)) from e
-            if codigo in (500, 503, 504) and intento == 0:
-                time.sleep(20)
-                continue
-            raise
-
-
-def resumir_video(url: str, titulo: str, canal: str, modelo: str, idioma: str,
-                  fps: float = 0.1) -> dict:
-    cliente = _cliente()
-    contenido = types.Content(parts=[
-        types.Part(file_data=types.FileData(file_uri=url),
-                   video_metadata=types.VideoMetadata(fps=fps)),
-        types.Part(text=prompt_resumen(titulo, canal, idioma)),
-    ])
-    config = types.GenerateContentConfig(
-        response_mime_type="application/json",
-        response_schema=Resumen,
-        media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW,
-        temperature=0.3,
-    )
-
-    respuesta = _con_reintento(lambda: cliente.models.generate_content(
-        model=modelo, contents=contenido, config=config))
-    if getattr(respuesta, "parsed", None) is not None:
-        return respuesta.parsed.model_dump()
-    if not respuesta.text:
-        raise RuntimeError("Gemini devolvió una respuesta vacía")
-    return Resumen.model_validate(json.loads(respuesta.text)).model_dump()
-
-
-def generar_texto(prompt: str, modelo: str) -> str:
-    cliente = _cliente()
-    respuesta = _con_reintento(lambda: cliente.models.generate_content(
-        model=modelo, contents=prompt,
-        config=types.GenerateContentConfig(temperature=0.4)))
-    return (respuesta.text or "").strip()
+CONTENIDO DE LOS VÍDEOS:
+{contexto}
+"""

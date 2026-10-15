@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agente YouTube</title>
+<link rel="stylesheet" href="/web/estilos.css">
+</head>
+<body>
+<header class="cabecera">
+  <div class="marca">▶ <b>Agente</b> YouTube</div>
+  <nav class="pestanas" id="pestanas">
+    <button data-vista="videos" class="activa">Vídeos</button>
+    <button data-vista="biblioteca">Biblioteca</button>
+    <button data-vista="analisis">Análisis</button>
+    <button data-vista="canales">Canales</button>
+    <button data-vista="ajustes">Ajustes</button>
+  </nav>
+  <div class="sync" id="sync" title="Sincronización con GitHub">…</div>
+</header>
+
+<main>
+  <!-- ============ VÍDEOS ============ -->
+  <section id="vista-videos" class="vista activa">
+    <div class="panel-lateral">
+      <div class="titulo-bloque">Canales
+        <span class="enlaces"><a href="#" id="sel-todos">todos</a> · <a href="#" id="sel-activos">activos</a> · <a href="#" id="sel-ninguno">ninguno</a></span>
+      </div>
+      <input type="search" id="filtro-canales" placeholder="Filtrar canales…">
+      <div id="lista-canales-check" class="lista-check"></div>
+      <label class="check-linea"><input type="checkbox" id="opt-mas"> Más vídeos (hasta 50, más lento)</label>
+      <label class="check-linea"><input type="checkbox" id="opt-shorts"> Incluir Shorts</label>
+      <button class="primario ancho" id="btn-cargar">Cargar vídeos</button>
+      <div class="separador"></div>
+      <div class="titulo-bloque">Vídeo suelto</div>
+      <div class="fila"><input id="url-video" placeholder="Pega una URL de YouTube"><button id="btn-url">Añadir</button></div>
+    </div>
+    <div class="contenido">
+      <div class="barra-filtros">
+        <input type="search" id="filtro-videos" placeholder="Buscar en títulos…">
+        <select id="filtro-estado">
+          <option value="">Todos</option>
+          <option value="sin">Sin transcript</option>
+          <option value="con">Con transcript</option>
+          <option value="resumen">Con resumen</option>
+        </select>
+        <a href="#" id="sel-videos-todos">seleccionar visibles</a>
+      </div>
+      <div id="avisos-videos"></div>
+      <div id="lista-videos" class="rejilla"><p class="vacio">Elige canales a la izquierda y pulsa <b>Cargar vídeos</b>.</p></div>
+    </div>
+  </section>
+
+  <!-- ============ BIBLIOTECA ============ -->
+  <section id="vista-biblioteca" class="vista">
+    <div class="contenido completo">
+      <div class="barra-filtros">
+        <input type="search" id="bib-q" placeholder="Buscar por título, canal o tema…">
+        <select id="bib-canal"><option value="">Todos los canales</option></select>
+        <select id="bib-dias">
+          <option value="">Cualquier fecha</option><option value="1">Últimas 24 h</option>
+          <option value="7">Última semana</option><option value="30">Último mes</option>
+        </select>
+        <a href="#" id="sel-bib-todos">seleccionar visibles</a>
+      </div>
+      <p class="ayuda">Vídeos con transcript descargado o resumen guardado (los tuyos y los automáticos).</p>
+      <div id="lista-biblioteca" class="rejilla"></div>
+    </div>
+  </section>
+
+  <!-- ============ ANÁLISIS ============ -->
+  <section id="vista-analisis" class="vista">
+    <div class="panel-lateral">
+      <div class="titulo-bloque">Análisis guardados</div>
+      <div id="lista-analisis" class="lista-analisis"></div>
+    </div>
+    <div class="contenido">
+      <div class="tarjeta" id="form-analisis">
+        <h2>Nuevo análisis</h2>
+        <div id="analisis-seleccion" class="chips"></div>
+        <label>Título <input id="an-titulo" placeholder="Ej.: Fed y bolsa, semana del 13 de octubre"></label>
+        <label>¿Qué quieres saber? <textarea id="an-instruccion" rows="5"></textarea></label>
+        <div class="fila">
+          <label class="inline">Usar
+            <select id="an-modo">
+              <option value="auto">Transcript completo (si existe)</option>
+              <option value="resumen">Solo los resúmenes (más rápido)</option>
+            </select>
+          </label>
+          <label class="check-linea"><input type="checkbox" id="an-telegram"> Enviar también a Telegram</label>
+          <button class="primario" id="btn-analizar">Analizar con Gemini</button>
+        </div>
+        <p class="ayuda">También puedes pedírselo a Claude en la app de escritorio: tus vídeos, transcripts y resúmenes están conectados.</p>
+      </div>
+      <div id="resultado-analisis"></div>
+    </div>
+  </section>
+
+  <!-- ============ CANALES ============ -->
+  <section id="vista-canales" class="vista">
+    <div class="contenido completo">
+      <div class="tarjeta">
+        <h2>Añadir canal</h2>
+        <div class="fila envolver">
+          <input id="nc-entrada" placeholder="@nombre, URL del canal o ID UC…" class="crece">
+          <input id="nc-nombre" placeholder="Nombre (opcional)">
+          <select id="nc-idioma"><option value="es">Español</option><option value="en">Inglés</option><option value="">Otro</option></select>
+          <input id="nc-region" placeholder="Región (ej. España)">
+          <input id="nc-tipo" placeholder="Tipo (ej. tertulia)">
+          <label class="check-linea"><input type="checkbox" id="nc-activo"> Resumen automático</label>
+          <button class="primario" id="btn-anadir-canal">Añadir</button>
+        </div>
+      </div>
+      <div class="barra-filtros">
+        <input type="search" id="filtro-tabla-canales" placeholder="Filtrar…">
+        <span class="ayuda"><b>Automático</b>: GitHub lo resume cada 3 h y te lo envía a Telegram. <b>En pausa</b>: solo bajo demanda desde aquí.</span>
+      </div>
+      <table class="tabla" id="tabla-canales">
+        <thead><tr><th>Canal</th><th>Región</th><th>Idioma</th><th>Tipo</th><th>Automático</th><th></th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ AJUSTES ============ -->
+  <section id="vista-ajustes" class="vista">
+    <div class="contenido completo estrecho">
+      <div class="tarjeta">
+        <h2>Claves (se guardan solo en tu ordenador)</h2>
+        <p class="ayuda">Se guardan en el archivo <code>.env</code> de la app, que nunca se sube a GitHub. Deja un campo vacío para no cambiarlo.</p>
+        <label>Clave de Gemini <span class="estado-clave" data-clave="GEMINI_API_KEY"></span>
+          <input type="password" id="k-GEMINI_API_KEY" autocomplete="off" placeholder="AIza…"></label>
+        <label>Token del bot de Telegram (opcional) <span class="estado-clave" data-clave="TELEGRAM_BOT_TOKEN"></span>
+          <input type="password" id="k-TELEGRAM_BOT_TOKEN" autocomplete="off"></label>
+        <label>Chat ID de Telegram (opcional) <span class="estado-clave" data-clave="TELEGRAM_CHAT_ID"></span>
+          <input id="k-TELEGRAM_CHAT_ID" autocomplete="off"></label>
+        <div class="fila"><button class="primario" id="btn-guardar-claves">Guardar claves</button>
+          <button id="btn-probar-ia">Probar Gemini</button></div>
+      </div>
+      <div class="tarjeta">
+        <h2>Ajustes generales (compartidos con GitHub)</h2>
+        <label>Modelo de Gemini <input id="aj-modelo"></label>
+        <label>Idioma de resúmenes y análisis <input id="aj-idioma"></label>
+        <button id="btn-guardar-ajustes">Guardar ajustes</button>
+      </div>
+      <div class="tarjeta">
+        <h2>Sincronización con GitHub</h2>
+        <div id="info-git" class="ayuda"></div>
+        <div class="fila"><button id="btn-bajar">Traer novedades</button><button id="btn-subir">Subir cambios</button></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- Barra de selección -->
+<div class="barra-accion" id="barra-accion" hidden>
+  <span id="num-sel">0 seleccionados</span>
+  <a href="#" id="btn-limpiar-sel">quitar selección</a>
+  <span class="crece"></span>
+  <button id="btn-transcripts">⬇ Descargar transcripts</button>
+  <button id="btn-resumir">📝 Resumir</button>
+  <label class="check-linea pequeno"><input type="checkbox" id="opt-tg-resumen"> a Telegram</label>
+  <button class="primario" id="btn-ir-analisis">🧠 Analizar / comparar</button>
+</div>
+
+<!-- Panel lateral de detalle -->
+<aside class="detalle" id="detalle" hidden>
+  <button class="cerrar" id="cerrar-detalle">✕</button>
+  <div id="detalle-contenido"></div>
+</aside>
+
+<div class="aviso" id="aviso" hidden></div>
+<div class="cargando" id="cargando" hidden><div class="rueda"></div><span id="cargando-texto">Trabajando…</span></div>
+
+<script src="/web/app.js"></script>
+</body>
+</html>

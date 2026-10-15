@@ -1,4 +1,7 @@
 __pycache__/
 *.pyc
 .env
+.venv/
+*.log
+*.tmp
 state/*.tmp

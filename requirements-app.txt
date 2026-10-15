@@ -1,0 +1,7 @@
+# Dependencias de la app local (Windows): incluye las de GitHub Actions
+-r requirements.txt
+starlette>=0.40
+uvicorn>=0.30
+youtube-transcript-api>=1.2
+yt-dlp>=2025.1.1
+mcp>=2.0,<3

@@ -1,292 +1,318 @@
 # ============================================================
 #  CONFIGURACIÓN DEL AGENTE DE RESÚMENES DE YOUTUBE
-#  Puedes editar este archivo directamente desde la web de GitHub.
+#  Se puede editar desde la app web (recomendado) o a mano.
+#
+#  Canales:
+#   - activo: true  -> se resume automáticamente cada 3 horas (GitHub)
+#   - activo: false -> en pausa: solo se usa bajo demanda desde la app
+#   - channel_id    -> ID "UC..." del canal (la app lo rellena sola)
+#   - max_por_revision -> límite de vídeos nuevos por revisión
 # ============================================================
 
-# Modelo de Gemini. "gemini-3.8-flash" es rápido y entra en el plan gratuito.
-# Si Google lo retira, cámbialo por el modelo "flash" más reciente que aparezca
-# en https://ai.google.dev/gemini-api/docs/models
+# Proveedor de IA para resúmenes y análisis (por ahora: gemini)
+proveedor_ia: gemini
+# Modelo de Gemini. Si Google lo retira, pon el 'flash' más reciente
 modelo: gemini-3.8-flash
-
-# Idioma en el que quieres TODOS los resúmenes (aunque el vídeo esté en inglés).
+# Idioma de todos los resúmenes y análisis
 idioma_resumen: español
-
-# Cuántos vídeos se resumen como máximo en cada ejecución (hay una ejecución
-# cada 3 horas). Los que no quepan esperan en cola a la siguiente.
+# Vídeos resumidos como máximo en cada ejecución automática
 max_videos_por_ejecucion: 4
-
-# La primera vez que se añade un canal, cuántos de sus últimos vídeos se
-# resumen (para no tragarse todo su historial de golpe).
+# Vídeos que se cogen al activar un canal por primera vez
 videos_iniciales_por_canal: 1
-
-# Si un vídeo lleva más de estos días esperando en la cola, se descarta.
+# Días que un vídeo puede esperar en cola antes de descartarse
 dias_maximos_en_cola: 21
-
-# Intentos antes de dar un vídeo por imposible (directos programados, vídeos
-# privados, etc.).
+# Intentos antes de dar un vídeo por imposible
 max_intentos: 3
-
-# Ignorar los Shorts de YouTube.
+# Ignorar los Shorts de YouTube
 saltar_shorts: true
-
-# Fotogramas por segundo que Gemini mira del vídeo. Para tertulias y análisis
-# lo importante es el audio, así que un valor bajo ahorra mucho cupo.
+# Fotogramas por segundo que mira Gemini cuando resume desde el vídeo
 fps_video: 0.1
 
-# ------------------------------------------------------------
-#  CANALES
-#  - handle: el @nombre del canal (aparece en su URL: youtube.com/@xxxx)
-#  - channel_id (opcional): si el handle falla, pon aquí el ID "UC..." y se
-#    usará ese. La ejecución "comprobar_canales" te dice cuáles fallan.
-#  - max_por_revision (opcional): para canales que suben muchísimos vídeos al
-#    día (medios), cuántos vídeos nuevos se cogen como máximo en cada revisión.
-#  - activo: false  -> desactiva el canal sin borrarlo.
-# ------------------------------------------------------------
 canales:
-
-  # ---------- Habla hispana: tertulias y actualidad de mercados ----------
-  - nombre: Los Locos de Wall Street
-    handle: "@locosdewallstreet"
-    idioma: es
-    region: España
-    tipo: tertulia
-
-  - nombre: Inversión Racional
-    handle: "@InversionRacional"
-    idioma: es
-    region: España
-    tipo: tertulia
-
-  - nombre: Nofinancieros
-    handle: "@nofinancieros"
-    idioma: es
-    region: España
-    tipo: tertulia
-
-  - nombre: Rankia (Una vida invirtiendo)
-    handle: "@rankia"
-    idioma: es
-    region: España
-    tipo: entrevistas
-    max_por_revision: 3
-
-  - nombre: Diego Puertas
-    handle: "@DiegoPuertas"
-    idioma: es
-    region: España
-    tipo: actualidad diaria
-
-  - nombre: elEconomista (Estrategias de mercado / Ecotrader)
-    handle: "@eleconomistaes"
-    idioma: es
-    region: España
-    tipo: análisis técnico
-    max_por_revision: 2
-
-  - nombre: Brújula de Mercados
-    handle: "@BrujuladeMercadosyBolsa"
-    idioma: es
-    region: España
-    tipo: macro y geopolítica
-
-  - nombre: Monkeynvest
-    handle: "@Monkeynvest"
-    idioma: es
-    region: España
-    tipo: tertulia
-    activo: false   # no tiene canal de YouTube propio
-
-  - nombre: Finect
-    handle: "@Finect"
-    idioma: es
-    region: España
-    tipo: entrevistas
-    max_por_revision: 3
-
-  # ---------- Habla hispana: macro y divulgación ----------
-  - nombre: Pablo Gil
-    handle: "@PabloGilTrader"
-    idioma: es
-    region: España
-    tipo: macro y mercados
-
-  - nombre: Daniel Lacalle
-    handle: "@DanielLacalleOfficial"
-    idioma: es
-    region: España
-    tipo: macro y mercados
-
-  - nombre: Juan Ramón Rallo
-    handle: "@juanrallo"
-    idioma: es
-    region: España
-    tipo: economía
-
-  - nombre: VisualEconomik
-    handle: "@VisualEconomik"
-    idioma: es
-    region: España
-    tipo: divulgación económica
-
-  - nombre: Euge Oller (Emprende Aprendiendo)
-    handle: "@EmprendeAprendiendo"
-    idioma: es
-    region: España
-    tipo: divulgación
-
-  - nombre: El Arte de Invertir (Alejandro Estebaranz)
-    handle: "@Artedeinvertir"
-    idioma: es
-    region: España
-    tipo: value investing
-
-  - nombre: Value School
-    handle: "@ValueSchool"
-    idioma: es
-    region: España
-    tipo: entrevistas
-    max_por_revision: 3
-
-  - nombre: Estrategias de Inversión
-    handle: "@EstrategiasdeInversion"
-    idioma: es
-    region: España
-    tipo: entrevistas
-    max_por_revision: 3
-
-  - nombre: Moris Dieck
-    handle: "@MorisDieck"
-    idioma: es
-    region: México
-    tipo: inversión
-
-  - nombre: Minority Mindset en Español
-    handle: "@MinorityMindsetEspanol"
-    idioma: es
-    region: Latinoamérica
-    tipo: inversión
-
-  # ---------- Estados Unidos ----------
-  - nombre: The Compound and Friends
-    handle: "@TheCompoundNews"
-    idioma: en
-    region: EE. UU.
-    tipo: tertulia
-    max_por_revision: 3
-
-  - nombre: Prof G Markets
-    handle: "@ProfGMarkets"
-    idioma: en
-    region: EE. UU.
-    tipo: tertulia
-    max_por_revision: 3
-
-  - nombre: Forward Guidance
-    handle: "@ForwardGuidanceBW"
-    idioma: en
-    region: EE. UU.
-    tipo: macro
-
-  - nombre: Real Vision
-    handle: "@RealVisionFinance"
-    idioma: en
-    region: EE. UU.
-    tipo: macro
-    max_por_revision: 3
-
-  - nombre: Graham Stephan
-    handle: "@GrahamStephan"
-    idioma: en
-    region: EE. UU.
-    tipo: inversión
-
-  - nombre: Andrei Jikh
-    handle: "@AndreiJikh"
-    idioma: en
-    region: EE. UU.
-    tipo: inversión
-
-  - nombre: Meet Kevin
-    handle: "@MeetKevin"
-    idioma: en
-    region: EE. UU.
-    tipo: actualidad diaria
-    max_por_revision: 3
-
-  - nombre: Financial Education (Jeremy Lefebvre)
-    handle: "@FinancialEducation"
-    idioma: en
-    region: EE. UU.
-    tipo: acciones
-    max_por_revision: 3
-
-  - nombre: Investing Simplified - Professor G
-    handle: "@InvestingSimplified"
-    idioma: en
-    region: EE. UU.
-    tipo: inversión largo plazo
-
-  - nombre: Aswath Damodaran
-    handle: "@AswathDamodaranonValuation"
-    idioma: en
-    region: EE. UU.
-    tipo: valoración
-
-  - nombre: Ben Felix (Common Sense Investing)
-    handle: "@BenFelixCSI"
-    idioma: en
-    region: Canadá
-    tipo: inversión basada en evidencia
-
-  - nombre: Bloomberg Television
-    handle: "@markets"
-    idioma: en
-    region: EE. UU.
-    tipo: medio
-    max_por_revision: 2
-
-  - nombre: The Wall Street Journal
-    handle: "@wsj"
-    idioma: en
-    region: EE. UU.
-    tipo: medio
-    max_por_revision: 2
-
-  - nombre: CNBC Television
-    handle: "@CNBCtelevision"
-    idioma: en
-    region: EE. UU.
-    tipo: medio
-    max_por_revision: 2
-
-  # ---------- Reino Unido ----------
-  - nombre: Patrick Boyle
-    handle: "@PBoyle"
-    idioma: en
-    region: Reino Unido
-    tipo: macro y mercados
-
-  - nombre: Financial Times
-    handle: "@FinancialTimes"
-    idioma: en
-    region: Reino Unido
-    tipo: medio
-    max_por_revision: 2
-
-  - nombre: Nischa
-    handle: "@NischaShah"
-    idioma: en
-    region: Reino Unido
-    tipo: inversión
-
-  - nombre: Damien Talks Money
-    handle: "@DamienTalksMoney"
-    idioma: en
-    region: Reino Unido
-    tipo: inversión
-
-  - nombre: Mark Tilbury
-    handle: "@MarkTilbury"
-    idioma: en
-    region: Reino Unido
-    tipo: finanzas personales
+- nombre: Los Locos de Wall Street
+  handle: '@locosdewallstreet'
+  channel_id: UCCVIYA5kpLvEToE8Gj8Fszw
+  idioma: es
+  region: España
+  tipo: tertulia
+  activo: true
+- nombre: Inversión Racional
+  handle: '@InversionRacional'
+  channel_id: UCcyKcWVyR-SiQxQhfKSPzNw
+  idioma: es
+  region: España
+  tipo: tertulia
+  activo: true
+- nombre: José Luis Cárpatos
+  handle: '@JoséLuisCárpatos'
+  channel_id: UCmJL2llHf2tEcDAjaz-LFgQ
+  idioma: es
+  region: España
+  tipo: actualidad diaria
+  activo: true
+- nombre: José Luis Cava (Bolsacava)
+  handle: '@JoseLuisCavatv'
+  channel_id: UCvCCLJkQpRg0NdT3zNcI08A
+  idioma: es
+  region: España
+  tipo: análisis técnico
+  activo: true
+- nombre: Nofinancieros
+  handle: '@nofinancieros'
+  channel_id: UCHMI3rPMangIcjMfu1wBPCA
+  idioma: es
+  region: España
+  tipo: tertulia
+  activo: false
+- nombre: Rankia (Una vida invirtiendo)
+  handle: '@rankia'
+  channel_id: UC71VTsUKOsh6QEGnzaa2KuQ
+  idioma: es
+  region: España
+  tipo: entrevistas
+  max_por_revision: 3
+  activo: false
+- nombre: Diego Puertas
+  handle: '@DiegoPuertas'
+  channel_id: UCifMzIJtev9Kq3n8FvRK-Yw
+  idioma: es
+  region: España
+  tipo: actualidad diaria
+  activo: false
+- nombre: elEconomista (Estrategias de mercado / Ecotrader)
+  handle: '@eleconomistaes'
+  channel_id: UCYZ6TjhJKgyy8EyL7ltuKAQ
+  idioma: es
+  region: España
+  tipo: análisis técnico
+  max_por_revision: 2
+  activo: false
+- nombre: Brújula de Mercados
+  handle: '@BrujuladeMercadosyBolsa'
+  channel_id: UCVXSKLrgi9UpYnw-CbiM0xA
+  idioma: es
+  region: España
+  tipo: macro y geopolítica
+  activo: false
+- nombre: Finect
+  handle: '@Finect'
+  channel_id: UCzKnSeOq30zVvgosDFlne5g
+  idioma: es
+  region: España
+  tipo: entrevistas
+  max_por_revision: 3
+  activo: false
+- nombre: Pablo Gil
+  handle: '@PabloGilTrader'
+  channel_id: UCPQ2dheMajZPnIleYZHzblg
+  idioma: es
+  region: España
+  tipo: macro y mercados
+  activo: false
+- nombre: Daniel Lacalle
+  handle: '@DanielLacalleOfficial'
+  channel_id: UCoA66gIqiExUIjwyw1cB9Dw
+  idioma: es
+  region: España
+  tipo: macro y mercados
+  activo: false
+- nombre: Juan Ramón Rallo
+  handle: '@juanrallo'
+  channel_id: UCBLCvUUCiSqBCEc-TqZ9rGw
+  idioma: es
+  region: España
+  tipo: economía
+  activo: false
+- nombre: VisualEconomik
+  handle: '@VisualEconomik'
+  channel_id: UC5HdVtarytnZi4eLogHAfoQ
+  idioma: es
+  region: España
+  tipo: divulgación económica
+  activo: false
+- nombre: Euge Oller (Emprende Aprendiendo)
+  handle: '@EmprendeAprendiendo'
+  channel_id: UCyM-2pRapEv6V2q7UNO9icg
+  idioma: es
+  region: España
+  tipo: divulgación
+  activo: false
+- nombre: El Arte de Invertir (Alejandro Estebaranz)
+  handle: '@Artedeinvertir'
+  channel_id: UC-yJ1V3fN75A4dlR6dgRgEg
+  idioma: es
+  region: España
+  tipo: value investing
+  activo: true
+- nombre: Value School
+  handle: '@ValueSchool'
+  channel_id: UCpLie5obXFdf8T0NG-IRHsA
+  idioma: es
+  region: España
+  tipo: entrevistas
+  max_por_revision: 3
+  activo: false
+- nombre: Estrategias de Inversión
+  handle: '@EstrategiasdeInversion'
+  channel_id: UCC0fs2Wo-OIZfJmo7ZbGc8g
+  idioma: es
+  region: España
+  tipo: entrevistas
+  max_por_revision: 3
+  activo: false
+- nombre: Moris Dieck
+  handle: '@MorisDieck'
+  channel_id: UCxFACDJ98idvo9Gq9M9AQgg
+  idioma: es
+  region: México
+  tipo: inversión
+  activo: false
+- nombre: Minority Mindset en Español
+  handle: '@MinorityMindsetEspanol'
+  channel_id: UC5kS0A0RPq_rWxcs72ed_gw
+  idioma: es
+  region: Latinoamérica
+  tipo: inversión
+  activo: false
+- nombre: The Compound and Friends
+  handle: '@TheCompoundNews'
+  channel_id: UCBRpqrzuuqE8TZcWw75JSdw
+  idioma: en
+  region: EE. UU.
+  tipo: tertulia
+  max_por_revision: 3
+  activo: false
+- nombre: Prof G Markets
+  handle: '@ProfGMarkets'
+  channel_id: UCp4CBeq4nzeg9smAvdjPrig
+  idioma: en
+  region: EE. UU.
+  tipo: tertulia
+  max_por_revision: 3
+  activo: false
+- nombre: Forward Guidance
+  handle: '@ForwardGuidanceBW'
+  channel_id: UCkrwgzhIBKccuDsi_SvZtnQ
+  idioma: en
+  region: EE. UU.
+  tipo: macro
+  activo: false
+- nombre: Real Vision
+  handle: '@RealVisionFinance'
+  channel_id: UCGXWKlq1Oxr3ddEtmKhAkPg
+  idioma: en
+  region: EE. UU.
+  tipo: macro
+  max_por_revision: 3
+  activo: false
+- nombre: Graham Stephan
+  handle: '@GrahamStephan'
+  channel_id: UCV6KDgJskWaEckne5aPA0aQ
+  idioma: en
+  region: EE. UU.
+  tipo: inversión
+  activo: false
+- nombre: Andrei Jikh
+  handle: '@AndreiJikh'
+  channel_id: UCGy7SkBjcIAgTiwkXEtPnYg
+  idioma: en
+  region: EE. UU.
+  tipo: inversión
+  activo: false
+- nombre: Meet Kevin
+  handle: '@MeetKevin'
+  channel_id: UCUvvj5lwue7PspotMDjk5UA
+  idioma: en
+  region: EE. UU.
+  tipo: actualidad diaria
+  max_por_revision: 3
+  activo: false
+- nombre: Financial Education (Jeremy Lefebvre)
+  handle: '@FinancialEducation'
+  channel_id: UCnMn36GT_H0X-w5_ckLtlgQ
+  idioma: en
+  region: EE. UU.
+  tipo: acciones
+  max_por_revision: 3
+  activo: false
+- nombre: Investing Simplified - Professor G
+  handle: '@InvestingSimplified'
+  channel_id: UCFWqFQSDUuR5XuQDKE1vwhA
+  idioma: en
+  region: EE. UU.
+  tipo: inversión largo plazo
+  activo: false
+- nombre: Aswath Damodaran
+  handle: '@AswathDamodaranonValuation'
+  channel_id: UCLvnJL8htRR1T9cbSccaoVw
+  idioma: en
+  region: EE. UU.
+  tipo: valoración
+  activo: false
+- nombre: Ben Felix (Common Sense Investing)
+  handle: '@BenFelixCSI'
+  channel_id: UCDXTQ8nWmx_EhZ2v-kp7QxA
+  idioma: en
+  region: Canadá
+  tipo: inversión basada en evidencia
+  activo: false
+- nombre: Bloomberg Television
+  handle: '@markets'
+  channel_id: UCIALMKvObZNtJ6AmdCLP7Lg
+  idioma: en
+  region: EE. UU.
+  tipo: medio
+  max_por_revision: 2
+  activo: false
+- nombre: The Wall Street Journal
+  handle: '@wsj'
+  channel_id: UCK7tptUDHh-RYDsdxO1-5QQ
+  idioma: en
+  region: EE. UU.
+  tipo: medio
+  max_por_revision: 2
+  activo: false
+- nombre: CNBC Television
+  handle: '@CNBCtelevision'
+  channel_id: UCrp_UI8XtuYfpiqluWLD7Lw
+  idioma: en
+  region: EE. UU.
+  tipo: medio
+  max_por_revision: 2
+  activo: false
+- nombre: Patrick Boyle
+  handle: '@PBoyle'
+  channel_id: UCASM0cgfkJxQ1ICmRilfHLw
+  idioma: en
+  region: Reino Unido
+  tipo: macro y mercados
+  activo: false
+- nombre: Financial Times
+  handle: '@FinancialTimes'
+  channel_id: UCoUxsWakJucWg46KW5RsvPw
+  idioma: en
+  region: Reino Unido
+  tipo: medio
+  max_por_revision: 2
+  activo: false
+- nombre: Nischa
+  handle: '@NischaShah'
+  channel_id: UCTGXEeCSEU87_wgcQi-NrjQ
+  idioma: en
+  region: Reino Unido
+  tipo: inversión
+  activo: false
+- nombre: Damien Talks Money
+  handle: '@DamienTalksMoney'
+  channel_id: UCjPR68IfHV0aY9s6cF5u0uQ
+  idioma: en
+  region: Reino Unido
+  tipo: inversión
+  activo: false
+- nombre: Mark Tilbury
+  handle: '@MarkTilbury'
+  channel_id: UCxgAuX3XZROujMmGphN_scA
+  idioma: en
+  region: Reino Unido
+  tipo: finanzas personales
+  activo: false
