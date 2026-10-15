@@ -3,10 +3,10 @@
 #  Puedes editar este archivo directamente desde la web de GitHub.
 # ============================================================
 
-# Modelo de Gemini. "gemini-2.5-flash" es rápido y entra en el plan gratuito.
+# Modelo de Gemini. "gemini-3.8-flash" es rápido y entra en el plan gratuito.
 # Si Google lo retira, cámbialo por el modelo "flash" más reciente que aparezca
 # en https://ai.google.dev/gemini-api/docs/models
-modelo: gemini-2.5-flash
+modelo: gemini-3.8-flash
 
 # Idioma en el que quieres TODOS los resúmenes (aunque el vídeo esté en inglés).
 idioma_resumen: español
