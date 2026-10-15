@@ -1,0 +1,291 @@
+# ============================================================
+#  CONFIGURACIÓN DEL AGENTE DE RESÚMENES DE YOUTUBE
+#  Puedes editar este archivo directamente desde la web de GitHub.
+# ============================================================
+
+# Modelo de Gemini. "gemini-2.5-flash" es rápido y entra en el plan gratuito.
+# Si Google lo retira, cámbialo por el modelo "flash" más reciente que aparezca
+# en https://ai.google.dev/gemini-api/docs/models
+modelo: gemini-2.5-flash
+
+# Idioma en el que quieres TODOS los resúmenes (aunque el vídeo esté en inglés).
+idioma_resumen: español
+
+# Cuántos vídeos se resumen como máximo en cada ejecución (hay una ejecución
+# cada 3 horas). Los que no quepan esperan en cola a la siguiente.
+max_videos_por_ejecucion: 4
+
+# La primera vez que se añade un canal, cuántos de sus últimos vídeos se
+# resumen (para no tragarse todo su historial de golpe).
+videos_iniciales_por_canal: 1
+
+# Si un vídeo lleva más de estos días esperando en la cola, se descarta.
+dias_maximos_en_cola: 21
+
+# Intentos antes de dar un vídeo por imposible (directos programados, vídeos
+# privados, etc.).
+max_intentos: 3
+
+# Ignorar los Shorts de YouTube.
+saltar_shorts: true
+
+# Fotogramas por segundo que Gemini mira del vídeo. Para tertulias y análisis
+# lo importante es el audio, así que un valor bajo ahorra mucho cupo.
+fps_video: 0.1
+
+# ------------------------------------------------------------
+#  CANALES
+#  - handle: el @nombre del canal (aparece en su URL: youtube.com/@xxxx)
+#  - channel_id (opcional): si el handle falla, pon aquí el ID "UC..." y se
+#    usará ese. La ejecución "comprobar_canales" te dice cuáles fallan.
+#  - max_por_revision (opcional): para canales que suben muchísimos vídeos al
+#    día (medios), cuántos vídeos nuevos se cogen como máximo en cada revisión.
+#  - activo: false  -> desactiva el canal sin borrarlo.
+# ------------------------------------------------------------
+canales:
+
+  # ---------- Habla hispana: tertulias y actualidad de mercados ----------
+  - nombre: Los Locos de Wall Street
+    handle: "@loslocosdewallstreet"
+    idioma: es
+    region: España
+    tipo: tertulia
+
+  - nombre: Inversión Racional
+    handle: "@InversionRacional"
+    idioma: es
+    region: España
+    tipo: tertulia
+
+  - nombre: Nofinancieros
+    handle: "@nofinancieros"
+    idioma: es
+    region: España
+    tipo: tertulia
+
+  - nombre: Rankia (Una vida invirtiendo)
+    handle: "@rankia"
+    idioma: es
+    region: España
+    tipo: entrevistas
+    max_por_revision: 3
+
+  - nombre: Diego Puertas
+    handle: "@DiegoPuertas"
+    idioma: es
+    region: España
+    tipo: actualidad diaria
+
+  - nombre: Estrategias de mercado (Ecotrader)
+    handle: "@ecotrader"
+    idioma: es
+    region: España
+    tipo: análisis técnico
+    max_por_revision: 3
+
+  - nombre: Brújula de Mercados
+    handle: "@BrujulaDeMercados"
+    idioma: es
+    region: España
+    tipo: macro y geopolítica
+
+  - nombre: Monkeynvest
+    handle: "@Monkeynvest"
+    idioma: es
+    region: España
+    tipo: tertulia
+
+  - nombre: Finect
+    handle: "@Finect"
+    idioma: es
+    region: España
+    tipo: entrevistas
+    max_por_revision: 3
+
+  # ---------- Habla hispana: macro y divulgación ----------
+  - nombre: Pablo Gil
+    handle: "@PabloGilTrader"
+    idioma: es
+    region: España
+    tipo: macro y mercados
+
+  - nombre: Daniel Lacalle
+    handle: "@DanielLacalle"
+    idioma: es
+    region: España
+    tipo: macro y mercados
+
+  - nombre: Juan Ramón Rallo
+    handle: "@juanramonrallo"
+    idioma: es
+    region: España
+    tipo: economía
+
+  - nombre: VisualEconomik
+    handle: "@VisualEconomik"
+    idioma: es
+    region: España
+    tipo: divulgación económica
+
+  - nombre: Euge Oller (Emprende Aprendiendo)
+    handle: "@EmprendeAprendiendo"
+    idioma: es
+    region: España
+    tipo: divulgación
+
+  - nombre: El Arte de Invertir (Alejandro Estebaranz)
+    handle: "@ElArtedeInvertir"
+    idioma: es
+    region: España
+    tipo: value investing
+
+  - nombre: Value School
+    handle: "@ValueSchool"
+    idioma: es
+    region: España
+    tipo: entrevistas
+    max_por_revision: 3
+
+  - nombre: Estrategias de Inversión
+    handle: "@EstrategiasdeInversion"
+    idioma: es
+    region: España
+    tipo: entrevistas
+    max_por_revision: 3
+
+  - nombre: Moris Dieck
+    handle: "@MorisDieck"
+    idioma: es
+    region: México
+    tipo: inversión
+
+  - nombre: Minority Mindset en Español
+    handle: "@MinorityMindsetEspanol"
+    idioma: es
+    region: Latinoamérica
+    tipo: inversión
+
+  # ---------- Estados Unidos ----------
+  - nombre: The Compound and Friends
+    handle: "@TheCompoundNews"
+    idioma: en
+    region: EE. UU.
+    tipo: tertulia
+    max_por_revision: 3
+
+  - nombre: Prof G Markets
+    handle: "@TheProfGShow"
+    idioma: en
+    region: EE. UU.
+    tipo: tertulia
+    max_por_revision: 3
+
+  - nombre: Forward Guidance
+    handle: "@ForwardGuidanceBW"
+    idioma: en
+    region: EE. UU.
+    tipo: macro
+
+  - nombre: Real Vision
+    handle: "@RealVisionFinance"
+    idioma: en
+    region: EE. UU.
+    tipo: macro
+    max_por_revision: 3
+
+  - nombre: Graham Stephan
+    handle: "@GrahamStephan"
+    idioma: en
+    region: EE. UU.
+    tipo: inversión
+
+  - nombre: Andrei Jikh
+    handle: "@AndreiJikh"
+    idioma: en
+    region: EE. UU.
+    tipo: inversión
+
+  - nombre: Meet Kevin
+    handle: "@MeetKevin"
+    idioma: en
+    region: EE. UU.
+    tipo: actualidad diaria
+    max_por_revision: 3
+
+  - nombre: Financial Education (Jeremy Lefebvre)
+    handle: "@FinancialEducation"
+    idioma: en
+    region: EE. UU.
+    tipo: acciones
+    max_por_revision: 3
+
+  - nombre: Investing Simplified - Professor G
+    handle: "@InvestingSimplified"
+    idioma: en
+    region: EE. UU.
+    tipo: inversión largo plazo
+
+  - nombre: Aswath Damodaran
+    handle: "@AswathDamodaranonValuation"
+    idioma: en
+    region: EE. UU.
+    tipo: valoración
+
+  - nombre: Ben Felix (Common Sense Investing)
+    handle: "@BenFelixCSI"
+    idioma: en
+    region: Canadá
+    tipo: inversión basada en evidencia
+
+  - nombre: Bloomberg Television
+    handle: "@markets"
+    idioma: en
+    region: EE. UU.
+    tipo: medio
+    max_por_revision: 2
+
+  - nombre: The Wall Street Journal
+    handle: "@wsj"
+    idioma: en
+    region: EE. UU.
+    tipo: medio
+    max_por_revision: 2
+
+  - nombre: CNBC Television
+    handle: "@CNBCtelevision"
+    idioma: en
+    region: EE. UU.
+    tipo: medio
+    max_por_revision: 2
+
+  # ---------- Reino Unido ----------
+  - nombre: Patrick Boyle
+    handle: "@PBoyle"
+    idioma: en
+    region: Reino Unido
+    tipo: macro y mercados
+
+  - nombre: Financial Times
+    handle: "@FinancialTimes"
+    idioma: en
+    region: Reino Unido
+    tipo: medio
+    max_por_revision: 2
+
+  - nombre: Nischa
+    handle: "@NischaShah"
+    idioma: en
+    region: Reino Unido
+    tipo: inversión
+
+  - nombre: Damien Talks Money
+    handle: "@DamienTalksMoney"
+    idioma: en
+    region: Reino Unido
+    tipo: inversión
+
+  - nombre: Mark Tilbury
+    handle: "@MarkTilbury"
+    idioma: en
+    region: Reino Unido
+    tipo: finanzas personales
