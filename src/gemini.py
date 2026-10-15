@@ -114,6 +114,19 @@ class CupoAgotado(Exception):
     """Gemini ha devuelto 429: se ha agotado el cupo gratuito por ahora."""
 
 
+class ErrorConfiguracion(Exception):
+    """Clave inválida, modelo inexistente o permisos: no es culpa del vídeo."""
+
+
+def _es_error_configuracion(codigo, texto: str) -> bool:
+    t = texto.lower()
+    if codigo == 401:
+        return True
+    if codigo == 403 and ("api key" in t or "api_key" in t or "service_disabled" in t):
+        return True
+    return codigo == 404 and "model" in t
+
+
 def _cliente() -> genai.Client:
     clave = os.environ.get("GEMINI_API_KEY", "").strip()
     if not clave:
@@ -129,6 +142,8 @@ def _con_reintento(funcion):
             return funcion()
         except errors.APIError as e:
             codigo = getattr(e, "code", None)
+            if _es_error_configuracion(codigo, str(e)):
+                raise ErrorConfiguracion(str(e)) from e
             if codigo == 429:
                 if intento == 0:
                     print("[gemini] Límite por minuto alcanzado; espero 65 s...")
