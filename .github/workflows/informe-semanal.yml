@@ -1,0 +1,55 @@
+name: Informe semanal
+
+on:
+  schedule:
+    - cron: "23 17 * * 0"   # domingos, 19:23 en Madrid (horario de verano)
+  workflow_dispatch:
+    inputs:
+      dias:
+        description: "Días a analizar"
+        default: "7"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: resumenes-youtube
+  cancel-in-progress: false
+
+jobs:
+  informe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar informe
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EMAIL_USUARIO: ${{ secrets.EMAIL_USUARIO }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+        run: python src/informe_semanal.py --dias "${{ github.event.inputs.dias || '7' }}"
+
+      - name: Guardar informe en el repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m "Informe semanal $(date -u +'%G-S%V')"
+          for i in 1 2 3; do
+            git pull --rebase && git push && break
+            sleep 10
+          done
