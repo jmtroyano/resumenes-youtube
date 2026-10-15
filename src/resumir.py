@@ -275,8 +275,18 @@ def ejecucion_normal() -> None:
             estado["procesados"][item["video_id"]] = comun.ahora_utc().isoformat()
             estado["cola"] = [v for v in estado["cola"] if v["video_id"] != item["video_id"]]
             hechos += 1
+            estado["aviso_config"] = None
         except gemini.CupoAgotado:
             print("Cupo gratuito de Gemini agotado por ahora. El resto queda en cola.")
+            break
+        except gemini.ErrorConfiguracion as e:
+            print(f"Error de configuración de Gemini (no se gastan intentos): {e}")
+            aviso = str(e)[:200]
+            if estado.get("aviso_config") != aviso:
+                comun.enviar_telegram("⚠️ <b>Gemini rechaza la configuración</b> (clave o modelo). "
+                                      "No se ha gastado ningún intento de los vídeos.\n\n"
+                                      f"<code>{esc(str(e)[:600])}</code>")
+                estado["aviso_config"] = aviso
             break
         except Exception as e:  # noqa: BLE001
             item["intentos"] = item.get("intentos", 0) + 1
