@@ -1,0 +1,97 @@
+{
+  "video_id": "fmvKI28BFXw",
+  "url": "https://www.youtube.com/watch?v=fmvKI28BFXw",
+  "titulo": "CoreWeave, Neocloud Leverage a Concern for Gil Luria",
+  "canal": "Bloomberg Television",
+  "handle": "@markets",
+  "idioma_canal": "en",
+  "region": "EE. UU.",
+  "tipo_canal": "medio",
+  "fecha_publicacion": "2026-10-15T18:48:40+00:00",
+  "fecha_resumen": "2026-10-15T19:01:17.353639+00:00",
+  "modelo": "gemini-3.8-flash",
+  "resumen": {
+    "resumen_breve": "Gil Luria, director de investigación tecnológica en D.A. Davidson, advierte que las acciones de CoreWeave podrían llegar a valer cero si el auge de la inteligencia artificial flaquea debido a su elevado apalancamiento financiero. Explica que endeudarse al 9% para obtener retornos de solo el 5% en centros de datos commoditizados destruye valor para el accionista. No obstante, considera positivo que los mercados de capitales comiencen a restringir el crédito riesgoso, ya que esto actuará como freno regulador frente a la formación acelerada de una burbuja y permitirá un crecimiento más sostenible hasta 2030.",
+    "ideas_clave": [
+      "Gil Luria sostiene que CoreWeave y otros proveedores 'neocloud' podrían quebrar si el auge de la IA tropieza, dejando a los inversores sin nada debido al alto apalancamiento.",
+      "El problema de fondo radica en financiar la construcción completa de centros de datos mediante deuda a tipos de interés muy elevados (en torno al 9%).",
+      "Si una empresa pide prestado al 9% pero solo obtiene un retorno del 5% sobre sus inversiones, destruye valor sin importar cuánto escale el negocio.",
+      "Los centros de datos fuera de los grandes 'hyperscalers' corren un riesgo creciente de convertirse en un servicio genérico (commoditizado).",
+      "CoreWeave está buscando capital de aseguradoras y calificaciones crediticias más favorables porque la capacidad de endeudarse al 9% se está agotando.",
+      "Luria señala que los mercados de capitales limitarán el crédito de alto riesgo, lo cual evitará que la burbuja se infle desmedidamente y garantizará un crecimiento sostenible del ecosistema hasta 2030."
+    ],
+    "tesis_principal": "El elevado endeudamiento de los 'neoclouds' como CoreWeave para financiar centros de datos destruye valor y arriesga su viabilidad, aunque la restricción de crédito por parte del mercado servirá para moderar el ciclo y evitar una burbuja descontrolada en la IA.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Liquidez y crédito",
+      "Valoración de mercado y burbujas",
+      "Bolsa EE. UU."
+    ],
+    "activos_mencionados": [
+      "CoreWeave (CRWV)",
+      "ASML Holding NV"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.05,
+        "justificacion": "Luria sigue siendo optimista con el ciclo general de adopción de la IA, pero alerta del mal comportamiento financiero de ciertos proveedores de nube."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El capital de riesgo para financiar centros de datos a tipos del 9% es finito y se está agotando."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Advierte de un alto riesgo de destrucción de valor patrimonial y quiebra en empresas altamente apalancadas del sector si la demanda flaquea."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las acciones de CoreWeave podrían llegar a valer cero si el auge de la inteligencia artificial flaquea.",
+        "activo_o_variable": "CoreWeave Inc (CRWV)",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El capital disponible a tipos del 9% o superiores para financiar centros de datos dejará de estar disponible en algún momento.",
+        "activo_o_variable": "Liquidez y crédito de riesgo para centros de datos",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La disciplina impuesta por los mercados de capitales permitirá mantener tasas de crecimiento sostenibles en el ecosistema de IA hasta 2030.",
+        "activo_o_variable": "Crecimiento del ecosistema de IA",
+        "direccion": "sube",
+        "horizonte": "hasta 2030",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "CoreWeave se financia a tipos de interés del entorno del 9%.",
+      "El retorno estimado que obtienen sobre esa inversión ronda solo el 5%, generando un diferencial negativo que destruye valor.",
+      "La compañía busca capital procedente de aseguradoras para abaratar sus costes de financiación y obtener mejores ratings crediticios.",
+      "El endeudamiento para construir infraestructuras de centros de datos introduce un riesgo sistémico adicional si dichos centros se vuelven genéricos frente a los hiper escaladores."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida total del capital de los accionistas en CoreWeave si el crecimiento de la IA se desacelera.",
+      "Sobreapalancamiento y dependencia crítica de deuda cara para sostener la inversión en capital (Capex).",
+      "Comoditización de los centros de datos fuera de los grandes gigantes tecnológicos (hyperscalers).",
+      "Agotamiento de la liquidez en los mercados de deuda de alto riesgo."
+    ],
+    "participantes": [
+      "Gil Luria (Jefe de Investigación Tecnológica en D.A. Davidson)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

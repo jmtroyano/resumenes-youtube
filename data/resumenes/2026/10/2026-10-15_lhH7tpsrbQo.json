@@ -1,0 +1,111 @@
+{
+  "video_id": "lhH7tpsrbQo",
+  "url": "https://www.youtube.com/watch?v=lhH7tpsrbQo",
+  "titulo": "Market Midday: Stocks Mixed, Wholesale Inflation Up, Retail Sales Lifted by Gas • 10/15/26",
+  "canal": "CNBC Television",
+  "handle": "@CNBCtelevision",
+  "idioma_canal": "en",
+  "region": "EE. UU.",
+  "tipo_canal": "medio",
+  "fecha_publicacion": "2026-10-15T18:24:02+00:00",
+  "fecha_resumen": "2026-10-15T19:03:22.286946+00:00",
+  "modelo": "gemini-3.8-flash",
+  "resumen": {
+    "resumen_breve": "La sesión bursátil muestra un comportamiento mixto con rotación de capital desde el sector tecnológico hacia valores industriales del Dow Jones. Los datos macroeconómicos complican el panorama con un fuerte repunte del índice de precios al productor (IPP) del 1,3% mensual frente al 0,5% previsto, impulsado por costes energéticos como el diésel y la gasolina. Los analistas y miembros de la Reserva Federal debaten si este repunte inflacionario y el gasto nominal del consumidor forzarán nuevas subidas de tipos de interés.",
+    "ideas_clave": [
+      "El Dow Jones sube 541 puntos (+1%), impulsado notablemente por Nike (+6,5%), mientras el S&P 500 avanza 21 puntos y el Nasdaq cede 24 puntos.",
+      "El sector de semiconductores muestra signo dispar, con Qualcomm subiendo un 2,5% y Micron en positivo, mientras persisten ventas en valores de IA por dudas sobre el excesivo endeudamiento y gasto de capital.",
+      "La inflación mayorista (IPP) repunta un 1,3% intermensual en septiembre, superando con creces la previsión de consenso del 0,5% y marcando su mayor aumento en cuatro años.",
+      "Joe LaVorgna (SMBC) afirma que la economía vive un auge inflacionario agravado por la crisis en Oriente Medio, lo que obligará a la Fed a subir más los tipos de interés, aunque no prevé una subida en octubre.",
+      "Patrick Harker considera que la Fed subirá tipos en su reunión de final de mes para mandar una señal contundente contra el repunte inflacionario impulsado por el transporte y el diésel.",
+      "Gregory Daco (EY-Parthenon) advierte de que el fuerte dato de ventas minoristas responde al aumento de los precios de la gasolina y no a un mayor volumen de consumo real, erosionando el poder adquisitivo.",
+      "Apple y Meta colaboran para ejecutar localmente el modelo de IA 'Muse' en ordenadores Mac, al tiempo que surge rechazo político y social a los centros de datos en Ohio de cara a las elecciones."
+    ],
+    "tesis_principal": "La persistencia de presiones inflacionarias mayoristas y los altos costes energéticos amenazan la estabilidad del consumo real y aumentan la probabilidad de que la Reserva Federal deba mantener una política monetaria más restrictiva con subidas adicionales de tipos de interés.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Inflación",
+      "Fed y tipos de interés EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "Dow Jones Industrial Average",
+      "S&P 500",
+      "Nasdaq",
+      "Nike",
+      "Qualcomm",
+      "Micron",
+      "Apple",
+      "Meta"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inflación",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El IPP intermensual se disparó un 1,3% frente al 0,5% esperado, registrando su mayor repunte en cuatro años impulsado por combustibles."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Se anticipa la necesidad de más alzas de tipos para frenar la persistente inflación y el impacto en precios mayoristas."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "El mercado muestra rotación con el Dow Jones subiendo con fuerza (+541 puntos) mientras las tecnológicas muestran cautela y caídas."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se combinan avances como la alianza Apple-Meta con ventas por preocupaciones sobre el excesivo gasto y la deuda en proyectos de IA."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal aplicará más subidas de tipos de interés debido a la persistencia inflacionaria, aunque no lo hará en la reunión de octubre.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La Reserva Federal subirá los tipos de interés en la reunión a finales de mes para señalar su seriedad frente a la inflación.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "final de mes",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Dow Jones avanza 541 puntos (+1%) liderado por Nike con un alza cercana al 6,5%.",
+      "El S&P 500 sube 21 puntos mientras el Nasdaq retrocede 24 puntos.",
+      "El IPP de demanda final de septiembre creció un 1,3% mes a mes frente a una previsión de consenso de 0,5%.",
+      "Las ventas minoristas duplicaron las previsiones, pero el incremento se explica casi en su totalidad por el mayor precio de la gasolina y no por un aumento del volumen consumido."
+    ],
+    "riesgos_mencionados": [
+      "Erosión de la renta disponible del consumidor debido a la inflación energética persistente.",
+      "Prolongación del conflicto en Oriente Medio presionando al alza los precios energéticos y de materias primas.",
+      "Sobreendeudamiento y gasto de capital excesivo en el sector de inteligencia artificial.",
+      "Oposición política y comunitaria creciente al desarrollo de centros de datos de IA por su consumo de recursos."
+    ],
+    "participantes": [
+      "Jessica Ettinger",
+      "Steve Liesman",
+      "Sarah Eisen",
+      "Joe LaVorgna",
+      "Gregory Daco",
+      "Patrick Harker",
+      "Pippa Stevens"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
