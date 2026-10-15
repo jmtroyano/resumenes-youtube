@@ -1,0 +1,123 @@
+{
+  "video_id": "0mZ0WjuuZfo",
+  "url": "https://www.youtube.com/watch?v=0mZ0WjuuZfo",
+  "titulo": "Market Close: Stocks Rise, Investors Look Past Tech Selloff and High Inflation • 10/15/26",
+  "canal": "CNBC Television",
+  "handle": "@CNBCtelevision",
+  "idioma_canal": "en",
+  "region": "EE. UU.",
+  "tipo_canal": "medio",
+  "fecha_publicacion": "2026-10-15T20:26:38+00:00",
+  "fecha_resumen": "2026-10-15T21:29:18.072181+00:00",
+  "modelo": "gemini-3.8-flash",
+  "resumen": {
+    "resumen_breve": "Wall Street cerró con sólidas ganancias a pesar de lecturas de inflación más elevadas de lo esperado y una corrección en el sector tecnológico. El Dow Jones subió más de 556 puntos impulsado por Nike y máximos históricos en petroleras, consumo y salud, mientras los rendimientos de los bonos retrocedieron. Paralelamente, los datos de PPI mayorista mostraron una subida mensual del 1,3%, generando debate sobre los próximos movimientos de tipos por parte de la Reserva Federal.",
+    "ideas_clave": [
+      "El Dow Jones se disparó 556 puntos (más del 1%), con Nike subiendo más del 5%, mientras el S&P 500 sumó 25 puntos y el Nasdaq 20 puntos.",
+      "El retroceso de los rendimientos de la deuda soberana (Treasury yields) impulsó la rotación hacia sectores rezagados como consumo y vivienda, según Mike Santoli.",
+      "Compañías de energía (Exxon, Chevron, ConocoPhillips), consumo/pagos (Coca-Cola, Mastercard, Visa) y farmacéuticas (Gilead, McKesson, AbbVie) alcanzaron nuevos máximos históricos.",
+      "El índice de precios al productor (PPI) de septiembre subió un 1,3% mensual frente al 0,5% estimado por el consenso, registrando su mayor incremento en cuatro años.",
+      "Las ventas minoristas duplicaron las previsiones, pero Gregory Daco (EY-Parthenon) señala que se debe a precios más altos de gasolina y no a mayor volumen de compra.",
+      "Disparidad de opiniones sobre la Fed: Joe LaVorgna no prevé subidas en la reunión de octubre pero sí más adelante por inflación pegajosa, mientras Patrick Harker cree que la Fed sí subirá tipos a fin de mes para enviar una señal de firmeza.",
+      "Apple y Meta colaboran para ejecutar localmente el modelo de inteligencia artificial 'Muse' de Meta en ordenadores Mac."
+    ],
+    "tesis_principal": "Los mercados de renta variable estadounidenses muestran capacidad de recuperación y rotación sectorial apoyados por la caída de los rendimientos de los bonos, ignorando temporalmente la persistente presión inflacionaria y la incertidumbre de la política monetaria.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Inflación",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Tecnología e inteligencia artificial",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "Dow Jones",
+      "S&P 500",
+      "Nasdaq",
+      "Nike",
+      "ExxonMobil",
+      "Chevron",
+      "ConocoPhillips",
+      "Coca-Cola",
+      "Mastercard",
+      "Visa",
+      "Gilead Sciences",
+      "McKesson",
+      "AbbVie",
+      "Apple",
+      "Meta"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Las bolsas subieron con fuerza y varios sectores registraron nuevos máximos históricos."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El dato de PPI mayorista de 1,3% mensual superó con creces lo esperado y el gasto minorista refleja encarecimiento de precios de gasolina."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "Persiste el desacuerdo entre analistas sobre si habrá subidas de tipos en la próxima reunión ante la inflación persistente."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Los rendimientos de los bonos retrocedieron, aliviando las condiciones financieras."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Colaboración relevante entre Meta y Apple para integrar el modelo Muse AI en ordenadores Mac."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal no subirá los tipos de interés en octubre, pero vendrán más alzas más adelante debido a una inflación persistente.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La Reserva Federal subirá los tipos de interés a finales de mes para mandar una señal de compromiso ante el repunte inflacionario.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Dow Jones avanzó 556 puntos (+1%), S&P 500 sumó 25 puntos y Nasdaq avanzó 20 puntos.",
+      "Las acciones de Nike subieron más del 5%.",
+      "El PPI de demanda final aumentó un 1,3% intermensual en septiembre frente al 0,5% estimado por el consenso.",
+      "Las ventas minoristas duplicaron el pronóstico anterior, impulsadas fundamentalmente por el precio del combustible y no por un aumento en volumen."
+    ],
+    "riesgos_mencionados": [
+      "Inflación persistente (sticky inflation) alimentada por costes energéticos y el conflicto en Oriente Medio.",
+      "Erosión del poder adquisitivo y de los ingresos reales de los consumidores por el aumento del coste de la vida.",
+      "Nuevas subidas de tipos de interés por parte de la Reserva Federal."
+    ],
+    "participantes": [
+      "Jessica Ettinger",
+      "Mike Santoli",
+      "Steve Liesman",
+      "Joe LaVorgna",
+      "Sarah Eisen",
+      "Gregory Daco",
+      "Patrick Harker"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

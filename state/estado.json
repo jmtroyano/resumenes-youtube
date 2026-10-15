@@ -396,7 +396,14 @@
   "6B2xqnox3bA": "2026-10-15T18:41:46.931512+00:00",
   "LlhTEttKcwQ": "2026-10-15T18:41:46.931512+00:00",
   "fmvKI28BFXw": "2026-10-15T19:01:19.705560+00:00",
-  "lhH7tpsrbQo": "2026-10-15T19:03:23.876790+00:00"
+  "lhH7tpsrbQo": "2026-10-15T19:03:23.876790+00:00",
+  "31mgQDBQ_5U": "2026-10-15T21:28:23.112451+00:00",
+  "sMgd3HrgJKE": "2026-10-15T21:28:23.112451+00:00",
+  "EC7WDYKRKyQ": "2026-10-15T21:28:23.112451+00:00",
+  "7cqzy-68UZw": "2026-10-15T21:28:52.908135+00:00",
+  "0mZ0WjuuZfo": "2026-10-15T21:29:19.499418+00:00",
+  "SHfNkv6n0hE": "2026-10-15T21:29:57.510624+00:00",
+  "vopSWR--yCs": "2026-10-15T21:30:26.022101+00:00"
  },
  "cola": [
   {
@@ -407,16 +414,6 @@
    "canal": "Los Locos de Wall Street",
    "clave_canal": "@locosdewallstreet",
    "intentos": 0,
-   "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
-  },
-  {
-   "video_id": "vopSWR--yCs",
-   "titulo": "Por qué Estados Unidos Puede ENDEUDARSE y España NO Puede Hacer lo Mismo",
-   "url": "https://www.youtube.com/watch?v=vopSWR--yCs",
-   "publicado": "2026-10-15T18:00:12+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "@InversionRacional",
-   "intentos": 1,
    "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
   },
   {
@@ -768,6 +765,26 @@
    "clave_canal": "@markets",
    "intentos": 0,
    "en_cola_desde": "2026-10-15T18:59:52.934501+00:00"
+  },
+  {
+   "video_id": "Qd4hJb9T_vA",
+   "titulo": "International Paper Jumps on Potential Multibillion-Dollar Bids | Closing Bell",
+   "url": "https://www.youtube.com/watch?v=Qd4hJb9T_vA",
+   "publicado": "2026-10-15T20:47:41+00:00",
+   "canal": "Bloomberg Television",
+   "clave_canal": "@markets",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-15T21:28:23.112451+00:00"
+  },
+  {
+   "video_id": "s-h4NpYmVBU",
+   "titulo": "The AI trade in focus: Altimeter's Brad Gerstner joins 'Halftime Report' live in San Francisco",
+   "url": "https://www.youtube.com/watch?v=s-h4NpYmVBU",
+   "publicado": "2026-10-15T18:55:27+00:00",
+   "canal": "CNBC Television",
+   "clave_canal": "@CNBCtelevision",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-15T21:28:23.112451+00:00"
   }
  ],
  "fallidos": {},

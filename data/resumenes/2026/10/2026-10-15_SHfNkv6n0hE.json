@@ -1,0 +1,69 @@
+{
+  "video_id": "SHfNkv6n0hE",
+  "url": "https://www.youtube.com/watch?v=SHfNkv6n0hE",
+  "titulo": "¿Qué es DOWNTRADING?: así es el fenómeno que está revolucionando el consumo",
+  "canal": "elEconomista (Estrategias de mercado / Ecotrader)",
+  "handle": "@eleconomistaes",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-15T19:30:33+00:00",
+  "fecha_resumen": "2026-10-15T21:29:56.057486+00:00",
+  "modelo": "gemini-3.8-flash",
+  "resumen": {
+    "resumen_breve": "El fenómeno del 'downtrading' está transformando los hábitos de compra en los supermercados españoles debido al encarecimiento de la cesta de la compra. Consiste en sustituir marcas reconocidas por marcas blancas, aprovechar ofertas y elegir cadenas más económicas sin necesariamente reducir el volumen de productos adquiridos. Dado que la moderación de la inflación no revierte los precios a niveles previos, esta pauta de consumo tiende a consolidarse permanentemente beneficiando a las cadenas con fuerte marca propia.",
+    "ideas_clave": [
+      "El 'downtrading' consiste en mantener el volumen de compra gastando menos mediante marcas blancas, ofertas y formatos económicos.",
+      "Aunque la tasa de inflación se modere, los niveles de precios de los alimentos no retroceden a los registros previos a la crisis.",
+      "En septiembre, el precio de los alimentos registró un incremento interanual del 2,7% en España, con productos específicos subiendo a tasas muy superiores.",
+      "Mercadona, Lidl y Aldi son las cadenas más beneficiadas por su fuerte posicionamiento en precios y marcas de distribución.",
+      "Otras cadenas como Carrefour, Alcampo y Dia buscan captar a un cliente cada vez más sensible al coste final del ticket de compra."
+    ],
+    "tesis_principal": "La persistencia de precios elevados en los alimentos ha consolidado de forma estructural el 'downtrading' y el auge de la marca blanca en el consumo familiar.",
+    "temas": [
+      "Inflación",
+      "Finanzas personales"
+    ],
+    "activos_mencionados": [
+      "Carrefour",
+      "Dia"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.2,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Los precios de la alimentación continúan tensionados y no retroceden pese a la moderación del índice interanual."
+      },
+      {
+        "tema": "Finanzas personales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "El bolsillo de los consumidores sigue bajo presión obligándoles a modificar sus pautas tradicionales de compra."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los hábitos de ahorro y compra de marca blanca se consolidarán entre los consumidores.",
+        "activo_o_variable": "Consumo de marcas blancas / Downtrading",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En septiembre, los alimentos en España se encarecieron un 2,7% en tasa interanual.",
+      "La moderación de la inflación frena el ritmo de subida pero no devuelve los precios a los niveles anteriores.",
+      "Ahorrar en el supermercado actual no implica reducir volumen de compra, sino elegir alternativas de menor coste unitario."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida continuada de cuota de mercado para las marcas de fabricante frente a las marcas blancas.",
+      "Erosión prolongada del poder adquisitivo de los hogares ante el encarecimiento acumulado de la cesta básica."
+    ],
+    "participantes": [],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

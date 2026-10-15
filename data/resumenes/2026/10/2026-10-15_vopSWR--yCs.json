@@ -1,0 +1,79 @@
+{
+  "video_id": "vopSWR--yCs",
+  "url": "https://www.youtube.com/watch?v=vopSWR--yCs",
+  "titulo": "Por qué Estados Unidos Puede ENDEUDARSE y España NO Puede Hacer lo Mismo",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-15T18:00:12+00:00",
+  "fecha_resumen": "2026-10-15T21:30:24.491372+00:00",
+  "modelo": "gemini-3.8-flash",
+  "resumen": {
+    "resumen_breve": "El vídeo explica la diferencia fundamental entre un gobierno emisor de moneda y uno que actúa como usuario de moneda. Mientras que países como España o los hogares dependen de ingresos externos y están atados a la disciplina de los mercados financieros y la austeridad, Estados Unidos emite deuda exclusivamente en su propia divisa. Además, el estatus del dólar como moneda de reserva global otorga a EE. UU. una demanda estructural insaciable y una flexibilidad total para gestionar los tramos de emisión de su deuda.",
+    "ideas_clave": [
+      "La cifra nominal de la deuda estadounidense (cercana a los 40 billones o trillions) carece de sentido aislada; lo relevante es su crecimiento porcentual relativo y el marco monetario del país.",
+      "Existen gobiernos 'usuarios de moneda' (como España, Francia, Alemania o Argentina) y 'emisores de moneda' (como EE. UU., Japón, Reino Unido o Australia).",
+      "Los países de la eurozona no controlan la emisión del euro, por lo que su gestión fiscal se parece más a la de un hogar: si gastan más de lo que ingresan, dependen de la deuda y están a merced de los 'vigilantes de bonos'.",
+      "Si el mercado exige mayores tipos de interés a un país usuario de moneda, este se ve forzado a aplicar medidas de austeridad o a elevar ingresos fiscales.",
+      "EE. UU. se endeuda únicamente en dólares, monopoliza su divisa y tiene la moneda de reserva global, lo que garantiza una elevada demanda estructural en todos los tramos de la curva de rendimientos.",
+      "El Tesoro estadounidense puede decidir en qué tramo de la curva emite (corto o largo plazo) si los inversores exigen un rendimiento excesivo, manteniendo siempre el control de sus pasivos."
+    ],
+    "tesis_principal": "Estados Unidos no afronta el mismo riesgo de insolvencia ni las limitaciones de deuda que países como España porque es un emisor monopolístico de su propia divisa de reserva mundial, mientras que los miembros de la eurozona operan como simples usuarios de una moneda que no controlan.",
+    "temas": [
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Dólar y divisas",
+      "Política fiscal e impuestos"
+    ],
+    "activos_mencionados": [
+      "Dólar estadounidense",
+      "Euro",
+      "Bonos del Tesoro de EE. UU.",
+      "Yen japonés",
+      "Peso argentino",
+      "Colón costarricense"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se analiza técnicamente la mecánica contable y monetaria de la deuda sin calificarla de inminente colapso ni de beneficio indiscutible."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se describe el papel de los vigilantes de bonos y cómo exigen mayor rentabilidad ante excesos de emisión en países usuarios de divisa."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Se resalta la fortaleza estructural del dólar como divisa de reserva internacional frente al euro u otras monedas locales."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "La deuda nacional de EE. UU. ronda los 40 billones de dólares (trillion anglosajón).",
+      "EE. UU. emite títulos de deuda con vencimientos desde una semana hasta más de 30 años.",
+      "Si un país emisor como EE. UU. considera abusivo un rendimiento exigido (por ejemplo, del 7% a 10 años), puede optar por no emitir a largo plazo y financiarse en la parte corta de la curva.",
+      "Los países sin control monetario propio que se endeudan en moneda ajena (como Argentina en dólares o España en euros) están forzados a la austeridad si el coste de financiación sube bruscamente (por ejemplo, de un 4% a un 10%)."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida de acceso a tipos razonables en el mercado para países usuarios de moneda si los inversores consideran insostenible su deuda.",
+      "Riesgo de sobreapalancamiento y obligación de aplicar políticas de austeridad severas en economías que no controlan su moneda.",
+      "Imposición de condiciones y tipos de interés más altos por parte de los vigilantes de bonos del mercado."
+    ],
+    "participantes": [
+      "Daniel Baeza",
+      "Luis Miguel"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
