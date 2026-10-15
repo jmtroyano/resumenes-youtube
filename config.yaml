@@ -46,7 +46,7 @@ canales:
 
   # ---------- Habla hispana: tertulias y actualidad de mercados ----------
   - nombre: Los Locos de Wall Street
-    handle: "@loslocosdewallstreet"
+    handle: "@locosdewallstreet"
     idioma: es
     region: España
     tipo: tertulia
@@ -76,15 +76,15 @@ canales:
     region: España
     tipo: actualidad diaria
 
-  - nombre: Estrategias de mercado (Ecotrader)
-    handle: "@ecotrader"
+  - nombre: elEconomista (Estrategias de mercado / Ecotrader)
+    handle: "@eleconomistaes"
     idioma: es
     region: España
     tipo: análisis técnico
-    max_por_revision: 3
+    max_por_revision: 2
 
   - nombre: Brújula de Mercados
-    handle: "@BrujulaDeMercados"
+    handle: "@BrujuladeMercadosyBolsa"
     idioma: es
     region: España
     tipo: macro y geopolítica
@@ -94,6 +94,7 @@ canales:
     idioma: es
     region: España
     tipo: tertulia
+    activo: false   # no tiene canal de YouTube propio
 
   - nombre: Finect
     handle: "@Finect"
@@ -110,13 +111,13 @@ canales:
     tipo: macro y mercados
 
   - nombre: Daniel Lacalle
-    handle: "@DanielLacalle"
+    handle: "@DanielLacalleOfficial"
     idioma: es
     region: España
     tipo: macro y mercados
 
   - nombre: Juan Ramón Rallo
-    handle: "@juanramonrallo"
+    handle: "@juanrallo"
     idioma: es
     region: España
     tipo: economía
@@ -134,7 +135,7 @@ canales:
     tipo: divulgación
 
   - nombre: El Arte de Invertir (Alejandro Estebaranz)
-    handle: "@ElArtedeInvertir"
+    handle: "@Artedeinvertir"
     idioma: es
     region: España
     tipo: value investing
@@ -174,7 +175,7 @@ canales:
     max_por_revision: 3
 
   - nombre: Prof G Markets
-    handle: "@TheProfGShow"
+    handle: "@ProfGMarkets"
     idioma: en
     region: EE. UU.
     tipo: tertulia
