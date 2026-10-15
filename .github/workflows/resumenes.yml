@@ -1,0 +1,70 @@
+name: Resúmenes de YouTube
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # cada 3 horas
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "Qué hacer"
+        type: choice
+        default: normal
+        options: [normal, comprobar_canales, prueba]
+      url:
+        description: "URL del vídeo (solo para el modo prueba)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: resumenes-youtube
+  cancel-in-progress: false
+
+jobs:
+  resumir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar agente
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EMAIL_USUARIO: ${{ secrets.EMAIL_USUARIO }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+          MODO: ${{ github.event.inputs.modo || 'normal' }}
+          URL_PRUEBA: ${{ github.event.inputs.url }}
+        run: |
+          case "$MODO" in
+            comprobar_canales) python src/resumir.py --comprobar-canales ;;
+            prueba)            python src/resumir.py --prueba "$URL_PRUEBA" ;;
+            *)                 python src/resumir.py ;;
+          esac
+
+      - name: Guardar resúmenes en el repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data state
+          if git diff --staged --quiet; then
+            echo "Nada nuevo que guardar."
+            exit 0
+          fi
+          git commit -m "Resúmenes $(date -u +'%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull --rebase && git push && break
+            sleep 10
+          done
