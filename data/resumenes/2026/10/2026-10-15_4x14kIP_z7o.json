@@ -1,0 +1,144 @@
+{
+  "video_id": "4x14kIP_z7o",
+  "url": "https://www.youtube.com/watch?v=4x14kIP_z7o",
+  "titulo": "PPI confirma que inflación se complica - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-15T16:00:00+00:00",
+  "fecha_resumen": "2026-10-16T06:48:58.971347+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "transcript",
+  "resumen": {
+    "resumen_breve": "El índice de precios a la producción (PPI) en EE. UU. superó ampliamente las previsiones y confirmó que las presiones inflacionarias se complican de cara a las lecturas del PCE. Pese a este dato adverso, la renta fija experimentó compras actuando como activo refugio ante las tensiones crediticias en la deuda ligada a la inteligencia artificial y centros de datos. La consiguiente caída de rentabilidades impulsó al Russell 2000 y al S&P 500 de igual ponderación, mientras que el sector tecnológico y de semiconductores continúa estancado.",
+    "ideas_clave": [
+      "El PPI mensual subió un 1,3% frente al 0,6% esperado, situando la tasa interanual en el 6,3% (frente al 5,5% previsto), impulsado por la energía y el transporte aéreo de pasajeros (+5% mensual).",
+      "Los bonos soberanos subieron con fuerza paradójicamente, actuando como refugio ante el deterioro en la deuda de IA: el bono a 30 años de CoreWeave rinde al 16,2% y su CDS cotiza sobre 1000 (probabilidad acumulada de impago a 5 años del 55%).",
+      "La caída de rentabilidades de la deuda alivió a las pequeñas compañías del Russell 2000 (+0,93%) y al índice de igual ponderación RSP (+1,24%), que dependen de menores costes de financiación.",
+      "El Nasdaq y los semiconductores acumulan cuatro meses de estancamiento, con TSMC cayendo un 1,3% tras resultados por márgenes y mostrando dinámicas comparables a fases de digestión de techo similares a las del año 2000.",
+      "Las ventas minoristas subieron un 0,8% (frente al 0,3% esperado), pero al excluir automóviles y gasolina el incremento real fue de solo el 0,2%.",
+      "El petróleo WTI subió un 2,52% por ataques a buques y ataques ucranianos a refinerías rusas, añadiendo más presión inflacionista.",
+      "En el S&P 500, el nivel de 7.700 puntos es el soporte clave donde los fondos cuantitativos (CTA) podrían activar ventas automáticas si es perforado."
+    ],
+    "tesis_principal": "La inflación estadounidense está repuntando de forma preocupante, pero los bonos se relajan temporalmente ejerciendo de refugio ante el creciente estrés crediticio en la financiación de centros de datos e inteligencia artificial, impulsando a las 'small caps' pero manteniendo al mercado en un proceso potencialmente vulnerable y de digestión de techo.",
+    "temas": [
+      "Inflación",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Small caps",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "Russell 2000",
+      "S&P 500",
+      "Nasdaq",
+      "CoreWeave Bono 30 años",
+      "SoftBank CDS",
+      "Oracle CDS",
+      "TSMC",
+      "ETF MAGS",
+      "ETF RSP",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "USD/JPY",
+      "EUR/USD",
+      "Bitcoin",
+      "Petróleo WTI",
+      "Petróleo Brent",
+      "Oro",
+      "VIX",
+      "Microsoft",
+      "Alphabet",
+      "Amazon"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inflación",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El dato de PPI mensual se duplicó respecto a lo previsto y la partida de transportes forzará revisiones al alza en el PCE."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Advierte de que si la Fed no actúa antes de elecciones, podría verse forzada a subir 50 puntos básicos en diciembre por la persistencia inflacionaria."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Suben temporalmente por demanda de refugio y cierre de cortos, pero la inflación de fondo amenaza la durabilidad del rebote."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los mercados de crédito están penalizando severamente la financiación apalancada de IA y el Nasdaq lleva meses sin progresar."
+      },
+      {
+        "tema": "Small caps",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Se benefician directamente a corto plazo de la moderación en los rendimientos de la deuda soberana."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Las disrupciones geopolíticas y ataques a infraestructuras petroleras impulsan fuertemente los precios al alza."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el IPC y el PCE siguen saliendo rebeldes, la Reserva Federal podría verse forzada a subir tipos en 50 puntos básicos en diciembre tras la pausa electoral.",
+        "activo_o_variable": "Fed y tipos de interés EE. UU.",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Una ruptura por debajo de los 7.700 puntos en el futuro del S&P 500 activará ventas automáticas de los fondos CTA.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La zona entre 7.900 y 8.000 puntos en el S&P 500 será muy difícil de superar a la primera sin un catalizador concreto.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "PPI mensual sube 1,3% (esperado 0,6%); PPI interanual se sitúa en 6,3% (esperado 5,5%).",
+      "Precios pagados de la Fed de Filadelfia se dispararon de 31,3 a 40,1.",
+      "Bono a 30 años de CoreWeave cotiza al 16,2% de rentabilidad y su CDS supera los 1000 puntos básicos.",
+      "CDS de SoftBank en 424 y CDS de Oracle en casi 290 puntos básicos.",
+      "Peticiones semanales de subsidio por desempleo se situaron en torno a 199.000.",
+      "Ventas minoristas aumentaron 0,8% (frente a 0,3% esperado), pero solo un 0,2% sin coches ni gasolina.",
+      "WTI sube 2,52% y el Brent cotiza en 106,21 dólares."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de crédito y refinanciación en compañías centradas en infraestructuras y centros de datos de IA.",
+      "Presión inflacionaria sostenida que obligue a la Reserva Federal a endurecer más su política monetaria.",
+      "Riesgos geopolíticos que mantengan presionado al alza el precio del crudo y combustibles.",
+      "Ruptura técnica de soportes clave (7.700 en S&P 500) que dispare ventas sistemáticas por parte de CTAs."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -41,7 +41,9 @@
  "canales_vistos": [
   "UC-yJ1V3fN75A4dlR6dgRgEg",
   "UCCVIYA5kpLvEToE8Gj8Fszw",
-  "UCcyKcWVyR-SiQxQhfKSPzNw"
+  "UCcyKcWVyR-SiQxQhfKSPzNw",
+  "UCmJL2llHf2tEcDAjaz-LFgQ",
+  "UCvCCLJkQpRg0NdT3zNcI08A"
  ],
  "avisos_canal": [],
  "procesados": {
@@ -406,7 +408,36 @@
   "2d1WpPhg9Kw": "2026-10-16T06:38:44.169620+00:00",
   "Qd4hJb9T_vA": "2026-10-16T06:38:44.169620+00:00",
   "s-h4NpYmVBU": "2026-10-16T06:38:44.169620+00:00",
-  "MJPe_0BiQQ4": "2026-10-16T06:39:35.911184+00:00"
+  "MJPe_0BiQQ4": "2026-10-16T06:39:35.911184+00:00",
+  "5_9vpcEFxMc": "2026-10-16T06:48:09.887583+00:00",
+  "eTYXETqU6gc": "2026-10-16T06:48:09.887583+00:00",
+  "EqCS1lW5_hI": "2026-10-16T06:48:09.887583+00:00",
+  "YX0JXHoqhZs": "2026-10-16T06:48:09.887583+00:00",
+  "z1GIL3GfaiE": "2026-10-16T06:48:09.887583+00:00",
+  "_ZGVjCs2nug": "2026-10-16T06:48:09.887583+00:00",
+  "7zspeN4Le2E": "2026-10-16T06:48:09.887583+00:00",
+  "5nrThxH3wNQ": "2026-10-16T06:48:09.887583+00:00",
+  "njGIEYsFkp8": "2026-10-16T06:48:09.887583+00:00",
+  "gt7xznfU6Lw": "2026-10-16T06:48:09.887583+00:00",
+  "0WWDUy6zD_Q": "2026-10-16T06:48:09.887583+00:00",
+  "H_MBV9k99RE": "2026-10-16T06:48:09.887583+00:00",
+  "D9JSxCk7F4w": "2026-10-16T06:48:09.887583+00:00",
+  "RNpA9FIx8h4": "2026-10-16T06:48:09.887583+00:00",
+  "ZXuMduDsf7k": "2026-10-16T06:48:09.887583+00:00",
+  "vY69bkiUwl8": "2026-10-16T06:48:09.887583+00:00",
+  "9r2Bzc6MoWg": "2026-10-16T06:48:09.887583+00:00",
+  "bnMu8rNUAVU": "2026-10-16T06:48:09.887583+00:00",
+  "yZ5JgJ0S-fU": "2026-10-16T06:48:09.887583+00:00",
+  "2c1Lz0DS7V8": "2026-10-16T06:48:09.887583+00:00",
+  "TlLIT6YbWrI": "2026-10-16T06:48:09.887583+00:00",
+  "m2l2VD92vRg": "2026-10-16T06:48:09.887583+00:00",
+  "E0_pTbgUlks": "2026-10-16T06:48:09.887583+00:00",
+  "gLX-aO8YGPA": "2026-10-16T06:48:09.887583+00:00",
+  "SIT_ifVBoa8": "2026-10-16T06:48:09.887583+00:00",
+  "zQyoE-9_pOc": "2026-10-16T06:48:09.887583+00:00",
+  "a-A0cvB4_so": "2026-10-16T06:48:09.887583+00:00",
+  "zoUHJ6eB6IY": "2026-10-16T06:48:09.887583+00:00",
+  "4x14kIP_z7o": "2026-10-16T06:49:00.439772+00:00"
  },
  "cola": [
   {
@@ -416,8 +447,178 @@
    "publicado": "2026-10-15T17:25:52+00:00",
    "canal": "Los Locos de Wall Street",
    "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
+  },
+  {
+   "video_id": "TANOGhUP7I8",
+   "titulo": "La Deuda Oculta de los Hyperscalers Empieza a Salir a la Luz",
+   "url": "https://www.youtube.com/watch?v=TANOGhUP7I8",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "Ej40W58ch4o",
+   "titulo": "Nunca Habíamos Visto Subir los Bonos Así en Seis Países a la Vez",
+   "url": "https://www.youtube.com/watch?v=Ej40W58ch4o",
+   "publicado": "2026-09-25T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "gxokWwq09yg",
+   "titulo": "El Plan de Bessent para los Bonos que no Está Funcionando",
+   "url": "https://www.youtube.com/watch?v=gxokWwq09yg",
+   "publicado": "2026-09-16T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "mGCMTDHIm88",
+   "titulo": "Así Asesora un Fondo de Inversión con Solo 19 Años",
+   "url": "https://www.youtube.com/watch?v=mGCMTDHIm88",
+   "publicado": "2026-09-16T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "U1_VCdxDZek",
+   "titulo": "Lululemon se Desploma y Michael Burry ya no lo ve tan Claro",
+   "url": "https://www.youtube.com/watch?v=U1_VCdxDZek",
+   "publicado": "2026-09-16T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "Z-R5pjKhnuE",
+   "titulo": "Por Qué Kevin Warsh Hundió al Oro y al Bitcoin en un Día",
+   "url": "https://www.youtube.com/watch?v=Z-R5pjKhnuE",
+   "publicado": "2026-09-16T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "fGRdFxKuiR4",
+   "titulo": "Así Logró la Libertad Financiera Multiplicando su Cartera un 1500%",
+   "url": "https://www.youtube.com/watch?v=fGRdFxKuiR4",
+   "publicado": "2026-09-16T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "BnvPjWHKUcI",
+   "titulo": "Si no Tienes Oro ni Bitcoin, Escucha lo que Dice Ray Dalio",
+   "url": "https://www.youtube.com/watch?v=BnvPjWHKUcI",
+   "publicado": "2026-09-16T00:00:00+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "fscHiKVE69E",
+   "titulo": "El Gran Problema del URANIO que el Mercado Todavía NO Ha Resuelto",
+   "url": "https://www.youtube.com/watch?v=fscHiKVE69E",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "18_ComjRSak",
+   "titulo": "ORO a Largo Plazo: La Oportunidad que Albert Mendoza Está Buscando",
+   "url": "https://www.youtube.com/watch?v=18_ComjRSak",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "R07ZqV4pQrE",
+   "titulo": "La Empresa Petrolera que Desafió al Mercado… y Acabó Teniendo Razón",
+   "url": "https://www.youtube.com/watch?v=R07ZqV4pQrE",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "klmoGpYlwqA",
+   "titulo": "Cómo Encontrar OPORTUNIDADES en Sectores Completamente Hundidos",
+   "url": "https://www.youtube.com/watch?v=klmoGpYlwqA",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "YghDYhJsv-Y",
+   "titulo": "Cómo Detectar OPORTUNIDADES en Petróleo, Minería, Oro, Cobre y Uranio - Albert Mendoza",
+   "url": "https://www.youtube.com/watch?v=YghDYhJsv-Y",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "N_VlpIyl91Q",
+   "titulo": "Por Qué un Ingeniero Informático DESCONFÍA de Bitcoin",
+   "url": "https://www.youtube.com/watch?v=N_VlpIyl91Q",
+   "publicado": "2026-10-02T00:00:00+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "aW9a3O2XNho",
+   "titulo": "Se ACABÓ, Me Voy a Suiza | José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=aW9a3O2XNho",
+   "publicado": "2026-10-15T11:00:00+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "-HJZqeub__U",
+   "titulo": "💥El FMI advierte: “Hay que PREPARARSE para lo IMPENSABLE en la GUERRA con IRÁN”|👉COLAPSO GLOBAL",
+   "url": "https://www.youtube.com/watch?v=-HJZqeub__U",
+   "publicado": "2026-03-16T00:00:00+00:00",
+   "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+   "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "5MYgJSgpOfk",
+   "titulo": "💥Ray Dalio ADVIERTE: EL ORDEN MUNDIAL se ACABÓ, y tendrá GRAVES CONSECUENCIAS|👉Así se PROTEGE",
+   "url": "https://www.youtube.com/watch?v=5MYgJSgpOfk",
+   "publicado": "2026-03-16T00:00:00+00:00",
+   "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+   "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   }
  ],
  "fallidos": {},
