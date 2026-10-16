@@ -293,6 +293,13 @@ async function resumirSeleccion() {
   for (const x of r.resultados) if (x.ok && !x.ya_existia) cambios[x.video_id] = { tiene_resumen: true, sentimiento: x.sentimiento, puntuacion: x.puntuacion };
   actualizarMarcas(cambios);
   mostrarResultados("Resúmenes", r.resultados);
+  avisoTelegram(r.telegram);
+}
+
+function avisoTelegram(t) {
+  if (!t) return;
+  if (t.enviado) aviso("Enviado a Telegram ✓");
+  else aviso("No se envió a Telegram: " + t.motivo, true);
 }
 
 // ------------------------------------------------------------------ detalle
@@ -350,7 +357,8 @@ async function cargarListaAnalisis() {
 function pintarAnalisis(a) {
   const videos = a.videos.map((v) => `<li>${escHtml(v.canal)} — <a href="https://www.youtube.com/watch?v=${v.video_id}" target="_blank">${escHtml(v.titulo || v.video_id)}</a> <span class="ayuda">(${escHtml(v.fuente)})</span></li>`).join("");
   $("#resultado-analisis").innerHTML = `<div class="md"><h1>${escHtml(a.titulo)}</h1>
-    <p class="ayuda">${fecha(a.fecha)} · ${escHtml(a.autor || "")}</p>
+    <p class="ayuda">${fecha(a.fecha)} · ${escHtml(a.autor || "")}
+      <button class="btn-mini" id="btn-analisis-tg" data-id="${escHtml(a.id)}">📨 Enviar a Telegram</button></p>
     ${(a.avisos || []).length ? `<p class="ayuda" style="color:var(--rojo)">${a.avisos.map(escHtml).join("<br>")}</p>` : ""}
     <details><summary class="ayuda">${a.videos.length} vídeos analizados · petición</summary><ul>${videos}</ul><p class="ayuda">${escHtml(a.instruccion)}</p></details>
     ${markdown(a.markdown)}</div>`;
@@ -364,6 +372,7 @@ async function analizar() {
     api("POST", "/api/analizar", { video_ids: ids, titulo: $("#an-titulo").value, instruccion: $("#an-instruccion").value,
       modo: $("#an-modo").value, enviar_telegram: $("#an-telegram").checked }));
   pintarAnalisis(r.analisis); cargarListaAnalisis();
+  avisoTelegram(r.telegram);
 }
 
 // ------------------------------------------------------------------ ajustes
@@ -437,6 +446,24 @@ function eventos() {
     .then(() => aviso("Ajustes guardados")).catch((x) => aviso(x.message, true));
   $("#btn-bajar").onclick = () => trabajando("Trayendo novedades de GitHub…", () => api("POST", "/api/sync/bajar")).then(() => { aviso("Actualizado"); cargarEstado(); cargarCanales(); });
   $("#btn-subir").onclick = () => trabajando("Subiendo cambios a GitHub…", () => api("POST", "/api/sync/subir")).then(() => { aviso("Subido"); cargarEstado(); });
+  $("#resultado-analisis").addEventListener("click", (e) => {
+    const b = e.target.closest("#btn-analisis-tg"); if (!b) return;
+    trabajando("Enviando a Telegram…", () => api("POST", `/api/analisis/${encodeURIComponent(b.dataset.id)}/telegram`))
+      .then(() => aviso("Enviado a Telegram ✓")).catch(() => {});
+  });
+  $("#btn-detectar-chat").onclick = () => trabajando("Buscando tu chat en Telegram…", () => api("POST", "/api/ajustes/telegram/detectar"))
+    .then((r) => { aviso(`Chat ID guardado (${r.nombre || "tu chat"})`); cargarEstado(); }).catch(() => {});
+  $("#btn-probar-telegram").onclick = () => trabajando("Enviando mensaje de prueba…", () => api("POST", "/api/ajustes/telegram/probar"))
+    .then(() => aviso("Mensaje de prueba enviado ✓")).catch(() => {});
+  $("#btn-reiniciar").onclick = async () => {
+    try { await api("POST", "/api/reiniciar"); } catch { /* el servidor se cierra */ }
+    $("#cargando-texto").textContent = "Reiniciando la app…"; $("#cargando").hidden = false;
+    for (let i = 0; i < 30; i++) {
+      await new Promise((r) => setTimeout(r, 1000));
+      try { await api("GET", "/api/estado"); location.reload(); return; } catch { /* aún no */ }
+    }
+    $("#cargando").hidden = true; aviso("La app no ha vuelto a arrancar. Ábrela desde el acceso directo.", true);
+  };
   $("#cerrar-detalle").onclick = () => ($("#detalle").hidden = true);
   document.addEventListener("keydown", (e) => e.key === "Escape" && ($("#detalle").hidden = true));
 }

@@ -133,9 +133,12 @@
         <label>Token del bot de Telegram (opcional) <span class="estado-clave" data-clave="TELEGRAM_BOT_TOKEN"></span>
           <input type="password" id="k-TELEGRAM_BOT_TOKEN" autocomplete="off"></label>
         <label>Chat ID de Telegram (opcional) <span class="estado-clave" data-clave="TELEGRAM_CHAT_ID"></span>
-          <input id="k-TELEGRAM_CHAT_ID" autocomplete="off"></label>
-        <div class="fila"><button class="primario" id="btn-guardar-claves">Guardar claves</button>
-          <button id="btn-probar-ia">Probar Gemini</button></div>
+          <input id="k-TELEGRAM_CHAT_ID" autocomplete="off" placeholder="o usa «Detectar chat ID»"></label>
+        <p class="ayuda">Para detectar el Chat ID: escribe «hola» a tu bot en Telegram y pulsa <b>Detectar chat ID</b>.</p>
+        <div class="fila envolver"><button class="primario" id="btn-guardar-claves">Guardar claves</button>
+          <button id="btn-probar-ia">Probar Gemini</button>
+          <button id="btn-detectar-chat">Detectar chat ID</button>
+          <button id="btn-probar-telegram">Probar Telegram</button></div>
       </div>
       <div class="tarjeta">
         <h2>Ajustes generales (compartidos con GitHub)</h2>
@@ -146,7 +149,8 @@
       <div class="tarjeta">
         <h2>Sincronización con GitHub</h2>
         <div id="info-git" class="ayuda"></div>
-        <div class="fila"><button id="btn-bajar">Traer novedades</button><button id="btn-subir">Subir cambios</button></div>
+        <div class="fila envolver"><button id="btn-bajar">Traer novedades</button><button id="btn-subir">Subir cambios</button>
+          <button id="btn-reiniciar" title="Necesario tras actualizar la app">Reiniciar app</button></div>
       </div>
     </div>
   </section>

@@ -69,6 +69,64 @@ def _info_video_local(vid: str) -> dict:
     return info
 
 
+# ------------------------------------------------------------------ telegram
+def _enviar_telegram(texto_html: str) -> dict:
+    """Envía a Telegram y devuelve si se envió y, si no, el motivo (para avisar en la app)."""
+    if not entorno.obtener("TELEGRAM_BOT_TOKEN"):
+        return {"enviado": False, "motivo": "Falta el token del bot de Telegram (Ajustes)"}
+    if not entorno.obtener("TELEGRAM_CHAT_ID"):
+        return {"enviado": False, "motivo": "Falta el Chat ID de Telegram (Ajustes → Detectar chat ID)"}
+    ok = telegram(texto_html)
+    return {"enviado": ok, "motivo": "" if ok else "Telegram rechazó el mensaje (revisa token y Chat ID)"}
+
+
+def _texto_analisis(res: dict) -> str:
+    return f"🧠 <b>{esc(res['titulo'])}</b>\n\n" + markdown_a_telegram(res["markdown"])
+
+
+@endpoint
+def api_detectar_chat(request, datos):
+    """Busca el chat ID en los últimos mensajes que ha recibido el bot."""
+    import requests  # noqa: PLC0415
+    token = entorno.obtener("TELEGRAM_BOT_TOKEN")
+    if not token:
+        raise ErrorUsuario("Primero guarda el token del bot de Telegram")
+    r = requests.get(f"https://api.telegram.org/bot{token}/getUpdates", timeout=20)
+    if not r.ok:
+        raise ErrorUsuario("Telegram no acepta ese token. Revísalo en Ajustes.")
+    chats = [u.get("message", u.get("edited_message", {})).get("chat") for u in r.json().get("result", [])]
+    chats = [c for c in chats if c and c.get("type") == "private"]
+    if not chats:
+        raise ErrorUsuario("No encuentro mensajes. Escribe «hola» a tu bot en Telegram y vuelve a pulsar.")
+    chat = chats[-1]
+    entorno.guardar({"TELEGRAM_CHAT_ID": str(chat["id"])})
+    nombre = " ".join(x for x in (chat.get("first_name"), chat.get("last_name")) if x) or chat.get("username", "")
+    return {"ok": True, "nombre": nombre, "claves": entorno.resumen_publico()}
+
+
+@endpoint
+def api_probar_telegram(request, datos):
+    res = _enviar_telegram("✅ <b>Prueba desde la app Agente YouTube</b>\nSi lees esto, la app ya puede "
+                           "enviarte resúmenes y análisis.")
+    if not res["enviado"]:
+        raise ErrorUsuario(res["motivo"])
+    return res
+
+
+@endpoint
+def api_reiniciar(request, datos):
+    """Reinicia la app (iniciar.bat la vuelve a arrancar al salir con código 3)."""
+    import threading  # noqa: PLC0415
+
+    from agente import bloqueo  # noqa: PLC0415
+
+    def salir():
+        with bloqueo.repo:  # espera a que termine cualquier sincronización con GitHub
+            os._exit(3)
+    threading.Timer(1.0, salir).start()
+    return {"ok": True}
+
+
 # ------------------------------------------------------------------ estado / ajustes
 @endpoint
 def api_estado(request, datos):
@@ -245,7 +303,7 @@ def api_resumir(request, datos):
     cfg = config.cargar()
     proveedor = modulo_ia.crear(cfg)
     por_nombre = {c["nombre"]: c for c in cfg["canales"]}
-    resultados = []
+    resultados, envio = [], None
     for vid in vids:
         if almacen.existe_resumen(vid) and not datos.get("rehacer"):
             resultados.append({"video_id": vid, "ok": True, "ya_existia": True})
@@ -258,8 +316,8 @@ def api_resumir(request, datos):
         try:
             reg = procesar.resumir(item, cfg, proveedor, por_nombre.get(item["canal"]),
                                    permitir_video=bool(datos.get("permitir_video")))
-            if datos.get("enviar_telegram"):
-                telegram(procesar.formatear_mensaje(reg))
+            if datos.get("enviar_telegram") and (envio is None or envio["enviado"]):
+                envio = _enviar_telegram(procesar.formatear_mensaje(reg))
             r = reg["resumen"]
             resultados.append({"video_id": vid, "ok": True, "fuente": reg["fuente"],
                                "sentimiento": r["sentimiento_general"],
@@ -270,7 +328,7 @@ def api_resumir(request, datos):
             resultados.append({"video_id": vid, "ok": False, "error": str(e)[:300]})
     if any(r["ok"] and not r.get("ya_existia") for r in resultados):
         sync.subir_en_segundo_plano("App: resúmenes manuales")
-    return {"resultados": resultados}
+    return {"resultados": resultados, "telegram": envio}
 
 
 @endpoint
@@ -324,10 +382,20 @@ def api_analizar(request, datos):
         raise ErrorUsuario("Elige al menos un vídeo")
     res = analisis.analizar(vids, datos.get("instruccion", ""), datos.get("titulo", ""),
                             datos.get("modo", "auto"))
-    if datos.get("enviar_telegram"):
-        telegram(f"🧠 <b>{esc(res['titulo'])}</b>\n\n" + markdown_a_telegram(res["markdown"]))
+    envio = _enviar_telegram(_texto_analisis(res)) if datos.get("enviar_telegram") else None
     sync.subir_en_segundo_plano(f"App: análisis «{res['titulo']}»")
-    return {"analisis": res}
+    return {"analisis": res, "telegram": envio}
+
+
+@endpoint
+def api_analisis_a_telegram(request, datos):
+    a = almacen.cargar_analisis(request.path_params["ident"])
+    if not a:
+        raise ErrorUsuario("No encuentro ese análisis", 404)
+    res = _enviar_telegram(_texto_analisis(a))
+    if not res["enviado"]:
+        raise ErrorUsuario(res["motivo"])
+    return res
 
 
 @endpoint
@@ -360,6 +428,9 @@ rutas = [
     Route("/api/ajustes/claves", api_guardar_claves, methods=["POST"]),
     Route("/api/ajustes", api_guardar_ajustes, methods=["POST"]),
     Route("/api/ajustes/probar-ia", api_probar_ia, methods=["POST"]),
+    Route("/api/ajustes/telegram/detectar", api_detectar_chat, methods=["POST"]),
+    Route("/api/ajustes/telegram/probar", api_probar_telegram, methods=["POST"]),
+    Route("/api/reiniciar", api_reiniciar, methods=["POST"]),
     Route("/api/sync/bajar", api_sync_bajar, methods=["POST"]),
     Route("/api/sync/subir", api_sync_subir, methods=["POST"]),
     Route("/api/canales", api_canales),
@@ -376,6 +447,7 @@ rutas = [
     Route("/api/analizar", api_analizar, methods=["POST"]),
     Route("/api/analisis", api_listar_analisis),
     Route("/api/analisis/instruccion", api_instruccion_defecto),
+    Route("/api/analisis/{ident}/telegram", api_analisis_a_telegram, methods=["POST"]),
     Route("/api/analisis/{ident}", api_ver_analisis),
     Mount("/web", StaticFiles(directory=DIR_WEB), name="web"),
 ]
@@ -403,6 +475,9 @@ def main():
     puerto = int(os.environ.get("APP_PUERTO", "8000"))
     url = f"http://localhost:{puerto}"
     abrir = "--sin-navegador" not in sys.argv
+    if "--reinicio" in sys.argv:
+        import time  # noqa: PLC0415
+        time.sleep(1.5)  # da tiempo a que se libere el puerto
     with socket.socket() as s:
         if s.connect_ex(("127.0.0.1", puerto)) == 0:  # ya está arrancada
             print(f"La app ya está abierta en {url}")
