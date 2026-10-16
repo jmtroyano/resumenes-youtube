@@ -153,6 +153,10 @@ def ejecucion_normal() -> None:
             _quitar(estado, item["video_id"])
             estado["aviso_config"] = None
             hechos += 1
+        except modulo_ia.VideoNoAccesible as e:
+            print(f"  ! La IA no puede ver este vídeo (se descarta sin reintentar): {str(e)[:150]}")
+            estado["fallidos"][item["video_id"]] = str(e)[:300]
+            _quitar(estado, item["video_id"])
         except modulo_ia.CupoAgotado as e:
             print("Cupo de la IA agotado por ahora. El resto queda en cola.")
             print(f"  Detalle: {str(e)[:700]}")
