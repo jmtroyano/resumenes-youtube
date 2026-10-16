@@ -16,6 +16,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from starlette.applications import Starlette
+from starlette.middleware import Middleware
 from starlette.concurrency import run_in_threadpool
 from starlette.requests import Request
 from starlette.responses import FileResponse, JSONResponse
@@ -462,7 +463,24 @@ async def ciclo_de_vida(app):
     yield
 
 
-app = Starlette(routes=rutas, lifespan=ciclo_de_vida)
+class SinCache:
+    """Obliga al navegador a comprobar siempre si hay una versión nueva de la app."""
+    def __init__(self, app_asgi):
+        self.app = app_asgi
+
+    async def __call__(self, scope, receive, send):
+        if scope["type"] != "http":
+            return await self.app(scope, receive, send)
+
+        async def enviar(mensaje):
+            if mensaje["type"] == "http.response.start":
+                mensaje.setdefault("headers", [])
+                mensaje["headers"] = [*mensaje["headers"], (b"cache-control", b"no-cache")]
+            await send(mensaje)
+        return await self.app(scope, receive, enviar)
+
+
+app = Starlette(routes=rutas, lifespan=ciclo_de_vida, middleware=[Middleware(SinCache)])
 
 
 def main():
