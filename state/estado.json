@@ -438,7 +438,8 @@
   "a-A0cvB4_so": "2026-10-16T06:48:09.887583+00:00",
   "zoUHJ6eB6IY": "2026-10-16T06:48:09.887583+00:00",
   "4x14kIP_z7o": "2026-10-16T06:49:00.439772+00:00",
-  "aW9a3O2XNho": "2026-10-16T06:55:42.202871+00:00"
+  "aW9a3O2XNho": "2026-10-16T06:55:42.202871+00:00",
+  "b1hdrKop638": "2026-10-16T11:31:46.092280+00:00"
  },
  "cola": [
   {
@@ -448,7 +449,7 @@
    "publicado": "2026-10-02T00:00:00+00:00",
    "canal": "Los Locos de Wall Street",
    "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 0,
+   "intentos": 1,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
@@ -528,7 +529,7 @@
    "publicado": "2026-10-02T00:00:00+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 0,
+   "intentos": 1,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
@@ -588,7 +589,7 @@
    "publicado": "2026-03-16T00:00:00+00:00",
    "canal": "El Arte de Invertir (Alejandro Estebaranz)",
    "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
-   "intentos": 0,
+   "intentos": 1,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
