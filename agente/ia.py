@@ -3,6 +3,7 @@ métodos (resumir_video, resumir_texto, generar) y regístrala en `crear()`."""
 from __future__ import annotations
 
 import json
+import re
 import time
 
 from . import entorno, esquemas
@@ -16,6 +17,16 @@ class CupoAgotado(Exception):
 
 class ErrorConfiguracion(Exception):
     """Clave inválida, modelo inexistente o permisos: no es culpa del vídeo."""
+
+
+class VideoNoAccesible(Exception):
+    """La IA no puede ver ese vídeo (para miembros, privado, directo...). No se reintenta."""
+
+
+def _es_cupo_diario(texto: str) -> bool:
+    t = texto.lower()
+    return ("perday" in t or "per_day" in t or "free_tier_requests" in t
+            or re.search(r"retry in \d+h", t) is not None)
 
 
 def _es_error_configuracion(codigo, texto: str) -> bool:
@@ -58,6 +69,8 @@ class ProveedorGemini:
                 if _es_error_configuracion(codigo, str(e)):
                     raise ErrorConfiguracion(str(e)) from e
                 if codigo == 429:
+                    if _es_cupo_diario(str(e)):  # límite diario: no tiene sentido esperar
+                        raise CupoAgotado(str(e)) from e
                     if intento == 0:
                         print("[ia] Límite por minuto alcanzado; espero 65 s...")
                         time.sleep(65)
@@ -87,13 +100,19 @@ class ProveedorGemini:
     # ------------------------------------------------------------ público
     def resumir_video(self, url: str, titulo: str, canal: str, idioma: str,
                       fps: float = 0.1) -> dict:
-        from google.genai import types  # noqa: PLC0415
+        from google.genai import errors, types  # noqa: PLC0415
         contenido = types.Content(parts=[
             types.Part(file_data=types.FileData(file_uri=url),
                        video_metadata=types.VideoMetadata(fps=fps)),
             types.Part(text=esquemas.prompt_resumen_video(titulo, canal, idioma)),
         ])
-        return self._estructurado(contenido)
+        try:
+            return self._estructurado(contenido)
+        except errors.APIError as e:
+            if getattr(e, "code", None) in (400, 403) and (
+                    "permission" in str(e).lower() or "invalid" in str(e).lower()):
+                raise VideoNoAccesible(str(e)) from e
+            raise
 
     def resumir_texto(self, texto: str, titulo: str, canal: str, idioma: str) -> dict:
         return self._estructurado(esquemas.prompt_resumen_transcript(titulo, canal, idioma, texto))

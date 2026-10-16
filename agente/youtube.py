@@ -147,16 +147,17 @@ def _iso_desde_entrada(e: dict) -> str:
     return ""
 
 
-def _ytdlp_entradas(channel_id: str, limite: int, idioma: str) -> list[dict]:
+def _ytdlp_entradas(channel_id: str, limite: int, idioma: str | None) -> list[dict]:
     try:
         import yt_dlp  # noqa: PLC0415
     except ImportError as e:
         raise ErrorYouTube("yt-dlp no está instalado") from e
     opciones = {"extract_flat": True, "playlistend": limite, "quiet": True,
                 "no_warnings": True, "skip_download": True, "noprogress": True,
-                "extractor_args": {"youtubetab": {"approximate_date": [""]},
-                                   "youtube": {"lang": [idioma]}},
-                "http_headers": {"Accept-Language": f"{idioma};q=1.0"}}
+                "extractor_args": {"youtubetab": {"approximate_date": [""]}}}
+    if idioma:  # sin idioma: configuración por defecto de yt-dlp (inglés, fechas fiables)
+        opciones["extractor_args"]["youtube"] = {"lang": [idioma]}
+        opciones["http_headers"] = {"Accept-Language": f"{idioma};q=1.0"}
     try:
         with yt_dlp.YoutubeDL(opciones) as ydl:
             info = ydl.extract_info(f"https://www.youtube.com/channel/{channel_id}/videos",
@@ -171,11 +172,11 @@ def videos_ytdlp(channel_id: str, limite: int = 15, idioma: str = "") -> list[di
     Los títulos se piden en el idioma del canal (si no, YouTube los traduce) y las fechas
     aproximadas en inglés, que es el único idioma en que yt-dlp sabe calcularlas."""
     idioma = (idioma or "es").split("-")[0]
-    entradas = _ytdlp_entradas(channel_id, limite, idioma)
+    entradas = _ytdlp_entradas(channel_id, limite, None if idioma == "en" else idioma)
     fechas = {e["id"]: _iso_desde_entrada(e) for e in entradas}
     if idioma != "en" and not any(fechas.values()):
         try:
-            fechas = {e["id"]: _iso_desde_entrada(e) for e in _ytdlp_entradas(channel_id, limite, "en")}
+            fechas = {e["id"]: _iso_desde_entrada(e) for e in _ytdlp_entradas(channel_id, limite, None)}
         except ErrorYouTube:
             pass
     videos = []
