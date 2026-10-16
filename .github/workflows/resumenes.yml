@@ -44,6 +44,7 @@ jobs:
           EMAIL_USUARIO: ${{ secrets.EMAIL_USUARIO }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+          PYTHONUNBUFFERED: "1"
           MODO: ${{ github.event.inputs.modo || 'normal' }}
           URL_PRUEBA: ${{ github.event.inputs.url }}
         run: |
