@@ -39,6 +39,7 @@ jobs:
           EMAIL_USUARIO: ${{ secrets.EMAIL_USUARIO }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+          PYTHONUNBUFFERED: "1"
         run: python src/informe_semanal.py --dias "${{ github.event.inputs.dias || '7' }}"
 
       - name: Guardar informe en el repositorio
