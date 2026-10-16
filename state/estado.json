@@ -449,7 +449,7 @@
    "publicado": "2026-10-02T00:00:00+00:00",
    "canal": "Los Locos de Wall Street",
    "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
@@ -529,7 +529,7 @@
    "publicado": "2026-10-02T00:00:00+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
@@ -601,6 +601,36 @@
    "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
    "intentos": 0,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
+  },
+  {
+   "video_id": "DkWjSiGiBpw",
+   "titulo": "El rebote del gato muerto - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=DkWjSiGiBpw",
+   "publicado": "2026-10-16T16:34:17+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
+  },
+  {
+   "video_id": "o8SO0yvsY6Y",
+   "titulo": "Sigue el temor a las neoclouds-  Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=o8SO0yvsY6Y",
+   "publicado": "2026-10-16T14:16:01+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
+  },
+  {
+   "video_id": "EjIq9w9Ji_M",
+   "titulo": "Argentina: El Oro de su Banco Central. Se Espera una Gran Subida. José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=EjIq9w9Ji_M",
+   "publicado": "2026-10-16T12:13:00+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
   }
  ],
  "fallidos": {
