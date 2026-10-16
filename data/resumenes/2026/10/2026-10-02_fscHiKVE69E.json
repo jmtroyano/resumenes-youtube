@@ -1,0 +1,89 @@
+{
+  "video_id": "fscHiKVE69E",
+  "url": "https://www.youtube.com/watch?v=fscHiKVE69E",
+  "titulo": "El Gran Problema del URANIO que el Mercado Todavía NO Ha Resuelto",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-02T00:00:00+00:00",
+  "fecha_resumen": "2026-10-16T23:43:02.271768+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo analiza las oportunidades y dinámicas estructurales del mercado del uranio y la energía nuclear. Los participantes explican que, tras la subida del precio del uranio de 20 a 80-90 dólares, el dinero fácil en las acciones mineras ya se ha hecho. No obstante, persiste un severo cuello de botella en la oferta global, ya que el desarrollo de nuevos yacimientos requiere años y un elevado gasto de capital. Ante este escenario de déficit y creciente demanda, destacan vehículos como el Sprott Physical Uranium Trust, que acumula uranio físico y cotiza con descuento sobre su valor liquidativo.",
+    "ideas_clave": [
+      "El dinero fácil en la renta variable ligada al uranio ya se ha hecho tras multiplicarse las valoraciones desde los 20 dólares por libra hasta los 80-90 dólares.",
+      "Existe un grave déficit estructural de oferta: los grandes proyectos en desarrollo, como el depósito Arrow de NexGen Energy en Saskatchewan (Canadá), requerirán enormes inversiones de capital y no producirán hasta pasado 2030.",
+      "Los principales polos de extracción mundiales afrontan retos: Kazajistán, principal productor, sufre problemas de suministros de ácido para el minado in situ, mientras que Canadá alberga los depósitos de mayor ley mineral.",
+      "La demanda sigue creciendo año tras año impulsada por la extensión de vida útil de reactores en Occidente y Japón, la construcción acelerada de plantas en China y el consumo energético de centros de datos.",
+      "Para posicionarse actualmente de forma más segura que mediante mineras especulativas, se plantea la inversión en uranio físico a través del trust de Sprott (Sprott Physical Uranium Trust), que retira oferta del mercado.",
+      "El vehículo de Sprott cotiza actualmente con un descuento cercano al 10% respecto a su valor liquidativo (NAV), ofreciendo una asimetría interesante si el ciclo se reactiva."
+    ],
+    "tesis_principal": "El mercado del uranio afronta un déficit estructural insoluble a corto y medio plazo debido a la lenta puesta en marcha de nueva oferta minera frente a una demanda inflexible y en constante aumento por el renacimiento nuclear.",
+    "temas": [
+      "Materias primas",
+      "Energía y petróleo",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Uranio",
+      "Sprott Physical Uranium Trust",
+      "Cameco",
+      "NexGen Energy",
+      "District Metals",
+      "Brookfield"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.75,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Materias primas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "El uranio presenta un desajuste crítico entre oferta limitada y demanda creciente, con vehículos físicos cotizando con descuento sobre NAV."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "La energía nuclear experimenta un cambio de paradigma favorable impulsado por la necesidad de energía base y el consumo de nuevos centros de datos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El depósito de uranio Arrow de NexGen Energy no entrará en producción antes de 2030 y sufrirá retrasos en su desarrollo.",
+        "activo_o_variable": "Producción de NexGen Energy (yacimiento Arrow)",
+        "direccion": "baja",
+        "horizonte": "Más de 5 años (post-2030)",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La demanda de uranio continuará en aumento año tras año por la prolongación de reactores y nuevas construcciones.",
+        "activo_o_variable": "Demanda global de uranio",
+        "direccion": "sube",
+        "horizonte": "Medio-largo plazo (5 a 10 años)",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El precio del uranio se ha multiplicado de aproximadamente 20 dólares a 80-90 dólares en el ciclo reciente.",
+      "El Sprott Physical Uranium Trust cotiza con un descuento aproximado del 10% sobre su Net Asset Value (NAV).",
+      "Los yacimientos canadienses en Saskatchewan cuentan con leyes de concentración medidas en porcentajes, frente a las partes por millón comunes en el resto del mundo.",
+      "Kazajistán presenta dificultades operativas asociadas a la escasez de ácido sulfúrico necesario para el método de extracción In-Situ Recovery (ISR)."
+    ],
+    "riesgos_mencionados": [
+      "Retrasos prolongados y sobrecostes de capex en la construcción de megaproyectos mineros.",
+      "Riesgos regulatorios y políticos locales en la reapertura o legalización de la minería de uranio.",
+      "Riesgo operativo y de calidad crediticia en pequeñas empresas mineras o 'chicharros'.",
+      "Dificultades en la cadena de suministros industriales esenciales para la extracción de uranio."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Albert Mendoza"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "video_id": "o8SO0yvsY6Y",
+  "url": "https://www.youtube.com/watch?v=o8SO0yvsY6Y",
+  "titulo": "Sigue el temor a las neoclouds-  Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-16T14:16:01+00:00",
+  "fecha_resumen": "2026-10-16T23:42:23.981442+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado tecnológico vuelve a experimentar caídas, confirmando la falta de fiabilidad del rebote previo. La preocupación se centra en la crisis de las firmas 'neocloud' como CoreWeave, cuyos bonos rozan rendimientos del 16%. A esto se suman presiones inflacionistas en los precios de importación de EE. UU. y la tensión geopolítica que mantiene el petróleo elevado, mientras los semiconductores continúan mostrando debilidad estructural desde junio.",
+    "ideas_clave": [
+      "Las compañías 'neocloud' generan desconfianza: CoreWeave cae un 6,5% y la rentabilidad de su bono a 2031 se aproxima al 16%, evidenciando riesgos de crédito vinculados a la IA.",
+      "El índice de precios de importación en EE. UU. sube un 1,1% mensual (+8,1% interanual); sin combustibles repunta un 0,7% mensual y un 6% interanual, mostrando inflación subyacente extendida.",
+      "El petróleo se mantiene elevado cerca de los 98 dólares por nuevos incidentes y ataques en el estrecho de Ormuz.",
+      "Los 'Siete Magníficos' muestran debilidad general; Tesla sube un 1,84% tras moderar un repunte inicial del 5% impulsado por noticias de su vehículo volador, y Apple ejerce de cobertura defensiva.",
+      "El sector de semiconductores borra el rebote previo (el ETF de memoria cae un 2,7% y el ETF SMH cede en torno al 1%), situándose por debajo de sus medias de 50 y 100 sesiones y entrando en una fase de desgaste bajista desde sus máximos de junio."
+    ],
+    "tesis_principal": "La debilidad estructural de los semiconductores, el riesgo crediticio en empresas ligadas a la IA ('neoclouds') y el repunte de presiones inflacionarias y geopolíticas desaconsejan confiar en los rebotes técnicos del mercado.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Inflación",
+      "Energía y petróleo",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "CoreWeave",
+      "Tesla",
+      "Apple",
+      "VanEck Semiconductor ETF (SMH)",
+      "Petróleo WTI / Light Crude",
+      "Bono CoreWeave vencimiento 2031"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Cárpatos señala que tocaron techo el 22 de junio y desde entonces viven una lenta agonía, perdiendo medias móviles relevantes."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las caídas en compañías como CoreWeave y la tensión en su deuda reflejan la vulnerabilidad de proyectos periféricos de IA."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los precios de importación suben sensiblemente tanto en tasa general como subyacente, contagiando presiones al resto de la cadena."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El crudo cotiza alto cerca de 98 dólares por riesgos geopolíticos en Ormuz, sin corregir con claridad."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Las rentabilidades de bonos de empresas neocloud se disparan al entorno del 16% por percepción de riesgo."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "CoreWeave cotiza con caídas del 6,50% y su bono con vencimiento en 2031 rinde cerca del 16%.",
+      "Precios de importación en EE. UU.: +1,1% mensual y +8,1% interanual en el dato general.",
+      "Precios de importación excluyendo combustibles: +0,7% mensual y +6,0% interanual.",
+      "Precio del petróleo Light Crude cotizando cerca de los 98 dólares.",
+      "Tesla llegó a subir un 5% intradía por especulación sobre su coche volador, moderando posteriormente al 1,84%.",
+      "El ETF de memoria retrocede un 2,7% y el VanEck Semiconductor ETF cae un 1,05%, alejándose de las medias de 50 y 100 sesiones."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de solvencia o crédito en empresas 'neocloud' periféricas al negocio de IA.",
+      "Persistencia de presiones inflacionistas no energéticas en la cadena de suministros e importaciones.",
+      "Riesgo de escalada y ataques marítimos en el estrecho de Ormuz que sostienen precios altos del crudo.",
+      "Ruptura de la media móvil de 200 sesiones en el sector semiconductores."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

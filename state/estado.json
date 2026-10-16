@@ -443,7 +443,9 @@
   "TgUWzP_9IvY": "2026-10-16T21:17:20.297000+00:00",
   "DkWjSiGiBpw": "2026-10-16T21:17:56.881520+00:00",
   "EjIq9w9Ji_M": "2026-10-16T21:18:47.428799+00:00",
-  "TANOGhUP7I8": "2026-10-16T21:20:03.166613+00:00"
+  "TANOGhUP7I8": "2026-10-16T21:20:03.166613+00:00",
+  "o8SO0yvsY6Y": "2026-10-16T23:42:25.404772+00:00",
+  "fscHiKVE69E": "2026-10-16T23:43:03.627132+00:00"
  },
  "cola": [
   {
@@ -517,16 +519,6 @@
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
-   "video_id": "fscHiKVE69E",
-   "titulo": "El Gran Problema del URANIO que el Mercado Todavía NO Ha Resuelto",
-   "url": "https://www.youtube.com/watch?v=fscHiKVE69E",
-   "publicado": "2026-10-02T00:00:00+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  },
-  {
    "video_id": "18_ComjRSak",
    "titulo": "ORO a Largo Plazo: La Oportunidad que Albert Mendoza Está Buscando",
    "url": "https://www.youtube.com/watch?v=18_ComjRSak",
@@ -595,16 +587,6 @@
    "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
    "intentos": 0,
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  },
-  {
-   "video_id": "o8SO0yvsY6Y",
-   "titulo": "Sigue el temor a las neoclouds-  Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=o8SO0yvsY6Y",
-   "publicado": "2026-10-16T14:16:01+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
-   "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
   }
  ],
  "fallidos": {
