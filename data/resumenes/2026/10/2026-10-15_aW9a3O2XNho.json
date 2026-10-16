@@ -1,0 +1,107 @@
+{
+  "video_id": "aW9a3O2XNho",
+  "url": "https://www.youtube.com/watch?v=aW9a3O2XNho",
+  "titulo": "Se ACABÓ, Me Voy a Suiza | José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-15T11:00:00+00:00",
+  "fecha_resumen": "2026-10-16T06:55:40.860603+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la economía y los mercados suizos como una alternativa de inversión sólida a medio y largo plazo. Destaca la fortaleza fiscal de Suiza, su baja inflación y la constante tendencia alcista del franco suizo frente al euro debido a su papel de activo refugio y operaciones de carry trade. Desde el punto de vista técnico, anticipa una corrección a corto plazo en la bolsa suiza de alrededor del 14% hacia los 12.500-12.050 puntos, nivel en el que buscará incorporarse al mercado mediante un ETF de Amundi.",
+    "ideas_clave": [
+      "Suiza cuenta con una macroeconomía sólida: deuda pública sobre PIB cercana al 40% (16% solo federal), inflación bajo control inferior al 2% y grandes reservas de oro por habitante.",
+      "El franco suizo muestra una clara tendencia alcista a largo plazo frente al euro, actuando frecuentemente como divisa refugio tras el desmantelamiento de operaciones de carry trade financiadas a tipos cercanos al 0%.",
+      "El Banco Nacional de Suiza suele intervenir para evitar una apreciación excesivamente brusca del franco que perjudique la competitividad de sus exportaciones químicas y farmacéuticas.",
+      "El índice bursátil suizo mostró signos de debilidad técnica tras una barrida o escape en falso por encima de los 14.400 puntos y posteriores ventas de manos fuertes.",
+      "Cava espera una caída de la bolsa suiza hacia la zona de soporte entre 12.500 y 12.050 puntos (una corrección del 14% adicional y un drawdown del 18% desde máximos) para buscar compras.",
+      "El vehículo elegido para exponerse a este mercado es el ETF de acumulación de Amundi con ticker CSWU (en euros y réplica sintética)."
+    ],
+    "tesis_principal": "Suiza y su divisa ofrecen una de las economías más robustas del mundo; tras una previsible corrección técnica del índice suizo hacia los 12.500-12.050 puntos, se presentará una oportunidad idónea de compra a medio y largo plazo.",
+    "temas": [
+      "Bolsa Europa",
+      "Dólar y divisas",
+      "Otros bancos centrales",
+      "Fondos indexados y ETFs",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Franco suizo (CHF)",
+      "EUR/CHF",
+      "S&P 500",
+      "Swiss Market Index (SMI)",
+      "Amundi MSCI Switzerland UCITS ETF (CSWU)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Considera que el franco suizo continuará apreciándose estructuralmente frente al euro, al que califica de moneda débil."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Advierte de debilidad técnica y ventas institucionales en la bolsa suiza, esperando una caída adicional del 14% a corto plazo."
+      },
+      {
+        "tema": "Otros bancos centrales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Explica la intervención recurrente del Banco Nacional de Suiza para frenar la apreciación desmedida de su moneda y su política de tipos al 0%."
+      },
+      {
+        "tema": "Fondos indexados y ETFs",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Considera el ETF de Amundi (CSWU) como una excelente herramienta de bajo coste para tomar posición a largo plazo una vez se complete la corrección."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La bolsa experimentará caídas a partir del 3 de noviembre.",
+        "activo_o_variable": "Bolsas de valores generales",
+        "direccion": "baja",
+        "horizonte": "noviembre",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El índice de la bolsa de Suiza caerá hacia el origen del último tramo al alza en la zona de 12.500 - 12.050 puntos.",
+        "activo_o_variable": "Índice de la bolsa de Suiza (SMI)",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La tendencia alcista de largo plazo del franco suizo continuará.",
+        "activo_o_variable": "Franco suizo (CHF)",
+        "direccion": "sube",
+        "horizonte": "medio y largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Endeudamiento total de Suiza sobre el PIB en torno al 40%, y endeudamiento federal en solo el 16%.",
+      "Tasa de inflación suiza controlada habitualmente por debajo del 2% e incluso bajo el 1%.",
+      "Estudio de Pictet indica una rentabilidad media histórica de la bolsa suiza en los últimos 100 años del 7,1%, con drawdown medio histórico calculado por Cava del 18%.",
+      "El tipo de interés del BNS en el 0% estimula el carry trade (endeudarse en CHF para comprar dólares y acciones), provocando recompras masivas de CHF como refugio cuando cae la renta variable estadounidense."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de que el Banco Nacional de Suiza intervenga intensamente para devaluar o frenar el franco si la apreciación perjudica sus márgenes empresariales.",
+      "Riesgo de caídas bursátiles pronunciadas superiores al 40% en momentos de crisis histórica (drawdowns severos en renta variable suiza).",
+      "Inclusión de Suiza por el Tesoro de EE. UU. en la lista de vigilancia de presuntos manipuladores de divisas."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

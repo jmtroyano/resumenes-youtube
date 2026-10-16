@@ -437,19 +437,10 @@
   "zQyoE-9_pOc": "2026-10-16T06:48:09.887583+00:00",
   "a-A0cvB4_so": "2026-10-16T06:48:09.887583+00:00",
   "zoUHJ6eB6IY": "2026-10-16T06:48:09.887583+00:00",
-  "4x14kIP_z7o": "2026-10-16T06:49:00.439772+00:00"
+  "4x14kIP_z7o": "2026-10-16T06:49:00.439772+00:00",
+  "aW9a3O2XNho": "2026-10-16T06:55:42.202871+00:00"
  },
  "cola": [
-  {
-   "video_id": "xpoXCWwW9pU",
-   "titulo": "¿Quiebra Francia? Así Puedes Cubrirte Con Opciones",
-   "url": "https://www.youtube.com/watch?v=xpoXCWwW9pU",
-   "publicado": "2026-10-15T17:25:52+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-15T18:41:46.931512+00:00"
-  },
   {
    "video_id": "TANOGhUP7I8",
    "titulo": "La Deuda Oculta de los Hyperscalers Empieza a Salir a la Luz",
@@ -591,16 +582,6 @@
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
-   "video_id": "aW9a3O2XNho",
-   "titulo": "Se ACABÓ, Me Voy a Suiza | José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=aW9a3O2XNho",
-   "publicado": "2026-10-15T11:00:00+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 0,
-   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  },
-  {
    "video_id": "-HJZqeub__U",
    "titulo": "💥El FMI advierte: “Hay que PREPARARSE para lo IMPENSABLE en la GUERRA con IRÁN”|👉COLAPSO GLOBAL",
    "url": "https://www.youtube.com/watch?v=-HJZqeub__U",
@@ -621,6 +602,8 @@
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   }
  ],
- "fallidos": {},
+ "fallidos": {
+  "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+ },
  "aviso_config": null
 }
