@@ -66,7 +66,7 @@ def actualizar_cola(cfg: dict, estado: dict) -> list[str]:
             no_encontrados.append(canal["nombre"])
             continue
         try:
-            videos = youtube.leer_feed(cid)
+            videos = youtube.listar_videos(cid, 15, canal.get("idioma") or "")
         except Exception as e:  # noqa: BLE001
             print(f"  [feed] {canal['nombre']}: {e}")
             continue

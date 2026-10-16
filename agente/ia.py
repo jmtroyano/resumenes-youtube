@@ -7,6 +7,8 @@ import time
 
 from . import entorno, esquemas
 
+TIEMPO_MAXIMO_MS = 8 * 60 * 1000  # 8 minutos por llamada a la IA
+
 
 class CupoAgotado(Exception):
     """Límite de uso alcanzado por ahora (429)."""
@@ -36,10 +38,13 @@ class ProveedorGemini:
     def _cli(self):
         if self._cliente is None:
             from google import genai  # noqa: PLC0415
+            from google.genai import types  # noqa: PLC0415
             clave = entorno.obtener("GEMINI_API_KEY")
             if not clave:
                 raise ErrorConfiguracion("Falta la clave GEMINI_API_KEY (ponla en Ajustes)")
-            self._cliente = genai.Client(api_key=clave)
+            # Tiempo máximo por llamada: evita que una ejecución se quede colgada
+            self._cliente = genai.Client(api_key=clave,
+                                         http_options=types.HttpOptions(timeout=TIEMPO_MAXIMO_MS))
         return self._cliente
 
     @staticmethod

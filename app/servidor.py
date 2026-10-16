@@ -155,7 +155,9 @@ def api_borrar_canal(request, datos):
 def _videos_de_canal(canal: dict, mas: bool) -> tuple[list[dict], str | None]:
     try:
         cid = canal.get("channel_id") or youtube.info_canal(canal.get("handle") or canal["nombre"])["channel_id"]
-        lista = youtube.mas_videos(cid, 50) if mas else youtube.leer_feed(cid)
+        idioma = canal.get("idioma") or ""
+        lista = (youtube.mas_videos(cid, 50, idioma) if mas
+                 else youtube.listar_videos(cid, 15, idioma))
     except Exception as e:  # noqa: BLE001
         return [], f"{canal['nombre']}: {e}"
     for v in lista:

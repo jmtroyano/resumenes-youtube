@@ -95,7 +95,8 @@ def info_canal(entrada: str) -> dict:
 
 def leer_feed(channel_id: str) -> list[dict]:
     """Últimos ~15 vídeos del canal (del más nuevo al más antiguo)."""
-    r = _get(f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}")
+    r = requests.get(f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}",
+                     headers=CABECERAS, timeout=20)
     r.raise_for_status()
     raiz = ET.fromstring(r.content)
     videos = []
@@ -117,26 +118,146 @@ def leer_feed(channel_id: str) -> list[dict]:
     return videos
 
 
-def mas_videos(channel_id: str, limite: int = 50) -> list[dict]:
-    """Lista más vídeos del canal con yt-dlp (solo en la app local)."""
+_UNIDADES = {"segundo": 1, "second": 1, "minuto": 60, "minute": 60, "hora": 3600, "hour": 3600,
+             "día": 86400, "dia": 86400, "day": 86400, "semana": 604800, "week": 604800,
+             "mes": 2592000, "month": 2592000, "año": 31536000, "ano": 31536000, "year": 31536000}
+
+
+def _fecha_relativa(texto: str) -> str:
+    """'hace 3 horas' / '3 hours ago' -> fecha ISO aproximada ('' si no se entiende)."""
+    from datetime import datetime, timedelta, timezone  # noqa: PLC0415
+    m = re.search(r"(\d+)\s+([a-zñí]+)", (texto or "").lower())
+    if not m:
+        return ""
+    unidad = next((v for k, v in _UNIDADES.items() if m.group(2).startswith(k)), None)
+    if not unidad:
+        return ""
+    cuando = datetime.now(timezone.utc) - timedelta(seconds=int(m.group(1)) * unidad)
+    return cuando.isoformat(timespec="seconds")
+
+
+def _iso_desde_entrada(e: dict) -> str:
+    from datetime import datetime, timezone  # noqa: PLC0415
+    for k in ("timestamp", "release_timestamp"):
+        if e.get(k):
+            return datetime.fromtimestamp(e[k], tz=timezone.utc).isoformat(timespec="seconds")
+    if e.get("upload_date"):
+        d = e["upload_date"]
+        return f"{d[:4]}-{d[4:6]}-{d[6:8]}T00:00:00+00:00"
+    return ""
+
+
+def _ytdlp_entradas(channel_id: str, limite: int, idioma: str) -> list[dict]:
     try:
         import yt_dlp  # noqa: PLC0415
     except ImportError as e:
         raise ErrorYouTube("yt-dlp no está instalado") from e
     opciones = {"extract_flat": True, "playlistend": limite, "quiet": True,
-                "no_warnings": True, "skip_download": True}
-    with yt_dlp.YoutubeDL(opciones) as ydl:
-        info = ydl.extract_info(f"https://www.youtube.com/channel/{channel_id}/videos",
-                                download=False)
+                "no_warnings": True, "skip_download": True, "noprogress": True,
+                "extractor_args": {"youtubetab": {"approximate_date": [""]},
+                                   "youtube": {"lang": [idioma]}},
+                "http_headers": {"Accept-Language": f"{idioma};q=1.0"}}
+    try:
+        with yt_dlp.YoutubeDL(opciones) as ydl:
+            info = ydl.extract_info(f"https://www.youtube.com/channel/{channel_id}/videos",
+                                    download=False)
+    except Exception as e:  # noqa: BLE001
+        raise ErrorYouTube(f"yt-dlp: {str(e)[:200]}") from e
+    return [e for e in (info or {}).get("entries") or [] if e.get("id")]
+
+
+def videos_ytdlp(channel_id: str, limite: int = 15, idioma: str = "") -> list[dict]:
+    """Lista los vídeos del canal con yt-dlp.
+    Los títulos se piden en el idioma del canal (si no, YouTube los traduce) y las fechas
+    aproximadas en inglés, que es el único idioma en que yt-dlp sabe calcularlas."""
+    idioma = (idioma or "es").split("-")[0]
+    entradas = _ytdlp_entradas(channel_id, limite, idioma)
+    fechas = {e["id"]: _iso_desde_entrada(e) for e in entradas}
+    if idioma != "en" and not any(fechas.values()):
+        try:
+            fechas = {e["id"]: _iso_desde_entrada(e) for e in _ytdlp_entradas(channel_id, limite, "en")}
+        except ErrorYouTube:
+            pass
     videos = []
-    for e in (info or {}).get("entries") or []:
-        vid = e.get("id")
-        if not vid:
+    for e in entradas:
+        if e.get("live_status") in ("is_upcoming", "is_live"):
             continue
-        videos.append({"video_id": vid, "titulo": e.get("title") or "",
-                       "url": url_video(vid), "publicado": "",
-                       "duracion": e.get("duration"), "es_short": False, "descripcion": ""})
-    return videos
+        vid = e["id"]
+        videos.append({"video_id": vid, "titulo": e.get("title") or "", "url": url_video(vid),
+                       "publicado": fechas.get(vid, ""), "duracion": e.get("duration"),
+                       "es_short": False, "descripcion": (e.get("description") or "")[:500]})
+    return videos[:limite]
+
+
+def _recorrer(obj):
+    if isinstance(obj, dict):
+        yield obj
+        for v in obj.values():
+            yield from _recorrer(v)
+    elif isinstance(obj, list):
+        for v in obj:
+            yield from _recorrer(v)
+
+
+def videos_html(channel_id: str, limite: int = 15, idioma: str = "") -> list[dict]:
+    """Último recurso: lee la página /videos del canal (sin dependencias)."""
+    import json  # noqa: PLC0415
+    r = _get(f"https://www.youtube.com/channel/{channel_id}/videos",
+             params={"hl": idioma or "es"})
+    if r.status_code != 200:
+        raise ErrorYouTube(f"página del canal: HTTP {r.status_code}")
+    m = re.search(r"var ytInitialData\s*=\s*(\{.*?\});\s*</script>", r.text, re.S)
+    if not m:
+        raise ErrorYouTube("página del canal sin datos")
+    datos = json.loads(m.group(1))
+    videos, vistos = [], set()
+    for d in _recorrer(datos):
+        vid = titulo = cuando = None
+        if "videoRenderer" in d:
+            v = d["videoRenderer"]
+            vid = v.get("videoId")
+            titulo = "".join(x.get("text", "") for x in v.get("title", {}).get("runs", []))
+            cuando = (v.get("publishedTimeText") or {}).get("simpleText", "")
+            if v.get("upcomingEventData"):
+                continue
+        elif "lockupViewModel" in d and d["lockupViewModel"].get("contentType", "").endswith("VIDEO"):
+            v = d["lockupViewModel"]
+            vid = v.get("contentId")
+            meta = v.get("metadata", {}).get("lockupMetadataViewModel", {})
+            titulo = meta.get("title", {}).get("content", "")
+            textos = [p.get("text", {}).get("content", "") for f in
+                      meta.get("metadata", {}).get("contentMetadataViewModel", {}).get("metadataRows", [])
+                      for p in f.get("metadataParts", [])]
+            cuando = next((t for t in textos if re.search(r"\d+\s+\w+", t) and ("hace" in t or "ago" in t)), "")
+        if vid and vid not in vistos:
+            vistos.add(vid)
+            videos.append({"video_id": vid, "titulo": titulo or "", "url": url_video(vid),
+                           "publicado": _fecha_relativa(cuando), "es_short": False, "descripcion": ""})
+    if not videos:
+        raise ErrorYouTube("no se encontraron vídeos en la página del canal")
+    return videos[:limite]
+
+
+def listar_videos(channel_id: str, limite: int = 15, idioma: str = "") -> list[dict]:
+    """Vídeos recientes del canal: RSS (fechas exactas) -> yt-dlp -> página web.
+    YouTube a veces deja de servir el RSS; por eso hay alternativas."""
+    errores = []
+    for metodo in (leer_feed, videos_ytdlp, videos_html):
+        try:
+            videos = metodo(channel_id) if metodo is leer_feed else metodo(channel_id, limite, idioma)
+            if videos:
+                return videos[:limite]
+        except Exception as e:  # noqa: BLE001
+            errores.append(f"{metodo.__name__}: {str(e)[:120]}")
+    raise ErrorYouTube("No se pudieron listar los vídeos (" + " | ".join(errores) + ")")
+
+
+def mas_videos(channel_id: str, limite: int = 50, idioma: str = "") -> list[dict]:
+    """Más vídeos del canal (hasta `limite`)."""
+    try:
+        return videos_ytdlp(channel_id, limite, idioma)
+    except ErrorYouTube:
+        return videos_html(channel_id, limite, idioma)
 
 
 def info_video(video_id: str) -> dict:

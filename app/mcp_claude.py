@@ -66,7 +66,7 @@ def videos_recientes(canal: str, incluir_estado: bool = True) -> list[dict]:
     if not cid:
         cid = youtube.info_canal(canal)["channel_id"]
     salida = []
-    for v in youtube.leer_feed(cid):
+    for v in youtube.listar_videos(cid, 15, (c or {}).get("idioma") or ""):
         if v["es_short"]:
             continue
         d = {"video_id": v["video_id"], "titulo": v["titulo"], "publicado": v["publicado"],
