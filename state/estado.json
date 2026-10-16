@@ -439,19 +439,13 @@
   "zoUHJ6eB6IY": "2026-10-16T06:48:09.887583+00:00",
   "4x14kIP_z7o": "2026-10-16T06:49:00.439772+00:00",
   "aW9a3O2XNho": "2026-10-16T06:55:42.202871+00:00",
-  "b1hdrKop638": "2026-10-16T11:31:46.092280+00:00"
+  "b1hdrKop638": "2026-10-16T11:31:46.092280+00:00",
+  "TgUWzP_9IvY": "2026-10-16T21:17:20.297000+00:00",
+  "DkWjSiGiBpw": "2026-10-16T21:17:56.881520+00:00",
+  "EjIq9w9Ji_M": "2026-10-16T21:18:47.428799+00:00",
+  "TANOGhUP7I8": "2026-10-16T21:20:03.166613+00:00"
  },
  "cola": [
-  {
-   "video_id": "TANOGhUP7I8",
-   "titulo": "La Deuda Oculta de los Hyperscalers Empieza a Salir a la Luz",
-   "url": "https://www.youtube.com/watch?v=TANOGhUP7I8",
-   "publicado": "2026-10-02T00:00:00+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  },
   {
    "video_id": "Ej40W58ch4o",
    "titulo": "Nunca Habíamos Visto Subir los Bonos Así en Seis Países a la Vez",
@@ -603,16 +597,6 @@
    "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
   },
   {
-   "video_id": "DkWjSiGiBpw",
-   "titulo": "El rebote del gato muerto - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=DkWjSiGiBpw",
-   "publicado": "2026-10-16T16:34:17+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
-  },
-  {
    "video_id": "o8SO0yvsY6Y",
    "titulo": "Sigue el temor a las neoclouds-  Media sesión Cárpatos",
    "url": "https://www.youtube.com/watch?v=o8SO0yvsY6Y",
@@ -620,16 +604,6 @@
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 0,
-   "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
-  },
-  {
-   "video_id": "EjIq9w9Ji_M",
-   "titulo": "Argentina: El Oro de su Banco Central. Se Espera una Gran Subida. José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=EjIq9w9Ji_M",
-   "publicado": "2026-10-16T12:13:00+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
    "en_cola_desde": "2026-10-16T16:43:49.468202+00:00"
   }
  ],

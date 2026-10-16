@@ -1,0 +1,158 @@
+{
+  "video_id": "DkWjSiGiBpw",
+  "url": "https://www.youtube.com/watch?v=DkWjSiGiBpw",
+  "titulo": "El rebote del gato muerto - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-16T16:34:17+00:00",
+  "fecha_resumen": "2026-10-16T21:17:54.158347+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la sesión bursátil advirtiendo de que las subidas recientes correspondían a un rebote del gato muerto típico de fases de mercado complejas y asimétricas. El foco de tensión se concentra en la deuda de alto rendimiento ligada a centros de datos e inteligencia artificial, donde los diferenciales de crédito se han disparado y el riesgo de impago aumenta. Mientras los grandes índices tecnológicos sufren, el mercado amplio y el S&P 500 equiponderado muestran estabilidad. Paralelamente, las presiones inflacionistas procedentes del petróleo y los precios de importación reavivan las expectativas de nuevas subidas de tipos de interés.",
+    "ideas_clave": [
+      "Los rebotes recientes han resultado ser 'rebotes del gato muerto', continuando las caídas en los principales índices por falta de tracción de los 7 Magníficos.",
+      "Crisis incipiente en el crédito de inteligencia artificial: los CDS a 5 años de CoreWeave descuentan una probabilidad de impago del 60%, con diferenciales HY de IA disparados a 375 puntos básicos (125 pb por encima del HY tradicional).",
+      "El sector de centros de datos afronta cuellos de botella severos, incluyendo exceso de capacidad planificada, falta de suministro eléctrico y creciente oposición vecinal.",
+      "El mercado amplio no sufre contagio por el momento: el ETF S&P 500 Equal Weight (RSP) y los futuros del Dow Jones se mantienen prácticamente planos.",
+      "Datos de inflación preocupantes: los precios de importación en EE. UU. suben un 1,1% mensual (un 6% interanual excluyendo combustibles), reflejando transmisión del encarecimiento energético.",
+      "Tensión sostenida en materias primas energéticas: el crudo WTI cotiza cerca de 100 dólares (99,35 $) y el Brent en 107,55 $, mientras el diésel no cede pese a la liberación de reservas por la AIE.",
+      "Barclays proyecta subidas de tipos de 25 pb en diciembre y 25 pb en enero, escenario que Cárpatos considera muy probable e incluso no descarta 50 pb en diciembre si la inflación empeora.",
+      "Análisis de JPMorgan sobre las elecciones: el mercado históricamente rinde mejor con un Congreso dividido/bloqueado (+20% a +25%) que con el control absoluto de un solo partido (+18%)."
+    ],
+    "tesis_principal": "La corrección actual está focalizada en los excesos de financiación y deuda de la inteligencia artificial y centros de datos, mientras que las presiones inflacionistas derivadas de la energía amenazan con forzar mayores subidas de tipos de interés.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Bonos y renta fija",
+      "Liquidez y crédito",
+      "Inflación",
+      "Energía y petróleo",
+      "Fed y tipos de interés EE. UU.",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Dow Jones",
+      "Russell 2000",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "STOXX Europe 600",
+      "CoreWeave",
+      "NVIDIA",
+      "Apple",
+      "Tesla",
+      "Petróleo WTI",
+      "Petróleo Brent",
+      "Diésel / Heating Oil",
+      "Oro",
+      "Bitcoin",
+      "Bono del Tesoro estadounidense a 10 años",
+      "Bund alemán"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Fuertes caídas en bolsa y crisis crediticia en el segmento 'neocloud' y centros de datos por sobreendeudamiento y dudas sobre rentabilidad."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Ampliación vertical de los spreads de bonos basura vinculados a IA y aplazamiento de emisiones corporativas."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Pérdidas acusadas en los índices ponderados por capitalización, aunque el mercado equiponderado y tradicional resiste lateral."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El crudo y el diésel se mantienen en niveles máximos cercanos a los 100 dólares por barril ante el escepticismo sobre un acuerdo de paz."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Los precios de importación y el diésel amenazan con una aceleración inflacionaria en los próximos meses."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Previsión de subidas adicionales de tipos de 25 pb en diciembre y enero, o incluso 50 pb si la inflación repunta."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "El Mini S&P 500 se mantiene atrapado en un rango lateral con resistencia en 7.800 puntos y soporte crítico en 7.700."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal subirá tipos 25 pb en diciembre y otros 25 pb en enero (previsión de Barclays respaldada por el autor), sin descartar 50 pb en diciembre si la inflación se dispara.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "sube",
+        "horizonte": "diciembre 2024 / enero 2025",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El dato de IPC reciente no será el peor que se verá en los próximos meses debido a la transmisión del coste de combustibles.",
+        "activo_o_variable": "IPC / Inflación en EE. UU.",
+        "direccion": "sube",
+        "horizonte": "próximos meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "No se construirán ni la mitad de los centros de datos proyectados debido a problemas de red eléctrica, rentabilidad y oposición vecinal.",
+        "activo_o_variable": "Proyectos de Data Centers de IA",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El Mini S&P 500 mantendrá sesgo bajista intradía a corto plazo mientras no supere la resistencia de 7.800 puntos.",
+        "activo_o_variable": "Futuro Mini S&P 500",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El CDS a 5 años de CoreWeave cotiza por encima de 1.000 puntos básicos, reflejando una probabilidad implícita de quiebra del 60%.",
+      "El diferencial de crédito de los bonos High Yield ligados a IA ha subido a 375 pb, 125 pb por encima de la deuda High Yield general (250 pb).",
+      "Los spreads de bonos de centros de datos rozan los 425 puntos básicos.",
+      "El ETF RSP (S&P 500 Equal Weight) apenas cayó un 0,08%, demostrando que la caída no afecta al mercado amplio.",
+      "La producción industrial en EE. UU. subió un 0,7% frente al 0,4% previsto, impulsada por un repunte anualizado del 28,4% en semiconductores.",
+      "Los precios de importación subieron un 1,1% en el mes; sin combustibles se incrementaron un 0,7% mensual y un 6% interanual.",
+      "El petróleo WTI se situó en 99,35 $/barril y el Brent en 107,55 $/barril.",
+      "En 2006, George W. Bush contaba con un 39% de aprobación (similar al 37% de Trump) y su partido sumó 31 escaños en la Cámara y 6 en el Senado.",
+      "El Mini S&P 500 encuentra resistencia técnica en 7.800 puntos (medias de 50 y 200 en gráfico horario) y soporte en 7.700."
+    ],
+    "riesgos_mencionados": [
+      "Impagos y quiebras en empresas de IA marginales y Neocloud cargadas de deuda de alto coste.",
+      "Pinchazo de la inversión en centros de datos por falta de suministro eléctrico y protestas sociales.",
+      "Efectos de segunda ronda de la energía sobre la inflación general y subyacente.",
+      "Riesgo de nuevas subidas agresivas de tipos por parte de los bancos centrales.",
+      "Pérdida del soporte técnico de 7.700 puntos en el Mini S&P 500, lo que agravaría las caídas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

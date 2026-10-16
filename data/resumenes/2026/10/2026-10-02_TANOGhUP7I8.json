@@ -1,0 +1,130 @@
+{
+  "video_id": "TANOGhUP7I8",
+  "url": "https://www.youtube.com/watch?v=TANOGhUP7I8",
+  "titulo": "La Deuda Oculta de los Hyperscalers Empieza a Salir a la Luz",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-02T00:00:00+00:00",
+  "fecha_resumen": "2026-10-16T21:20:00.432054+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Antonio Hidalgo analiza cómo el descomunal gasto en infraestructura de inteligencia artificial está obligando a los gigantes tecnológicos ('hyperscalers') a recurrir a deuda masiva y estructuras fuera de balance ('SPVs'). Destaca el caso de Oracle, cuyos bonos y CDS se han tensionado tras invocar fuerza mayor en un centro de datos, y el de Meta, que oculta decenas de miles de millones en compromisos de deuda a través de sociedades conjuntas. Además, advierte del riesgo que supone la caída en el precio del token y la reducción del ROIC frente a la competencia de modelos de IA chinos más eficientes y económicos.",
+    "ideas_clave": [
+      "La amplitud de mercado muestra debilidad oculta con 9 sesiones consecutivas donde los mínimos de 52 semanas superan a los máximos, pese a las subidas del S&P 500 y Nasdaq.",
+      "El capex proyectado para los hyperscalers ha aumentado un 66% (hasta 754.000 millones de dólares), estimándose que el gasto en infraestructura de IA alcanzará un 3,63% del PIB estadounidense.",
+      "El flujo de caja libre de los gigantes tecnológicos ha pasado a ser insuficiente, forzándolos a emitir volúmenes récord de deuda en el mercado de grado de inversión.",
+      "Existen más de 3 billones de dólares en compromisos fuera de balance (SPVs, arrendamientos operativos y compromisos de compra) que no figuran directamente en los balances de empresas como Meta, Alphabet o Microsoft.",
+      "Meta ha estructurado proyectos como Beignet (Data Center Hyperion) con 28.000 millones de dólares en deuda vía Blue Owl y SPVs, garantizando alquileres y valor residual sin consolidar toda la deuda en su balance directo.",
+      "Oracle afronta tensiones financieras graves tras alegar 'fuerza mayor' en Nuevo México: sus CDS están en máximos y sus bonos rinden por encima del 8%, al borde de la calificación de bono basura.",
+      "El negocio de la IA afronta una pinza económica (P*Q): mientras la demanda de tokens sube, su precio se desploma y el ROIC cae, amenazado por el bajo coste de competidores chinos (como DeepSeek o Kimi) y la posible obsolescencia acelerada de las GPUs.",
+      "En noticias corporativas, Costco superó expectativas en su 4T (ventas comparables +7,2% ex-gasolina y divisa), mientras que Meta muestra fuerte tracción con su nuevo agente de IA 'Muse'."
+    ],
+    "tesis_principal": "Bajo la superficie de las grandes tecnológicas se está gestando una burbuja de deuda oculta fuera de balance para financiar una infraestructura de IA de retorno incierto, lo que podría desembocar en un evento de estrés crediticio si los precios de los tokens continúan cayendo y las GPUs quedan obsoletas antes de amortizarse.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Liquidez y crédito",
+      "Resultados empresariales",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq Composite",
+      "US 10-Year Treasury",
+      "Petróleo Brent",
+      "Oracle (ORCL)",
+      "Meta Platforms (META)",
+      "Microsoft (MSFT)",
+      "Alphabet (GOOGL)",
+      "Amazon (AMZN)",
+      "Nvidia (NVDA)",
+      "Costco (COST)"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El modelo financiero del capex en IA muestra signos de agotamiento por caída del ROIC, deflación en el coste de los tokens y costes desmesurados."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "La rentabilidad del bono a 10 años estadounidense sigue en niveles muy altos y los diferenciales crediticios de las tecnológicas se están deteriorando notablemente."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Alerta de que el uso masivo de SPVs y deuda fuera de balance para data centers recuerda a la génesis de crisis crediticias previas como la de 2008."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "A pesar de las subidas semanales en los índices principales, la amplitud de mercado es muy pobre y se perciben grietas internas."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Costco presentó resultados sólidos batiendo previsiones de ingresos y beneficios, y el nuevo agente Muse de Meta experimenta un fuerte ritmo de descargas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El capex en infraestructura de IA seguirá creciendo con fuerza hacia 2026-2027 y al menos un 35% del capex de 2027 tendrá que ser financiado enteramente con deuda.",
+        "activo_o_variable": "Capex y deuda de Hyperscalers",
+        "direccion": "sube",
+        "horizonte": "2026-2027",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los bonos de Oracle de 2056 con cupón del 6,7% continuarán presionados y podrían ser degradados a bono basura si no solucionan sus compromisos crediticios.",
+        "activo_o_variable": "Bonos de Oracle",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Las empresas de IA estadounidenses presionarán a los reguladores para restringir la entrada de modelos chinos baratos con la excusa de la seguridad.",
+        "activo_o_variable": "Regulación de inteligencia artificial",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice Fear & Greed subió a 37 puntos pero sigue instalado en zona de miedo.",
+      "El rendimiento del bono del Tesoro estadounidense a 10 años se sitúa en máximos de 25 años, niveles no vistos desde 2001.",
+      "El crudo Brent cerró la semana por encima de los 100 dólares tras el rechazo de Trump a una tregua de siete días con Irán.",
+      "El consenso de capex para 2026 de los seis grandes hyperscalers se ha disparado de 454.000 millones a 754.000 millones de dólares (+66%).",
+      "Moody's y WSJ advierten de más de 3 billones de dólares en compromisos fuera de balance no reflejados en los balances de los gigantes tecnológicos.",
+      "En el proyecto Hyperion de Meta, 23.040 millones de los 28.800 millones provienen de deuda financiada por un vehículo sindicado (80% propiedad de Blue Owl/fondos y solo 20% filial de Meta).",
+      "Los bonos vinculados a centros de datos de Meta cayeron de calificación A a rendimientos del 7,4% - 7,5% (nivel B2/B).",
+      "Costco reportó en el 4T ingresos de 95.720 millones frente a 94.860 esperados y BPA de 6,75 dólares frente a 6,53 estimados."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de deuda y rebaja a bono basura (junk bond) para hyperscalers sobreapalancados como Oracle.",
+      "Obsolescencia técnica prematura de las GPUs en un plazo de 3 a 5 años, invalidando los planes de amortización a 15-25 años.",
+      "Deflación acelerada del precio de los tokens de IA que impida a las empresas alcanzar el punto de equilibrio (breakeven).",
+      "Competencia de modelos chinos de código abierto que operan con costes de desarrollo e inferencia hasta diez veces menores.",
+      "Riesgos de refinanciación por tipos de interés elevados y ampliación de diferenciales de crédito en deuda tecnológica corporativa.",
+      "Contagio sistémico hacia los más de 20 bancos comerciales que sindican y financian la deuda de las SPVs de IA."
+    ],
+    "participantes": [
+      "Antonio Hidalgo",
+      "Edgar Fernández (mencionado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
