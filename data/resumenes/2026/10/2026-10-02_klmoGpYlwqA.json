@@ -1,0 +1,89 @@
+{
+  "video_id": "klmoGpYlwqA",
+  "url": "https://www.youtube.com/watch?v=klmoGpYlwqA",
+  "titulo": "Cómo Encontrar OPORTUNIDADES en Sectores Completamente Hundidos",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-02T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T10:51:34.397174+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo explica la metodología para identificar suelos y valles de ciclo en sectores deprimidos, centrándose especialmente en materias primas. Se analiza el caso histórico del uranio tras Fukushima, donde el cierre de minas y la desaparición de vehículos de inversión anticiparon un fuerte ciclo alcista. Finalmente, se evalúa la situación actual del mercado petrolífero y el sector de perforación offshore, el cual se encuentra en fase de consolidación y saneamiento financiero sin adición de nueva oferta.",
+    "ideas_clave": [
+      "Indicadores de suelo de ciclo: desaparición o reducción drástica de ETFs sectoriales, ausencia de nuevos proyectos mineros o de perforación y productores operando por debajo de costes o cerrando capacidad.",
+      "El poder de las narrativas contrarias: en el valle del ciclo la narrativa institucional suele ser extremadamente pesimista o de rechazo, pese a que los fundamentales de oferta y demanda muestren un déficit futuro evidente.",
+      "Caso del uranio: tras caer a 20 dólares y quebrar gran parte de las cotizadas del sector, la reapertura paulatina de reactores, contratos de suministro y la compra de inventarios físicos (Sprott, Yellow Cake) catalizaron el rally hacia los 80-90 dólares.",
+      "El sector petrolífero general se encuentra en una parte media-alta de ciclo con precios en torno a 100 dólares sostenidos por restricciones de oferta geopolíticas y de infraestructura.",
+      "El sector de perforación petrolífera offshore está en fase media de ciclo tras el colapso iniciado en 2014-2016; las empresas supervivientes se han reestructurado, se están fusionando (como Transocean o Noble) y no encargan nuevos barcos por los elevados costes (más de 1.000 millones de dólares por unidad)."
+    ],
+    "tesis_principal": "Las mayores oportunidades de inversión en materias primas surgen en los valles de ciclo cuando la narrativa es hostil, la oferta se destruye por quiebras y falta de capital, y los precios deprimidos impiden la inversión hasta generar un desfase estructural con la demanda.",
+    "temas": [
+      "Materias primas",
+      "Energía y petróleo",
+      "Value investing",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Uranio",
+      "Petróleo",
+      "Carbón",
+      "Cameco",
+      "Kazatomprom",
+      "Sprott Physical Uranium Trust",
+      "Yellow Cake",
+      "Transocean",
+      "Noble Corporation"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Materias primas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Identifica dinámicas de oferta restringida y falta de inversión acumulada que favorecen retornos atractivos en valles y medias fases de ciclo."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Considera que el subsector offshore está saneado, en plena consolidación y con catalizadores claros como desapalancamiento y futuros dividendos sin riesgo de sobreoferta de buques."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Empresas del sector de perforación offshore van a terminar de pagar deuda este año o el que viene y comenzarán a repartir mayores dividendos.",
+        "activo_o_variable": "Sector offshore / perforación marina",
+        "direccion": "sube",
+        "horizonte": "1-2 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La demanda futura de uranio va a seguir aumentando por la construcción y reactivación de reactores nucleares a nivel global.",
+        "activo_o_variable": "Demanda de uranio",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El precio del uranio pasó de mínimos de 20 dólares durante el suelo del ciclo a rondar los 80-90 dólares tras el rebalanceo de oferta y demanda.",
+      "China tiene en construcción o planificados más de 100 reactores nucleares.",
+      "Un barco de perforación offshore de séptima generación para aguas ultraprofundas cuesta alrededor de 1.000 millones de dólares, coste inasumible para empresas con capitalizaciones inferiores a 10.000-20.000 millones sin contratos garantizados de muy largo plazo."
+    ],
+    "riesgos_mencionados": [
+      "Problemas y restricciones de suministro en el transporte y exportación internacional.",
+      "Altos costes de reposición y necesidad de tarifas diarias muy superiores para justificar inversiones en nueva capacidad en offshore."
+    ],
+    "participantes": [
+      "Presentador de Inversión Racional",
+      "Invitado / Gestor de Inversión Racional"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "video_id": "YghDYhJsv-Y",
+  "url": "https://www.youtube.com/watch?v=YghDYhJsv-Y",
+  "titulo": "Cómo Detectar OPORTUNIDADES en Petróleo, Minería, Oro, Cobre y Uranio - Albert Mendoza",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-02T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T10:53:56.684678+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Albert Mendoza, inversor especializado en materias primas y asesor del fondo Gerunda Global, explica su enfoque de inversión centrado en sectores cíclicos y empresas productoras de recursos naturales. Analiza la dinámica de oferta y demanda en materias primas como petróleo, uranio, oro, estaño, niobio y carbón, destacando cómo los ciclos de desinversión en capex crean oportunidades asimétricas. Asimismo, detalla tesis concretas en empresas productoras y modelos de royalties o streaming, subrayando la importancia de buscar catalizadores que liberen valor.",
+    "ideas_clave": [
+      "La inversión en materias primas debe regirse por el ciclo de capital: cuando el precio se hunde, las minas y pozos marginales quiebran, se reduce el capex y la oferta colapsa, sentando las bases para el siguiente ciclo alcista.",
+      "En el sector petrolero, el declino anual de la producción mundial ronda el 7-8% (equivalente a reponer la producción de Arabia Saudí cada año), mientras el 'shale' estadounidense muestra signos de agotamiento y mayor gasificación en cuencas clave como Permian.",
+      "Albert destaca oportunidades específicas en petróleo como Valeura Energy (productora en Tailandia con 100M$ de FCF trimestral cotizando a EV/FCF de ~2x) y la solidez de asignación de capital histórica de IPCO.",
+      "En el uranio, el déficit estructural persiste debido a la reactivación nuclear global y la falta de nuevas minas; considera que el dinero fácil ya se hizo, pero ve valor en vehículos físicos como el Sprott Physical Uranium Trust o 'developers' de calidad como NexGen Energy.",
+      "Para el oro, con costes de extracción de 1.000$ a 1.200$/onza y precios por encima de 2.000$/onza, las mineras disfrutan de márgenes extraordinarios, prefiriendo desarrolladores australianos con alto TIR o mineras con catalizadores claros como West African Resources.",
+      "En metales industriales e inversiones asimétricas, menciona nichos con oferta concentrada como Alphamin (estaño en RDC) y oportunidades de niobio en Australia, así como el modelo defensivo y 'asset-light' de las empresas de royalties (Franco-Nevada) y streams."
+    ],
+    "tesis_principal": "Invertir en empresas cíclicas de materias primas en momentos de infravaloración o con catalizadores operativos y financieros claros permite obtener retornos asimétricos muy superiores al mercado, siempre que se analice a fondo el equipo directivo, el riesgo jurisdiccional y la asignación de capital.",
+    "temas": [
+      "Energía y petróleo",
+      "Oro y metales",
+      "Materias primas",
+      "Value investing",
+      "Small caps",
+      "Geopolítica",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Petróleo (Brent/WTI)",
+      "Oro",
+      "Plata",
+      "Uranio",
+      "Cobre",
+      "Estaño",
+      "Platino",
+      "Paladio",
+      "Niobio",
+      "Carbón térmico y metalúrgico",
+      "Valeura Energy",
+      "International Petroleum Corp (IPCO)",
+      "West African Resources",
+      "Alphamin Resources",
+      "Franco-Nevada",
+      "Wheaton Precious Metals",
+      "Lundin Gold",
+      "NexGen Energy",
+      "Cameco",
+      "Sprott Physical Uranium Trust",
+      "Adriatic Metals",
+      "S&P 500"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.65,
+        "justificacion": "Existe un declino natural del 7-8% anual de la producción global, límites de expansión en el shale de EE. UU. y falta de inversión estructural en exploración internacional."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Las mineras de oro presentan márgenes de flujo de caja históricos y los déficits fiscales globales mantendrán la depreciación de las monedas fiduciarias a largo plazo."
+      },
+      {
+        "tema": "Materias primas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Múltiples materias primas (uranio, estaño, platino) sufren problemas graves de oferta y cuellos de botella tras años de baja inversión en capex."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Mendoza defiende que buscar empresas con directivas alineadas, alto flujo de caja libre y valoraciones deprimidas bate consistentemente al mercado en el largo plazo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El precio del oro seguirá en tendencia estructuralmente alcista a largo plazo debido a los déficits fiscales crónicos de los gobiernos y la continua devaluación monetaria.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La producción de crudo en la cuenca Permian terminará replicando el agotamiento de Eagle Ford y Bakken, acelerando la gasificación de los pozos y limitando el crecimiento de crudo de EE. UU.",
+        "activo_o_variable": "Producción de petróleo en EE. UU. (Permian Basin)",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El dividendo de Alphamin Resources será superior al 20% a final de año gracias a la solidez de sus márgenes con los precios actuales del estaño.",
+        "activo_o_variable": "Dividendo de Alphamin Resources",
+        "direccion": "sube",
+        "horizonte": "final de año",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La tasa de declino natural de los yacimientos petrolíferos mundiales se sitúa entre el 7% y el 8% anual, lo que obliga a reponer entre 7 y 8 millones de barriles diarios cada año.",
+      "Valeura Energy capitaliza unos 1.200 millones de dólares, cuenta con más de 300 millones en caja neta y generó 100 millones de dólares de free cash flow en su último trimestre.",
+      "En minería de oro, con costes 'all-in sustaining costs' (AISC) de 1.000$ a 1.200$ por onza, los precios elevados generan márgenes operativos comparables a empresas tecnológicas.",
+      "Sprott Physical Uranium Trust cotiza periódicamente con descuentos del 10% respecto a su Net Asset Value (NAV), ofreciendo una vía líquida y con menor riesgo operativo para exponerse al uranio físico.",
+      "Los coches híbridos consumen entre 7 y 8 gramos de metales del grupo del platino (PGMs) frente a los 4-5 gramos de los de combustión pura, lo que contrarresta la narrativa bajista sobre el platino y paladio."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo geopolítico y expropiatorio en jurisdicciones frontera como Burkina Faso, República Democrática del Congo o Tailandia.",
+      "Riesgo de mala asignación de capital por directivas que se endeudan en el pico del ciclo para acometer capex improductivo.",
+      "Alta volatilidad intrínseca en activos cíclicos que exige tolerancia psicológica y control riguroso del tamaño de posición.",
+      "Riesgo de dilución y fracaso técnico en empresas de exploración minera en etapas tempranas ('tickets de lotería')."
+    ],
+    "participantes": [
+      "Albert Mendoza",
+      "Luis Miguel (Inversión Racional)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

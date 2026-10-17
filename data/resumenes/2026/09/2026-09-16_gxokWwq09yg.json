@@ -1,0 +1,142 @@
+{
+  "video_id": "gxokWwq09yg",
+  "url": "https://www.youtube.com/watch?v=gxokWwq09yg",
+  "titulo": "El Plan de Bessent para los Bonos que no Está Funcionando",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-09-16T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T10:52:18.880162+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Antonio Hidalgo analiza el panorama macroeconómico y de mercado marcado por una inflación en EE. UU. que repunta al 3,4% y eleva la probabilidad de subida de tipos de la Fed al 90%. Advierte de la fuerte presión sobre la administración Trump y los mercados de bonos debido al petróleo por encima de 100 dólares y al desarme del 'carry trade' japonés tras el giro del Banco de Japón. Además, examina las caídas post-resultados de Oracle y Adobe a pesar de batir números y analiza la situación operativa y de demanda en centros de datos de IA con IREN y Anthropic.",
+    "ideas_clave": [
+      "El IPC general en EE. UU. repuntó al 3,4% interanual (+0,4% mensual) y el subyacente al 2,4% (+0,3% mensual), elevando al 90% la probabilidad de que la Fed retome las subidas de tipos de interés.",
+      "El petróleo se sitúa por encima de 100 dólares por barril debido al cierre del oleoducto saudí por daños, las tensiones en el estrecho de Ormuz y el aumento de importaciones de crudo por parte de China.",
+      "El plan de recompra y aplanamiento de curva de bonos del Tesoro estadounidense no está funcionando; el Banco de Japón al subir tipos incentiva la repatriación de capitales, vendiendo deuda de EE. UU. e impulsando los rendimientos al alza.",
+      "Oracle superó previsiones de ingresos (+30% interanual) y BPA non-GAAP (+30% a 1,92 $), pero cayó un 5% penalizada por un flujo de caja libre negativo (-5.400 M$), contracción del margen bruto y el anuncio de venta de acciones por 7.500 M$ de Larry Ellison.",
+      "Adobe batió estimaciones con 6.760 M$ de ingresos (+13%) y márgenes operativos del 44%, pero cayó un 8,3% semanal debido a la desaceleración del crecimiento del RPO (+8%) y una guía conservadora por su transición 'freemium' en IA.",
+      "En infraestructura de IA, la dirección de IREN destaca que los inversores y clientes ya no premian anuncios de megacontratos sino la ejecución y entrega inmediata de centros de datos, con bancos financiando hasta el 100% del coste de las GPU."
+    ],
+    "tesis_principal": "La reactivación de la inflación impulsada por el petróleo caro y la retirada de liquidez del 'carry trade' japonés están disparando los rendimientos de los bonos y amenazan la estabilidad bursátil de EE. UU., obligando a las empresas tecnológicas a demostrar ejecución financiera tangible frente a meras promesas de IA.",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Otros bancos centrales",
+      "Geopolítica",
+      "Resultados empresariales",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Petróleo (Brent)",
+      "Bono de EE. UU. a 10 años",
+      "Bono de EE. UU. a 30 años",
+      "Bono japonés a 10 años",
+      "USD/JPY",
+      "Oracle (ORCL)",
+      "Adobe (ADBE)",
+      "IREN (IREN)",
+      "AMD",
+      "Intel",
+      "Nvidia",
+      "Anthropic",
+      "Apple",
+      "Tesla",
+      "Amazon",
+      "Meta",
+      "Palantir"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El repunte de la inflación sitúa la probabilidad de subida de tipos de la Fed en el 90%, lo que endurece las condiciones financieras."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Las ventas de bonos estadounidenses por parte de inversores japoneses y el petróleo alto presionan los rendimientos al alza y hacen caer los precios de la deuda."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "El barril supera los 100 dólares impulsado por el bloqueo de infraestructuras en Oriente Medio y el aumento de demanda de China."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Los índices cierran en negativo con el sentimiento en zona de miedo y riesgo de corrección histórica ante ciclos de subidas de tipos."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Oracle y Adobe batieron números operativos, pero el mercado castigó sus flujos de caja, guías abiertas y desaceleración del RPO."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "La nube de IA y el uso de GPU continúan a niveles récord del 98%, con alta demanda corporativa y prefinanciación bancaria."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal probablemente subirá los tipos de interés en su próxima reunión de septiembre al descontar el mercado un 90% de probabilidad tras el mal dato de inflación.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La desconexión actual entre el precio del petróleo y la volatilidad del crudo (OVX) obligará a que la volatilidad suba o a que el petróleo corrija a la baja.",
+        "activo_o_variable": "Petróleo y volatilidad OVX",
+        "direccion": "no aplica",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El endurecimiento del Banco de Japón continuará provocando la repatriación de capitales japoneses y la venta continuada de bonos del Tesoro de EE. UU.",
+        "activo_o_variable": "Rendimiento del bono de EE. UU. a 10 años",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El IPC general de agosto en EE. UU. subió un 3,4% interanual y un 0,4% mensual, impulsado principalmente por la energía y la gasolina (+3,8%).",
+      "El IPC subyacente se situó en el 2,4% interanual tras un aumento del 0,3% en el mes.",
+      "Históricamente, los primeros tres meses tras el inicio de un ciclo de subidas de tipos de la Fed arrojan una rentabilidad mediana negativa (-1% a -16%) para el S&P 500, siendo la energía el sector más beneficiado.",
+      "El oleoducto Este-Oeste de Arabia Saudí sufrió daños graves en 8 ubicaciones y fue cerrado, afectando el suministro junto a los problemas en el estrecho de Ormuz.",
+      "Oracle reportó ingresos del trimestre fiscal con un aumento del 30% interanual, pero su flujo de caja libre fue negativo en -5.400 M$ y el margen bruto se redujo 7,7 puntos porcentuales.",
+      "El uso de GPU de infraestructura en la nube de Oracle alcanzó el 97,9% y el RPO total subió a 664.000 M$ (+26.000 M$ en el trimestre).",
+      "Adobe logró ingresos de 6.760 M$ (+13% interanual) y un margen operativo del 44%, recomprando 9,5 millones de acciones en el trimestre por 2.230 M$."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de espiral inflacionaria sostenida por cotización del crudo por encima de 100 dólares.",
+      "Riesgo de contagio financiero global por desmantelamiento desordenado del 'carry trade' del yen.",
+      "Encarecimiento de los costes de financiación para el Tesoro de EE. UU. en pleno ciclo de refinanciación de deuda.",
+      "Impacto político adverso para la administración Trump de cara a las elecciones 'midterm' debido al coste del combustible y la caída de los bonos.",
+      "Riesgo de sobreinversión en infraestructuras de IA si la demanda final corporativa y la monetización de software se retrasan."
+    ],
+    "participantes": [
+      "Antonio Hidalgo"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

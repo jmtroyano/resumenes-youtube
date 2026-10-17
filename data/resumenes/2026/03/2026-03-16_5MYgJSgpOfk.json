@@ -1,0 +1,131 @@
+{
+  "video_id": "5MYgJSgpOfk",
+  "url": "https://www.youtube.com/watch?v=5MYgJSgpOfk",
+  "titulo": "💥Ray Dalio ADVIERTE: EL ORDEN MUNDIAL se ACABÓ, y tendrá GRAVES CONSECUENCIAS|👉Así se PROTEGE",
+  "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+  "handle": "@Artedeinvertir",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "value investing",
+  "fecha_publicacion": "2026-03-16T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T10:52:51.115618+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Alejandro Estebaranz analiza la advertencia de Ray Dalio sobre la ruptura del orden económico mundial establecido tras 1945 y las consecuencias de las crecientes tensiones geopolíticas financiadas con deuda e impresión monetaria. Ante este entorno inflacionario y de pérdida de valor del dinero fiat, Dalio recomienda desinvertir en activos tradicionales de papel y centrarse en activos tangibles e infraestructuras críticas. El análisis desglosa las compras y ventas del último informe 13F de Bridgewater Associates, destacando su rotación desde el software hacia la minería de oro y el hardware de semiconductores, con compras selectas en software excesivamente castigado.",
+    "ideas_clave": [
+      "Ray Dalio advierte de que el orden mundial tradicional ha desaparecido, lo que provocará conflictos financiados con deuda, mayor inflación, restricciones a la movilidad del capital y pérdida del poder adquisitivo de la liquidez.",
+      "Bridgewater ha vendido posiciones en grandes tecnológicas y plataformas como Uber, Alphabet, Meta y Microsoft para rotar el peso tecnológico del software a la infraestructura de hardware de IA.",
+      "Se incorporó Newmont (NEM) con una inversión de 230 millones de dólares para ganar exposición al oro físico como reserva de valor frente a la devaluación de las divisas fiduciarias, aprovechando su ratio de reemplazo de reservas del 132% y una valoración en mínimos históricos de 13x beneficios.",
+      "Inversión de 720 millones de dólares en Nvidia (NVDA), consolidándola como líder indiscutible en chips de inteligencia artificial frente a Intel y AMD, cotizando a 26x PER previsto con previsiones de crecimiento de ingresos superiores al 60%.",
+      "Entrada de 511 millones de dólares en Salesforce (CRM) tras un desplome injustificado por el miedo a la disrupción de la IA, cotizando a un mínimo histórico de 14x beneficios frente a su media histórica de 30-50x.",
+      "Inversión de 253 millones de dólares en Micron Technology (MU) para beneficiarse del déficit estructural de memorias DRAM necesarias para la inferencia en IA, dentro de un oligopolio con Samsung y SK Hynix con escasez prevista hasta 2028 y un PER forward de solo 10x."
+    ],
+    "tesis_principal": "El colapso del orden geopolítico y económico obliga a abandonar la liquidez y la renta fija tradicional para posicionarse en activos tangibles como el oro y en los cuellos de botella clave de la infraestructura tecnológica global, como semiconductores y memoria RAM.",
+    "temas": [
+      "Geopolítica",
+      "Inflación",
+      "Oro y metales",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Deuda pública y déficit",
+      "Resultados empresariales",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "Newmont (NEM)",
+      "Nvidia (NVDA)",
+      "Salesforce (CRM)",
+      "Micron Technology (MU)",
+      "SPDR S&P 500 ETF Trust (SPY)",
+      "Uber (UBER)",
+      "Alphabet (GOOGL)",
+      "Meta Platforms (META)",
+      "Microsoft (MSFT)",
+      "AMD (AMD)",
+      "Intel (INTC)",
+      "ServiceNow (NOW)",
+      "Samsung",
+      "SK Hynix",
+      "Oro",
+      "Dólar",
+      "Euro"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "Dalio subraya la ruptura definitiva del orden mundial de posguerra y el aumento de tensiones entre grandes bloques."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El gasto bélico y geopolítico financiado con deuda e impresión de dinero acelerará la devaluación de las divisas y el alza de precios."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.9,
+        "justificacion": "El oro actúa como la forma más pura de dinero refugio ante la depreciación coordinada de las monedas fiat mundiales."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "Demanda disparada y déficit de oferta en procesadores y memoria DRAM para IA con visibilidad de escasez hasta 2028."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.65,
+        "justificacion": "Oportunidades masivas en infraestructura física y en compañías de software integradas con clientes que cotizan a múltiplos deprimidos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El déficit y la estrechez en el suministro de memorias RAM para inteligencia artificial se mantendrán hasta el año 2028.",
+        "activo_o_variable": "Mercado de memorias DRAM / semiconductores de memoria",
+        "direccion": "sube",
+        "horizonte": "2028",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La inversión masiva de los hiperescaladores en infraestructura de IA crecerá por encima del 60% hacia 2026 superando los 600.000 millones de dólares en capex.",
+        "activo_o_variable": "Capex global en infraestructura de IA",
+        "direccion": "sube",
+        "horizonte": "2026",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La liquidez y el dinero fiat perderán valor por completo debido al aumento sostenido de la inflación financiada con deuda pública.",
+        "activo_o_variable": "Poder adquisitivo de divisas fiduciarias (USD, EUR)",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En el último año las divisas fiduciarias se han depreciado cerca de un 30% medidas frente al valor del oro.",
+      "Newmont cuenta con costes de extracción de aproximadamente 1.650 dólares por onza y reservas probadas para más de 40 años, cotizando a 13 veces beneficios frente a su media de 20x.",
+      "En el negocio de centros de datos e IA, Nvidia crece a ritmos próximos al 90% anual frente al 9% de Intel y la caída secuencial de ventas del 5% proyectada por AMD.",
+      "Salesforce prevé acelerar el crecimiento de sus ventas trimestrales del 9-10% actual hacia un 10-12%, cotizando a 14 veces beneficios cuando históricamente rondaba las 30-50 veces.",
+      "El precio de la memoria RAM DDR5 pasó de 120 dólares a cerca de 400 dólares ante la reducción de inventarios a menos de 4 semanas en algunos fabricantes.",
+      "Micron cotiza a 10 veces beneficios futuros proyectando un crecimiento de beneficios por acción de más del 300% interanual."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de que el auge en memorias RAM sea un ciclo puramente especulativo: si la inversión en IA se modera, los beneficios y cotizaciones caerán con brusquedad.",
+      "Dilución oculta de accionistas en empresas de software mediante remuneración basada en acciones (Stock-Based Compensation), como en ServiceNow.",
+      "Controles de capital, subidas fiscales y restricciones a la movilidad del dinero por parte de los estados para financiar sus gastos crecientes."
+    ],
+    "participantes": [
+      "Alejandro Estebaranz",
+      "Ray Dalio (citado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
