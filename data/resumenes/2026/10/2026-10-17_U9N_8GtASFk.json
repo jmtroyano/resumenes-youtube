@@ -1,0 +1,65 @@
+{
+  "video_id": "U9N_8GtASFk",
+  "url": "https://www.youtube.com/watch?v=U9N_8GtASFk",
+  "titulo": "El Dato que Cambia Cómo Entendemos la DEUDA de Estados Unidos",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-17T18:00:09+00:00",
+  "fecha_resumen": "2026-10-17T20:41:25.844890+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Daniel Baeza y Luis Miguel analizan la validez de la métrica deuda pública frente al PIB, argumentando que suele ser un ratio engañoso al comparar una variable de stock acumulado con un flujo anual de ingresos. Baeza propone evaluar el endeudamiento frente a los activos totales o la riqueza neta del país, siguiendo la tesis del analista Cullen Roche. Bajo este prisma, la deuda estadounidense de aproximadamente 40 billones de dólares queda respaldada por una riqueza neta privada de 196 billones y activos gubernamentales estimados en cerca de 250 billones.",
+    "ideas_clave": [
+      "El ratio deuda/PIB es metodológicamente imperfecto porque compara un stock de deuda acumulado durante décadas con el PIB, que es un flujo de producción o ingreso de un solo año.",
+      "Los gobiernos no tienen la intención de pagar la totalidad de su deuda pública, sino de refinanciarla de manera recurrente.",
+      "Tomando la tesis de Cullen Roche, una métrica más adecuada de solvencia es comparar deuda frente a activos, equiparándolo al análisis de balance que hace un banco.",
+      "Frente a una deuda federal de aproximadamente 40 billones de dólares, la riqueza financiera e inmobiliaria neta de los hogares estadounidenses alcanza los 196 billones.",
+      "El propio gobierno estadounidense posee activos cuantificables (tierras, derechos mineros e hidrocarburos) valorados en torno a 250 billones de dólares en su balance patrimonial.",
+      "Enfocarse exclusivamente en el pasivo e ignorar los activos y la capacidad productiva o fiscal del país incurre en un sesgo de confirmación ('cherry-picking')."
+    ],
+    "tesis_principal": "La deuda pública de Estados Unidos no es insostenible si se analiza desde la perspectiva de balance (activos frente a pasivos), ya que el país cuenta con una sólida capacidad productiva, enorme riqueza privada y vastos activos públicos que superan con creces sus compromisos financieros.",
+    "temas": [
+      "Deuda pública y déficit",
+      "Política fiscal e impuestos",
+      "Crecimiento y recesión"
+    ],
+    "activos_mencionados": [],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Se relativiza el alarmismo sobre el nivel de deuda de EE. UU. demostrando que los activos y la riqueza neta superan con creces los pasivos."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se señala la capacidad del Estado de recaudar impuestos sobre una base de riqueza muy amplia para sostener la deuda pública."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Deuda del gobierno de EE. UU.: aproximadamente 40 billones de dólares (trillones anglosajones).",
+      "Riqueza neta patrimonial y financiera de los hogares en EE. UU.: 196 billones de dólares.",
+      "Activos en balance del gobierno de EE. UU. (tierras e hidrocarburos): estimados en 250 billones de dólares.",
+      "El PIB mide ingresos de un ejercicio (flujo), mientras que la deuda mide la acumulación histórica (stock), lo que distorsiona la comparación."
+    ],
+    "riesgos_mencionados": [
+      "Descuento o iliquidez en caso de que el Estado tuviera que monetizar o vender tierras e hidrocarburos de forma acelerada.",
+      "Uso de métricas sesgadas ('cherry-picking') para justificar tesis ideológicas de colapso fiscal."
+    ],
+    "participantes": [
+      "Luis Miguel",
+      "Daniel Baeza"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

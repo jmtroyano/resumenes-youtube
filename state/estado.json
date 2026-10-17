@@ -457,40 +457,13 @@
   "K0Ew35m3hs0": "2026-10-17T15:41:48.370989+00:00",
   "N_VlpIyl91Q": "2026-10-17T15:42:14.514142+00:00",
   "mGCMTDHIm88": "2026-10-17T15:43:38.787680+00:00",
-  "U1_VCdxDZek": "2026-10-17T15:44:18.163091+00:00"
+  "U1_VCdxDZek": "2026-10-17T15:44:18.163091+00:00",
+  "U9N_8GtASFk": "2026-10-17T20:41:27.456346+00:00",
+  "Z-R5pjKhnuE": "2026-10-17T20:43:23.942497+00:00",
+  "fGRdFxKuiR4": "2026-10-17T20:47:21.872289+00:00",
+  "BnvPjWHKUcI": "2026-10-17T20:47:55.226326+00:00"
  },
- "cola": [
-  {
-   "video_id": "Z-R5pjKhnuE",
-   "titulo": "Por Qué Kevin Warsh Hundió al Oro y al Bitcoin en un Día",
-   "url": "https://www.youtube.com/watch?v=Z-R5pjKhnuE",
-   "publicado": "2026-09-16T00:00:00+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 0,
-   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  },
-  {
-   "video_id": "fGRdFxKuiR4",
-   "titulo": "Así Logró la Libertad Financiera Multiplicando su Cartera un 1500%",
-   "url": "https://www.youtube.com/watch?v=fGRdFxKuiR4",
-   "publicado": "2026-09-16T00:00:00+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 0,
-   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  },
-  {
-   "video_id": "BnvPjWHKUcI",
-   "titulo": "Si no Tienes Oro ni Bitcoin, Escucha lo que Dice Ray Dalio",
-   "url": "https://www.youtube.com/watch?v=BnvPjWHKUcI",
-   "publicado": "2026-09-16T00:00:00+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 0,
-   "en_cola_desde": "2026-10-16T06:48:09.887583+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
  },

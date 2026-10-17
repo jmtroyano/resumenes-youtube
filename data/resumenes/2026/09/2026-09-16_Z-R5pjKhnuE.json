@@ -1,0 +1,135 @@
+{
+  "video_id": "Z-R5pjKhnuE",
+  "url": "https://www.youtube.com/watch?v=Z-R5pjKhnuE",
+  "titulo": "Por Qué Kevin Warsh Hundió al Oro y al Bitcoin en un Día",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-09-16T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T20:43:22.327601+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El discurso de Kevin Warsh en Jackson Hole eliminó los argumentos para no subir tipos, enfriando el apetito por el riesgo y provocando caídas inmediatas en el oro, bitcoin y los índices bursátiles. La sesión estuvo marcada por el análisis de los resultados de IREN, cuyo ambicioso plan de capex generó incertidumbre a pesar del crecimiento en computación de inteligencia artificial. Asimismo, Nvidia volvió a pulverizar expectativas financieras, aunque surgen crecientes dudas sobre la sostenibilidad de su esquema de financiación circular a proveedores de nube.",
+    "ideas_clave": [
+      "Kevin Warsh endureció el tono monetario en Jackson Hole al señalar que los mercados crediticios no muestran restricción y que el foco exclusivo debe ser controlar la inflación subyacente.",
+      "El oro corrigió más de un 3% tras el endurecimiento del discurso de la Fed, aunque las empresas mineras de oro (GDX) siguen cotizando históricamente infravaloradas respecto al metal físico.",
+      "Estados Unidos anunció un acuerdo histórico sobre el petróleo venezolano para controlar 65.000 millones de barriles adicionales, elevando su capacidad a niveles comparables con Emiratos Árabes.",
+      "IREN sufrió una caída del 13% tras reportar resultados, lastrada por una previsión de capex de entre 25.000 y 30.000 millones de dólares para el año fiscal 2027.",
+      "Nvidia presentó un incremento de ingresos del 106% interanual y un margen operativo del 65,2%, pero sus CDS aumentaron ante el riesgo de circularidad en la financiación a neoclouds.",
+      "Stripe y Advent retiraron su oferta de compra por 50.000 millones de dólares sobre PayPal tras ser rechazada, provocando un desplome del 12% en la acción de pagos.",
+      "El sector del software vive un fuerte rebote liderado por Salesforce (+22%), Palantir (+46%) y Atlassian (+80%), desmintiendo la narrativa de su disrupción inmediata por la inteligencia artificial."
+    ],
+    "tesis_principal": "El mercado transita de la euforia a la neutralidad por un sesgo monetario más restrictivo de la Fed, mientras que en el sector de la inteligencia artificial las valoraciones exigen vigilar de cerca la circularidad financiera de Nvidia y el desorbitado capex de los centros de datos.",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Criptomonedas",
+      "Resultados empresariales"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Oro",
+      "Bitcoin",
+      "Petróleo Crudo",
+      "GDX",
+      "VIX",
+      "UVIX",
+      "Nvidia",
+      "IREN",
+      "PayPal",
+      "Meta",
+      "Salesforce",
+      "Microsoft",
+      "Amazon"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Warsh eliminó las justificaciones para no subir tipos, sugiriendo que la política monetaria aún no es suficientemente restrictiva."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Pese a la caída puntual del 3%, el presentador considera que el oro mantiene solidez y las mineras (GDX) están excesivamente baratas."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Nvidia presenta cifras récord pero preocupa la sostenibilidad crediticia y antimonopolio de su modelo de negocio circular."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El software experimenta una fuerte recuperación operativa y bursátil frente a los temores previos de extinción por la IA."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El acuerdo con Venezuela incrementa exponencialmente las reservas estadounidenses pero introduce presiones bajistas en el crudo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La probabilidad de mantenimiento o subida de tipos de interés de la Fed en septiembre se sitúa en un 50/50 tras Jackson Hole.",
+        "activo_o_variable": "Decisión de tipos de la Fed",
+        "direccion": "lateral",
+        "horizonte": "septiembre",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Las mineras de oro van a seguir generando enormes flujos de caja y beneficios a los precios actuales del metal precioso.",
+        "activo_o_variable": "Acciones mineras de oro (GDX)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si IREN recupera terreno tras el soporte en los 30 dólares, tiene vía libre técnica para avanzar hacia los 50 dólares.",
+        "activo_o_variable": "Acción de IREN",
+        "direccion": "sube",
+        "horizonte": "semanas o meses",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice Fear and Greed se situó en 54 (nivel neutral) retrocediendo desde niveles de codicia tras Jackson Hole.",
+      "El oro sufrió una corrección de más del 3% en la sesión, perforando momentáneamente su media móvil de 200 días.",
+      "Estados Unidos sumaría 65.000 millones de barriles mediante el pacto de Venezuela, controlando un total de 111.000 millones de barriles (7,1% de las reservas probadas globales).",
+      "IREN cuenta con 1.000 millones de ARR operativo actual y proyecta 4.000 millones de ARR para finales de 2026, pero su capex para 2027 rondará entre 25.000 y 30.000 millones de dólares.",
+      "Nvidia reportó un beneficio trimestral de 59.700 millones de dólares, superando la suma del beneficio de 12 gigantes corporativos estadounidenses como Apple, Walmart y Coca-Cola.",
+      "Nvidia mantiene 36.000 millones de dólares en compromisos vinculados a esquemas de financiación y garantía de capacidad con proveedores de nube alternativa.",
+      "El acuerdo extrajudicial de Meta sobre demandas de protección a menores se cerró en 16.700 millones de dólares, una cifra muy inferior a las expectativas más catastróficas."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de que la Fed retome o mantenga tipos de interés más altos por más tiempo si el crédito no se frena.",
+      "Riesgo de dilución o excesivo endeudamiento en compañías como IREN debido a las ingentes necesidades de capex para centros de datos.",
+      "Riesgo de ejecución en los contratos de centros de datos por retrasos en entregas de potencia o escasez de agua y licencias.",
+      "Riesgo de circularidad financiera y contagio crediticio en Nvidia si sus clientes respaldados (neoclouds) no logran monetizar la capacidad de cómputo.",
+      "Riesgo de escrutinio antimonopolio hacia Nvidia por sus acuerdos comerciales y esquemas de compartición de ingresos."
+    ],
+    "participantes": [
+      "Antonio Hidalgo",
+      "Albert Millán"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
