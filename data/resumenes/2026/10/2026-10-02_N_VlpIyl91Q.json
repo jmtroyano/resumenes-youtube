@@ -1,0 +1,84 @@
+{
+  "video_id": "N_VlpIyl91Q",
+  "url": "https://www.youtube.com/watch?v=N_VlpIyl91Q",
+  "titulo": "Por Qué un Ingeniero Informático DESCONFÍA de Bitcoin",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-02T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T15:42:13.073049+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En esta conversación se debate el rol del oro y de Bitcoin dentro de una cartera de inversión patrimonial. Respecto al oro, el invitado explica que lo utiliza principalmente para mitigar volatilidad o de forma táctica, manteniendo actualmente una ponderación reducida de en torno al 5%. Sobre Bitcoin, aunque reconoce sus atractivos como activo finito y descentralizado, muestra escepticismo como ingeniero informático ante posibles vulnerabilidades del código, la amenaza cuántica y el riesgo regulatorio, recomendando limitar la exposición a un máximo del 5%.",
+    "ideas_clave": [
+      "Uso del oro en cartera: se emplea para rebajar volatilidad o por especulación cuando cae con fuerza, pero no con expectativas de subida constante a corto plazo.",
+      "El oro puede experimentar largos periodos de corrección o estancamiento de hasta un -50% durante varios años.",
+      "Ponderación del oro: habitualmente no supera el 10% en cartera y en las carteras modelo actuales se ha rebajado a una media del 5% tras las fuertes subidas.",
+      "Asignación estricta a Bitcoin: el invitado mantiene una posición personal y aconseja a clientes un límite estricto de máximo el 5% del patrimonio para asumir que pueda irse a cero sin comprometer la cartera.",
+      "Escepticismo técnico sobre Bitcoin: como ingeniero informático, el invitado advierte de que ningún software es invulnerable y teme fallos de seguridad o el impacto futuro de la computación cuántica y la IA.",
+      "Problemas de gobernanza en Bitcoin: a diferencia del sistema bancario tradicional que actuaría al unísono para protegerse, una reprogramación o bifurcación ('hard fork') en Bitcoin ante un fallo crítico dependería de una compleja coordinación comunitaria.",
+      "Interés institucional cínico: gestoras como BlackRock o JP Morgan comercializan ETFs de Bitcoin atraídas por las comisiones de gestión y el volumen, sin asumir el riesgo de capital del inversor final."
+    ],
+    "tesis_principal": "El oro debe utilizarse con moderación (5-10%) principalmente como descorrelacionador de volatilidad, mientras que Bitcoin, a pesar de sus virtudes monetarias teóricas, entraña serios riesgos tecnológicos y regulatorios que justifican no sobrepasar el 5% del patrimonio.",
+    "temas": [
+      "Oro y metales",
+      "Criptomonedas",
+      "Tecnología e inteligencia artificial",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Bitcoin",
+      "ETF de Bitcoin (BlackRock)",
+      "ETF de Bitcoin (JP Morgan)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Considera que tras fuertes subidas el oro podría afrontar un periodo prolongado de 5 o 6 años lateral o a la baja, motivo por el que han reducido su peso al 5%."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Posee Bitcoin pero mantiene una postura muy cautelosa por dudas sobre la invulnerabilidad del código frente a la computación cuántica y posibles trabas regulatorias."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El oro podría permanecer entre 5 y 6 años estancado o caer un poco más tras las recientes subidas verticales.",
+        "activo_o_variable": "Oro",
+        "direccion": "lateral",
+        "horizonte": "5-6 años",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El oro ha registrado caídas históricas de hasta un 50% prolongadas durante dos o tres años.",
+      "El peso medio del oro en las carteras modelo del gestor se ha rebajado del 10% habitual a un 5%.",
+      "Límite máximo del 5% del patrimonio recomendado para exposición en Bitcoin.",
+      "Mención al freno en el Senado de EE. UU. de la ley regulatoria 'Clarity Act'.",
+      "El ETF de Bitcoin gestionado por BlackRock ha sido catalogado como el de mayor crecimiento en la historia de la gestora."
+    ],
+    "riesgos_mencionados": [
+      "Vulnerabilidades ocultas o de 'día cero' en el algoritmo de Bitcoin explotadas de forma silenciosa.",
+      "Avance de la computación cuántica y la inteligencia artificial capaces de romper la criptografía actual.",
+      "Complejidad y división en la comunidad ante la necesidad de ejecutar 'forks' de emergencia en la red.",
+      "Riesgo regulatorio y político que margine el uso de Bitcoin en favor del dinero fiduciario.",
+      "Periodos prolongados de caída y estancamiento plurianual en materias primas como el oro."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Invitado (Gestor e Ingeniero Informático)"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

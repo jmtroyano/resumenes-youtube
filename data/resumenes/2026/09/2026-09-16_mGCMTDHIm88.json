@@ -1,0 +1,147 @@
+{
+  "video_id": "mGCMTDHIm88",
+  "url": "https://www.youtube.com/watch?v=mGCMTDHIm88",
+  "titulo": "Así Asesora un Fondo de Inversión con Solo 19 Años",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-09-16T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T15:43:35.911193+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En esta entrevista, Hugo Navarro, asesor de fondos con 19 años y autor del Substack 'Under-Valued and Under-Covered', explica su metodología de inversión centrada en small caps olvidadas o repudiadas por el mercado. Navarro expone su visión crítica sobre el ciclo de gasto de capital en inteligencia artificial y semiconductores, alertando de posibles presiones futuras en márgenes y retornos. Además, detalla sus principales tesis de inversión con asimetría positiva en el sector de servicios offshore (S.E.D. Energy y Ashtead Technology), la constructora española Grupo San José, el servicer de deuda doValue y el giro operativo de Playboy hacia un modelo de royalties.",
+    "ideas_clave": [
+      "Ventaja competitiva en small caps: Hugo Navarro busca nichos ilíquidos y situaciones complejas donde los grandes fondos no pueden entrar, reduciendo el ciclo de aprendizaje mediante el estudio de casos pasados.",
+      "Riesgos en el ciclo de capex de IA: Señala que el descomunal capex de los 'hyperscalers' en semiconductores podría ser cíclico y generar sobrecapacidad, comparándolo con la trampa del coste hundido y la subasta del dólar.",
+      "Tesis alcista en offshore: La oferta de buques y plataformas perforadoras está fija por los altos costes de reposición y quiebras pasadas, mientras la demanda estructural crece con proyectos rentables a menos de 60 dólares el barril.",
+      "S.E.D. Energy como apuesta offshore defensiva: Compañía con balance limpio de deuda, valoración a 6-7 veces flujo de caja libre, dividendos atractivos y contratos de barcazas de perforación en pozos ya operativos.",
+      "Ashtead Technology y el modelo 'capital-light': Beneficiaria del auge offshore al alquilar equipamiento submarino especializado; cotiza a un PER de ~7x con retornos sobre el capital superiores al 20%.",
+      "Grupo San José y el descuento por trampa de valor: Cotiza con una caja neta superior a 300 millones de euros y una participación clave en Madrid Nuevo Norte, aunque carece de catalizador claro a corto plazo por el control familiar.",
+      "doValue y la oportunidad en el mercado de crédito: El mercado descuenta una muerte estructural de los NPLs en el sur de Europa, pero la compañía ha refinanciado al 5,9% y diversifica con Coeo hacia cobro digital (Klarna) cotizando a 4-5 veces beneficios.",
+      "Playboy como transformación hacia royalties: Tras caer un 99% desde su salida por SPAC, la empresa limpia deuda vendiendo licencias en China, reestructura Honey Birdette y monetiza su marca a 7x EBITDA."
+    ],
+    "tesis_principal": "La mayor asimetría y rentabilidad ajustada al riesgo en el mercado actual se encuentra en small caps ignoradas o castigadas con valoraciones deprimidas (4-7x FCF), balances saneados y opcionalidad positiva a varios años, alejándose de las valoraciones exigentes de las grandes tecnológicas y el capex de IA.",
+    "temas": [
+      "Small caps",
+      "Value investing",
+      "Energía y petróleo",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bolsa España",
+      "Bolsa Europa",
+      "Liquidez y crédito",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "S.E.D. Energy",
+      "Gulf Marine Services",
+      "Ashtead Technology",
+      "Grupo San José",
+      "doValue",
+      "PLBY Group (Playboy)",
+      "Subsea 7",
+      "Saipem",
+      "Aramco",
+      "Petrobras",
+      "PTTEP",
+      "Klarna",
+      "Google",
+      "UnitedHealth Group",
+      "JPMorgan"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Small caps",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Navarro considera que ofrecen la mayor ventaja analítica debido a la falta de cobertura y a valoraciones extremas deprimidas."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "La oferta de plataformas y buques offshore está congelada mientras el capex en extracción marina rentable continúa aumentando a nivel global."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Cuestiona el retorno sobre el capital invertido (ROIC) del gasto multimillonario en centros de datos y advierte de que el mercado asume un crecimiento estructural infinito."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.45,
+        "justificacion": "Alerta de que los márgenes en máximos históricos son insostenibles si el capex de los hyperscalers se desacelera o la potencia computacional se commoditiza."
+      },
+      {
+        "tema": "Bolsa España",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Reconoce el enorme descuento por suma de partes en empresas como Grupo San José, pero advierte del riesgo de trampas de valor por falta de catalizadores y gobierno corporativo."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "En el sector de servicing de deuda (NPLs), la normalización del ciclo crediticio y el mercado de bonos respaldan la recuperación de compañías como doValue."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La demanda de petróleo continuará creciendo y extendiéndose temporalmente hasta 2050, forzando un ciclo inversor prolongado en offshore.",
+        "activo_o_variable": "Demanda global de petróleo / Inversión offshore",
+        "direccion": "sube",
+        "horizonte": "largo plazo (hasta 2050)",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el capex en inteligencia artificial decae o se vuelve cíclico, los beneficios por acción (EPS) de las empresas de semiconductores se reducirán notablemente.",
+        "activo_o_variable": "EPS y márgenes de semiconductores",
+        "direccion": "baja",
+        "horizonte": "2-3 años",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "doValue mantendrá un crecimiento de doble dígito respaldado por contratos de cobro digital (Coeo) y la normalización del ciclo de crédito en Europa del Sur.",
+        "activo_o_variable": "doValue (DOV)",
+        "direccion": "sube",
+        "horizonte": "3 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Playboy eliminará prácticamente su deuda neta y estabilizará su generación de caja mediante contratos de royalties en China y la venta de Honey Birdette.",
+        "activo_o_variable": "PLBY Group",
+        "direccion": "sube",
+        "horizonte": "2-3 años",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Construir nuevos buques offshore requeriría 'dayrates' que duplican los niveles actuales y plazos de construcción de 3 a 4 años, impidiendo un aumento rápido de la oferta.",
+      "El 90% de los proyectos offshore que alcanzan la decisión final de inversión (FID) tienen un coste de 'breakeven' inferior a 60 dólares por barril.",
+      "S.E.D. Energy tiene cero deuda neta y genera más de 100 millones de caja libre frente a un 'market cap' inferior a 600 millones.",
+      "Ashtead Technology opera con márgenes elevados y un ROIC superior al 20%, cotizando a múltiplos cercanos a 7 veces beneficios.",
+      "Grupo San José cuenta con una posición neta de caja ajustada de más de 300 millones de euros y una participación de aproximadamente el 10% en el proyecto Madrid Nuevo Norte.",
+      "doValue refinanció recientemente deuda al 5,9% con vencimiento a 2031, reduciendo el tipo medio previo del 7% y cotizando a múltiplos de 4-5x FCF.",
+      "El acuerdo de licencia de marca de Playboy en China garantiza cobros mínimos de unos 11 millones de dólares anuales durante 8 años y una inyección inicial de 65 millones en efectivo."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de sobrecapacidad o desaceleración cíclica en el capex de semiconductores y centros de datos de IA.",
+      "Riesgo geopolítico y suspensiones temporales de contratos en Oriente Medio (especialmente incidentes relacionados con Aramco e Irán).",
+      "Riesgo de 'value trap' en empresas familiares españolas (como Grupo San José) por desalineación con minoritarios y ausencia de catalizadores de asignación de capital.",
+      "Riesgo de ejecución en la reestructuración y venta de activos no estratégicos en empresas apalancadas como Playboy."
+    ],
+    "participantes": [
+      "Miguel (presentador de Los Locos de Wall Street / Insider)",
+      "Hugo Navarro (asesor de fondos e inversor en small caps)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

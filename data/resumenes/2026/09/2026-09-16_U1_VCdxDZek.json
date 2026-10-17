@@ -1,0 +1,133 @@
+{
+  "video_id": "U1_VCdxDZek",
+  "url": "https://www.youtube.com/watch?v=U1_VCdxDZek",
+  "titulo": "Lululemon se Desploma y Michael Burry ya no lo ve tan Claro",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-09-16T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T15:44:15.303106+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado estadounidense muestra una calma inusual con el índice VIX en niveles mínimos de volatilidad que no se veían desde 1992, en un entorno donde los sólidos datos de empleo alimentan la posibilidad de tipos de interés restrictivos por más tiempo. En el ámbito corporativo, Lululemon se desploma cerca de un 52% anual tras decepcionar en guías y ventas comparables, sembrando dudas incluso en su principal inversor alcista, Michael Burry. Por su parte, Broadcom sufre caídas pese a un crecimiento explosivo en semiconductores de IA por la excesiva dependencia de esta división, mientras que los bancos centrales siguen acumulando oro a ritmo récord.",
+    "ideas_clave": [
+      "El dato de empleo de EE. UU. sorprendió al alza con 152.000 nuevos puestos en agosto frente a 55.000 esperados y revisiones positivas en julio (+43.000), reactivando el temor a tipos altos y llevando el índice Fear & Greed a zona de 'Miedo' (42).",
+      "El VIX ha permanecido entre 14 y 17 puntos durante 25 sesiones consecutivas, una racha de baja volatilidad no vista desde mayo de 1992, abriendo una ventana óptima y barata para comprar coberturas bajistas con opciones.",
+      "El posicionamiento en el ETF SPY revela un fuerte sesgo bajista profesional: el ratio Put/Call por interés abierto se sitúa en 2,48 y la volatilidad implícita ronda mínimos en el percentil 8%.",
+      "Lululemon cotiza en mínimos de 8 años tras presentar caídas del 9% en ventas comparables y recortar su guía anual a 10.350-10.500 millones de dólares; Michael Burry reconoció tras revisar el informe 10-Q que la situación de la compañía ha empeorado drásticamente.",
+      "Broadcom creció un 221% interanual en semiconductores de IA (16.700 millones de dólares) y proyecta duplicar ingresos del segmento a 230.000 millones para 2028, pero el mercado penaliza que todo el crecimiento dependa exclusivamente de la IA mientras el resto del negocio se estanca.",
+      "Los bancos centrales compraron 23 toneladas netas de oro en julio (cuarto mes consecutivo en positivo), liderados por China (+20 t) y Polonia (+8 t), al tiempo que la correlación de Bitcoin con el oro alcanza máximos de seis años."
+    ],
+    "tesis_principal": "La extrema tranquilidad y complacencia de los índices bursátiles (con un VIX históricamente deprimido) contrasta con datos macro que justifican tipos altos y deterioros fundamentales en empresas de consumo como Lululemon, convirtiendo a las opciones 'put' baratas en la mejor herramienta táctica para cubrir carteras.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Empleo",
+      "Fed y tipos de interés EE. UU.",
+      "Resultados empresariales",
+      "Semiconductores",
+      "Oro y metales",
+      "Criptomonedas",
+      "Tecnología e inteligencia artificial"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "SPY",
+      "VIX",
+      "Lululemon (LULU)",
+      "Broadcom (AVGO)",
+      "Snowflake (SNOW)",
+      "Apple (AAPL)",
+      "Nvidia (NVDA)",
+      "Uber (UBER)",
+      "Oro",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Los índices se mantienen planos y apáticos, pero el posicionamiento en opciones refleja acumulación de coberturas bajistas y una calma tensa."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "La fortaleza del mercado laboral da más argumentos a la Reserva Federal para mantener tipos elevados o retrasar rebajas agresivas."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Contrastan los pésimos números y guías de Lululemon con la aceleración de ingresos impulsada por IA en Broadcom y Snowflake."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El crecimiento de Broadcom en semiconductores de IA supera el 200% y se anticipa una fuerte expansión de ingresos hasta 2028."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Las compras masivas y continuadas de bancos centrales, especialmente China, sostienen un ciclo estructural de demanda."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "El incremento en la correlación de Bitcoin con el oro refuerza su comportamiento como activo de reserva o refugio."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La dirección de Broadcom tiene visibilidad para que los ingresos por semiconductores en el año fiscal 2028 se dupliquen nuevamente a 230.000 millones de dólares.",
+        "activo_o_variable": "Broadcom (ingresos de semiconductores)",
+        "direccion": "sube",
+        "horizonte": "2028",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La brecha de divergencia entre los crecientes beneficios por acción de Broadcom y su cotización lateral se cerrará al alza a largo plazo.",
+        "activo_o_variable": "Broadcom (AVGO)",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Anthropic podría presentar su OPV valorada en más de 2 billones de dólares (2T) tan pronto como la próxima semana.",
+        "activo_o_variable": "Anthropic (IPO)",
+        "direccion": "sube",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "baja"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Creación de 152.000 nóminas en agosto en EE. UU. frente a las 55.000 previstas, con revisión al alza de 43.000 en julio.",
+      "El índice VIX ha oscilado entre 14 y 17 puntos durante 25 sesiones seguidas, racha más larga desde mayo de 1992 (26 sesiones).",
+      "En el ETF SPY, el ratio Put/Call de volumen está en 1,21 y el de interés abierto en 2,48, mostrando una fuerte inclinación a contratar protección bajista.",
+      "Lululemon cayó a 100 dólares, con ventas comparables bajando un 9% y márgenes netos reducidos si se descuenta el reembolso arancelario extraordinario de 0,86 dólares por acción.",
+      "Broadcom reportó ingresos trimestrales de 29.600 millones de dólares frente a 29.500 estimados, con 16.700 millones provenientes de semiconductores de IA (+221% YoY).",
+      "Los bancos centrales adquirieron 23 toneladas de oro netas en julio, con compras destacadas de China (+20 t) elevando su total a más de 60 t en el año, y Polonia sumando 8 t.",
+      "Uber recortará 3.300 empleados a pesar de registrar un beneficio bruto por empleado de 690.220 dólares."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de que tipos de interés más altos o prolongados penalicen a las valoraciones bursátiles de crecimiento.",
+      "Concentración excesiva del crecimiento tecnológico exclusivamente en hardware de IA en detrimento del software tradicional y otros negocios.",
+      "Deterioro continuo de la demanda de consumo discrecional en marcas como Lululemon.",
+      "Falsa sensación de seguridad generada por la baja volatilidad que preceda a un repunte violento del VIX."
+    ],
+    "participantes": [
+      "Antonio Hidalgo"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

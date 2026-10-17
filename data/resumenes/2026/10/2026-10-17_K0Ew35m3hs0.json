@@ -1,0 +1,139 @@
+{
+  "video_id": "K0Ew35m3hs0",
+  "url": "https://www.youtube.com/watch?v=K0Ew35m3hs0",
+  "titulo": "IA: El canario en la mina de carbón - Las 4 claves de la semana Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-17T11:12:34+00:00",
+  "fecha_resumen": "2026-10-17T15:41:46.894790+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos advierte de que el desplome en las empresas 'neocloud' y la crisis crediticia en la financiación de infraestructuras de inteligencia artificial representan 'el canario en la mina' de una burbuja insostenible. A este deterioro en la IA se añade una inflación obstinada impulsada por la escasez estructural de refino y el petróleo en niveles elevados. Además, el aumento de la volatilidad en bonos (MOVE sobre 100) y acciones (VIX sobre 21) anticipa semanas complejas de mercado con riesgo de caídas y rebotes trampa del gato muerto.",
+    "ideas_clave": [
+      "Crisis en las 'neoclouds': empresas como CoreWeave sufren desplomes bursátiles y disparada de sus CDS hasta 1.200 puntos básicos, lo que descuenta una probabilidad de impago a 5 años del 63-64%.",
+      "Informe de Gartner proyecta que más de 3,5 billones de dólares en infraestructuras de IA corren riesgo de deterioro contable para 2030 y más del 80% de las neoclouds dejarán de operar de forma independiente.",
+      "Paralelismo con la burbuja puntocom y la fibra óptica del 2000: sobreinversión masiva y financiación cruzada entre proveedores (Nvidia) y clientes, con el agravante de que los chips quedan obsoletos en 3-5 años frente a los 25 años de la fibra.",
+      "El petróleo y la crisis de refinerías en Oriente Medio y Rusia mantienen las presiones inflacionistas, con una curva de futuros de crudo que no baja de 100 dólares por barril hasta bien entrado 2027.",
+      "El índice MOVE por encima de 100 y el VIX superando los 21 puntos sitúan a las bolsas en una zona histórica de estrés y alta volatilidad.",
+      "Estrategia de Michael Hartnett (BofA): adoptar perfil defensivo ('risk-off') durante 3-4 semanas hasta hacer suelo, evitando sobreponderar tecnológicas y buscando valor en small caps, REITs y materias primas."
+    ],
+    "tesis_principal": "El sobrecalentamiento y la excesiva deuda en el ecosistema de computación e infraestructura de IA, unidos a los cuellos de botella energéticos y de refino que cronifican la inflación, están provocando las primeras grietas financieras serias en el mercado, anticipando un ajuste severo similar al pinchazo de las telecomunicaciones en el año 2000.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Valoración de mercado y burbujas",
+      "Inflación",
+      "Energía y petróleo",
+      "Bonos y renta fija",
+      "Liquidez y crédito",
+      "Bolsa EE. UU.",
+      "Semiconductores"
+    ],
+    "activos_mencionados": [
+      "CoreWeave",
+      "Nebius Group",
+      "IREN Limited",
+      "Oracle",
+      "Nvidia",
+      "Microsoft",
+      "Alphabet",
+      "Amazon",
+      "Meta",
+      "Petróleo Brent",
+      "Petróleo WTI",
+      "VIX",
+      "MOVE Index",
+      "S&P 500",
+      "Nasdaq Composite",
+      "KOSPI"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Alerta de que el gasto en capex no podrá rentabilizarse y augura la quiebra o absorción del 80% de las empresas de computación neocloud."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Compara la situación actual con el colapso del Nasdaq en 2000 y advierte de que los rebotes intermedios son trampas de mercado."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El repunte de los precios de producción y el encarecimiento de la energía impedirán que la inflación baje a los objetivos de los bancos centrales."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Los daños en refinerías globales y la tensión geopolítica mantendrán los precios del crudo en niveles elevados por encima de 100 dólares."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.75,
+        "justificacion": "Los diferenciales de crédito en alto rendimiento de IA se disparan y los bancos encuentran serias dificultades para colocar la deuda sindicada de gigantes como Oracle."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La falta de amplitud de mercado y la extrema concentración en megacaps dejan al índice vulnerable a correcciones significativas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Más del 80% de las compañías de computación 'neocloud' dejarán de operar de forma independiente para 2030 debido a insolvencia o absorción forzada.",
+        "activo_o_variable": "Empresas Neocloud (CoreWeave, Nebius, Iren, etc.)",
+        "direccion": "baja",
+        "horizonte": "2030",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El mercado atravesará de 3 a 4 semanas de fase de aversión al riesgo ('risk-off') antes de que se forme un suelo temporal.",
+        "activo_o_variable": "Renta variable global / S&P 500",
+        "direccion": "baja",
+        "horizonte": "3-4 semanas",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Los precios del barril de petróleo se mantendrán tensionados y no perforarán a la baja los 90-100 dólares de forma sostenida hasta bien entrado 2027.",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "sube",
+        "horizonte": "2027",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "CoreWeave cotiza con una probabilidad de impago implícita en sus CDS del 63-64% a 5 años tras colocarse su diferencial en 1.200 puntos básicos.",
+      "El diferencial de crédito ('spread') de los bonos high yield vinculados a IA se sitúa en 377 pb frente a los 209 pb de los bonos high yield tradicionales.",
+      "El informe de Gartner cuantifica en 8,5 billones de dólares los ingresos necesarios para rentabilizar la inversión en IA, frente a una previsión máxima de generación de ingresos de 3,6 billones, abriendo un desfase de 4,9 billones.",
+      "Los compromisos acumulados de capex de las seis grandes tecnológicas para 2027 superan los 1,3 billones de dólares, provocando flujos de caja libre marcadamente negativos en la mayoría.",
+      "La curva de futuros del Brent no desciende de los 90 dólares hasta los vencimientos de finales de 2027.",
+      "El 71% de los valores del S&P 500 cotiza más de un 10% por debajo de sus máximos de 52 semanas, evidenciando una notable debilidad interna de mercado."
+    ],
+    "riesgos_mencionados": [
+      "Deterioros contables masivos ('impairments') por amortización acelerada de hardware de IA obsoleto.",
+      "Contagio de la crisis de deuda privada y préstamos apalancados al sector bancario y aseguradoras.",
+      "Espiral inflacionaria por shocks en el suministro de productos refinados y derivados del petróleo.",
+      "Riesgo de trampas alcistas ('bull traps' o rebotes del gato muerto) en bolsas antes de completar la capitulación."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Michael Hartnett (mencionado)",
+      "Will Sommer (mencionado)",
+      "Jensen Huang (mencionado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
