@@ -1,0 +1,153 @@
+{
+  "video_id": "-HJZqeub__U",
+  "url": "https://www.youtube.com/watch?v=-HJZqeub__U",
+  "titulo": "💥El FMI advierte: “Hay que PREPARARSE para lo IMPENSABLE en la GUERRA con IRÁN”|👉COLAPSO GLOBAL",
+  "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+  "handle": "@Artedeinvertir",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "value investing",
+  "fecha_publicacion": "2026-03-16T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T04:37:14.318709+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Alejandro Estebaranz analiza el impacto económico y bursátil de una escalada militar con Irán y el posible cierre prolongado del estrecho de Hormuz. Advierte de que los mercados muestran complacencia inicial ante un shock de oferta energética que podría disparar el petróleo por encima de 120 o 200 dólares. Esta situación provocaría un repunte inflacionario severo, subidas de tipos y caídas en los índices bursátiles generales, de forma análoga a la crisis del petróleo de 1973. Como cobertura y oportunidad, analiza sectores beneficiados como empresas petroleras integradas con apalancamiento operativo (Suncor), compañías de defensa (RTX, Lockheed Martin) y productoras de fertilizantes verticalmente integradas (Itafos).",
+    "ideas_clave": [
+      "El estrecho de Hormuz concentra el 22% del comercio mundial de petróleo y el 20% del gas natural licuado (GNL), con tráficos colapsando a cero tras los ataques.",
+      "Por cada 10 dólares de subida en el barril de petróleo, la inflación aumenta aproximadamente entre un 0,3% en EE. UU. y un 0,5% en Europa.",
+      "La complacencia actual del mercado recuerda a las fases descritas por Howard Marks y a la crisis de 1973, donde el mercado tardó meses en descontar la gravedad del embargo petrolero.",
+      "La liberación anunciada de 400 millones de barriles de reservas estratégicas mundiales solo cubre unos 4 días del consumo global total (o 20 días del déficit generado).",
+      "El sector de fertilizantes afronta un shock crítico debido a que el 92% de la producción de sulfuro proviene del refino de petróleo y gas, con el 45% originado en Oriente Medio.",
+      "Las petroleras con costes de extracción elevados (como Suncor en arenas bituminosas) tienen un apalancamiento operativo enorme: a 90$ WTI duplican beneficio y bajan su múltiplo a 3-5x PER.",
+      "Itafos se presenta como una oportunidad asimétrica en fertilizantes al estar verticalmente integrada en EE. UU. (Idaho), sin deuda, con márgenes EBITDA superiores al 35% y cotizando a múltiplos inferiores a 4x EBITDA."
+    ],
+    "tesis_principal": "Un conflicto prolongado en Oriente Medio que bloquee el estrecho de Hormuz desatará una crisis inflacionaria y estanflacionaria global infravalorada por las bolsas, abriendo oportunidades asimétricas de inversión en compañías de energía no expuestas a la zona, empresas de defensa y productores de fertilizantes locales.",
+    "temas": [
+      "Energía y petróleo",
+      "Geopolítica",
+      "Inflación",
+      "Crecimiento y recesión",
+      "Materias primas",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Value investing"
+    ],
+    "activos_mencionados": [
+      "Petróleo Brent",
+      "Petróleo WTI",
+      "Gas Natural Europeo (TTF)",
+      "Urea",
+      "S&P 500",
+      "Dow Jones Industrial Average",
+      "Suncor Energy (SU)",
+      "Itafos Inc (IFOS)",
+      "Nutrien Ltd (NTR)",
+      "CF Industries Holdings (CF)",
+      "Mosaic Co (MOS)",
+      "Intrepid Potash (IPI)",
+      "RTX Corporation (RTX)",
+      "Lockheed Martin (LMT)",
+      "General Dynamics (GD)",
+      "Rheinmetall",
+      "VanEck Defense UCITS ETF (DFNS)"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.55,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "El corte de suministro en Hormuz elimina hasta un 20% de la oferta global, impulsando el crudo hacia 120$ o 200$ por barril."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "La escalada militar entre EE. UU., Israel e Irán amenaza infraestructuras críticas y rutas marítimas vitales como Hormuz y Bab al-Mandab."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.75,
+        "justificacion": "El encarecimiento del crudo, gas y fertilizantes generará una nueva ola inflacionaria en Europa y EE. UU."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los altos costes energéticos y tipos de interés más altos amenazan con inducir un parón económico y desempleo."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Existe complacencia inicial en los índices, con alto riesgo de correcciones intensas si el corte energético dura más de dos semanas."
+      },
+      {
+        "tema": "Materias primas",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Fuerte tensión alcista en gas natural, azufre, urea y fertilizantes derivados por la parálisis de plantas en el Golfo."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.65,
+        "justificacion": "Los bonos a largo plazo sufrirán fuertes pérdidas ante el repunte de inflación y la necesidad de mantener tipos elevados."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el cierre del estrecho de Hormuz dura más de 1 o 2 semanas, el precio del petróleo superará fácilmente los 120$ e incluso los 150-200$ por barril.",
+        "activo_o_variable": "Petróleo WTI / Brent",
+        "direccion": "sube",
+        "horizonte": "2-3 meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Cada 10 dólares de incremento en el barril aumentará la inflación un 0,5% en la eurozona y un 0,3% en EE. UU.",
+        "activo_o_variable": "Inflación global",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Se desatará una fase de sobre-reacción y alta volatilidad con fuertes caídas en las bolsas generalistas si el conflicto se alarga más de 2 o 3 semanas.",
+        "activo_o_variable": "S&P 500 y bolsas globales",
+        "direccion": "baja",
+        "horizonte": "2-3 meses",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Tras el pico de tensión e impacto económico, llegará una fase de mensajes de alto el fuego y desescalada que provocará un fuerte rebote de mercado y caída de materias primas.",
+        "activo_o_variable": "Mercados financieros y petróleo",
+        "direccion": "no aplica",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Por el estrecho de Hormuz pasa el 22% del petróleo comercializado mundial y más del 20% de la producción de gas natural.",
+      "El tráfico de petroleros cruzando Hormuz colapsó prácticamente a cero desde finales de febrero.",
+      "En la crisis del petróleo de 1973 solo se retiró del mercado un 9% de la oferta (4,4 millones de barriles diarios de un consumo de 50 Mb/d) y el precio se multiplicó por 4.",
+      "Actualmente el bloqueo de Hormuz retiraría cerca del 20% del suministro mundial (consumo actual superior a 100 Mb/d).",
+      "El 92% del sulfuro mundial procede del refino de crudo y gas, y el 45% del suministro de la región del Golfo Pérsico, lo que ha disparado la urea de 400$ a 600$.",
+      "Suncor Energy genera a 75$ WTI unos 6.900 millones de FCF, redujo su breakeven de 53$ a 43$ y por cada dólar que sube el crudo gana 215 millones extra de cash flow.",
+      "Itafos genera unos 200 millones de EBITDA con 0 deuda neta, produciendo fertilizantes localmente en Idaho a costes mínimos y cotizando a múltiplos de 2,9x EV/EBITDA frente a 7x de sus comparables."
+    ],
+    "riesgos_mencionados": [
+      "Cierre simultáneo del estrecho de Hormuz y de Bab al-Mandab, paralizando el comercio global Asia-Europa.",
+      "Espiral estanflacionaria similar a los años 70: shock de oferta, inflación de doble dígito, subidas de tipos y recesión prolongada.",
+      "Destrucción de demanda y morosidad bancaria severa si la recesión económica se profundiza.",
+      "Vulnerabilidad extrema de aerolíneas, turismo y empresas con altos múltiplos de valoración sin poder de fijación de precios.",
+      "Pérdida de poder adquisitivo del ahorro en depósitos o renta fija a largo plazo ante el repunte inflacionario."
+    ],
+    "participantes": [
+      "Alejandro Estebaranz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

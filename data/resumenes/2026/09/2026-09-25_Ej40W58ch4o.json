@@ -1,0 +1,147 @@
+{
+  "video_id": "Ej40W58ch4o",
+  "url": "https://www.youtube.com/watch?v=Ej40W58ch4o",
+  "titulo": "Nunca Habíamos Visto Subir los Bonos Así en Seis Países a la Vez",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-09-25T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T04:36:26.222930+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo analiza las implicaciones macroeconómicas de un entorno prolongado de tipos de interés elevados y el riesgo latente de estanflación sobre diversas clases de activos. Se evalúa el impacto en los rendimientos de la deuda soberana, las materias primas energéticas, el oro, bitcoin y la renta variable estadounidense. A nivel de valoración, se advierte sobre los pobres retornos esperados para el S&P 500 a diez años vista desde sus múltiplos actuales, destacando la necesidad de gestión activa y selección sectorial. Finalmente, se analizan sectores defensivos o descorrelacionados como la energía y los REITs, proponiendo una estructura operativa con opciones LEAPs en VICI Properties.",
+    "ideas_clave": [
+      "La persistencia inflacionaria vinculada a los costes energéticos y el conflicto geopolítico presiona a los bancos centrales a mantener los tipos de interés elevados durante más tiempo, aumentando el riesgo de estanflación.",
+      "El petróleo WTI muestra una estrecha correlación con el rendimiento del bono a 10 años estadounidense; el agotamiento progresivo de las reservas estratégicas de crudo limita la contención de precios.",
+      "A nivel histórico de reversión a la media, un PER normalizado de 32x en el S&P 500 proyecta una rentabilidad anualizada de -3% a 10 años, frente a un +3% estimado para el índice equiponderado (Equal-Weighted).",
+      "El sector energético presenta múltiplos atractivos (PER forward relativo de 0.7x frente a 0.9x histórico y Price to Cash Flow de 0.4x frente a 0.7x), respaldado por inventarios de gas europeo en mínimos de 10 años.",
+      "El oro mantiene soporte estructural por las compras récord de bancos centrales, proyectándose objetivos de hasta 5.400 $/oz para 2027 según Goldman Sachs.",
+      "En el sector inmobiliario cotizado (REITs), la dispersión histórica no muestra una correlación unívoca frente a tipos o inflación, ofreciendo oportunidades puntuales de valoración como VICI Properties cotizando en mínimos de 5 años.",
+      "Se expone la estrategia de 'alpha portable' o apalancamiento eficiente vía opciones LEAPs (call deep-in-the-money a enero de 2028 en VICI con Delta ~0.87) para liberar capital hacia activos descorrelacionados."
+    ],
+    "tesis_principal": "En un entorno de estanflación y tipos altos prolongados, la inversión pasiva indexada al S&P 500 ofrece un ratio riesgo/recompensa desfavorable a largo plazo, haciendo indispensable la selección activa orientada a sectores infravalorados (energía), activos refugio (oro) y estructuras de capital eficientes con opciones en activos castigados (REITs).",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Crecimiento y recesión",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Criptomonedas",
+      "Inmobiliario y vivienda",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Petróleo WTI",
+      "Gas natural europeo",
+      "Bono del Tesoro de EE. UU. a 10 años",
+      "Bono del Tesoro de EE. UU. a 30 años",
+      "Oro",
+      "Bitcoin",
+      "VICI Properties",
+      "Nike",
+      "Alphabet / Google",
+      "Meta Platforms",
+      "Microsoft",
+      "Amazon",
+      "Oracle"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "La persistencia de la inflación forzará a mantener los tipos elevados por más tiempo del previsto, restringiendo el margen de maniobra monetaria."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Los múltiplos extremos del S&P 500 implican rendimientos negativos esperados a 10 años si opera la reversión a la media."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El sector cotiza con descuento frente a sus medias históricas y los inventarios tanto de petróleo como de gas europeo están en niveles críticos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "La demanda estructural institucional y las reservas de los bancos centrales superando a los bonos del Tesoro apuntalan su precio al alza a largo plazo."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Bitcoin muestra fortaleza técnica y de adopción superando resistencias históricas clave por encima de los 80.000 dólares."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Aunque el contexto de tipos altos presiona al sector, las valoraciones de ciertos REITs se encuentran en mínimos históricos ofreciendo puntos de entrada selectivos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Goldman Sachs proyecta que el precio del oro alcanzará los 5.400 dólares por onza para diciembre de 2027.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "diciembre de 2027",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La reversión a la media histórica del PER normalizado (32x) sugiere una rentabilidad anualizada del -3% para el S&P 500 en los próximos 10 años.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "10 años",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El rendimiento del bono a 30 años se mantendrá por encima del 5% hasta finales de 2027 según proyecciones de Bank of America.",
+        "activo_o_variable": "Bono de EE. UU. a 30 años",
+        "direccion": "lateral",
+        "horizonte": "2027",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El crecimiento del Capex en hiperescaladores se desacelerará hacia 2027-2028 mientras aumentará el retorno de ingresos en la nube.",
+        "activo_o_variable": "Capex hiperescaladores (Google, Meta, Microsoft, Amazon)",
+        "direccion": "baja",
+        "horizonte": "2027-2028",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Los tipos implícitos de la Fed y previsiones de dot plot apuntan a estabilidad en el 4% o subidas adicionales hacia 4.20% antes de iniciar recortes.",
+      "El pago de intereses de la deuda de EE. UU. ya supera el presupuesto total de defensa del país.",
+      "Los inventarios de gas natural en Europa se sitúan en los niveles más bajos de los últimos 10 años para mediados de septiembre.",
+      "El PER forward relativo del sector energético está en 0.7x frente a su media de 0.9x desde 1986, y el Price to Cash Flow está en 0.4x frente a la media de 0.7x.",
+      "Los bancos centrales acumulan ya más reservas oficiales en oro que en bonos del Tesoro de Estados Unidos.",
+      "VICI Properties cotiza a un PER forward relativo de 0.9x frente a su media histórica de 1.3x y un Price to Book relativo de 0.6x frente a su media de 0.8x.",
+      "Meta tiene el 100% de su deuda a tipo fijo con un vencimiento medio ponderado de 19.3 años al 5.2%, y Alphabet el 99.5% a 16.8 años al 4.0%."
+    ],
+    "riesgos_mencionados": [
+      "Escenario de estanflación con inflación persistente y desaceleración del crecimiento económico.",
+      "Riesgo de descorrelación negativa simultánea entre bonos y acciones perjudicando carteras tradicionales 60/40.",
+      "Agotamiento de las reservas estratégicas de petróleo frente a posibles disrupciones en el estrecho de Ormuz.",
+      "Sobrevaloración extrema del índice S&P 500 impulsado por escasos megacaps tecnológicos.",
+      "Falta de margen fiscal y monetario de los bancos centrales ante una nueva crisis sin disparar aún más la inflación."
+    ],
+    "participantes": [
+      "Antonio Hidalgo (Antonio LWS)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "video_id": "18_ComjRSak",
+  "url": "https://www.youtube.com/watch?v=18_ComjRSak",
+  "titulo": "ORO a Largo Plazo: La Oportunidad que Albert Mendoza Está Buscando",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-02T00:00:00+00:00",
+  "fecha_resumen": "2026-10-17T04:35:44.285885+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Albert Mendoza analiza el sector del oro y expone su preferencia por invertir en mineras de desarrollo australianas frente a las grandes productoras ya establecidas. Considera que el oro mantiene una tendencia estructuralmente alcista a largo plazo debido a los déficits fiscales insostenibles y la desvalorización monetaria. Aunque a corto y medio plazo las subidas de tipos para frenar la inflación puedan frenar el rally del metal, los márgenes operativos de las mineras siguen siendo extraordinariamente rentables.",
+    "ideas_clave": [
+      "Las mineras de oro productoras en Australia cotizan a múltiplos muy exigentes, mientras que las compañías desarrolladoras con proyectos viables ofrecen valoraciones atractivas.",
+      "Para seleccionar proyectos mineros viables, Mendoza busca depósitos a cielo abierto (open pit) en jurisdicciones seguras, con capex moderado (200-300 millones) en relación a su capitalización de mercado y TIR superiores al 100%.",
+      "Los proyectos donde el capex multiplica por diez la capitalización bursátil de la compañía difícilmente llegarán a construirse por falta de financiación o sobrecostes.",
+      "A largo plazo, el oro es estructuralmente alcista porque los déficits fiscales globales son políticamente difíciles de corregir en democracia y provocarán mayor devaluación de las divisas fiat.",
+      "A corto y medio plazo, el encarecimiento de la energía impulsa la inflación y fuerza a los bancos centrales a mantener tipos altos, lo cual históricamente resta atractivo inmediato al oro frente a los bonos.",
+      "Incluso si el precio del oro se mantiene lateral, las mineras cuentan con costes de extracción de 1.000 a 1.200 dólares por onza, lo que asegura márgenes de beneficio excepcionales."
+    ],
+    "tesis_principal": "Invertir en empresas desarrolladoras de minas de oro en Australia ofrece un excelente binomio rentabilidad-riesgo porque poseen proyectos con TIR superiores al 100% y costes de extracción reducidos, beneficiándose de una tendencia estructural alcista del oro sin depender necesariamente de que el metal siga marcando máximos en el corto plazo.",
+    "temas": [
+      "Oro y metales",
+      "Materias primas",
+      "Inflación",
+      "Deuda pública y déficit",
+      "Otros bancos centrales",
+      "Value investing"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Petróleo",
+      "Bonos",
+      "Platino",
+      "Paladio",
+      "Uranio"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.75,
+        "justificacion": "Mendoza ve una tendencia estructural alcista a largo plazo por déficits públicos, compra de bancos centrales y desconfianza en el dinero fiat."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Señalan que el repunte del petróleo y la energía mantendrá la inflación elevada durante más tiempo del esperado."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Advierten de que democráticamente es casi inviable recortar el déficit fiscal, lo que acelerará la desvalorización monetaria."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El oro continuará subiendo en el largo plazo debido a la imposibilidad de corregir los déficits fiscales y la devaluación del dinero fiat.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "En el corto o medio plazo el oro no experimentará un gran rally si los tipos de interés se mantienen altos o suben rápidamente.",
+        "activo_o_variable": "Oro",
+        "direccion": "lateral",
+        "horizonte": "corto a medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Las compañías mineras con proyectos viables en Australia serán construidas por ellas mismas o absorbidas mediante adquisiciones por vecinos productores más grandes.",
+        "activo_o_variable": "Mineras de oro australianas en desarrollo",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El coste de extracción de muchas mineras ronda entre 1.000 y 1.200 dólares por onza de oro, lo que garantiza márgenes récord en los niveles de cotización actuales.",
+      "Proyectos con capex de 200 a 300 millones en empresas que capitalizan 400 a 500 millones son financiables y presentan TIR superiores al 100%.",
+      "El presentador apunta que el IPC interanual en España ha repuntado hasta el 4%, reflejando tensiones inflacionarias persistentes ligadas a la energía.",
+      "La descorrelación reciente entre tipos de interés al alza y el oro responde al aumento de compras estratégicas por parte de bancos centrales como China y el temor a sanciones occidentales."
+    ],
+    "riesgos_mencionados": [
+      "Sobrecostes operativos y capex inasumible frente al tamaño de la compañía que impidan levantar financiación.",
+      "Riesgos de ingeniería y permisos regulatorios en yacimientos complejos o subterráneos.",
+      "Impacto negativo a corto plazo en el oro si los tipos de interés reales continúan aumentando y compiten como activo refugio."
+    ],
+    "participantes": [
+      "Albert Mendoza",
+      "Presentador de Inversión Racional"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
