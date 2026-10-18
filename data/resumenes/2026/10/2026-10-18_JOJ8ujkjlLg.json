@@ -1,0 +1,84 @@
+{
+  "video_id": "JOJ8ujkjlLg",
+  "url": "https://www.youtube.com/watch?v=JOJ8ujkjlLg",
+  "titulo": "La escalera de bonos - Los bonos son una sólida inversión incluso en tiempos turbulentos - Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-18T08:07:08+00:00",
+  "fecha_resumen": "2026-10-18T11:16:10.107863+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza y defiende la inversión en renta fija a largo plazo a través de la estrategia de escalera de bonos, rebatiendo la idea de que los bonos no son rentables en periodos de tipos crecientes. Mediante simulaciones numéricas con bonos del Tesoro de EE. UU. a 10 años, demuestra que las subidas de tipos benefician al inversor a largo plazo porque los cupones crecientes compensan con creces las minusvalías latentes de mercado. Además, respalda sus conclusiones citando un estudio histórico de Thornburg que demuestra que las carteras escalonadas obtuvieron rendimientos positivos en todos los ciclos de subidas de tipos de la Fed desde 1990.",
+    "ideas_clave": [
+      "Frente al pesimismo generalizado hacia la renta fija, construir una cartera escalonada invirtiendo cantidades constantes anualmente diluye las minusvalías y maximiza el cobro de cupones.",
+      "En un experimento de 10.000 dólares anuales durante 10 años en bonos del Tesoro a 10 años, un escenario adverso con tipos subiendo 0,5 puntos al año hasta el 10% genera un patrimonio de 129.455 dólares (TIR del 5,45%), superando al escenario de tipos a la baja (124.344 dólares, TIR del 4,44%).",
+      "Si se mantienen los bonos hasta vencimiento a 19 años en el escenario de tipos al alza, se alcanzan 172.500 dólares totales con una TIR del 6,97%, frente a una TIR del 4,17% en el escenario bajista de tipos.",
+      "Incluso ante un shock extremo en el año 8 (subida repentina de tipos de 3 puntos porcentuales), la escalera de bonos resiste con una TIR a 10 años del 4,83% y del 7,33% a vencimiento completo.",
+      "Un estudio de Thornburg que analiza cuatro periodos de subidas de tipos de la Fed desde 1990 constata que la escalera de bonos obtuvo rentabilidades anualizadas positivas de entre el 3,57% y el 6,82% a tres años vista.",
+      "Los actuales niveles de cupones cercanos o superiores al 5% hacen que la renta fija resulte especialmente atractiva para grandes inversores institucionales, aseguradoras y planes de pensiones."
+    ],
+    "tesis_principal": "La estrategia de escalera de bonos convierte los ciclos de subidas de tipos de interés en una ventaja para el inversor a largo plazo, ya que el flujo de cupones más elevados compensa holgadamente las minusvalías contables temporales.",
+    "temas": [
+      "Bonos y renta fija",
+      "Fed y tipos de interés EE. UU.",
+      "Finanzas personales",
+      "Bolsa EE. UU."
+    ],
+    "activos_mencionados": [
+      "Bonos del Tesoro USA a 10 años",
+      "S&P 500",
+      "Bonos corporativos grado de inversión USA",
+      "Bonos municipales USA"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Demuestra con datos cuantitativos que la inversión escalonada en bonos ofrece rentabilidades sólidas y protección del capital incluso con subidas pronunciadas de tipos."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Recuerda que hasta cuatro bancos de inversión proyectan rentabilidades anualizadas muy bajas para el S&P 500 en los próximos 10 años por altas valoraciones."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Hasta cuatro bancos de inversión prevén que la rentabilidad anualizada del S&P 500 en los próximos 10 años será muy baja debido al techo de ciclo en valoraciones.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "10 años",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Los inversores institucionales como aseguradoras y bancos aumentarán fuertemente las compras en la curva de bonos atraídos por los cupones elevados actuales.",
+        "activo_o_variable": "Bonos del Tesoro USA",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En una inversión de 10.000 $ anuales a 10 años partiendo de tipos al 5%, en el peor escenario (subida de 0,5 pp al año hasta el 10%) se ingresan 7.250 $ en cupones frente a 4.125 $ si los tipos bajan 0,25 pp anuales.",
+      "A pesar de que el valor contable de los bonos cae al 93% en el año 10 en el escenario adverso, la ganancia total acumulada con cupones no entra en pérdidas en ningún año.",
+      "Estudio de Thornburg Investment Management sobre periodos de subida de tipos (1994-95, 1999-00, 2003-04, 2005-06): las carteras escalonadas obtuvieron rendimientos anualizados positivos a 3 años entre 3,57% y 6,82% en bonos corporativos grado de inversión y municipales."
+    ],
+    "riesgos_mencionados": [
+      "Minusvalías latentes temporales por aumento de tipos de interés y caída de precios de mercado de los bonos en cartera.",
+      "Riesgo de reinversión en escenarios de fuerte caída de tipos de interés."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
