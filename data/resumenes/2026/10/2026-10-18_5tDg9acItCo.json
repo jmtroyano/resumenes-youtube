@@ -1,0 +1,92 @@
+{
+  "video_id": "5tDg9acItCo",
+  "url": "https://www.youtube.com/watch?v=5tDg9acItCo",
+  "titulo": "Por Qué El Dólar Sigue Ganando aunque Estados Unidos Tenga Problemas",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-18T18:00:06+00:00",
+  "fecha_resumen": "2026-10-18T20:50:40.174058+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo analiza las potenciales vulnerabilidades del dólar estadounidense y concluye que, ante una hipotética crisis sistémica en EE. UU., el resto del mundo sufriría aún más, fortaleciendo la demanda de dólares como refugio. Se debate la ineficacia de la austeridad fiscal para reducir la ratio deuda/PIB, citando el ejemplo de Grecia, y se argumenta que los inversores minoristas a largo plazo raramente necesitan cubrir el riesgo divisa dólar-euro. Además, se destaca cómo las 'stablecoins' denominadas en dólares están perpetuando e incrementando la hegemonía global del billete verde en lugar de reemplazarlo.",
+    "ideas_clave": [
+      "La 'criptonita' teórica del dólar requeriría rendimientos a largo plazo disparados, tipos a corto desplomándose, diferenciales de crédito desbocados, contracción del PIB e inflación de doble dígito simultáneos.",
+      "Si EE. UU. entrara en una crisis severa, se produciría una huida masiva global de capitales hacia el dólar, perjudicando todavía más a las monedas del resto del mundo.",
+      "La austeridad fiscal empeora la ratio deuda/PIB porque el stock de deuda se mantiene mientras el denominador (PIB) cae por menor gasto público y menor crecimiento privado, como ocurrió en Grecia pasando del 108% a cerca del 150%.",
+      "Los inversores institucionales cubren el tipo de cambio por estrictas políticas de gestión de riesgo y volatilidad, mientras que para los particulares a largo plazo suele restar rentabilidad sin aportar ventajas evidentes.",
+      "A largo plazo, prácticamente todas las divisas fiduciarias (incluso el franco suizo) tienden a devaluarse frente al dólar, siendo este considerado 'la camisa menos sucia de la lavadora'.",
+      "La proliferación de 'stablecoins' privadas no debilita al dólar sino que expande su alcance y dominio global, ya que el mercado elige masivamente tokens respaldados y denominados en dólares."
+    ],
+    "tesis_principal": "El dólar mantiene y consolida su hegemonía financiera global frente a cualquier competidor, ya que tanto las crisis mundiales como la innovación en stablecoins terminan incrementando la dependencia internacional de la divisa estadounidense.",
+    "temas": [
+      "Dólar y divisas",
+      "Criptomonedas",
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Crecimiento y recesión"
+    ],
+    "activos_mencionados": [
+      "Dólar estadounidense (USD)",
+      "Euro (EUR)",
+      "Franco suizo (CHF)",
+      "Yen japonés (JPY)",
+      "Yuan chino (CNY)",
+      "Oro",
+      "Bitcoin",
+      "Stablecoins",
+      "Índice DXY",
+      "Apple"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.75,
+        "justificacion": "Se define al dólar como el 'depredador por excelencia' frente al resto de divisas fiduciarias globales a largo plazo."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Las stablecoins están experimentando una demanda tremenda que ayuda a financiar y extender la deuda y liquidez en dólares."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Se critica severamente la austeridad fiscal demostrando que incrementa el ratio deuda/PIB al destruir el crecimiento económico."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las stablecoins continuarán afianzando e internacionalizando el alcance y la hegemonía del dólar estadounidense.",
+        "activo_o_variable": "Dólar y stablecoins",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Grecia pasó de una ratio de deuda sobre PIB del 108% a cerca del 150% durante su periodo de aplicación de políticas de austeridad.",
+      "En los últimos 20 años, la gran mayoría de divisas fiduciarias, incluido el franco suizo, se han devaluado en términos relativos frente al dólar.",
+      "El coste de cubrir la divisa resta rentabilidad neta a largo plazo para inversores en renta variable sin reducir sustancialmente el riesgo estructural.",
+      "Ante situaciones de estrés cambiario en países emergentes, la demanda espontánea de la población va dirigida a dólares o stablecoins en dólares, antes que a oro, Bitcoin u otras monedas fiduciarias."
+    ],
+    "riesgos_mencionados": [
+      "Escenario de estanflación grave en EE. UU. con inflación de doble dígito y tipos de interés largos al alza.",
+      "Empeoramiento de la solvencia soberana si se aplican políticas de austeridad que reduzcan el PIB.",
+      "Riesgo de volatilidad cambiaria para carteras institucionales con mandatos estrictos de riesgo."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
