@@ -1,0 +1,102 @@
+{
+  "video_id": "f7oVEzKRNzM",
+  "url": "https://www.youtube.com/watch?v=f7oVEzKRNzM",
+  "titulo": "VIX cambia de régimen - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-19T10:56:21+00:00",
+  "fecha_resumen": "2026-10-19T13:28:39.164378+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la situación de media sesión en los mercados, destacando el desacople de Europa respecto a Wall Street debido a la inestabilidad política y social en Francia. La deuda francesa experimenta una fuerte tensión, elevando su diferencial frente al bono alemán hasta los 145,5 puntos básicos y arrastrando al sector bancario. Asimismo, advierte de un cambio de régimen en la volatilidad tras registrarse el viernes un volumen récord histórico en opciones 'put' del S&P 500 y una masiva contratación de futuros del VIX.",
+    "ideas_clave": [
+      "Europa se desmarca a la baja de Wall Street afectada por la crisis en Francia, con el sector bancario europeo cayendo un 1,88%.",
+      "El diferencial de deuda entre Francia y Alemania repunta hasta los 145,5 puntos básicos, acercándose a los niveles críticos de la crisis de deuda del euro de 2012.",
+      "Alerta por cambio de régimen de volatilidad: el volumen en futuros del VIX el viernes previo superó en 3,6 veces su media de 20 días.",
+      "Récord histórico de volumen nocional negociado en una sola sesión en opciones 'put' sobre el S&P 500, sumando 5,33 millones de contratos 'put' en índices (el dato más alto desde 2015).",
+      "Las grandes tecnológicas ('los 7 magníficos') sostienen los índices estadounidenses a pesar de la caída del 0,5% en Meta previa a la publicación de resultados.",
+      "El petróleo modera sus caídas (-0,92%) al aclararse que Estados Unidos no ha eximido a Rusia de sanciones, sino que ha abierto un plazo de consulta de 60 días."
+    ],
+    "tesis_principal": "Europa afronta una grave presión por el riesgo soberano francés que castiga a su banca, mientras que en EE. UU., pese a la aparente tranquilidad sostenida por las 'big tech', la masiva compra de coberturas bajistas y futuros del VIX advierte de un peligroso cambio de régimen de volatilidad.",
+    "temas": [
+      "Bolsa Europa",
+      "Bolsa EE. UU.",
+      "Deuda pública y déficit",
+      "Bancos",
+      "Tecnología e inteligencia artificial",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "VIX",
+      "Futuros del VIX",
+      "Euro Stoxx 600",
+      "DAX 40",
+      "Bono francés a 10 años",
+      "Bund alemán a 10 años",
+      "EUR/USD",
+      "Meta Platforms",
+      "Carrefour",
+      "Crudo WTI / Petróleo",
+      "CoreWeave"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.65,
+        "justificacion": "Lastrada por los disturbios y la crisis de gobernanza en Francia que dañan a empresas comerciales y a la banca."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El diferencial entre Francia y Alemania escala a 145,5 puntos básicos, reviviendo fantasmas de la crisis de deuda de 2012."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El sector bancario europeo cede un 1,88%, arrastrado por la desconfianza en la deuda soberana francesa."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.15,
+        "justificacion": "Mantiene el tipo gracias a las grandes tecnológicas, aunque amenazado por un volumen récord de coberturas en derivados bajistas."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "El crudo limita sus descensos en torno al -0,9% entre novedades de sanciones y propuestas diplomáticas rusas."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Spread de la deuda entre Francia y Alemania situado en 145,5 puntos básicos, niveles próximos a los de la crisis del euro de 2012.",
+      "Caída del 1,88% en el índice del sector bancario europeo del Stoxx 600.",
+      "Volumen de futuros del VIX mensual situado en 524.282 contratos el viernes, 3,6 veces por encima de la media de 20 días.",
+      "5,33 millones de opciones put sobre índices negociadas el viernes (1,7 veces la media de 20 días), mayor nivel desde 2015.",
+      "El volumen nocional de puts del S&P 500 en una sola sesión alcanzó un récord histórico de 3,37 billones de dólares.",
+      "El índice VIX cotiza con un retroceso intradía de más del 6% hasta el entorno de los 18,22-18,52 puntos.",
+      "Acciones de Carrefour caen un 2% tras registrar destrozos y saqueos en 50 de sus tiendas en Francia."
+    ],
+    "riesgos_mencionados": [
+      "Contagio sistémico en la eurozona por el ensanchamiento descontrolado de la prima de riesgo de Francia.",
+      "Cambio brusco de régimen de volatilidad con posibilidad de shocks alcistas repentinos en el VIX, como ocurrió en agosto de 2024.",
+      "Ola de ventas en Wall Street si las coberturas masivas en derivados institucionales se materializan o aceleran."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
