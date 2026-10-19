@@ -1,0 +1,142 @@
+{
+  "video_id": "k7q5qe82MY8",
+  "url": "https://www.youtube.com/watch?v=k7q5qe82MY8",
+  "titulo": "IA: La mano fuerte sospecha y baja exposición -  Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-19T15:36:13+00:00",
+  "fecha_resumen": "2026-10-19T20:39:29.574241+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el rebote de las bolsas estadounidenses impulsado por mejoras de recomendación de grandes bancos de inversión hacia valores tecnológicos como CoreWeave, Intel y Amazon. Sin embargo, Cárpatos cuestiona este optimismo ante el excesivo apalancamiento en infraestructuras de inteligencia artificial y muestra cómo el dinero institucional ('mano fuerte') ha reducido drásticamente su exposición neta a la IA. Mientras Wall Street rebota, Europa y especialmente Francia sufren tensiones agudas en su deuda pública y caídas bursátiles, en un contexto macroeconómico estadounidense debilitado por el sector inmobiliario y rentabilidades del bono a 10 años por encima del 5,12 %.",
+    "ideas_clave": [
+      "La gran banca (Goldman Sachs, JP Morgan y Morgan Stanley) defiende que las correcciones en el sector de IA y chips son oportunidades de compra, mejorando valoraciones de empresas como CoreWeave, Intel o Amazon.",
+      "Cárpatos discrepa de la visión complaciente de la banca, advirtiendo sobre el elevado endeudamiento de las 'neoclouds' y la incertidumbre sobre cuándo y quién amortizará los enormes gastos de capital (Capex).",
+      "Los fondos y 'manos fuertes' han reducido su exposición neta a acciones de IA en 7 puntos porcentuales (del ~33 % en junio al 26,1 % en octubre), rebajando la ratio largo/corto de 4,34 a 3,27.",
+      "El impacto del Capex tecnológico en el crecimiento del beneficio por acción (BPA) del S&P 500 pasará de aportar +11 puntos porcentuales en 2026 a restar -1 punto porcentual en 2028 por desgaste y amortizaciones.",
+      "Francia atraviesa una seria crisis de deuda: la rentabilidad del bono a 10 años alcanza el 4,9 % y el diferencial con el Bund alemán se amplía a 146 puntos básicos, máximos desde la crisis del euro de 2012.",
+      "El sector inmobiliario estadounidense muestra debilidad extrema: la confianza de los constructores (NAHB) cayó a 29 y el sentimiento del comprador (U. Michigan) está en mínimos históricos debido a hipotecas cercanas al 7,5 %.",
+      "Técnicamente, el S&P 500 rebota apoyándose en su media de 100 sesiones tras un cierre previo en sobreventa y pánico, pero mantiene resistencias clave en 7.770-7.800 y 7.900 puntos."
+    ],
+    "tesis_principal": "El rebote actual en la bolsa estadounidense apoyado en valores tecnológicos de IA parece más una reacción técnica de sobreventa impulsada por bancos de inversión que un cambio sostenible de fondo, ya que el dinero institucional está reduciendo su exposición a la IA ante dudas sobre la rentabilidad real del gigantesco Capex.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Bonos y renta fija",
+      "Deuda pública y déficit",
+      "Inmobiliario y vivienda",
+      "Fed y tipos de interés EE. UU.",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "CoreWeave (CRWV)",
+      "Intel (INTC)",
+      "Amazon (AMZN)",
+      "Tesla (TSLA)",
+      "Meta Platforms (META)",
+      "Bono del Tesoro EE. UU. a 10 años",
+      "Bono francés a 10 años",
+      "Bund alemán a 10 años",
+      "Petróleo Light Crude",
+      "Oro",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Cárpatos muestra que los inversores institucionales están deshaciendo posiciones en IA y que las amortizaciones del Capex lastrarán los beneficios futuros."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "A corto plazo experimenta un rebote técnico apoyado en la media de 100 sesiones y en las grandes tecnológicas, dentro de un rango lateral con resistencias claras."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Los índices europeos sufren caídas importantes lideradas por el sector bancario y el castigo específico a Francia."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El diferencial entre los bonos franceses y alemanes se dispara a niveles no vistos desde 2012, reflejando gran tensión política y fiscal en Francia."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "La confianza de constructores y compradores en EE. UU. se hunde a niveles mínimos históricos debido a tipos hipotecarios en torno al 7,5 %."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Las rentabilidades de los bonos en EE. UU. repuntan hacia el 5,125 %, frenando el apetito por activos de riesgo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La inversión de las grandes tecnológicas restará 1 punto porcentual al crecimiento del beneficio por acción del S&P 500 en 2028 por desgaste de equipos y amortizaciones.",
+        "activo_o_variable": "BPA del S&P 500",
+        "direccion": "baja",
+        "horizonte": "2028",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Bank of America pronostica una subida de tipos de interés por parte de la Reserva Federal en octubre para contener la inflación.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "sube",
+        "horizonte": "octubre",
+        "conviccion_del_autor": "baja"
+      },
+      {
+        "afirmacion": "Morgan Stanley proyecta que Amazon subirá hacia un precio objetivo de 350 dólares.",
+        "activo_o_variable": "Amazon (AMZN)",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Goldman Sachs elevó CoreWeave de neutral a comprar, aunque rebajó su precio objetivo de 139 a 106 dólares.",
+      "JP Morgan subió la recomendación de Intel de infraponderar a neutral, lo que provocó una subida del 5,13 % intradía.",
+      "Morgan Stanley nombró a Amazon como 'top pick' con precio objetivo de 350 dólares (frente a cotización en 262 dólares, casi +40 % de potencial).",
+      "El índice de pánico de Goldman Sachs subió en una sola semana de 1 a 7,4 puntos.",
+      "La exposición neta institucional a IA bajó del ~33 % en junio al 26,1 % en octubre; la ratio largo/corto cayó de 4,34 a 3,27.",
+      "Encuesta de Reuters/Ipsos: 55 % de los encuestados cree bueno que la IA avance más despacio, frente a solo un 13 % que lo ve negativo.",
+      "El bono francés a 10 años rinde al 4,9 % con un diferencial de 146 puntos básicos respecto al bono alemán.",
+      "El índice NAHB de confianza de los constructores en EE. UU. bajó de 32 a 29 (se esperaba 31), con hipotecas a 30 años en 7,5 %.",
+      "El rendimiento del bono del Tesoro estadounidense a 10 años se sitúa en 5,125 %."
+    ],
+    "riesgos_mencionados": [
+      "Apalancamiento extremo en empresas de infraestructura de IA ('neoclouds') y riesgo crediticio para bonistas y proveedores si la rentabilidad esperada no llega.",
+      "Crisis política y de deuda soberana en Francia, con riesgo de contagio al sector bancario europeo.",
+      "Tensión inflacionaria que obligue a la Reserva Federal a volver a subir los tipos de interés.",
+      "Parón en el sector inmobiliario estadounidense por tipos hipotecarios prohibitivos.",
+      "Pérdida del nivel de mínimos del viernes en el S&P 500 (zona 7.674), lo que podría precipitar caídas hacia 7.616 en régimen de gamma negativa."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

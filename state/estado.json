@@ -466,20 +466,12 @@
   "5tDg9acItCo": "2026-10-18T20:50:41.768116+00:00",
   "ExLPDJ8_HLQ": "2026-10-18T20:51:21.037961+00:00",
   "Ul5x_FPgnwo": "2026-10-19T13:27:45.776232+00:00",
-  "f7oVEzKRNzM": "2026-10-19T13:28:40.667786+00:00"
+  "f7oVEzKRNzM": "2026-10-19T13:28:40.667786+00:00",
+  "hDAOF3BF5mw": "2026-10-19T20:38:12.123014+00:00",
+  "k7q5qe82MY8": "2026-10-19T20:39:32.546762+00:00",
+  "Y5opz_KbK_0": "2026-10-19T20:40:29.847579+00:00"
  },
- "cola": [
-  {
-   "video_id": "Y5opz_KbK_0",
-   "titulo": "Causas subidas explicadas - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=Y5opz_KbK_0",
-   "publicado": "2026-10-19T07:27:52+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-19T13:27:02.816116+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"

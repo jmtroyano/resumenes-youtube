@@ -1,0 +1,85 @@
+{
+  "video_id": "hDAOF3BF5mw",
+  "url": "https://www.youtube.com/watch?v=hDAOF3BF5mw",
+  "titulo": "El Gran PROBLEMA del Patrón Bitcoin que NADIE te cuenta",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-19T18:00:38+00:00",
+  "fecha_resumen": "2026-10-19T20:38:10.658284+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Daniel Baeza y Luis Miguel Ortiz debaten sobre la viabilidad de un hipotético patrón Bitcoin frente al sistema fiat actual y el patrón oro. Baeza defiende de forma controvertida que el dinero fiduciario ha permitido financiar la innovación médica y tecnológica a largo plazo gracias a la flexibilidad crediticia. Por el contrario, argumenta que la escasez absoluta de Bitcoin provocaría una apreciación continua de la moneda, encareciendo punitivamente la deuda y eliminando el crédito para grandes proyectos humanos.",
+    "ideas_clave": [
+      "Daniel Baeza sostiene que el dinero fiat, pese a generar desigualdades e inflación, ha sido el motor indispensable de la innovación tecnológica y médica al permitir financiación a largo plazo y rescates.",
+      "Bajo un patrón oro o un patrón Bitcoin puro, no existen rescates para proyectos fallidos, lo que desincentiva fuertemente la inversión en I+D de alto riesgo.",
+      "En un patrón Bitcoin, la moneda incrementa continuamente su poder adquisitivo (deflación estructural), haciendo que la devolución de un préstamo sea prohibitiva para el deudor a lo largo del tiempo.",
+      "El crédito a largo plazo desaparecería bajo un estándar Bitcoin estricto debido a que los tipos de interés y la carga real de la deuda serían punitivos.",
+      "Luis Miguel Ortiz subraya que Bitcoin presenta una escasez absoluta matemáticamente programada, a diferencia del oro histórico, cuya oferta podía alterarse mediante minería o degradación monetaria.",
+      "Daniel Baeza critica las propuestas de maximalistas de Bitcoin que sugieren incluir una tasa fija de inflación para aliviar la rigidez monetaria, señalando que eso equivale a volver al dinero fiat."
+    ],
+    "tesis_principal": "Un patrón Bitcoin puro imposibilitaría el crédito a largo plazo y frenaría el progreso humano, ya que una moneda estructuralmente deflacionaria y de escasez absoluta vuelve impagables las deudas e inviables las inversiones de riesgo a plazos extendidos.",
+    "temas": [
+      "Criptomonedas",
+      "Liquidez y crédito",
+      "Oro y metales",
+      "Crecimiento y recesión"
+    ],
+    "activos_mencionados": [
+      "Bitcoin",
+      "Oro",
+      "Dólar"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.2,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Se argumenta que Bitcoin no es viable como dinero base del sistema global porque su rigidez monetaria ahogaría el sistema crediticio y el desarrollo económico."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Se expone que bajo un estándar deflacionario el crédito se contraería casi por completo, limitándose a operaciones de corto plazo."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se analiza como un patrón rígido que históricamente frenó la innovación frente a la flexibilidad del dinero fiduciario."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si se implantase un patrón Bitcoin puro, el crédito a largo plazo desaparecería o tendría tipos punitivos insostenibles para los deudores",
+        "activo_o_variable": "Mercado crediticio bajo patrón Bitcoin",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En un régimen deflacionario, si se piden prestados 2 bitcoins para un proyecto médico a 15 años, el valor real de la deuda a devolver se multiplica por el aumento de poder adquisitivo de Bitcoin, mientras salarios e ingresos en BTC disminuyen.",
+      "La innovación tecnológica requiere horizontes de 10 a 15 años de financiación sin retornos inmediatos garantizados.",
+      "El oro tiene cierta elasticidad mediante minería o devaluación histórica del contenido metálico, mientras que Bitcoin tiene una escasez estricta e inelástica de 21 millones de unidades fijada por código.",
+      "Añadir una 'válvula de escape' inflacionaria a Bitcoin para mitigar la rigidez de deuda rompe su esencia y recrea el sistema fiduciario."
+    ],
+    "riesgos_mencionados": [
+      "Parálisis del desarrollo científico, tecnológico y médico por falta de financiación a largo plazo.",
+      "Destrucción del deudor e insolvencia generalizada en sistemas monetarios deflacionarios.",
+      "Incapacidad de las empresas para arriesgar capital en proyectos de alta incertidumbre sin redes de seguridad crediticia."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Daniel Baeza"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

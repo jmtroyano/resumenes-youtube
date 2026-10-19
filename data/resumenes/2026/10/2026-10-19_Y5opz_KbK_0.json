@@ -1,0 +1,155 @@
+{
+  "video_id": "Y5opz_KbK_0",
+  "url": "https://www.youtube.com/watch?v=Y5opz_KbK_0",
+  "titulo": "Causas subidas explicadas - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-19T07:27:52+00:00",
+  "fecha_resumen": "2026-10-19T20:40:28.406136+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos explica que el rebote matinal en los futuros de Wall Street, especialmente en el Nasdaq (+1,28%), no responde a noticias extraordinarias sino a un ajuste técnico por sobreventa extrema tras la peor racha del sector de semiconductores e inteligencia artificial en años. Este rebote se ve favorecido además por la relajación de la rentabilidad de los bonos estadounidenses (comprados como refugio), la caída del petróleo superior al 2% por expectativas geopolíticas y buenos datos macroeconómicos en China. No obstante, advierte que las bolsas europeas no compran la subida y se mantienen a la baja lastradas por la crisis institucional en Francia, por lo que el peligro de fondo en el mercado sigue intacto.",
+    "ideas_clave": [
+      "El rebote matinal en los futuros de EE. UU. (Nasdaq +1,28%, S&P 500 +0,73%) es un movimiento estrictamente técnico derivado de una severa sobreventa y no anula los riesgos de fondo.",
+      "La cesta de Goldman Sachs de ganadores de IA frente a empresas perjudicadas por la IA borró en apenas cinco sesiones todas las ganancias acumuladas en el año (-12%), mientras que el S&P 500 sin IA batió al índice general en 475 puntos básicos en una semana.",
+      "El sector de semiconductores encadenó 8 sesiones consecutivas a la baja, marcando su peor racha técnica desde el año 2006.",
+      "La rentabilidad del bono estadounidense a 10 años cae al 5,065% gracias a entradas de dinero como activo refugio ante las dudas sobre la financiación de la inteligencia artificial, lo que da oxígeno a la renta variable.",
+      "El crudo retrocede más del 2% impulsado por comentarios de Donald Trump sobre posibles acuerdos de paz entre Ucrania y Rusia y el alivio de sanciones.",
+      "Los modelos cuantitativos CTA están sobrecargados de posiciones largas en índices estadounidenses, con niveles de activación de ventas fijados en 7.624 y 7.411 en el S&P 500, y en 29.101 y 28.728 en el Nasdaq.",
+      "Europa se desmarca del rebote estadounidense con caídas en el DAX (-0,77%), Euro Stoxx 50 (-0,79%) e IBEX 35 (-1,09%), presionada por el castigo a la deuda francesa y la debilidad del euro ante la crisis en Francia."
+    ],
+    "tesis_principal": "La subida matinal en los futuros de Wall Street constituye únicamente un rebote técnico provocado por la extrema sobreventa acumulada en el sector de semiconductores e inteligencia artificial y el alivio temporal de los bonos y el crudo, sin que hayan desaparecido los riesgos estructurales de fondo.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Análisis técnico",
+      "China",
+      "Resultados empresariales",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "Nasdaq",
+      "S&P 500",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "CoreWeave",
+      "SK Hynix",
+      "Roundhill Memory ETF",
+      "VanEck Semiconductor ETF",
+      "Meta Platforms",
+      "Tesla",
+      "Netflix",
+      "SpaceX",
+      "Micron",
+      "Nvidia",
+      "Broadcom",
+      "Bono estadounidense a 10 años",
+      "Bono estadounidense a 30 años",
+      "Bund alemán",
+      "Bono francés",
+      "Petróleo WTI",
+      "Oro",
+      "Bitcoin",
+      "EUR/USD",
+      "USD/JPY"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Experimenta un rebote técnico tras una fuerte sobreventa, aunque con resistencia técnica relevante en 7.800-7.900 puntos en el S&P 500."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "No sigue el rebote estadounidense y cotiza en rojo arrastrada por los problemas políticos e institucionales de Francia."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Rebota a corto plazo tras un desplome semanal extremo en las cestas de ganadores de IA y dudas sobre su financiación."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Rebotan tras sufrir ocho sesiones consecutivas a la baja, la peor racha desde 2006."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Los bonos estadounidenses suben en precio y bajan en rentabilidad al actuar como valor refugio ante la incertidumbre."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.45,
+        "justificacion": "El petróleo cae más del 2% por titulares sobre posibles negociaciones de paz entre Rusia y Ucrania y alivio de sanciones."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "alcista",
+        "puntuacion": 0.3,
+        "justificacion": "Publicó datos de PIB del tercer trimestre (+4,5%) y ventas al por menor (+1,1%) por encima de las previsiones."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los fondos CTA comenzarán a activar ventas en el S&P 500 si toca los 7.624 puntos y ventas más fuertes en 7.411 puntos",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los fondos CTA activarán ventas en el Nasdaq si perfora los 29.101 puntos y ventas más intensas en 28.728 puntos",
+        "activo_o_variable": "Nasdaq",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La publicación de resultados de Meta provocará una elevada volatilidad en su cotización tras el evento",
+        "activo_o_variable": "Meta Platforms",
+        "direccion": "no aplica",
+        "horizonte": "esta semana",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Nasdaq cotizaba en preapertura con subidas del 1,28% y el VanEck Semiconductor ETF rebotaba un 2,54%.",
+      "La cesta de Goldman Sachs de ganadores de IA frente a valores en riesgo por IA perdió un 12% en cinco sesiones, eliminando todas sus ganancias del año.",
+      "El S&P 500 excluyendo inteligencia artificial superó al S&P 500 general en 475 puntos básicos durante la semana, algo inédito desde 2022.",
+      "El sector de semiconductores acumuló 8 jornadas seguidas en negativo, la secuencia bajista más prolongada en 20 años.",
+      "El rendimiento del bono estadounidense a 10 años se sitúa en el 5,065%, tras haber rozado el 5,36% semanas atrás.",
+      "El PIB del 3T de China creció un 4,5% frente al 4,4% esperado, y las ventas minoristas aumentaron un 1,1% mensual frente al 0,5% estimado.",
+      "El soporte cuantitativo más relevante del S&P 500 se encuentra en la franja de 7.600 a 7.650 puntos."
+    ],
+    "riesgos_mencionados": [
+      "Deterioro e inestabilidad social y política en Francia que contagia negativamente a los bonos franceses y al euro.",
+      "Problemas severos en la estructura de financiación de proyectos y compañías de inteligencia artificial.",
+      "Riesgo de ventas masivas y aceleradas por parte de los CTA si se perforan soportes clave en los índices bursátiles de EE. UU."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
