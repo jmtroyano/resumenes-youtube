@@ -471,18 +471,30 @@
   "k7q5qe82MY8": "2026-10-19T20:39:32.546762+00:00",
   "Y5opz_KbK_0": "2026-10-19T20:40:29.847579+00:00",
   "-kboOtqsuXg": "2026-10-20T14:22:51.120198+00:00",
-  "pCWZODci390": "2026-10-20T14:26:51.929864+00:00"
+  "pCWZODci390": "2026-10-20T14:26:51.929864+00:00",
+  "eZxE9l51KbQ": "2026-10-20T19:22:45.093610+00:00",
+  "RseVMDGQrC8": "2026-10-20T19:24:50.391284+00:00"
  },
  "cola": [
   {
-   "video_id": "RseVMDGQrC8",
-   "titulo": "Petróleo de mal en peor - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=RseVMDGQrC8",
-   "publicado": "2026-10-20T11:00:27+00:00",
+   "video_id": "zW2diFLGET4",
+   "titulo": "¿Quién Controla Realmente el DINERO? La Realidad del Sistema Monetario",
+   "url": "https://www.youtube.com/watch?v=zW2diFLGET4",
+   "publicado": "2026-10-20T18:00:15+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-20T19:20:05.970130+00:00"
+  },
+  {
+   "video_id": "AiivYfnz1cE",
+   "titulo": "Rotación violenta a defensivos desde tecnología - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=AiivYfnz1cE",
+   "publicado": "2026-10-20T15:49:05+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 1,
-   "en_cola_desde": "2026-10-20T14:21:15.075312+00:00"
+   "en_cola_desde": "2026-10-20T19:20:05.970130+00:00"
   }
  ],
  "fallidos": {

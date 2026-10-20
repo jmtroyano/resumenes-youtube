@@ -1,0 +1,152 @@
+{
+  "video_id": "eZxE9l51KbQ",
+  "url": "https://www.youtube.com/watch?v=eZxE9l51KbQ",
+  "titulo": "Las Ganadoras de la IA Se Desploman: ¿Qué Está Pasando?",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-20T19:07:23+00:00",
+  "fecha_resumen": "2026-10-20T19:22:41.987947+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En este consultorio bursátil de Los Locos de Wall Street, Albert Millan y Migue analizan el reciente castigo a los proveedores de infraestructura y cómputo de inteligencia artificial conocidos como 'neoclouds' (CoreWeave, Nebius, Iren), explicando que comercializan una 'commodity' sin foso defensivo y con márgenes presionados por costes crecientes de energía y componentes. Además, repasan el estado de compañías seguidas por su comunidad como AST SpaceMobile, Kosmos Energy, Yancoal, Saturn Oil & Gas y Borr Drilling. Finalmente, evalúan el panorama macroeconómico, previendo un repunte transitorio de la inflación por la energía, tipos de interés en máximos y bajadas de tipos hacia finales del próximo año ante la desaceleración y el impacto de la IA en el empleo.",
+    "ideas_clave": [
+      "Los 'neoclouds' (Nebius, CoreWeave, Iren) sufren porque ofrecen cómputo como mera 'commodity' sin barreras de entrada; sus contratos son fijos pero sus costes de chips, memoria y energía suben, deteriorando sus márgenes y solvencia.",
+      "Amazon acumula inventario de GPUs sin poder desplegarlo debido a cuellos de botella reales en espacio físico de data centers y capacidad de suministro eléctrico.",
+      "Para AST SpaceMobile (ASTS), la debilidad actual representa un 'valle de sentimiento' y un bache temporal; esperan lanzamientos clave entre finales de octubre y diciembre en cohetes Falcon 9 de SpaceX.",
+      "El gas natural de EE. UU. (Henry Hub) cotiza con enorme descuento frente al TTF europeo por oferta cautiva, pero tenderá a converger conforme se añada capacidad de exportación de GNL y decline la producción de gas seco.",
+      "Yancoal presentó sólidos resultados generando 350 millones de dólares de flujo de caja libre trimestral y utilizará su abultada caja para adquirir Kestrel a múltiplos muy atractivos.",
+      "Saturn Oil & Gas realizó una adquisición disciplinada y sinérgica a 1,6x NOI, sumando 7.000 barriles mayoritariamente de petróleo ligero, a diferencia de compras destructivas de valor vistas en pares como CVE.",
+      "En el plano macroeconómico, los tipos de interés difícilmente subirán más de una vez adicional; la desaceleración económica y la destrucción de empleo ligada a la IA forzarán bajadas de tipos hacia finales del próximo año."
+    ],
+    "tesis_principal": "El auge de la inteligencia artificial enfrenta cuellos de botella físicos (energía e infraestructura) y un ciclo de capital desfavorable para los proveedores puros de cómputo ('neoclouds') carentes de ventaja competitiva; mientras tanto, existen oportunidades asimétricas en energía, materias primas y compañías castigadas con catalizadores operativos definidos.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Energía y petróleo",
+      "Materias primas",
+      "Resultados empresariales",
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Inmobiliario y vivienda",
+      "Semiconductores"
+    ],
+    "activos_mencionados": [
+      "CoreWeave",
+      "Nebius (NBIS)",
+      "Iren (IREN)",
+      "Nvidia (NVDA)",
+      "Amazon (AMZN)",
+      "AST SpaceMobile (ASTS)",
+      "Kosmos Energy (KOS)",
+      "Henry Hub",
+      "Dutch TTF",
+      "Celanese (CE)",
+      "Dow (DOW)",
+      "BASF",
+      "Saturn Oil & Gas (SOIL)",
+      "Cenovus Energy (CVE)",
+      "Yancoal (YAL)",
+      "Dynacor Group (DNG)",
+      "Uber (UBER)",
+      "Tesla (TSLA)",
+      "SpaceX",
+      "Borr Drilling (BORR)",
+      "Golar LNG (GLNG)",
+      "Shelf Drilling (SHLF)",
+      "Burford Capital (BUR)",
+      "3M (MMM)",
+      "Constellation Software (CSU)",
+      "Oklo (OKLO)",
+      "Adobe (ADBE)",
+      "MercadoLibre (MELI)",
+      "Africa Oil (AOI)",
+      "Regulus Resources (REG)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Albert señala que los neoclouds sufren por falta de foso y que el gasto en CapEx de los hiperescaladores podría estar cerca de un punto de saturación sin retorno claro."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Ven catalizadores positivos en gas natural americano por capacidad exportadora y valoraciones muy deprimidas en productoras como Saturn, Kosmos o compañías offshore."
+      },
+      {
+        "tema": "Materias primas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Destacan la alta generación de caja de productores de carbón como Yancoal y la recuperación de precios en el sector."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Prevé que los tipos de interés se mantendrán elevados a corto plazo pero que terminarán bajando notablemente hacia finales del próximo año."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Los REITs afrontan vientos en contra considerables por la refinanciación de deuda emitida a tipos muy bajos en 2020-2021."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El siguiente lote de satélites de AST SpaceMobile (14, 15 y 16) se lanzará a finales de octubre (posiblemente hacia el 25 de octubre), seguido de más lanzamientos en noviembre y diciembre.",
+        "activo_o_variable": "AST SpaceMobile (ASTS)",
+        "direccion": "sube",
+        "horizonte": "3 meses",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El precio del gas Henry Hub tenderá a converger hacia arriba con el Dutch TTF gracias a nueva capacidad de exportación de GNL y el agotamiento de campos de gas seco.",
+        "activo_o_variable": "Gas Natural Henry Hub",
+        "direccion": "sube",
+        "horizonte": "1-2 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La Reserva Federal tendrá que bajar tipos de interés de forma relevante hacia finales del próximo año ante la desaceleración económica.",
+        "activo_o_variable": "Tipos de interés EE. UU.",
+        "direccion": "baja",
+        "horizonte": "finales del próximo año",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Eventualmente Elon Musk acabará fusionando Tesla con SpaceX y xAI.",
+        "activo_o_variable": "Tesla / SpaceX",
+        "direccion": "no aplica",
+        "horizonte": "medio-largo plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Yancoal generó 350 millones de dólares de flujo de caja libre en el trimestre frente a una capitalización de unos 8.000 millones, cotizando a 7x FCF antes de incorporar el alza reciente del carbón y la compra de Kestrel.",
+      "Saturn Oil & Gas adquirió activos por 7.000 barriles diarios a un múltiplo de 1,6x Net Operating Income, aumentando su producción a 52.000-53.000 barriles y casi en su totalidad de crudo ligero.",
+      "En AST SpaceMobile la venta de calls a 180 dólares pagaba 60 dólares de prima cuando la acción cotizaba a 120 dólares, ofreciendo retornos anualizados superiores al 20% en el peor escenario.",
+      "En África Oil (AXL), el valor actual neto (NPV) explorado ronda los 800 millones de dólares frente a una capitalización bursátil cercana a los 100 y pico millones."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de insolvencia o estrés financiero en proveedores 'neocloud' debido a contratos de ingresos cerrados y costes disparados de chips, memoria y luz.",
+      "Cuellos de botella de infraestructura: falta de potencia eléctrica y espacio físico en centros de datos para desplegar GPUs.",
+      "Riesgo de refinanciación de deuda para el sector inmobiliario y REITs en un entorno de tipos altos.",
+      "Litigios fiscales pendientes en Dynacor que podrían suponer una salida de caja a corto plazo.",
+      "Disrupción del modelo de negocio de Uber si los fabricantes como Tesla logran monopolizar las flotas autónomas mediante aplicaciones propias."
+    ],
+    "participantes": [
+      "Albert Millan (@albertrjf)",
+      "Migue (@PaezFinance)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

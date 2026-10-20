@@ -1,0 +1,107 @@
+{
+  "video_id": "RseVMDGQrC8",
+  "url": "https://www.youtube.com/watch?v=RseVMDGQrC8",
+  "titulo": "Petróleo de mal en peor - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-20T11:00:27+00:00",
+  "fecha_resumen": "2026-10-20T19:24:48.822296+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El petróleo y sus futuros a largo plazo continúan al alza impulsados por tensiones geopolíticas en el estrecho de Ormuz y ataques hutíes, encareciendo drásticamente los costes de transporte marítimo. La aparente calma del VIX contrasta con una alta volatilidad interna en las acciones individuales del S&P 500, llevando a grandes inversores como Ray Dalio a concentrar masivamente sus carteras en oro. Al mismo tiempo, la renta fija europea sufre tensiones destacables con el bono francés rondando el 5%, mientras el sector tecnológico europeo y las empresas proveedoras de centros de datos caen con fuerza.",
+    "ideas_clave": [
+      "Los futuros lejanos del petróleo (como diciembre de 2027 en 88 dólares) marcan nuevos máximos históricos por el conflicto con Irán y los hutíes, reflejando expectativas de problemas prolongados.",
+      "El coste de transporte marítimo se dispara a 33 dólares por barril de un margen de refino asiático de 40 dólares, reduciendo drásticamente los beneficios de las refinerías.",
+      "Existe una fuerte divergencia en volatilidad: mientras el VIX general cotiza en 18,58, la volatilidad de los componentes individuales del S&P 500 alcanza 40,92.",
+      "Ray Dalio mantiene el 87% de su cartera cotizada en EE. UU. en ETFs de oro (principalmente SPDR Gold Shares), evidenciando cautela extrema.",
+      "El sector tecnológico y de bienes de equipo europeo retrocede un 1,52%, castigando a fabricantes de infraestructuras para centros de datos e IA como Siemens, Schneider, ABB y ASML.",
+      "La deuda soberana europea muestra alta tensión: el rendimiento del bono francés a 10 años roza el 5% (4,96%) y el ZEW alemán se desploma a 28,1 desde 34,7."
+    ],
+    "tesis_principal": "Las tensiones geopolíticas y el encarecimiento estructural del transporte del crudo, junto a la debilidad de la deuda periférica europea y dudas sobre el gasto en inteligencia artificial, dibujan un escenario de mercado mucho más frágil y convulso de lo que refleja el índice de volatilidad superficial.",
+    "temas": [
+      "Energía y petróleo",
+      "Geopolítica",
+      "Bonos y renta fija",
+      "Tecnología e inteligencia artificial",
+      "Bolsa Europa",
+      "Bolsa EE. UU.",
+      "Oro y metales"
+    ],
+    "activos_mencionados": [
+      "Petróleo (Light Crude)",
+      "Futuro de petróleo Diciembre 2027",
+      "VIX",
+      "VIXEQ",
+      "S&P 500",
+      "SPDR Gold Shares (GLD)",
+      "Bono EE. UU. a 10 años",
+      "Bono francés a 10 años",
+      "CoreWeave",
+      "Siemens",
+      "Schneider Electric",
+      "ABB",
+      "ASML",
+      "Microsoft"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Los precios y los futuros a largo plazo están disparándose hacia máximos por bloqueos y riesgos bélicos en Oriente Medio."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las rentabilidades continúan subiendo, con el bono francés rozando el 5% ante la falta de calma en la eurozona."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Fuerte castigo al sector tecnológico, caída del índice de confianza ZEW y presión en los bonos soberanos."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Ventas generalizadas en los proveedores de centros de datos y dudas crecientes sobre las valoraciones y excesos en IA."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Destaca la masiva exposición de carteras institucionales de referencia (como la de Ray Dalio) como refugio."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "El petróleo sube un 2,19% en la sesión y el futuro de diciembre de 2027 cotiza en 88 dólares.",
+      "El coste de transporte para refinerías asiáticas representa 33 dólares de un margen de 40 dólares por barril.",
+      "Divergencia de volatilidad: VIX en 18,58 frente al índice de componentes individuales en 40,92.",
+      "El 87% (407,6 millones de dólares) de la cartera declarada de Ray Dalio está invertida en ETFs de oro (84,9% en SPDR Gold Shares).",
+      "El índice tecnológico europeo retrocede un 1,52% y el KOSPI de Corea cierra con una caída del 3,7%.",
+      "Rendimiento del bono estadounidense a 10 años en 5,12% y el bono francés a 10 años en 4,96%.",
+      "El indicador alemán ZEW de confianza inversora baja de 34,7 a 28,1."
+    ],
+    "riesgos_mencionados": [
+      "Nuevos incidentes bélicos en el estrecho de Ormuz (minas iraníes) y ataques hutíes.",
+      "Costes de flete marítimo desorbitados que estrangulan márgenes de refino e impulsan la inflación.",
+      "Tensión de deuda soberana en Europa, ejemplificada por el bono francés al borde del 5%.",
+      "Riesgos de contraparte o pérdidas en inversores expuestos a compañías como CoreWeave.",
+      "Agotamiento o corrección en la euforia inversora ligada a centros de datos e inteligencia artificial."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
