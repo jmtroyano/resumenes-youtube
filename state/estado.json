@@ -471,7 +471,18 @@
   "k7q5qe82MY8": "2026-10-19T20:39:32.546762+00:00",
   "Y5opz_KbK_0": "2026-10-19T20:40:29.847579+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "pCWZODci390",
+   "titulo": "Sigue el temor a las neoclouds - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=pCWZODci390",
+   "publicado": "2026-10-20T06:48:11+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-20T08:38:38.611130+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
