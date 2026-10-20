@@ -1,0 +1,115 @@
+{
+  "video_id": "AiivYfnz1cE",
+  "url": "https://www.youtube.com/watch?v=AiivYfnz1cE",
+  "titulo": "Rotación violenta a defensivos desde tecnología - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-20T15:49:05+00:00",
+  "fecha_resumen": "2026-10-20T23:57:27.043233+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión de mercado estuvo marcada por una fuerte volatilidad en el petróleo tras rumores desmentidos de un acuerdo nuclear entre Estados Unidos e Irán, lo que frenó el rebote de las bolsas. Los bonos estadounidenses experimentaron subidas gracias a la debilidad de las ventas de viviendas pendientes y un dato de empleo privado ADP por debajo de lo previsto. Por su parte, la prima de riesgo francesa (diferencial OAT-Bund) se disparó a 156 puntos básicos, alcanzando niveles críticos no vistos desde la crisis del euro. Además, los datos de Bank of America revelan una rotación extrema e histórica de dinero desde el sector tecnológico hacia activos defensivos, sin que exista una burbuja generalizada en el S&P 500.",
+    "ideas_clave": [
+      "El petróleo cayó un 6% desde máximos ante noticias de un posible pacto entre EE. UU., Catar, Pakistán e Irán, pero tras ser desmentido rebotó y limitó las ganancias de los índices bursátiles.",
+      "El índice de ventas de viviendas pendientes en EE. UU. cayó a mínimos históricos debido a los tipos hipotecarios a 30 años por encima del 7,5%, impulsando el precio de los bonos.",
+      "El diferencial de deuda entre Francia y Alemania (spread OAT-Bund) superó los 150 puntos básicos hasta situarse en 156 pb, situándose en niveles similares a los de la crisis del euro previa a la intervención de Mario Draghi.",
+      "Bank of America muestra que solo 13 valores (2,8% de la capitalización del S&P 500) están en zona de burbuja frente a los 50-100 valores (20-40%) de la burbuja puntocom o los 84 en 2020.",
+      "Se ha registrado la mayor huida hacia sectores defensivos (sanidad, consumo básico, 'utilities') frente a tecnología desde el estallido de la burbuja puntocom, alcanzando un diferencial de hasta +11 puntos en solo tres sesiones.",
+      "Las tensiones y dudas sobre la financiación de la inteligencia artificial elevaron el CDS de SoftBank a máximos de cuatro años en 432 puntos básicos, mientras HSBC rebajó el precio objetivo de CoreWeave a 39 dólares (-36%)."
+    ],
+    "tesis_principal": "No existe una burbuja generalizada en la renta variable estadounidense, sino un violento e histórico flujo de rotación desde el sector tecnológico hacia sectores defensivos, en un entorno de alta volatilidad geopolítica por el petróleo y creciente tensión en la deuda soberana francesa.",
+    "temas": [
+      "Energía y petróleo",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial",
+      "Valoración de mercado y burbujas",
+      "Inmobiliario y vivienda",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "Petróleo Light Crude",
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Bono del Tesoro EE. UU. a 30 años",
+      "Bund alemán a 30 años",
+      "OAT francés",
+      "CoreWeave",
+      "SoftBank",
+      "Apple",
+      "Tesla",
+      "Meta",
+      "Moderna",
+      "Coca-Cola",
+      "Oro",
+      "Bitcoin",
+      "EUR/USD",
+      "USD/JPY"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Alta volatilidad intradía con caídas del 6% y posterior rebote tras desmentirse un acuerdo con Irán."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Alarma por el spread francés OAT-Bund en 156 puntos básicos, aunque los bonos de EE. UU. y Alemania subieron por datos macro débiles."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Fuerte salida de dinero hacia defensivos, rebajas de valoración como la de HSBC a CoreWeave y repunte del riesgo crediticio en SoftBank."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Las métricas ortodoxas de Bank of America descartan una burbuja general en el S&P 500, concentrándose la sobrecompra en defensivos."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Las ventas de viviendas pendientes en EE. UU. marcaron mínimos históricos por tipos de hipotecas superiores al 7,5%."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Diferencial OAT francés vs Bund alemán subió a 156 puntos básicos, sobrepasando la barrera de 150 pb.",
+      "El informe de Bank of America indica que solo el 2,8% de la capitalización del S&P 500 está en burbuja hoy frente al 20%-40% en el año 2000 y el 30% en 2020.",
+      "Entre el 14 y el 16 de octubre el diferencial de rentabilidad a 5 días entre defensivos y tecnología alcanzó hasta +11 puntos a favor de los defensivos, la mayor brecha desde el colapso de las puntocom.",
+      "Ventas de viviendas pendientes en EE. UU. caen al nivel 66,0, tocando mínimos de la serie histórica.",
+      "Creación de empleo privado ADP semanal se situó en 18.500 frente a los 24.750 esperados.",
+      "Credit Default Swap (CDS) de SoftBank tocó máximos de 4 años en 432 puntos básicos.",
+      "HSBC otorgó un precio objetivo a CoreWeave de 39 dólares, implicando una caída del 36%."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de deuda y estabilidad política en Francia ante la escalada del bono soberano.",
+      "Tensión geopolítica y riesgo de ataques o fricciones entre EE. UU. e Irán antes de las elecciones.",
+      "Dudas sobre el modelo de financiación y rentabilidad de la inteligencia artificial.",
+      "Elevado coste financiero en el sector inmobiliario de EE. UU. con hipotecas por encima del 7,5%.",
+      "Aumento del riesgo país y desconfianza del mercado hacia la deuda de Argentina."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

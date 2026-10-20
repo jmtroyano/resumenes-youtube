@@ -473,30 +473,11 @@
   "-kboOtqsuXg": "2026-10-20T14:22:51.120198+00:00",
   "pCWZODci390": "2026-10-20T14:26:51.929864+00:00",
   "eZxE9l51KbQ": "2026-10-20T19:22:45.093610+00:00",
-  "RseVMDGQrC8": "2026-10-20T19:24:50.391284+00:00"
+  "RseVMDGQrC8": "2026-10-20T19:24:50.391284+00:00",
+  "zW2diFLGET4": "2026-10-20T23:56:54.032909+00:00",
+  "AiivYfnz1cE": "2026-10-20T23:57:28.451379+00:00"
  },
- "cola": [
-  {
-   "video_id": "zW2diFLGET4",
-   "titulo": "¿Quién Controla Realmente el DINERO? La Realidad del Sistema Monetario",
-   "url": "https://www.youtube.com/watch?v=zW2diFLGET4",
-   "publicado": "2026-10-20T18:00:15+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-20T19:20:05.970130+00:00"
-  },
-  {
-   "video_id": "AiivYfnz1cE",
-   "titulo": "Rotación violenta a defensivos desde tecnología - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=AiivYfnz1cE",
-   "publicado": "2026-10-20T15:49:05+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-20T19:20:05.970130+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"

@@ -1,0 +1,89 @@
+{
+  "video_id": "zW2diFLGET4",
+  "url": "https://www.youtube.com/watch?v=zW2diFLGET4",
+  "titulo": "¿Quién Controla Realmente el DINERO? La Realidad del Sistema Monetario",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-20T18:00:15+00:00",
+  "fecha_resumen": "2026-10-20T23:56:52.584143+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los ponentes debaten la tesis del libro 'Dinero Roto' de Lyn Alden sobre el funcionamiento del sistema monetario y financiero actual. Concluyen que el dinero fiduciario no está roto para los gobiernos y élites bancarias, ya que les permite financiarse, emitir deuda e imprimir dinero según sus intereses de poder. Asimismo, descartan una transición rápida o lineal hacia un patrón Bitcoin debido al gigantesco volumen de deuda existente, la complejidad institucional y la capacidad adaptativa del propio sistema financiero.",
+    "ideas_clave": [
+      "El sistema monetario actual no está roto para quienes lo controlan (gobiernos y bancos), pues les otorga la capacidad de imprimir dinero e imponer impuestos sin requerir permiso directo de la población.",
+      "Para los ciudadanos de a pie el dinero fiat pierde valor, pero la posición dentro de la pirámide socioeconómica y el conocimiento financiero determinan cuánto afecta esta dinámica a cada individuo.",
+      "Los políticos y legisladores tienen pocos incentivos para aprobar o adoptar monedas descentralizadas como Bitcoin, ya que eso implicaría perder el monopolio y control de la emisión monetaria.",
+      "El sistema financiero opera como un organismo vivo autorreparable (comparado con 'Wolverine' o una inteligencia artificial), integrando regulaciones tras cada crisis para perpetuarse y tapar fallas.",
+      "Una sustitución abrupta del sistema fíat por un patrón Bitcoin u oro es prácticamente inviable en el corto plazo por la complejidad contable y la imposibilidad de resetear de golpe la deuda acumulada existente."
+    ],
+    "tesis_principal": "El sistema monetario fiduciario funciona a la perfección para las élites y gobiernos que lo gestionan, lo que imposibilita un reseteo simple hacia un patrón Bitcoin sin resolver previamente la inmensa red de deuda e intereses de poder preexistentes.",
+    "temas": [
+      "Criptomonedas",
+      "Deuda pública y déficit",
+      "Dólar y divisas",
+      "Bancos",
+      "Política fiscal e impuestos"
+    ],
+    "activos_mencionados": [
+      "Bitcoin",
+      "Dinero fiat"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Reconocen el valor teórico y la narrativa de Bitcoin, pero son escépticos respecto a una adopción estatal rápida debido a los incentivos contrarios de los políticos y la complejidad de la deuda."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Señalan que la deuda acumulada en el sistema actual es un obstáculo contable masivo y estructural imposible de cancelar fácilmente sin provocar un colapso."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Critican la naturaleza monopolística del dinero fiduciario estatal, pero admiten su resiliencia y arraigo en la estructura social."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los congresos y gobiernos no aprobarán voluntariamente la adopción de Bitcoin como estándar monetario principal porque perderían su poder de gasto y control.",
+        "activo_o_variable": "Bitcoin / Marco regulatorio gubernamental",
+        "direccion": "no aplica",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "No habrá una transición directa e inmediata del dinero fiat hacia un patrón Bitcoin debido al problema contable de los pasivos y la deuda acumulada.",
+        "activo_o_variable": "Transición hacia patrón Bitcoin",
+        "direccion": "no aplica",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Referencia al libro 'Dinero Roto' (Broken Money) de Lyn Alden sobre las fallas e incentivos del sistema monetario.",
+      "Analogía del monopolio: el dinero pertenece al emisor estatal que impone las reglas y reclama parte de él mediante impuestos.",
+      "El sistema financiero integra el aprendizaje histórico de sus crisis pasadas mediante regulación continua, funcionando de forma autorreparable y antifrágil frente a intentos de disrupción."
+    ],
+    "riesgos_mencionados": [
+      "Imposibilidad contable de liquidar o transferir la deuda global existente en un hipotético reseteo monetario.",
+      "Riesgo de involución económica o parálisis institucional si se intentara desmontar de golpe el sistema de intermediación financiera fiduciaria."
+    ],
+    "participantes": [
+      "Daniel Baeza",
+      "Luis Miguel"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
