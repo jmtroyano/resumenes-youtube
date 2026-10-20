@@ -1,0 +1,125 @@
+{
+  "video_id": "pCWZODci390",
+  "url": "https://www.youtube.com/watch?v=pCWZODci390",
+  "titulo": "Sigue el temor a las neoclouds - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-20T06:48:11+00:00",
+  "fecha_resumen": "2026-10-20T14:26:50.395485+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos señala que el rebote del mercado no convence debido a la falta de volumen institucional y a la presencia de fuertes desequilibrios vendedores en el cierre. La desconfianza continúa centrada en el crédito de las compañías 'neocloud' y la viabilidad de los centros de datos, con repuntes en sus Credit Default Swaps. A su vez, el mercado petrolero a largo plazo muestra tensiones inflacionarias mientras el S&P 500 permanece bloqueado en un rango lateral bien delimitado.",
+    "ideas_clave": [
+      "El rebote previo careció de respaldo: el volumen en Wall Street fue un 18% inferior a la media y las órdenes MOC registraron 7.900 millones de dólares en desequilibrios netamente vendedores.",
+      "El estrés de crédito sigue latente: el CDS a 5 años de CoreWeave cotiza en 1.090 puntos (más del 60% de probabilidad implícita de impago) y el de Oracle en máximos de 322 puntos.",
+      "Complicaciones en infraestructuras de IA: 47 proyectos de centros de datos sufren retrasos y se estima que solo el 35% de los anunciados llegará a completarse por trabas logísticas, vecinales y de financiación.",
+      "Fuerte desconfianza en la Reserva Federal respecto al oro: en agosto salieron 40 toneladas custodiadas en la Fed de Nueva York hacia el Banco de Inglaterra (+46 toneladas).",
+      "El futuro de petróleo para diciembre de 2028 marca máximos crecientes por encima de niveles bélicos, agravado por unas reservas estratégicas de EE. UU. en mínimos desde 1982.",
+      "Técnicamente, el S&P 500 está encajonado entre el soporte mayor cuantitativo de 7.600-7.650 puntos y una resistencia infranqueable sin catalizadores en los 7.900 puntos."
+    ],
+    "tesis_principal": "El rebote bursátil carece de solidez institucional ante los graves problemas crediticios en el sector de neoclouds e infraestructuras de IA, las presiones inflacionistas estructurales en el petróleo y el estancamiento técnico del S&P 500.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Liquidez y crédito",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Análisis técnico",
+      "Semiconductores"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "Dow Jones",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Ibex 35",
+      "CoreWeave",
+      "Oracle",
+      "Meta",
+      "Netflix",
+      "SpaceX",
+      "Petróleo WTI",
+      "Oro",
+      "Bitcoin",
+      "Dólar/Yen (USD/JPY)",
+      "Euro/Dólar (EUR/USD)"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Las mesas de trading no muestran compras reales institucionales y los flujos de cierre reflejan ventas masivas."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Los Credit Default Swaps de empresas vinculadas a la nube y centros de datos descuentan altos riesgos de quiebra e impago."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Dudas sobre el retorno de inversión (capex), elevados costes de financiación y cancelación de proyectos de centros de datos."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Los futuros a largo plazo (2028) rompen al alza y las reservas estratégicas estadounidenses se encuentran en mínimos de 1982."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El índice principal se encuentra en un rango lateral rígido entre 7.600 y 7.900 puntos sin definir tendencia."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El S&P 500 continuará moviéndose de manera errática dentro del rango delimitado por el soporte de 7.600 y la resistencia de 7.900 puntos a menos que aparezca un catalizador externo importante.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Aproximadamente el 65% de los proyectos anunciados de centros de datos fracasarán y no llegarán a completarse.",
+        "activo_o_variable": "Proyectos de centros de datos de IA",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Órdenes MOC (Market On Close) del S&P 500 cerraron con 7.900 millones de dólares con saldo netamente vendedor.",
+      "El volumen global negociado fue de 15.100 millones frente a una media diaria de 18.500 millones (-18%).",
+      "El nivel de actividad en la mesa de contratación de Goldman Sachs fue de solo 3 sobre 10.",
+      "El CDS de CoreWeave se situó en 1.090 puntos básicos, lo que equivale a pagar más de 1,08 millones de dólares por asegurar 10 millones de deuda.",
+      "El CDS de Oracle marcó máximos históricos en 322 puntos básicos.",
+      "La compañía de neocloud Elice se desplomó un 32% en su estreno en la bolsa coreana.",
+      "En agosto, las reservas de oro custodiadas en la Fed cayeron en 40 toneladas mientras las del Banco de Inglaterra aumentaron en 46 toneladas.",
+      "Las reservas estratégicas de petróleo de EE. UU. marcaron nuevos mínimos desde el año 1982."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de impago y crisis crediticia en emisores de deuda ligados a infraestructuras de IA y neoclouds.",
+      "Presión inflacionista persistente impulsada por el encarecimiento de los futuros del petróleo a largo plazo.",
+      "Pérdida del soporte técnico de los 7.600 puntos (media de 100 sesiones) en el S&P 500.",
+      "Dificultades de financiación, regulatorias y vecinales para materializar centros de datos."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
