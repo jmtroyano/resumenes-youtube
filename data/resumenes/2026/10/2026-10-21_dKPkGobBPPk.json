@@ -1,0 +1,149 @@
+{
+  "video_id": "dKPkGobBPPk",
+  "url": "https://www.youtube.com/watch?v=dKPkGobBPPk",
+  "titulo": "La amplitud mejora muchísimo - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-21T07:29:09+00:00",
+  "fecha_resumen": "2026-10-21T11:58:57.311723+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la notable mejoría en la amplitud del mercado estadounidense impulsada por una rotación sana desde la inteligencia artificial hacia sectores rezagados. A pesar de los fuertes rebotes técnicos en valores como Super Micro o SpaceX, persisten dudas financieras sobre el ecosistema de IA, ejemplificadas por las abultadas pérdidas de Anthropic. El S&P 500 continúa en un rango lateral estricto, condicionado por fuertes resistencias cuantitativas en 7.800-7.900 puntos y soportes sólidos en 7.500-7.600.",
+    "ideas_clave": [
+      "La amplitud del mercado experimentó una fuerte mejoría: el 71% de los valores se sitúa por encima de la media de 20 sesiones (frente a menos del 20% a principios de mes), el 60% sobre la de 50 y el 55% sobre la de 200.",
+      "El oscilador McClellan y la sesión previa en el NYSE (1.856 avances frente a 848 descensos) confirman una rotación favorable hacia valores cíclicos y defensivos rezagados.",
+      "Goldman Sachs advierte de que el rebote se dio con bajo volumen (15.828 millones frente a una media de 18.545 millones) y estuvo impulsado por cierres forzosos de cortos ('squeeze') sin compras reales institucionales en semiconductores ni IA.",
+      "Charlie McElligott descarta una recesión inminente y califica el movimiento de 'dispersión inversa' y liquidación de apuestas saturadas, originada por el cierre de cortos en bonos que pilló a contrapié a los fondos CTA.",
+      "Los inversores institucionales y minoristas están sustituyendo acciones al contado por opciones call (en máximos de 5 años) para no perderse un potencial 'rally' de fin de año con riesgo limitado.",
+      "Se mantienen señales de alerta en el gasto de IA: Anthropic registró ingresos de 16.300 millones de dólares en el primer semestre pero acumuló pérdidas netas de 80.700 millones y compromisos de computación de hasta 750.000 millones.",
+      "El petróleo sube impulsado por una fuerte caída en los inventarios API de crudo (-4,93 millones de barriles frente a -1,3 millones previstos) e incidentes marítimos en el estrecho de Ormuz."
+    ],
+    "tesis_principal": "El mercado experimenta un saneamiento técnico positivo gracias a la rotación de capital hacia activos rezagados y una fuerte mejora de amplitud, aunque la debilidad de flujos compradores reales en tecnología y el encajonamiento técnico del S&P 500 mantienen la cautela.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Análisis técnico",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Inflación",
+      "Geopolítica",
+      "Small caps"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "Dow Jones",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "KOSPI",
+      "Bono EE. UU. 10 años",
+      "Bund alemán",
+      "Petróleo WTI",
+      "Oro",
+      "Bitcoin",
+      "Dólar (DXY)",
+      "EUR/USD",
+      "USD/JPY",
+      "ETF EWZ (Brasil)",
+      "SpaceX",
+      "Super Micro Computer",
+      "Nvidia",
+      "Netflix",
+      "SK Hynix",
+      "Meta",
+      "Tesla",
+      "IBM",
+      "Texas Instruments"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "La amplitud y la rotación son muy sanas, pero los índices permanecen atascados en rangos laterales con bajo volumen de negociación."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "A pesar de rebotes puntuales por resultados, preocupan las masivas pérdidas de caja de empresas como Anthropic y la falta de compras institucionales reales."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El rendimiento del bono a 10 años en EE. UU. se ha estabilizado en torno al 5,11%-5,12% tras un severo cierre de cortos en fondos de seguimiento de tendencia."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Los inventarios cayeron cuatro veces más de lo esperado y persisten tensiones e incidentes con minas en Ormuz."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Aunque consolida a corto plazo, Goldman Sachs ha fijado un objetivo muy alcista de 5.400 dólares para finales de 2027."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El S&P 500 está atrapado entre una masiva resistencia en 7.800-7.900 y una sólida base de soporte en 7.500-7.600."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Goldman Sachs fija un precio objetivo para el oro en 5.400 dólares.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "Finales de 2027",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Mientras el S&P 500 no pierda el soporte de 7.500-7.600 puntos, puede seguir subiendo; si lo perdiera, el panorama cambiaría radicalmente.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "lateral",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Según McElligott, Trump intentará alcanzar un acuerdo con Irán antes de las elecciones de mitad de mandato, lo que presionaría a la baja la energía y al alza los bonos y acciones rezagadas.",
+        "activo_o_variable": "Petróleo y Bonos",
+        "direccion": "no aplica",
+        "horizonte": "Medio plazo",
+        "conviccion_del_autor": "baja"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El 71% de los valores del S&P 500 cotiza por encima de la media de 20 días, frente a menos del 20% a principios de octubre.",
+      "El oscilador McClellan marcó 1.856 valores al alza frente a 848 a la baja en el NYSE.",
+      "Anthropic reportó ingresos en el 1S de 16.300 millones de dólares frente a pérdidas GAAP de 80.700 millones y compromisos de infraestructura de hasta 750.000 millones.",
+      "El volumen en Wall Street fue flojo: 15.828 millones de títulos negociados frente a la media de 18.545 millones (-15%).",
+      "Los inventarios de petróleo API mostraron una reducción de 4,93 millones de barriles frente a la previsión de -1,3 millones.",
+      "La inflación en Reino Unido repuntó al +3,5% interanual frente al +3,1% previo.",
+      "Las exportaciones surcoreanas en los primeros 20 días de octubre subieron un 105,4% interanual impulsadas por semiconductores y memoria."
+    ],
+    "riesgos_mencionados": [
+      "Sostenibilidad financiera y quema de caja acelerada en compañías de inteligencia artificial y proveedores 'neocloud'.",
+      "Ruptura a la baja del soporte crítico del S&P 500 situado en 7.500-7.600 puntos.",
+      "Riesgos geopolíticos en Oriente Medio y disrupciones de suministro en el estrecho de Ormuz.",
+      "Repunte de la inflación reflejado en datos como el del Reino Unido (+3,5%)."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

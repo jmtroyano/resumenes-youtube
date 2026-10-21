@@ -1,0 +1,108 @@
+{
+  "video_id": "_cVgC-4wmq8",
+  "url": "https://www.youtube.com/watch?v=_cVgC-4wmq8",
+  "titulo": "Bono francés preocupa -  Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-21T10:54:32+00:00",
+  "fecha_resumen": "2026-10-21T11:58:20.912203+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En la media sesión europea, el diferencial del bono francés frente al alemán se dispara a 158 puntos básicos, rozando niveles de la crisis de 2012 ante la expectativa de que el BCE deba intervenir. El petróleo West Texas repunta buscando los 100 dólares por barril debido a la caída de inventarios y a las tensiones navales con Irán en el estrecho de Ormuz. En renta variable, el sector tecnológico amortigua las caídas gracias al tirón de fabricantes de servidores de IA como Super Micro Computer, Dell y HP, mientras que Carrefour se desploma tras malos resultados y disturbios.",
+    "ideas_clave": [
+      "El bono francés a 10 años roza el 5% (4,99%) y su diferencial con el bono alemán escala a 158 puntos básicos, acercándose a los máximos de la crisis de deuda soberana de 2012.",
+      "La banca europea acumula 4,3 billones de deuda soberana en cartera según Reuters, lo que incrementa su vulnerabilidad ante la tensión en la renta fija pública.",
+      "El petróleo WTI sube un 2,04% hasta los 99,82 dólares por barril por la caída de inventarios API y los ataques con minas a buques en el estrecho de Ormuz.",
+      "El Nasdaq gana un 0,47% impulsado por Super Micro Computer (+13%), Dell y HP ante la fuerte demanda de servidores para inteligencia artificial.",
+      "Carrefour cae un 13% lastrada por malos resultados y el saqueo o asalto de 50 de sus establecimientos en Francia.",
+      "El fuerte consumo energético de los centros de datos de IA eleva la tarifa eléctrica en EE. UU. a 19,4 centavos por kWh, lo que supone un límite físico a la expansión tecnológica.",
+      "El 88% de las empresas del S&P 500 se encuentra en periodo de bloqueo ('blackout') de recompra de acciones propias."
+    ],
+    "tesis_principal": "La sesión financiera se ve tensionada por el encarecimiento del crudo ante el conflicto en Ormuz y la alarmante ampliación del diferencial del bono francés, aunque el empuje del sector tecnológico de inteligencia artificial frena una corrección mayor en las bolsas.",
+    "temas": [
+      "Bonos y renta fija",
+      "Deuda pública y déficit",
+      "BCE y tipos de interés Europa",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Tecnología e inteligencia artificial",
+      "Bancos",
+      "Bolsa Europa"
+    ],
+    "activos_mencionados": [
+      "Bono francés a 10 años",
+      "Bund alemán",
+      "Crudo West Texas (WTI)",
+      "Nasdaq",
+      "S&P 500",
+      "Super Micro Computer",
+      "Dell",
+      "HP",
+      "Carrefour",
+      "SpaceX",
+      "Tesla",
+      "Netflix"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El spread de Francia frente a Alemania escala a 158 puntos básicos y los rendimientos franceses se sitúan cerca del 5%."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El crudo WTI cotiza al borde de los 100 dólares por barril empujado por incidentes navales con Irán y menores inventarios."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Las compañías fabricantes de hardware y servidores muestran fuertes avances lideradas por Super Micro Computer."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Las entidades europeas sufren por su exposición a 4,3 billones de euros en deuda soberana en medio de la caída de los bonos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El Banco Central Europeo tarde o temprano va a tener que intervenir comprando bonos franceses para arreglar la crisis de deuda",
+        "activo_o_variable": "Bono francés / Intervención del BCE",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Spread de Francia respecto a Alemania en 158 puntos básicos, con la rentabilidad francesa en el 4,99%.",
+      "Bancos europeos expuestos a 4,3 billones de deuda soberana según cifras reportadas por Reuters.",
+      "El WTI avanza un 2,04% cotizando en 99,82 dólares por barril tras malos datos de inventarios del API.",
+      "Super Micro Computer sube un 13% arrastrando al alza a Dell y HP.",
+      "Carrefour se hunde un 13% tras reportar peores cuentas y 50 tiendas asaltadas.",
+      "Precio medio de la electricidad en EE. UU. alcanza 19,4 centavos de dólar por kilovatio-hora por la demanda de centros de datos.",
+      "Solo el 12% de las firmas del S&P 500 está habilitado actualmente para recomprar acciones por el periodo de blackout."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de crisis de deuda soberana en Francia y contagio al sector bancario europeo.",
+      "Escalada de tensiones bélicas y corte del tráfico marítimo en el estrecho de Ormuz.",
+      "Restricciones físicas y sobrecoste de la electricidad como cuello de botella para la inteligencia artificial.",
+      "Falta de soporte comprador corporativo en Wall Street por el blackout de recompras."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
