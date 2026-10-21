@@ -1,0 +1,92 @@
+{
+  "video_id": "s2P58fqP7wg",
+  "url": "https://www.youtube.com/watch?v=s2P58fqP7wg",
+  "titulo": "Si Quisiera Empezar a Invertir en 2026, Usaría este Sistema",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-21T18:00:05+00:00",
+  "fecha_resumen": "2026-10-21T21:47:51.440298+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El autor expone la hoja de ruta metódica que seguiría si tuviera que empezar a invertir desde cero en 2026. En primer lugar, establece la necesidad de definir los plazos del dinero, crear un fondo de emergencia de 3 a 6 meses y eliminar deudas caras al consumo. Posteriormente, defiende construir una base sólida con fondos indexados o ETFs globales de bajo coste mediante aportaciones periódicas automatizadas antes de plantearse dar el salto a acciones individuales o derivados.",
+    "ideas_clave": [
+      "Diferenciación estricta por horizontes temporales: el capital necesario a menos de 1-2 años debe permanecer en cuentas remuneradas o fondos monetarios, mientras que el ahorro a largo plazo debe ir 100% a renta variable.",
+      "Antes de invertir, es imperativo contar con un colchón de emergencia de 3 a 6 meses de gastos fijos y liquidar cualquier deuda al consumo o tarjeta de crédito con intereses del 15% al 20%.",
+      "La inversión requiere ser realista con el tiempo dedicado: un ETF indexado global exige unos 15 minutos al mes para aspirar a un 8% anual, mientras que la selección de acciones exige análisis intensivo de balances.",
+      "Reglas para el ETF base de cartera: comisión de gestión muy baja (TER inferior a 0,20%), de acumulación (reinvierte dividendos), de réplica física y con diversificación global amplia (como MSCI World o S&P 500).",
+      "Automatizar las aportaciones mensuales mediante Dollar-Cost Averaging (DCA) elimina el sesgo emocional, promedia el precio de entrada y evita el error de intentar adivinar el suelo o techo del mercado.",
+      "Una caída de mercado nunca es motivo suficiente de venta: ventas en pánico (como la caída de más del 30% en marzo de 2020) transforman pérdidas temporales en definitivas.",
+      "Filosofía de asimetría y convexidad (Taleb y Druckenmiller): lo relevante no es el porcentaje de aciertos, sino cuánto ganas cuando aciertas frente a cuánto pierdes al equivocarte.",
+      "Para seleccionar acciones individuales (estilo Peter Lynch), se debe aprovechar la ventaja competitiva personal en sectores conocidos y jamás pagar valoraciones desorbitadas, pues un gran negocio a mal precio es una pésima inversión."
+    ],
+    "tesis_principal": "El éxito en la inversión patrimonial parte de una base defensiva (liquidez para emergencias y cero deudas caras) combinada con aportaciones periódicas indexadas a largo plazo, priorizando la paciencia, el control del riesgo y la asimetría sobre la búsqueda de enriquecimiento rápido.",
+    "temas": [
+      "Finanzas personales",
+      "Fondos indexados y ETFs",
+      "Bolsa EE. UU.",
+      "Liquidez y crédito",
+      "Valoración de mercado y burbujas",
+      "Value investing"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "MSCI World",
+      "IWDA",
+      "Oro",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Fondos indexados y ETFs",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.9,
+        "justificacion": "Los considera el vehículo fundamental, barato y óptimo para construir el armazón del patrimonio a largo plazo."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Sostiene que la renta variable supera históricamente a cualquier otro activo si se le concede el horizonte temporal adecuado."
+      },
+      {
+        "tema": "Finanzas personales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Enfatiza la disciplina financiera estricta, la gestión de liquidez en fondos monetarios y el rechazo frontal a las deudas de alto coste."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La economía mundial y el progreso humano seguirán creciendo en las próximas décadas, beneficiando a los inversores indexados globales.",
+        "activo_o_variable": "Economía mundial / Renta variable global",
+        "direccion": "sube",
+        "horizonte": "largo plazo (décadas)",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Pagar una deuda de tarjeta al 20% supone una rentabilidad garantizada equivalente al 20%, insuperable de forma consistente por cualquier producto financiero.",
+      "El coste de gestión (TER) de un gran ETF indexado suele situarse por debajo del 0,20% o 0,12%, ahorrando un porcentaje crítico de capital a 30 años.",
+      "En la caída del mercado de marzo de 2020 provocada por el COVID, el S&P 500 cayó más de un 30% en semanas y recuperó los máximos históricos en apenas 4-5 meses.",
+      "Ejemplo numérico de asimetría: invirtiendo 30.000 € repartidos en 30 empresas (1.000 € en cada una), fallar en 27 de ellas con pérdidas del 50% deja 13.500 €, pero multiplicar por 20 (tenbaggers) las 3 restantes genera 60.000 €, elevando la cartera a 73.500 € a pesar de acertar solo el 10% de las veces."
+    ],
+    "riesgos_mencionados": [
+      "Hacer 'market timing' intentando anticipar picos y suelos de mercado, lo que conduce a la parálisis o a vender en mínimos.",
+      "Vender posiciones por miedo en medio de caídas bruscas del mercado, consolidando pérdidas que de otro modo serían fluctuaciones temporales.",
+      "Mantener préstamos o tarjetas con tipos de interés abusivos (15-20%) que devoran el capital.",
+      "Falsa diversificación o 'diworsificación', consistente en comprar multitud de acciones del mismo sector o país, o acumular cientos de títulos individuales pagando excesivas comisiones.",
+      "Apalancamiento excesivo e impaciencia por buscar atajos para enriquecerse rápido."
+    ],
+    "participantes": [
+      "Antonio"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

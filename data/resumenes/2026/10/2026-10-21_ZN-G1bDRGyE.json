@@ -1,0 +1,130 @@
+{
+  "video_id": "ZN-G1bDRGyE",
+  "url": "https://www.youtube.com/watch?v=ZN-G1bDRGyE",
+  "titulo": "La Cartera PERMANENTE que SALVARÁ tu RIQUEZA ante Cualquier ESCENARIO | Carlos Santiso",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-21T12:01:27+00:00",
+  "fecha_resumen": "2026-10-21T21:51:14.967279+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Carlos Santiso y Luis Miguel Ortiz analizan la utilidad y estructuración de la Cartera Permanente en el entorno macroeconómico actual, marcado por el superendeudamiento estatal, la inflación persistente y la disrupción tecnológica de la inteligencia artificial. Santiso explica cómo su fondo adapta la fórmula original de Harry Browne diversificando entre ocho geografías solventes con cuatro activos equiponderados: acciones, deuda pública de largo plazo, oro y letras del tesoro. Asimismo, se exploran activos asimétricos descorrelacionados como los bonos catástrofe y la deuda frontera en divisa local, contrastándolos con las oportunidades y riesgos de custodia y valoración que plantea Bitcoin.",
+    "ideas_clave": [
+      "La Cartera Permanente clásica reparte un 25% en acciones, deuda gubernamental de largo plazo, oro y liquidez/letras para proteger el patrimonio ante inflación, deflación, crecimiento y recesión.",
+      "El fondo gestionado por Santiso divide la cartera en 8 subcarteras de economías de alta calidad crediticia (EE. UU., Eurozona, Reino Unido, Japón, Suiza, Canadá, Australia y Suecia) para neutralizar el riesgo país sin costes de cobertura de divisa.",
+      "La deuda gubernamental de largo plazo y el oro funcionan como fuerzas antagónicas complementarias: el oro protege ante devaluación monetaria o hiperinflación, mientras que los bonos largos absorben el choque de recesiones deflacionarias mediante caídas de tipos.",
+      "Santiso critica la renta fija corporativa tradicional (investment grade y high yield) por comportarse como renta variable descafeinada en momentos de tensión y prefiere deuda sin rating analizada fundamentalmente.",
+      "Los bonos catástrofe (cat bonds) y la deuda de mercados frontera en divisa local ofrecen rentabilidades de doble dígito completamente descorrelacionadas de la Reserva Federal y del ciclo macroeconómico general.",
+      "Respecto a Bitcoin, Santiso respalda su tesis macro como antídoto a la intervención estatal, pero advierte de su extrema volatilidad, los riesgos de autocustodia (tras sufrir personalmente un robo en una Ledger) y el riesgo de que pueda valer cero.",
+      "El descontrol del déficit público y la emisión desmedida de deuda están empobreciendo a los ciudadanos y forzando a perfiles conservadores a especular en bolsa sin la debida diversificación."
+    ],
+    "tesis_principal": "Frente a un entorno de deuda pública desbocada, inflación encubierta e incertidumbre tecnológica, la mejor defensa patrimonial es una asignación de activos equilibrada y sistemática (como la Cartera Permanente), combinando activos de comportamiento opuesto como el oro y los bonos de larga duración junto con liquidez para resistir cualquier ciclo económico sin predecir el futuro.",
+    "temas": [
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Oro y metales",
+      "Finanzas personales",
+      "Criptomonedas",
+      "Tecnología e inteligencia artificial",
+      "Inflación",
+      "Dólar y divisas"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Bitcoin",
+      "S&P 500",
+      "MSCI World",
+      "Bonos del Tesoro de EE. UU.",
+      "Letras del Tesoro de EE. UU.",
+      "Bund alemán 2050 cupón cero",
+      "Bonos de Austria a 100 años",
+      "Cat bonds (bonos catástrofe)",
+      "Deuda frontera",
+      "MyInvestor Cartera Permanente",
+      "Icaria Patrimonio FIL",
+      "Icaria Renta Fija",
+      "Constellation Software"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Santiso advierte que la emisión descontrolada de deuda pública y la falta de austeridad son insostenibles y amenazan con esquilmar a los ciudadanos vía inflación e impuestos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Se considera el activo refugio imprescindible para cubrirse ante la pérdida de confianza en las divisas fiduciarias y la monetización de deuda por bancos centrales."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Aunque se señala el peligro del riesgo de duración si no va acompañado de oro, los rendimientos actuales superiores al 5,5% en EE. UU. ofrecen un contrapeso atractivo ante recesiones."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Reconocen su salto productivo colosal, pero señalan una enorme incertidumbre sobre qué modelos de negocio quedarán obsoletos y cómo valorar terminalmente las empresas."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Valoran la tesis de escasez de Bitcoin frente al dinero fiat, pero alertan de que tiene escenarios potenciales de valor cero y serias vulnerabilidades prácticas en autocustodia."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.65,
+        "justificacion": "Señalan que el aumento de coste de la vida y el encarecimiento de activos son el resultado directo de las políticas monetarias y fiscales expansivas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "En el horizonte de los próximos años llegará una recesión económica o corrección severa de mercado, aunque el momento exacto no se puede predecir.",
+        "activo_o_variable": "Ciclo económico global / Recesión",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si sobreviene una recesión deflacionaria severa sin colapso del sistema fiduciario, los bonos soberanos de largo plazo experimentarán un fuerte repunte de precio por bajadas agresivas de tipos.",
+        "activo_o_variable": "Precio de bonos soberanos de largo plazo",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El fondo MyInvestor Cartera Permanente cuenta con más de 10.000 partícipes y una volatilidad histórica de aproximadamente el 6%, cerca de un tercio de la volatilidad de la renta variable.",
+      "En 2020 el bono alemán a 30 años con vencimiento en 2050 cotizaba con cupón cero y rentabilidad de -0,4% anual, llegando a desplomarse alrededor de un 60% al normalizarse los tipos.",
+      "El bono del Tesoro estadounidense a 30 años ofrece actualmente rentabilidades superiores al 5,5%, estrechando el diferencial histórico frente al 9% de media a largo plazo de la renta variable.",
+      "La Cartera Permanente tradicional formulada por Harry Browne reparte 25% en acciones, 25% en bonos de largo plazo, 25% en oro y 25% en efectivo/letras del tesoro.",
+      "La Cartera Permanente aplicada a Japón desde 1973 hasta 2020 rindió un 3-4% anual frente al 8% de otras geografías debido al estancamiento bursátil nipón, riesgo que se neutraliza diversificando entre 8 países."
+    ],
+    "riesgos_mencionados": [
+      "Superendeudamiento y déficit fiscal estructural descontrolado en los gobiernos occidentales.",
+      "Confiscación encubierta del poder adquisitivo mediante inflación e impuestos sobre ganancias latentes.",
+      "Riesgo de duración en bonos soberanos cuando se compran a tipos deprimidos o negativos.",
+      "Fallos de seguridad, malware y hackeos en hardware wallets de autocustodia de criptomonedas (como Ledger).",
+      "Incertidumbre terminal en empresas y sectores enteros provocada por la disrupción de la inteligencia artificial.",
+      "Comportamiento gregario y sobreapalancamiento de inversores minoristas atraídos por subidas recientes sin diversificación."
+    ],
+    "participantes": [
+      "Carlos Santiso",
+      "Luis Miguel Ortiz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
