@@ -482,21 +482,11 @@
   "S4-T-KecawM": "2026-10-21T21:49:40.579270+00:00",
   "ZN-G1bDRGyE": "2026-10-21T21:51:17.739345+00:00"
  },
- "cola": [
-  {
-   "video_id": "9ZCLk-xQxrQ",
-   "titulo": "Valor medio SP500 mal desde hace años respecto índice - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=9ZCLk-xQxrQ",
-   "publicado": "2026-10-21T15:30:53+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-21T17:17:19.785653+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "9ZCLk-xQxrQ": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
