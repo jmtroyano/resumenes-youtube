@@ -495,30 +495,31 @@
    "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
   },
   {
-   "video_id": "-p5J2U1vDb4",
-   "titulo": "Ladrillo vs Oro | José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=-p5J2U1vDb4",
-   "publicado": "2026-10-22T11:00:32+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
-  },
-  {
    "video_id": "7zpkUzMl5bM",
    "titulo": "Gran rotación, RSP igual ponderación plano - Cierre Cárpatos",
    "url": "https://www.youtube.com/watch?v=7zpkUzMl5bM",
    "publicado": "2026-10-22T15:38:40+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-22T17:15:45.345496+00:00"
+  },
+  {
+   "video_id": "KMu-oSmeIpM",
+   "titulo": "La Cartera Diseñada para SOBREVIVIR a Cualquier Crisis",
+   "url": "https://www.youtube.com/watch?v=KMu-oSmeIpM",
+   "publicado": "2026-10-22T18:00:01+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-22T21:41:39.979196+00:00"
   }
  ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "9ZCLk-xQxrQ": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "9ZCLk-xQxrQ": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "-p5J2U1vDb4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
