@@ -480,9 +480,31 @@
   "dKPkGobBPPk": "2026-10-21T11:58:58.799907+00:00",
   "s2P58fqP7wg": "2026-10-21T21:47:52.888457+00:00",
   "S4-T-KecawM": "2026-10-21T21:49:40.579270+00:00",
-  "ZN-G1bDRGyE": "2026-10-21T21:51:17.739345+00:00"
+  "ZN-G1bDRGyE": "2026-10-21T21:51:17.739345+00:00",
+  "DGdx6Jh6Ec4": "2026-10-22T12:04:13.259525+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "5ObAsIpyrog",
+   "titulo": "Causas de las bajadas explicadas - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=5ObAsIpyrog",
+   "publicado": "2026-10-22T07:28:35+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
+  },
+  {
+   "video_id": "-p5J2U1vDb4",
+   "titulo": "Ladrillo vs Oro | José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=-p5J2U1vDb4",
+   "publicado": "2026-10-22T11:00:32+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",

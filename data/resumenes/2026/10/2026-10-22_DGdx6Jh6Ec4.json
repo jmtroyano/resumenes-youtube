@@ -1,0 +1,103 @@
+{
+  "video_id": "DGdx6Jh6Ec4",
+  "url": "https://www.youtube.com/watch?v=DGdx6Jh6Ec4",
+  "titulo": "Nueva etapa IA - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-22T11:48:44+00:00",
+  "fecha_resumen": "2026-10-22T12:04:11.870875+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los mercados sufren caídas generalizadas impulsadas por el repunte vertiginoso de los CDS a cinco años de las grandes tecnológicas y fabricantes de chips, lo que evidencia desconfianza ante el gasto en inteligencia artificial. A esto se suma la tensión en la deuda europea con el diferencial del bono francés frente al alemán en máximos no vistos desde la crisis de 2012. Paralelamente, los resultados empresariales insatisfactorios de grandes valores y el aumento de la tensión geopolítica con Irán provocan una clara rotación hacia activos defensivos y bonos soberanos refugio.",
+    "ideas_clave": [
+      "El fuerte repunte de los CDS a 5 años de tecnológicas y fabricantes de chips refleja creciente temor a excesos de Capex y problemas de financiación de la IA.",
+      "El diferencial del bono francés a 10 años frente al alemán alcanza los 175 puntos básicos, cotizando a una rentabilidad del 5,14%, nivel crítico cercano a la crisis de 2012.",
+      "Los resultados trimestrales de gigantes como Meta, Tesla o Lam Research lastran a los 'Siete Magníficos' y arrastran a las bolsas globales.",
+      "La escalada en Oriente Medio, con ataques a siete petroleros y advertencias de Donald Trump sobre Irán, añade presión vendedora al mercado.",
+      "Fuerte flujo comprador hacia la renta fija soberana estadounidense como activo refugio y rotación en Europa hacia sectores defensivos como alimentación, salud y telecomunicaciones."
+    ],
+    "tesis_principal": "La confluencia de la desconfianza crediticia en el sector tecnológico/IA, la tensión en la deuda soberana europea y el riesgo geopolítico está desencadenando ventas profundas y una huida generalizada hacia activos refugio.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Resultados empresariales",
+      "Geopolítica",
+      "Bolsa EE. UU.",
+      "Bolsa Europa"
+    ],
+    "activos_mencionados": [
+      "CDS 5Y Meta",
+      "CDS 5Y Nvidia",
+      "Bono francés 10 años",
+      "Bund alemán",
+      "Bono estadounidense 10 años",
+      "Bono estadounidense 30 años",
+      "Meta",
+      "Tesla",
+      "Lam Research",
+      "Hermès",
+      "Barclays",
+      "SpaceX"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.8,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Los CDS de las tecnológicas se disparan por el miedo a los excesos de Capex y los resultados no convencen."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.75,
+        "justificacion": "La deuda francesa sufre tensiones extremas con un spread frente a Alemania en 175 puntos básicos."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Fuerte entrada de compras como activo de valor refugio en bonos soberanos de EE. UU."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Ataques a petroleros en Oriente Medio y advertencias de Trump deterioran el apetito por el riesgo."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Castigo en banca y lujo, obligando a una rotación defensiva en el mercado europeo."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Los CDS a 5 años de hyperscalers y fabricantes de semiconductores registran fuertes aceleraciones al alza durante octubre.",
+      "El rendimiento del bono francés se sitúa en el 5,14%, superando al bono estadounidense a 10 años por primera vez desde 2013.",
+      "El diferencial Francia-Alemania a 10 años escala a 175 puntos básicos, acercándose al máximo de la crisis de deuda europea de 2012.",
+      "Lam Research registra desplomes cercanos al 8% tras decepcionar con sus cuentas.",
+      "Subidas en el precio de los bonos soberanos de EE. UU. de 10 años (+0,71%) y 30 años (+1,18%) por compras de valor refugio.",
+      "El sector bancario europeo retrocede un 2,58% y el sector del lujo cae un 1,38% liderado por la caída de Hermès."
+    ],
+    "riesgos_mencionados": [
+      "Excesos de inversión en Capex y problemas de financiación en inteligencia artificial.",
+      "Contagio o crisis de deuda soberana en Europa a partir del bono francés.",
+      "Escalada bélica y bloqueo de transporte marítimo de crudo en Oriente Medio.",
+      "Pérdida de dinamismo en resultados empresariales de grandes multinacionales tecnológicas y de lujo."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
