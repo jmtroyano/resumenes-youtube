@@ -491,7 +491,7 @@
    "publicado": "2026-10-22T07:28:35+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
   },
   {
@@ -501,8 +501,18 @@
    "publicado": "2026-10-22T11:00:32+00:00",
    "canal": "José Luis Cava (Bolsacava)",
    "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
+  },
+  {
+   "video_id": "7zpkUzMl5bM",
+   "titulo": "Gran rotación, RSP igual ponderación plano - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=7zpkUzMl5bM",
+   "publicado": "2026-10-22T15:38:40+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-22T17:15:45.345496+00:00"
   }
  ],
  "fallidos": {
