@@ -481,7 +481,9 @@
   "s2P58fqP7wg": "2026-10-21T21:47:52.888457+00:00",
   "S4-T-KecawM": "2026-10-21T21:49:40.579270+00:00",
   "ZN-G1bDRGyE": "2026-10-21T21:51:17.739345+00:00",
-  "DGdx6Jh6Ec4": "2026-10-22T12:04:13.259525+00:00"
+  "DGdx6Jh6Ec4": "2026-10-22T12:04:13.259525+00:00",
+  "KMu-oSmeIpM": "2026-10-23T04:59:18.824790+00:00",
+  "7zpkUzMl5bM": "2026-10-23T05:01:15.578695+00:00"
  },
  "cola": [
   {
@@ -493,26 +495,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 2,
    "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
-  },
-  {
-   "video_id": "7zpkUzMl5bM",
-   "titulo": "Gran rotación, RSP igual ponderación plano - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=7zpkUzMl5bM",
-   "publicado": "2026-10-22T15:38:40+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-22T17:15:45.345496+00:00"
-  },
-  {
-   "video_id": "KMu-oSmeIpM",
-   "titulo": "La Cartera Diseñada para SOBREVIVIR a Cualquier Crisis",
-   "url": "https://www.youtube.com/watch?v=KMu-oSmeIpM",
-   "publicado": "2026-10-22T18:00:01+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-22T21:41:39.979196+00:00"
   }
  ],
  "fallidos": {

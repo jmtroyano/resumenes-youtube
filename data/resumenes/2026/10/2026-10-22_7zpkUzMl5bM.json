@@ -1,0 +1,133 @@
+{
+  "video_id": "7zpkUzMl5bM",
+  "url": "https://www.youtube.com/watch?v=7zpkUzMl5bM",
+  "titulo": "Gran rotación, RSP igual ponderación plano - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-22T15:38:40+00:00",
+  "fecha_resumen": "2026-10-23T05:01:14.155658+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado experimenta una fuerte rotación sectorial alejándose de los gigantes tecnológicos y de la inteligencia artificial debido a crecientes dudas sobre su rentabilidad, exceso de capacidad y financiación. Mientras el Nasdaq y Meta sufren caídas notables, el ETF del S&P 500 de igual ponderación (RSP) se mantiene plano y los sectores defensivos avanzan. Al mismo tiempo, los inversores buscan refugio en la deuda soberana de EE. UU. y el franco suizo, mientras la crisis política en Francia tensiona los bonos franceses y la banca europea.",
+    "ideas_clave": [
+      "Meta registra un desplome intradía del 8,35% (y más del 13% desde sus máximos de 24 horas) arrastrada por el flujo de caja negativo, dudas sobre el retorno de la IA y el anuncio de emisión de acciones clase C sin voto.",
+      "El mercado asiste a una gran rotación defensiva: mientras el Nasdaq cae cerca de un 2,4%, el ETF RSP (S&P 500 equiponderado) se mantiene plano y sectores defensivos como alimentación, salud y telecomunicaciones suben.",
+      "Los bonos del Tesoro de EE. UU. y los bunds alemanes actúan claramente como activos refugio, provocando un desplome del rendimiento del bono estadounidense a 10 años de 13 puntos básicos hasta el 5,01%.",
+      "Los fondos de cobertura (hedge funds) en el Prime Book de Goldman Sachs acumulan posiciones de venta cortas extremas en el sector de tecnología de la información.",
+      "La tensión de deuda en Francia se agrava tras el rechazo de los presupuestos, llevando el diferencial a casi 176 puntos básicos, la rentabilidad al 5,15% y provocando una caída del 3,3% en el sector bancario europeo.",
+      "En materias primas, el petróleo sube por el conflicto en Oriente Medio y el estrangulamiento de las exportaciones de crudo de Irán, mientras el oro y la plata corrigen con fuerza.",
+      "El dato de paro semanal en EE. UU. (194.000 frente a 200.000 estimadas) sigue mostrando fortaleza laboral, lo que podría mantener la atención de la Reserva Federal en la inflación."
+    ],
+    "tesis_principal": "La corrección del mercado no supone una caída generalizada ni un riesgo sistémico, sino una rotación profunda y saludable desde las valoraciones excesivas y dudas de financiación de la inteligencia artificial hacia activos defensivos, valores rezagados y deuda soberana de calidad.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Deuda pública y déficit",
+      "Resultados empresariales",
+      "Energía y petróleo",
+      "Bancos",
+      "Empleo"
+    ],
+    "activos_mencionados": [
+      "Meta Platforms",
+      "Nasdaq 100",
+      "S&P 500",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Apple",
+      "Nvidia",
+      "Amazon",
+      "Tesla",
+      "Petróleo West Texas / Brent",
+      "Oro",
+      "Plata",
+      "Bitcoin",
+      "EUR/USD",
+      "EUR/CHF",
+      "USD/JPY",
+      "Bono EE. UU. a 10 años",
+      "Bono EE. UU. a 30 años",
+      "Bund alemán a 30 años",
+      "Bono francés a 10 años (OAT)",
+      "VIX",
+      "CoreWeave (CDS)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Aumentan las dudas sobre el exceso de capacidad de GPU, el retorno de inversión y la viabilidad de la financiación del sector de IA."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Aunque el índice tecnológico sufre un fuerte castigo, el S&P 500 equiponderado resiste plano y se equilibra con entradas en sectores tradicionales."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Los bonos soberanos actúan como activo refugio registrando fuertes subidas de precios y caídas en los rendimientos."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "La situación política y fiscal en Francia desata tensiones en los bonos soberanos galos y amplía el diferencial."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El crudo cotiza al alza ante ataques y el bloqueo total a las exportaciones petroleras iraníes."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La desconfianza del mercado respecto a la financiación y sobreinversión en inteligencia artificial ha llegado para quedarse a medio plazo.",
+        "activo_o_variable": "Tecnología e inteligencia artificial",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el S&P 500 pierde la media móvil de 100 periodos, se proyecta una caída de unos 120 puntos hacia la zona de 7.580.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El 81% de las empresas registran tasas de uso de sus GPU del 50% o menos, y un 31% ni siquiera llega al 25% de aprovechamiento.",
+      "El ETF RSP de igual ponderación cotiza plano frente a una caída de más del 2,4% en el Nasdaq 100.",
+      "El diferencial del bono francés se sitúa cerca de los 176 puntos básicos, con la rentabilidad por encima del 5,15%.",
+      "El coste del CDS de CoreWeave se ubica en 1.096.675 dólares para asegurar una cartera de 10 millones de dólares en bonos a 5 años.",
+      "Las peticiones semanales de subsidio de desempleo en EE. UU. se situaron en 194.000 frente a las 200.000 esperadas."
+    ],
+    "riesgos_mencionados": [
+      "Sobreinversión y capacidad ociosa en infraestructura de computación e inteligencia artificial.",
+      "Inestabilidad política y fiscal en Francia con potencial impacto de contagio en el sector bancario europeo.",
+      "Escalada de tensiones geopolíticas y ataques militares en torno a Irán que presionen al alza los precios del petróleo.",
+      "Posible estrangulamiento de cortos (short squeeze) violento en el sector tecnológico debido al posicionamiento bajista extremo de los hedge funds."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Antonio Iruzubieta (mencionado como autor del artículo citado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
