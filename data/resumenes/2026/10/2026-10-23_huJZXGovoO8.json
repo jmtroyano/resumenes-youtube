@@ -1,0 +1,86 @@
+{
+  "video_id": "huJZXGovoO8",
+  "url": "https://www.youtube.com/watch?v=huJZXGovoO8",
+  "titulo": "Le ROBARON sus Bitcoin y Nadie Sabe Cómo Ocurrió",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-23T18:00:30+00:00",
+  "fecha_resumen": "2026-10-23T21:32:50.168372+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El invitado explica la función estructural de cada clase de activo dentro de la Cartera Permanente, destacando la necesidad de bonos soberanos de muy larga duración para compensar caídas bursátiles en recesiones y el papel de la liquidez en letras del tesoro como ancla y reserva para rebalancear. Asimismo, aborda su visión sobre Bitcoin, señalando que coincide plenamente con su tesis macroeconómica contra el intervencionismo estatal, pero mantiene una relación de amor-odio debido a su complejidad y riesgos de custodia. Para ilustrar estos peligros, relata cómo le sustrajeron sus propios bitcoins directamente desde un dispositivo Ledger sin que los expertos pudieran determinar con exactitud el fallo de seguridad.",
+    "ideas_clave": [
+      "La renta fija en la Cartera Permanente debe ser de duración larga para tener una volatilidad equiparable a las acciones y revalorizarse con fuerza cuando caen los tipos en recesiones.",
+      "La liquidez no es dinero ocioso en cuenta corriente, sino inversión en letras a corto plazo (rindiendo en torno al 3% en Europa y cerca del 5% en EE. UU.) que actúa como pólvora para rebalancear.",
+      "En una cartera diversificada siempre habrá un activo haciéndolo mal que generará rechazo psicológico al inversor, como le ocurrió al oro durante varios años hasta su despegue a finales de 2022.",
+      "El diferencial de rentabilidad entre las letras a corto plazo y la renta variable se encuentra en mínimos de 20 o 30 años, con una curva de tipos plana.",
+      "La tesis macro de Bitcoin es atractiva como alternativa frente a la pérdida de libertades y la intervención estatal, pero adolece de riesgos de custodia irreversibles a diferencia del sistema bancario tradicional.",
+      "El invitado sufrió un robo de bitcoin en directo desde un monedero hardware Ledger oficial comprado al fabricante, cuyos fondos fueron rastreados hacia Rusia y China sin solución posible."
+    ],
+    "tesis_principal": "La Cartera Permanente requiere adherirse estrictamente a sus reglas y duraciones para garantizar protección en cualquier escenario macroeconómico, mientras que alternativas como Bitcoin, pese a su sólida narrativa antiestatal, acarrean riesgos técnicos y de custodia irreversibles que exigen cautela.",
+    "temas": [
+      "Bonos y renta fija",
+      "Liquidez y crédito",
+      "Criptomonedas",
+      "Oro y metales"
+    ],
+    "activos_mencionados": [
+      "Bitcoin",
+      "Oro",
+      "Letras del Tesoro",
+      "Bonos gubernamentales de largo plazo",
+      "Renta variable"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Destaca la vital función amortiguadora de la deuda gubernamental de larga duración durante recesiones, advirtiendo que plazos cortos no ofrecen suficiente revalorización."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Considera que es un momento excepcional para la liquidez invertida en letras soberanas por sus elevados tipos y el diferencial mínimo frente a la renta variable."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Le apasiona la tesis conceptual de Bitcoin como refugio de libertad económica, pero desconfía notablemente por la falta de garantías y vulnerabilidades de custodia."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Valora su comportamiento positivo desde finales de 2022 tras un prolongado periodo lateral donde los inversores lo repudiaban."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Las letras a corto plazo rinden cerca del 3% en Europa, alrededor del 4% en Australia y cerca del 5% en Estados Unidos.",
+      "El diferencial entre el rendimiento de las letras del tesoro y la renta variable está en mínimos de 20 a 30 años, con una curva de tipos plana.",
+      "La entrada de flujos netos durante 2025 y principios de 2026 en el fondo gestionado por el invitado permitió realizar compras promediadas (DCA) y rebalanceos prácticamente a diario.",
+      "El oro permaneció prácticamente plano y desatendido por el mercado general hasta el tramo final del año 2022, momento en el que inició un ciclo alcista notable."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de recortar la duración de la renta fija, lo que neutraliza su capacidad amortiguadora durante una crisis o recesión.",
+      "Riesgo tecnológico y de custodia irreversible en criptomonedas, derivado de posibles fallos de fábrica en monederos fríos o ataques informáticos sin respaldo legal ni compensación.",
+      "Riesgo psicológico del inversor de querer vender los activos en pérdidas para comprar los ganadores recientes, rompiendo la disciplina del asset allocation.",
+      "Intervencionismo estatal y pérdida progresiva de libertades ciudadanas y de expresión en las economías occidentales."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Carlos Santiso"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

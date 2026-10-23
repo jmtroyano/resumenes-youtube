@@ -1,0 +1,167 @@
+{
+  "video_id": "rVCRHmzSO3Q",
+  "url": "https://www.youtube.com/watch?v=rVCRHmzSO3Q",
+  "titulo": "El petróleo asusta a la bolsa - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-23T15:32:50+00:00",
+  "fecha_resumen": "2026-10-23T21:34:44.424128+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión bursátil se ve lastrada por la fuerte subida del petróleo, con el Brent superando los 116 dólares y el West Texas los 102 dólares ante los temores de un inminente ataque de Estados Unidos e Israel contra Irán. Aunque el sector tecnológico y los semiconductores intentan un tímido rebote apoyados en soportes técnicos clave como la media de 200 sesiones, el mercado en general desconfía del elevado capex en inteligencia artificial. Asimismo, persiste la preocupación por el impacto de los combustibles en la inflación, la posibilidad de más endurecimiento monetario de la Fed y el grave problema estructural del vencimiento a corto plazo de la deuda pública estadounidense.",
+    "ideas_clave": [
+      "El fuerte repunte del petróleo (Brent a 116,14 $ y West Texas a 102,12 $) presiona a la baja al mercado amplio ante el temor de una escalada militar contra Irán durante el fin de semana.",
+      "Los semiconductores (ETF SMH) rebotan débilmente tras testear su media móvil de 200 sesiones, nivel de soporte técnico crítico que no perforan desde mayo de 2025.",
+      "El mercado sigue dudando de la rentabilización de las enormes inversiones en capex vinculadas a la inteligencia artificial, desconfiando de las justificaciones corporativas.",
+      "Según Goldman Sachs, si la rentabilidad del bono a 10 años cae del 4,85% o del 4,48%, forzaría un masivo cierre de cortos y giro a largos por parte de los CTA de medio y largo plazo.",
+      "El 35% de la deuda pública de Estados Unidos vence en menos de un año, una proporción desproporcionadamente alta en comparación con otras economías como Japón (17%) o Reino Unido (9%).",
+      "Los costes por intereses de la deuda en EE. UU. representan ya el 19% de los ingresos fiscales y Ray Dalio proyecta que rozarán el 25% para 2030, aproximándose a los niveles de la Gran Depresión (31%).",
+      "El oro sufre caídas hasta los 4.013 dólares, coqueteando con el soporte psicológico y técnico crítico de los 4.000 dólares, donde convergen soportes clave y la media de 100 semanas."
+    ],
+    "tesis_principal": "El encarecimiento del crudo derivado de las tensiones geopolíticas amenaza con reactivar la inflación y forzar a la Reserva Federal a endurecer tipos, mientras la bolsa y la tecnología muestran fragilidad técnica y la deuda estadounidense enfrenta serias vulnerabilidades de refinanciación a corto plazo.",
+    "temas": [
+      "Energía y petróleo",
+      "Geopolítica",
+      "Inflación",
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Oro y metales",
+      "Fed y tipos de interés EE. UU."
+    ],
+    "activos_mencionados": [
+      "SMH",
+      "RSP",
+      "S&P 500",
+      "Nasdaq",
+      "Dow Jones",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Stoxx 600",
+      "IBEX 35",
+      "Petróleo Brent",
+      "Petróleo West Texas (WTI)",
+      "Heating Oil / Diésel",
+      "Bono EE. UU. a 10 años",
+      "Bund alemán",
+      "Oro",
+      "Bitcoin",
+      "EUR/USD",
+      "USD/JPY",
+      "Tesla",
+      "Microsoft",
+      "Apple",
+      "Alphabet",
+      "Amazon",
+      "SpaceX",
+      "American Express",
+      "Barclays",
+      "eBay",
+      "Netflix"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "El crudo y el diésel registran fuertes alzas impulsados por el riesgo inminente de ataque a Irán y ataques a objetivos en Arabia Saudita."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Crecen los rumores y la convicción del mercado de que Estados Unidos e Israel preparan ataques directos contra Irán."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El mercado amplio sufre deshaciendo compras previas, lastrado por el petróleo y la falta de convicción en la tecnología."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.35,
+        "justificacion": "El mercado desconfía de la rentabilización del capex masivo y los despidos se enmascaran bajo el pretexto de la IA."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.75,
+        "justificacion": "Un 35% de la deuda estadounidense vence en menos de doce meses y el pago de intereses consume el 19% de los ingresos fiscales."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El petróleo disparado a más de 116 dólares provocará un repunte inflacionario mayor al descontado por el mercado."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Retrocede hacia el nivel clave de soporte de los 4.000 dólares, donde se juega una zona técnica fundamental."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Con los actuales precios del petróleo, la inflación va a dar mucha guerra y subirá mucho más de lo que el mercado está descontando.",
+        "activo_o_variable": "Inflación",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "No se puede descartar que la Reserva Federal se vea obligada a subir 50 puntos básicos en lugar de 25 en diciembre.",
+        "activo_o_variable": "Fed y tipos de interés EE. UU.",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "baja"
+      },
+      {
+        "afirmacion": "Si el oro pierde el soporte de los 4.000 dólares, se puede meter un batacazo de los que hacen época.",
+        "activo_o_variable": "Oro",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si la rentabilidad del bono a 10 años pierde el 4,85%, forzará a los CTA de medio plazo a cerrar cortos y girarse a largos.",
+        "activo_o_variable": "Bonos y renta fija",
+        "direccion": "sube",
+        "horizonte": "corto/medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de semiconductores SMH no se movía por debajo de su media de 200 sesiones desde mayo de 2025.",
+      "El futuro del crudo WTI cotiza a 102,12 dólares (+2,70%) y el Brent a 116,14 dólares (+2,64%).",
+      "Los umbrales de cierre de cortos para los CTA en el bono a 10 años según Goldman Sachs están en 5,02% (corto plazo), 4,85% (medio plazo) y 4,48% (largo plazo), con potencial comprador de hasta 296.000 millones de dólares en caso de fuerte subida de bonos.",
+      "El 35% de la deuda pública estadounidense vence en menos de un año, frente al 17% de Japón, 15% de España y 9% de Reino Unido.",
+      "El servicio de intereses de la deuda estadounidense absorbe actualmente el 19% de los ingresos federales y Ray Dalio proyecta cerca del 25% hacia 2030.",
+      "Los PMI preliminares de EE. UU. marcaron 56 en manufacturas (frente a 55,5 previsto) y 57,9 en servicios, lo que proyecta un crecimiento del PIB anualizado cercano al 5%.",
+      "Las expectativas de inflación a un año de la Conference Board se situaron en el 4,7% frente al 4,6% esperado."
+    ],
+    "riesgos_mencionados": [
+      "Escalada bélica directa en Oriente Medio con ataques de EE. UU. e Israel contra Irán.",
+      "Repunte de la inflación impulsado por la energía que fuerce subidas de tipos agresivas por parte de la Fed.",
+      "Riesgo de refinanciación de la deuda de EE. UU. ante el masivo volumen de vencimientos a menos de un año a tipos elevados.",
+      "Pérdida del soporte psicológico y técnico de los 4.000 dólares en el oro.",
+      "Fracaso de la rentabilización del capex de las grandes tecnológicas en inteligencia artificial."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

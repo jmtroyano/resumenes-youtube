@@ -486,20 +486,11 @@
   "7zpkUzMl5bM": "2026-10-23T05:01:15.578695+00:00",
   "AEa5zRs_oSY": "2026-10-23T11:46:55.174375+00:00",
   "Ls_An26-3hQ": "2026-10-23T17:23:17.961146+00:00",
-  "1X5Icux-CTY": "2026-10-23T17:27:11.073332+00:00"
+  "1X5Icux-CTY": "2026-10-23T17:27:11.073332+00:00",
+  "huJZXGovoO8": "2026-10-23T21:32:51.799402+00:00",
+  "rVCRHmzSO3Q": "2026-10-23T21:34:47.638296+00:00"
  },
- "cola": [
-  {
-   "video_id": "rVCRHmzSO3Q",
-   "titulo": "El petróleo asusta a la bolsa - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=rVCRHmzSO3Q",
-   "publicado": "2026-10-23T15:32:50+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-23T17:13:34.424928+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
