@@ -483,25 +483,28 @@
   "ZN-G1bDRGyE": "2026-10-21T21:51:17.739345+00:00",
   "DGdx6Jh6Ec4": "2026-10-22T12:04:13.259525+00:00",
   "KMu-oSmeIpM": "2026-10-23T04:59:18.824790+00:00",
-  "7zpkUzMl5bM": "2026-10-23T05:01:15.578695+00:00"
+  "7zpkUzMl5bM": "2026-10-23T05:01:15.578695+00:00",
+  "AEa5zRs_oSY": "2026-10-23T11:46:55.174375+00:00"
  },
  "cola": [
   {
-   "video_id": "5ObAsIpyrog",
-   "titulo": "Causas de las bajadas explicadas - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=5ObAsIpyrog",
-   "publicado": "2026-10-22T07:28:35+00:00",
+   "video_id": "1X5Icux-CTY",
+   "titulo": "Rotación espectacular y bono por debajo de 5%  - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=1X5Icux-CTY",
+   "publicado": "2026-10-23T07:25:51+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-22T11:59:49.015800+00:00"
+   "intentos": 1,
+   "en_cola_desde": "2026-10-23T11:45:45.691531+00:00"
   }
  ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "9ZCLk-xQxrQ": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "-p5J2U1vDb4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "-p5J2U1vDb4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "4OrTgls31-4": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "5ObAsIpyrog": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }

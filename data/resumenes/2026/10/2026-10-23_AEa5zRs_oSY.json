@@ -1,0 +1,109 @@
+{
+  "video_id": "AEa5zRs_oSY",
+  "url": "https://www.youtube.com/watch?v=AEa5zRs_oSY",
+  "titulo": "Semis en media 200 soporte clave - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-23T10:50:40+00:00",
+  "fecha_resumen": "2026-10-23T11:46:53.789155+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El ETF de semiconductores rebota un 1,27% apoyándose de forma técnica exacta en la media de 200 sesiones tras las fuertes caídas previas. Al mismo tiempo, el petróleo supera la cota psicológica de los 100 dólares impulsado por el recrudecimiento geopolítico en Oriente Medio y ataques hutíes en Arabia Saudita. Por su parte, los datos macroeconómicos muestran una marcada debilidad en Europa, especialmente en Francia, cuyos índices PMI entran en contracción.",
+    "ideas_clave": [
+      "El sector de semiconductores (ETF SMH) rebota un 1,27% apoyado estrictamente en su media móvil de 200 sesiones, nivel técnico clave de soporte que alivia la fuerte sobreventa acumulada.",
+      "El petróleo sube un 1,60% situándose en 101,06 dólares por barril ante el temor de una ofensiva militar inminente de EE. UU. e Israel, sumado a nuevos ataques de los rebeldes hutíes contra refinerías saudíes.",
+      "El mercado empieza a cuestionar el modelo de negocio de la inteligencia artificial tras declaraciones del CEO de Nvidia que alertan de escasez de capital; los inversores ahora exigen rentabilidad y menor endeudamiento.",
+      "El sector del lujo europeo experimenta fuertes caídas encabezadas por Kering (-11%) tras presentar resultados decepcionantes, arrastrando a Louis Vuitton (-1,30%).",
+      "Los datos de PMI en Francia reflejan una contracción severa (servicios en 48,4 y manufacturero en 49,3), consolidándose como 'el enfermo de Europa' con elevado déficit y estancamiento económico.",
+      "El PMI compuesto de la eurozona retrocede hasta 51,9 (frente a 52,7 esperado), confirmando un enfriamiento económico generalizado aunque menos dramático que el francés."
+    ],
+    "tesis_principal": "El rebote técnico en la media de 200 de los semiconductores proporciona un respiro temporal a las bolsas, pero el entorno sigue amenazado por el repunte del petróleo por encima de 100 dólares, el deterioro macroeconómico europeo y las dudas sobre la rentabilidad del gasto en inteligencia artificial.",
+    "temas": [
+      "Semiconductores",
+      "Análisis técnico",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Crecimiento y recesión",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial"
+    ],
+    "activos_mencionados": [
+      "VanEck Semiconductor ETF (SMH)",
+      "Petróleo Crudo Light",
+      "Kering",
+      "LVMH",
+      "Apple",
+      "Nvidia",
+      "SpaceX",
+      "Bonos del Tesoro de EE. UU."
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Rebotan desde el soporte clave de la media de 200 sesiones, aliviando la sobreventa, aunque dentro de una corrección previa severa."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El crudo rompe al alza la resistencia de 100 dólares impulsado por la tensión bélica y ataques a refinerías."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los índices PMI se enfrían en la eurozona y caen a terreno de contracción neta en Francia."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Presión bajista arrastrada por el desplome de Kering y el lujo, sumado al débil cuadro macroeconómico."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Crecen las dudas sobre la viabilidad del gasto masivo en IA y la falta de capital suficiente para financiarlo sin sobreendeudarse."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Es altamente probable que Estados Unidos e Israel vuelvan a atacar en Oriente Medio y que solo dependa de cuestiones logísticas.",
+        "activo_o_variable": "Conflicto en Oriente Medio / Tensión geopolítica",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de semiconductores SMH sube un 1,27% y frena su caída exactamente sobre su media de 200 sesiones.",
+      "El petróleo supera la resistencia psicológica de 100 dólares y cotiza a 101,06 dólares (+1,60%).",
+      "Las acciones de Kering caen un 11% tras sus resultados, y LVMH cede un 1,30%.",
+      "El PMI de servicios de Francia se desploma de 51,2 a 48,4; el manufacturero cae a 49,3 y el compuesto queda en 48,4.",
+      "El PMI compuesto de la eurozona desciende a 51,9 desde el 53,1 previo, por debajo del 52,7 proyectado.",
+      "Las acciones de Apple bajan un 0,51% coincidiendo con la apertura de reservas del nuevo iPhone Dúo con precios de salida de 2.339 euros."
+    ],
+    "riesgos_mencionados": [
+      "Escalada bélica en Oriente Medio con ataques directos de EE. UU. e Israel.",
+      "Ataques continuados de los rebeldes hutíes a instalaciones petroleras en Arabia Saudita.",
+      "Petróleo consolidado por encima de 100 dólares que reavive presiones inflacionistas.",
+      "Falta de rentabilidad o problemas de financiación para el gasto en infraestructura de inteligencia artificial.",
+      "Estancamiento económico y elevado endeudamiento en Francia ('el enfermo de Europa').",
+      "Amenaza competitiva de SpaceX sobre las compañías de telecomunicaciones tradicionales."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
