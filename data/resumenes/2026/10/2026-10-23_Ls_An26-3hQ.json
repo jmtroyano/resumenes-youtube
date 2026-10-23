@@ -1,0 +1,127 @@
+{
+  "video_id": "Ls_An26-3hQ",
+  "url": "https://www.youtube.com/watch?v=Ls_An26-3hQ",
+  "titulo": "Tras la MASACRE, CAPITULACIÓN. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-23T12:33:26+00:00",
+  "fecha_resumen": "2026-10-23T17:23:16.307405+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la fuerte corrección experimentada por el sector tecnológico y el Nasdaq 100, planteando si el mercado está cerca de un suelo por capitulación o ante el inicio de un mercado bajista prolongado. El analista sostiene que el posicionamiento de los fondos es extremadamente corto y el mercado opera en gamma negativa, lo que ha acelerado las caídas pero prepara el terreno para un violento rebote. Apoyándose en el análisis de volumen del ETF QQQ, el comportamiento del oro y la señal contraria de una portada de The Economist sobre los bonos, prevé una capitulación final inminente previa a un fuerte movimiento alcista de cara a las elecciones de medio mandato.",
+    "ideas_clave": [
+      "Los gestores de fondos de cobertura han acumulado fuertes posiciones cortas en tecnología, operando el Nasdaq en un entorno de gamma negativa que amplifica las caídas.",
+      "El sentimiento de mercado se encuentra en niveles de pesimismo extremo, con un Fear & Greed Index en 20 y un fuerte incremento de bajistas en la encuesta de la AAII.",
+      "El ETF QQQ ha barrido los mínimos de septiembre con un perfil de volumen negociado muy bajo por debajo de 700, lo que configura una zona propicia para un rebote técnico.",
+      "El ETF equiponderado del S&P 500 (RSP) se aproxima a la resistencia técnica de 219, mientras que al Nasdaq le restaría un último latigazo a la baja de entre el 1,5% y el 2% antes de capitular.",
+      "El oro presenta una estructura técnica de barrida similar a la del Nasdaq y se encuentra en zona de soporte, sugiriendo un movimiento al alza sincronizado.",
+      "El ratio Petróleo/Oro ha alcanzado una resistencia crítica en 2,51 tras un patrón de cabeza y hombros invertido, con probabilidades de corregir a la baja.",
+      "La portada de The Economist advirtiendo sobre el colapso de los bonos funcionó como indicador de opinión contraria, coincidiendo con el pico en el rendimiento del bono a 10 años y provocando el cierre forzado de cortos en los CTAs."
+    ],
+    "tesis_principal": "El mercado tecnológico se encuentra al borde de una capitulación forzada por el cierre de cortos y el sentimiento bajista extremo, lo que desencadenará un fuerte rebote técnico en el Nasdaq y en el oro de cara a las elecciones de medio mandato.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico",
+      "Oro y metales",
+      "Energía y petróleo",
+      "Bonos y renta fija",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "QQQ",
+      "RSP",
+      "S&P 500",
+      "Oro",
+      "Petróleo (Crude Oil)",
+      "Bono del Tesoro de EE. UU. a 10 años"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Anticipa una capitulación inminente y un rebote brusco de la renta variable hacia las elecciones de medio mandato."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El Nasdaq 100 ha limpiado posiciones compradoras y está en soporte clave para un rebote impulsado por gamma y cierre de cortos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El oro ha barrido los mínimos de finales de julio y se sitúa en una zona de soporte idónea para iniciar un tramo al alza."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "La rentabilidad del bono a 10 años ha tocado techo tras la señal contraria de The Economist, impulsando el precio de los bonos."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El ratio petróleo frente a oro ha alcanzado una resistencia en 2,51 donde se espera un freno o caída del crudo relativo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El Nasdaq 100 sufrirá un último latigazo a la baja de entre el 1,5% y el 2% antes de desencadenar un rebote brusco por capitulación de cortos.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El oro rebotará al alza junto con el Nasdaq tras haber alcanzado y barrido su nivel de soporte.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El ratio petróleo/oro se frenará en la resistencia de 2,51 y retrocederá.",
+        "activo_o_variable": "Ratio Petróleo/Oro",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La rentabilidad del bono estadounidense a 10 años continuará cayendo tras la expulsión de cortos en los gestores y CTAs.",
+        "activo_o_variable": "Rendimiento del bono EE. UU. a 10 años",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El futuro de diciembre del Nasdaq 100 mantiene máximos decrecientes continuos desde el 6 de octubre.",
+      "La encuesta semanal de la AAII mostró una subida de 4 puntos porcentuales en el porcentaje de bajistas hasta el jueves.",
+      "El índice Fear & Greed de la CNN se sitúa en 20, marcando miedo extremo.",
+      "El ETF QQQ muestra un volumen negociado muy reducido en su perfil de volumen por debajo del nivel de 700.",
+      "El ratio Crudo*100/Oro cotiza en torno a 2,51, nivel de la línea de cuello de un patrón técnico de cabeza y hombros invertido.",
+      "La publicación de la portada 'Will bonds blow up?' de The Economist a inicios de octubre coincidió con el giro a la baja en la rentabilidad del bono a 10 años."
+    ],
+    "riesgos_mencionados": [
+      "Un último tramo de caída violenta de 1,5% a 2% en los índices antes de hacer suelo.",
+      "Entrar demasiado pronto en el mercado sin esperar una figura clara de agotamiento y su confirmación técnica.",
+      "Elevada volatilidad exacerbada por el entorno de gamma negativa en los creadores de mercado."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

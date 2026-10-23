@@ -1,0 +1,152 @@
+{
+  "video_id": "1X5Icux-CTY",
+  "url": "https://www.youtube.com/watch?v=1X5Icux-CTY",
+  "titulo": "Rotación espectacular y bono por debajo de 5%  - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-23T07:25:51+00:00",
+  "fecha_resumen": "2026-10-23T17:27:07.944812+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la fuerte rotación sectorial en el mercado tras el desplome del sector tecnológico y de semiconductores, destacando que los índices equiponderados y valores rezagados subieron. El bono estadounidense a 10 años cayó por debajo del 5% debido a una búsqueda masiva de refugio ante dudas crecientes sobre la rentabilidad del capex en inteligencia artificial. Asimismo, advierte de la asimetría en los flujos mecánicos cuantitativos de CTAs y fondos de volatilidad, que desatarían ventas masivas en caso de corrección adicional. Por último, alerta sobre la tensión geopolítica entre EE. UU. e Irán, que impulsa el petróleo por encima de 100 dólares.",
+    "ideas_clave": [
+      "Rotación masiva fuera de la tecnología: mientras el Nasdaq cayó un 2,9% y el índice de semiconductores se hundió un 6,7%, dos tercios del S&P 500 subieron y el ETF equiponderado RSP avanzó un 0,97%.",
+      "Los valores castigados por el riesgo de disrupción de la IA ('AI Doom basket') rebotan con fuerza y acumulan una subida del 11% desde finales de septiembre.",
+      "El rendimiento del bono estadounidense a 10 años experimentó su mayor caída desde marzo de 2023, perforando el nivel psicológico del 5% hasta el 4,98% por compras de refugio.",
+      "El informe de Charlie McElligott señala una compra masiva de coberturas y un 'reprecio de la cola izquierda' provocado por dudas sobre la sostenibilidad del capex infinito en inteligencia artificial.",
+      "Asimetría severa en flujos sistemáticos (CTAs y control de volatilidad): si el S&P 500 sube un 5% apenas compran, pero si cae un 5% venderían de forma mecánica 225.000 millones de dólares.",
+      "Tensión geopolítica crítica en Oriente Medio: amenazas cruzadas entre EE. UU. e Irán impulsan el petróleo por encima de los 100 dólares el barril ante el riesgo de ataques a refinerías.",
+      "El oro testea el soporte psicológico clave de 4.000 dólares por onza, mientras la prima de riesgo de Francia frente a Alemania escala a 176 puntos básicos tras el rechazo a los presupuestos."
+    ],
+    "tesis_principal": "El mercado no se está hundiendo sino experimentando una rotación profunda y saludable fuera del sobrecalentado sector de la inteligencia artificial hacia sectores rezagados y bonos soberanos, aunque existen graves riesgos mecánicos de ventas cuantitativas si se perforan soportes.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Geopolítica",
+      "Liquidez y crédito",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "Russell 2000",
+      "Dow Jones",
+      "Índice de Semiconductores de Filadelfia (SOX)",
+      "Bono EE. UU. 10 años",
+      "Petróleo (Light Crude / WTI)",
+      "Oro",
+      "Bitcoin",
+      "Bono francés a 10 años",
+      "Bund alemán",
+      "Western Digital",
+      "Lam Research",
+      "Meta",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Existe una rotación interna positiva en la amplitud de mercado, pero con una elevada fragilidad técnica y riesgo mecánico por parte de algoritmos."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Se cuestiona la rentabilidad de las inversiones masivas en capex, con saturación de servidores, caídas de ingresos y revisiones a la baja."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Sufrieron un desplome diario del 6,7% y previsiones decepcionantes en fabricantes de equipos como Lam Research."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Los bonos vuelven a actuar como activo refugio y diversificador clásico, con la rentabilidad a 10 años bajando del 5%."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El crudo cotiza por encima de 100 dólares impulsado por el riesgo de escalada militar y ataques a infraestructuras entre EE. UU. e Irán."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "Se encuentra en una zona crítica testeando el soporte de 4.000 dólares que no debe perder."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el S&P 500 pierde la zona de soporte entre 7.600 y 7.650 puntos (o la media de 100 en 7.600), podría caer rápidamente hacia los 7.488 - 7.500 puntos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El diferencial entre el bono francés y el bono alemán podría llegar a los 200 puntos básicos según expertos.",
+        "activo_o_variable": "Diferencial de deuda Francia-Alemania",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el oro pierde el soporte de 4.000 dólares por onza, podría sufrir una caída muy severa.",
+        "activo_o_variable": "Oro",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el S&P 500 cae entre un 3% y un 5%, los sistemas automáticos y de control de volatilidad desencadenarán ventas mecánicas de entre 134.000 y 225.000 millones de dólares.",
+        "activo_o_variable": "Ventas mecánicas sistemáticas en Bolsa EE. UU.",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF RSP de igual ponderación subió un 0,97% en la jornada del desplome tecnológico.",
+      "El índice de semiconductores de Filadelfia cayó un 6,7%, marcando su peor día desde junio de 2024.",
+      "En el S&P 500, dos tercios de las acciones cerraron en positivo a pesar de la caída del índice superior al 1%, algo visto solo 13 veces desde 1990.",
+      "El oscilador McClellan marcó 1.551 valores al alza frente a 1.148 a la baja en el NYSE.",
+      "La cesta de valores amenazados por disrupción de IA elaborada por Bespoke sube un 11% desde finales de septiembre.",
+      "La rentabilidad del bono de EE. UU. a 10 años cayó al 4,98%, registrando su mayor caída en una sesión desde el 10 de marzo de 2023.",
+      "Si el S&P 500 sube un 1%, los modelos cuantitativos compran 24.000 millones de dólares; si sube un 5%, prácticamente no compran nada (+0). En cambio, caídas del 1%, 2%, 3%, 4% y 5% disparan ventas mecánicas por 34.000, 77.000, 134.000, 187.000 y 225.000 millones de dólares respectivamente.",
+      "El diferencial del bono francés frente al bund se sitúa en 176 puntos básicos tras rechazarse los presupuestos.",
+      "La encuesta AAII arrojó un 45,8% de bajistas frente a solo un 36,9% de alcistas."
+    ],
+    "riesgos_mencionados": [
+      "Desinflado del capex en inteligencia artificial y su impacto negativo en el crecimiento del PIB de EE. UU.",
+      "Eventos de crédito en deuda corporativa vinculada a empresas de infraestructura de IA.",
+      "Ventas mecánicas aceleradas por parte de CTAs, ETF apalancados y fondos de control de volatilidad ante cualquier caída del S&P 500.",
+      "Ataques militares a refinerías e infraestructuras energéticas de Oriente Medio que disparen el precio del petróleo y el diésel.",
+      "Crisis presupuestaria y aumento del riesgo soberano en Francia.",
+      "Pérdida del soporte psicológico y técnico de 4.000 dólares en el oro."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Charlie McElligott (citado por su informe de Nomura)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
