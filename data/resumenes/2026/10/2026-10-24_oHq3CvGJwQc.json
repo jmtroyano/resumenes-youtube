@@ -1,0 +1,133 @@
+{
+  "video_id": "oHq3CvGJwQc",
+  "url": "https://www.youtube.com/watch?v=oHq3CvGJwQc",
+  "titulo": "Meta Quema Caja por Primera Vez, SpaceX y Tesla Sorprenden al Mercado",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-24T17:00:12+00:00",
+  "fecha_resumen": "2026-10-24T20:56:57.498510+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Antonio Hidalgo analiza el inicio de la temporada de resultados trimestrales en un entorno de miedo extremo en el mercado y fuerte divergencia técnica. Repasa los informes de SpaceX, Tesla, Meta y Netflix, detallando las luces y sombras de sus cuentas, especialmente en relación con la rentabilidad del gasto en inteligencia artificial. Asimismo, expone la visión bajista sobre el modelo de negocio de la IA de inversores como Kuppy y las proyecciones alcistas de Cathie Wood sobre Tesla. Por último, ilustra cómo estructurar diversas operativas con opciones financieras para aprovechar la baja volatilidad implícita o sustituir compras directas de acciones.",
+    "ideas_clave": [
+      "Divergencia histórica en el S&P 500: más de 300 acciones subieron en una sola sesión mientras el índice cayó un 1,2%, lo que apunta a un contexto propicio para el stock picking frente a la indexación.",
+      "Los hedge funds han alcanzado niveles récord de posiciones cortas en tecnológicas (ritmo de venta no visto en una década), elevando el riesgo de un short squeeze según Goldman Sachs.",
+      "Harris Kupperman (Kuppy) defiende que el modelo actual de gasto masivo en IA no es rentable y sufrirá un corte de financiación que terminará impactando al PIB y forzará a la Fed a intervenir; por ello apuesta en largo a bonos estadounidenses.",
+      "SpaceX multiplicó por 2,6 sus ingresos interanuales ($14.580M) superando previsiones, impulsada fuertemente por su negocio de cómputo para IA y Starlink, aunque manteniendo un CapEx muy elevado de $19.590M.",
+      "Tesla sorprendió al generar $1.530M de flujo de caja libre frente a las previsiones de quema de caja (-$4.990M); Cathie Wood proyecta un precio objetivo base de $4.400 para 2031 basado en Robotaxi y Optimus.",
+      "Meta sufrió una caída del 10% tras registrar por primera vez un flujo de caja libre trimestral negativo y elevar de nuevo su guía de CapEx a $135.000M-$145.000M para 2026, junto con un continuo drenaje en Reality Labs.",
+      "Netflix cotiza en mínimos de valoración por EV/EBIT (17,9x) tras presentar guías débiles para el cuarto trimestre, dividiendo a los analistas entre el optimismo de Bill Ackman y la cautela sobre sus métodos de amortización."
+    ],
+    "tesis_principal": "El mercado muestra un sentimiento de miedo extremo y dudas crecientes sobre la monetización del descomunal CapEx en inteligencia artificial, lo que penaliza a gigantes como Meta mientras premia la generación de caja de Tesla, abriendo oportunidades estratégicas mediante opciones financieras en activos con volatilidad implícita en mínimos.",
+    "temas": [
+      "Resultados empresariales",
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Valoración de mercado y burbujas",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq Composite",
+      "SpaceX",
+      "Tesla (TSLA)",
+      "Meta Platforms (META)",
+      "Netflix (NFLX)",
+      "Nvidia (NVDA)",
+      "Broadcom (AVGO)",
+      "Crudo Brent",
+      "Lincoln Educational Services (LINC)",
+      "Universal Technical Institute (UTI)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Se observa miedo extremo y caídas semanales, pero el récord de posiciones cortas podría detonar un violento short squeeze alcista."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Las salidas de flujos son notorias y existen serias dudas sobre la rentabilidad del hiperbólico gasto de capital y el modelo de negocio."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Sorpresas muy positivas en generación de caja en Tesla y volumen en SpaceX, contrarrestadas por debilidades en Meta y guías flojas en Netflix."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Inversores de referencia se posicionan largos en deuda estadounidense esperando bajadas de tipos de la Reserva Federal ante tensiones económicas."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El crudo mantiene tendencia alcista por tensiones entre Estados Unidos e Irán y compras agresivas de los fondos CTA."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal se verá obligada a entrar en el mercado inyectando liquidez y bajando tipos para amortiguar el pinchazo del ciclo de inversión en IA",
+        "activo_o_variable": "Fed y tipos de interés EE. UU.",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Tesla alcanzará un valor por acción de $4.400 en su escenario base para el año 2031 impulsada por Robotaxi y Optimus según el modelo de Ark Invest",
+        "activo_o_variable": "Tesla (TSLA)",
+        "direccion": "sube",
+        "horizonte": "2031",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El precio del petróleo continuará al alza debido al recrudecimiento de las tensiones geopolíticas en Oriente Medio y la demanda de los CTAs",
+        "activo_o_variable": "Crudo Brent",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice Fear & Greed se sitúa en 21 (miedo extremo).",
+      "El S&P 500 cayó un 1,03% en 5 días y el Nasdaq descendió un 1,67%.",
+      "Más de 300 acciones del S&P 500 cerraron en verde en una jornada donde el propio índice cayó un 1,2%.",
+      "Los hedge funds han vendido acciones tecnológicas a su ritmo más rápido en una década.",
+      "SpaceX ingresó $14.580M frente a los $12.700M estimados, con un BPA ajustado de $0,35 frente a $0,15 estimado y un CapEx de $19.590M.",
+      "El segmento Super Intelligence de SpaceX creció un 830% y Starlink alcanzó 13,6 millones de clientes (+69%).",
+      "Tesla generó $1.530M en Free Cash Flow frente a los -$4.990M esperados por el consenso, batiendo BPA ($0,48 vs $0,44).",
+      "La volatilidad implícita de Tesla se sitúa en el percentil 5%, lo que abarata notablemente las opciones call de largo plazo (LEAPS).",
+      "Meta reportó un BPA GAAP de $3,83, pero descontando una provisión legal extraordinaria de $9.890M con 52 fiscales generales, el BPA operativo habría sido de $7,40 frente a $5,89 estimado.",
+      "La guía de CapEx para Meta en 2026 sube al rango de $135.000M-$145.000M y la compañía registró flujo de caja libre negativo por primera vez en un trimestre.",
+      "Netflix reportó ingresos de $12.870M en el tercer trimestre pero proyectó ingresos por debajo de lo esperado para el cuarto ($13.448M vs $13.520M estimados).",
+      "Los CDS a 5 años de Meta, Nvidia y Broadcom han alcanzado máximos históricos."
+    ],
+    "riesgos_mencionados": [
+      "Corte de financiación e impagos en el ecosistema de infraestructuras y modelos de inteligencia artificial.",
+      "Riesgo de short squeeze violento para fondos posicionados en corto en el sector tecnológico.",
+      "Espiral de gasto en CapEx descontrolado en Meta que erosione de forma continuada el flujo de caja libre.",
+      "Pérdidas continuadas y sin suelo en la división Reality Labs de Meta.",
+      "Escalada bélica entre Estados Unidos e Irán que dispare los precios de la energía y altere el ciclo de inflación.",
+      "Obsolescencia o desaceleración en la tasa de retención de usuarios en nuevos asistentes y bots de IA generativa (como Muse)."
+    ],
+    "participantes": [
+      "Antonio Hidalgo (Antonio LWS)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "HWYH2EK8ITE",
+  "url": "https://www.youtube.com/watch?v=HWYH2EK8ITE",
+  "titulo": "El Papel CLAVE de la Renta Fija en la Cartera Permanente",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-24T18:00:39+00:00",
+  "fecha_resumen": "2026-10-24T20:55:38.382561+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Carlos Santiso y Luis Miguel Ortiz analizan la función de la renta fija de largo plazo dentro de la estrategia de la Cartera Permanente y la importancia de acompañarla siempre con oro. Explican cómo la duración y la convexidad afectan a los precios de los bonos cuando varían los tipos de interés, recordando las fuertes pérdidas sufridas por la deuda soberana en 2022 tras la era de tipos negativos. Por último, Santiso defiende que en el entorno actual la renta fija a largo plazo vuelve a ser muy atractiva, ofreciendo rentabilidades sin riesgo superiores al 5,5% en EE. UU. frente al retorno histórico a largo plazo de la renta variable.",
+    "ideas_clave": [
+      "Carlos Santiso afirma que nunca mantendría renta fija gubernamental sin oro en cartera, ya que en un escenario hiperinflacionario o de pérdida de confianza en el que los bonos colapsen, el oro multiplicará su valor y compensará las pérdidas.",
+      "En 2020 Alemania emitió deuda a 30 años con cupón cero (vencimiento 2050) con tipos en torno al -0,4% anual, lo que generó un riesgo asimétrico gigantesco por la elevada duración.",
+      "Para mitigar el riesgo de tipos negativos en 2021-2022, la Cartera Permanente gestionada por Santiso redujo conscientemente la duración de la renta fija, limitando la caída de esa parte al 10% frente al 13-14% esperado.",
+      "La duración no equivale estrictamente al vencimiento salvo en bonos cupón cero; si un bono paga cupones anuales (por ejemplo, 4%), la duración efectiva se reduce sensiblemente (pasa de 30 a unos 23-24 años).",
+      "Actualmente, la deuda de EE. UU. a 30 años pagando por encima del 5,5% ofrece un perfil muy atractivo comparado con la renta variable, cuya media histórica a 100 años es del 9% asumiendo riesgo.",
+      "El argumento de 'mantener el bono hasta el vencimiento para no perder dinero' es falaz para Santiso, ya que ignora el coste de oportunidad real frente a las nuevas emisiones con rentabilidades más elevadas."
+    ],
+    "tesis_principal": "La renta fija a largo plazo es indispensable para diversificar y descorrelacionar en una Cartera Permanente siempre que se acompañe de oro, y tras el ajuste del ciclo de tipos negativos, vuelve a ofrecer un binomio rentabilidad-riesgo muy atractivo frente a la bolsa.",
+    "temas": [
+      "Bonos y renta fija",
+      "Oro y metales",
+      "Fed y tipos de interés EE. UU.",
+      "BCE y tipos de interés Europa",
+      "Inflación"
+    ],
+    "activos_mencionados": [
+      "Bonos del Tesoro de EE. UU. a 30 años",
+      "Bono alemán a 30 años cupón cero (vencimiento 2050)",
+      "Bonos de Austria a 100 años",
+      "Oro",
+      "Fondo M&G Optimal Income",
+      "Fondos PIMCO",
+      "Icaria Cartera Permanente / MyInvestor Cartera Permanente"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Santiso considera que los rendimientos actuales superiores al 5,5% en plazos largos de EE. UU. son muy atractivos y justifican alargar la duración de la cartera."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Es visto como la cobertura indispensable ante el riesgo de hiperinflación o colapso del sistema y de la deuda soberana."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Señalan que la renta variable cotiza a valoraciones elevadas y que el diferencial de rentabilidad histórica (9%) frente a un 5,5% sin riesgo en bonos es muy estrecho."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "En 2020 Alemania cobraba un 0,4% anual nominal (-0,4%) a los inversores por prestarle dinero a 30 años mediante bonos cupón cero.",
+      "Una subida de tipos de interés cuando los tipos están en el -0,4% podía provocar caídas de hasta el 60% en el precio de los bonos a 30 años debido a su duración y convexidad.",
+      "La renta variable ha generado una rentabilidad anualizada histórica aproximada del 9% en los últimos 100 años, no del 15% como perciben algunos inversores recientemente.",
+      "El bono del Tesoro de EE. UU. a 30 años ofrece rentabilidades superiores al 5,5% sin riesgo de impago emisor.",
+      "Por cada 1% de variación en tipos de interés, el precio de un bono se mueve aproximadamente en proporción a su duración modificada (por ejemplo, 1% de subida con duración 22 implica cerca de un 22% de caída teórica)."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de duración y subida abrupta de tipos de interés en bonos a largo plazo.",
+      "Riesgo de hiperinflación y pérdida de confianza en la deuda soberana.",
+      "Coste de oportunidad de mantener bonos con cupones mínimos o negativos hasta su vencimiento.",
+      "Riesgo de confiscación de activos físicos o soberanos (como el oro) por parte de los estados en caso de colapso."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Carlos Santiso"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
