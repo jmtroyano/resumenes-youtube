@@ -1,0 +1,167 @@
+{
+  "video_id": "p2X1xv-4niI",
+  "url": "https://www.youtube.com/watch?v=p2X1xv-4niI",
+  "titulo": "IA ¿en un callejón sin salida? -  Las 4 claves de la semana  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-24T10:53:40+00:00",
+  "fecha_resumen": "2026-10-24T11:14:00.919298+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el dilema estructural que afronta la inteligencia artificial, donde tanto un aumento del gasto en capex financiado con deuda como un recorte de inversión amenazan las valoraciones del sector tecnológico. Esta coyuntura ha provocado una notable rotación de capital hacia sectores defensivos y hacia la renta fija, que además actúa como activo refugio ante las tensiones en la deuda soberana y corporativa. Al mismo tiempo, la escalada del petróleo y la elevada concentración de vencimientos de la deuda estadounidense a corto plazo complican el escenario macroeconómico y de tipos de interés.",
+    "ideas_clave": [
+      "La inteligencia artificial afronta un dilema según Charlie McElligott (Nomura): gastar más capex asusta al mercado por quema de caja y endeudamiento insostenible, mientras que recortar capex destruye el escenario de crecimiento perfecto descontado en precio.",
+      "Bank of America estima que el capex ligado a IA alcanzará 1,68 billones de dólares en 2027 y 1,86 billones en 2028, requiriendo emitir casi 1 billón de dólares en deuda corporativa anual, un volumen que supera la emisión neta del Tesoro estadounidense.",
+      "El S&P 500 equiponderado (RSP) ha empezado a batir con claridad al índice tradicional ponderado por capitalización, emulando la rotación defensiva que se observó tras el pinchazo de la burbuja puntocom entre 2000 y 2003.",
+      "En los bonos del Tesoro de EE. UU., los fondos tendenciales (CTA) presentan una asimetría técnica brutal: una subida del 2% en los precios activaría compras forzadas por 520.000 millones de dólares, frente a solo 86.000 millones de ventas si cayeran un 2%.",
+      "El petróleo (WTI sobre 103 $ y Brent sobre 116 $) registra fuertes subidas contagiando los vencimientos lejanos (2027-2028), ante el riesgo inminente de un conflicto directo entre Israel/EE. UU. e Irán.",
+      "La estructura de deuda de EE. UU. muestra una vulnerabilidad crítica: el 35% del total de su deuda pública vence en menos de un año y tendrá que refinanciarse a tipos sensiblemente más altos.",
+      "Michael Hartnett (BofA) mantiene cautela táctica hasta mediados de noviembre y aconseja buscar oportunidades contrarias en activos castigados como pequeñas compañías, REITs inmobiliarios, utilities y bonos de largo plazo."
+    ],
+    "tesis_principal": "El auge de la inteligencia artificial entra en una fase de rendimientos decrecientes y vulnerabilidad financiera que fuerza una gran rotación del mercado hacia sectores defensivos, índices equiponderados y renta fija, en un entorno condicionado por el repunte del petróleo y el elevado coste de refinanciación de la deuda.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Energía y petróleo",
+      "Deuda pública y déficit",
+      "Fed y tipos de interés EE. UU.",
+      "Semiconductores",
+      "Oro y metales",
+      "China"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "S&P 500 Equal Weight (RSP)",
+      "Bono EE. UU. 10 años",
+      "Bono EE. UU. 30 años",
+      "Petróleo WTI",
+      "Petróleo Brent",
+      "Oro",
+      "EUR/USD",
+      "USD/CHF",
+      "Bitcoin",
+      "SMH (VanEck Semiconductor ETF)",
+      "MAGS (Roundhill Magnificent Seven ETF)",
+      "Meta Platforms",
+      "Alphabet",
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Oracle",
+      "CoreWeave"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El modelo de financiación vía deuda masiva y quema de flujo de caja libre sitúa al sector en un callejón sin salida donde cualquier decisión sobre el capex castiga las cotizaciones."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Las elevadas rentabilidades de los cupones y el masivo posicionamiento comprador potencial de los CTA convierten a los bonos en un refugio muy atractivo."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Aunque los grandes índices ponderados están estancados y amenazados por la tecnología, el índice equiponderado y los sectores defensivos ofrecen soporte y oportunidades."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "El crudo cotiza en máximos por la escalada bélica en Oriente Medio y la curva de futuros a 2027 y 2028 descuenta un problema de oferta prolongado."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El vencimiento del 35% de la deuda pública de EE. UU. a menos de un año supone un muro de refinanciación a tipos muy elevados insostenible para el Tesoro."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El ETF SMH ha corregido con fuerza pero ha frenado milimétricamente en la media de 200 sesiones, nivel clave de soporte que definirá su tendencia."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Presenta una figura de hombro-cabeza-hombro y sufre por la dura competencia que le hacen las elevadas rentabilidades libres de riesgo de la renta fija."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El mercado chino sufre una dinámica deflacionaria severa con caídas del 20% en el CSI 300 y del 41% en tecnología desde junio, desatando la frustración inversora."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si los bonos soberanos suben un 2%, los fondos sistemáticos CTA se verán forzados a comprar 520.000 millones de dólares en futuros de deuda provocando un desplome de las rentabilidades.",
+        "activo_o_variable": "Bonos soberanos de EE. UU. / Posiciones CTA",
+        "direccion": "sube",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el ETF de las Siete Magníficas (MAGS) pierde de forma consistente el soporte de los 70 puntos, el S&P 500 y el Nasdaq sufrirán una corrección de calado.",
+        "activo_o_variable": "ETF MAGS / S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La rentabilidad del bono de EE. UU. a 30 años bajará hacia el nivel del 5,00% ante la demanda de inversores y el freno económico.",
+        "activo_o_variable": "Rentabilidad del bono a 30 años de EE. UU.",
+        "direccion": "baja",
+        "horizonte": "mediados de noviembre",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el oro pierde el soporte clave y psicológico de los 4.000 dólares tras perforar la media de 200, profundizará sensiblemente sus caídas.",
+        "activo_o_variable": "Oro",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Bank of America calcula que en 2027 el capex en IA será de 1,685 billones de dólares y exigirá emitir 984.000 millones en deuda corporativa.",
+      "El coste de asegurar 10 millones de dólares de deuda de CoreWeave mediante CDS exige desembolsar 1,1 millones (más de 1.100 puntos básicos).",
+      "En la burbuja puntocom del 2000 había 117 valores en zona de burbuja que representaban el 39% del S&P 500, mientras que hoy solo hay 13 valores que pesan un 2,8%.",
+      "El 35% de toda la deuda emitida por Estados Unidos vence en un plazo inferior a 12 meses, frente al 17% de Japón o el 15% de España.",
+      "En los últimos 100 años, el rendimiento del bono del Tesoro estadounidense a 10 años está registrando el peor ciclo de retorno acumulado de toda la serie histórica.",
+      "Las estimaciones de crecimiento del beneficio por acción (BPA) del S&P 500 continúan a doble dígito: +29% en 2026, +18% en 2027 y +11% en 2028 según Goldman Sachs.",
+      "Durante la rotación sectorial europea desde inicios de octubre, semiconductores cae un 15% y cíclicos un 11%, mientras que bienes del hogar sube un 7% y alimentación un 9%."
+    ],
+    "riesgos_mencionados": [
+      "Incapacidad para financiar o rentabilizar el gigantesco capex de los hiperescaladores de inteligencia artificial.",
+      "Ataque militar de Israel y EE. UU. a infraestructuras petroleras o nucleares de Irán, disparando el precio del crudo por encima de los niveles actuales.",
+      "Vencimiento masivo de deuda del Tesoro de EE. UU. a corto plazo en un entorno de tipos restrictivos, tensionando el déficit público.",
+      "Que los diferenciales crediticios de la deuda vinculada a IA superen los 200 puntos básicos, desatando un evento de crédito y contagio bancario.",
+      "Bloqueo político legislativo tras las elecciones en EE. UU. si los demócratas ganan ambas cámaras frente a la presidencia republicana."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Charlie McElligott (citado)",
+      "Michael Hartnett (citado)",
+      "Tony Pasquariello (citado)",
+      "Albert Edwards (citado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
