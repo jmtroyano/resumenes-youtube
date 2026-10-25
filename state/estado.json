@@ -501,8 +501,18 @@
    "publicado": "2026-10-25T08:52:28+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-25T11:39:22.576653+00:00"
+  },
+  {
+   "video_id": "zpdppZlj_Fs",
+   "titulo": "Algo Está Pasando con el ORO y Pocos Entienden Por Qué",
+   "url": "https://www.youtube.com/watch?v=zpdppZlj_Fs",
+   "publicado": "2026-10-25T16:00:19+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-25T16:29:10.766438+00:00"
   }
  ],
  "fallidos": {
