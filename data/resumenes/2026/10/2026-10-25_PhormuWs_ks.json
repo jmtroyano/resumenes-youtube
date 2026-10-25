@@ -1,0 +1,97 @@
+{
+  "video_id": "PhormuWs_ks",
+  "url": "https://www.youtube.com/watch?v=PhormuWs_ks",
+  "titulo": "La Alternativa a los Bonos Tradicionales que Casi NADIE Usa en España",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-25T19:00:07+00:00",
+  "fecha_resumen": "2026-10-25T23:21:55.979808+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Carlos Santiso y Luis Miguel Ortiz analizan la estructuración de la renta fija en carteras diversificadas de cara a un eventual escenario recesivo. Santiso defiende el papel de la renta fija a muy corto plazo (monetarios) para mantener liquidez y la de muy largo plazo gubernamental como contrapeso defensivo ante previsibles bajadas de tipos de interés. Asimismo, destaca activos descorrelacionados alternativos como los futuros gestionados y, en especial, los bonos catástrofe (Cat Bonds), que actualmente ofrecen atractivas rentabilidades de doble dígito gracias a los tipos altos y las primas de seguros.",
+    "ideas_clave": [
+      "La renta fija a muy corto plazo (fondos monetarios, vencimientos menores a 18 meses) es clave para mantener liquidez estructurada ante una futura recesión.",
+      "La deuda gubernamental a muy largo plazo actúa como contrapeso efectivo frente a caídas en renta variable, ya que los bancos centrales bajarán tipos con fuerza.",
+      "El oro podría no funcionar como cobertura en el momento más álgido de una recesión, ya que los inversores suelen venderlo por ser líquido para comprar renta variable barata, como ocurrió en 2008.",
+      "Los bonos catástrofe (Cat Bonds) pagan una doble rentabilidad: la prima del seguro frente a desastres meteorológicos más el rendimiento de las letras del tesoro donde se deposita el colateral.",
+      "Con los tipos de interés elevados actuales y un entorno de 'hard market' tras desastres como el huracán Ian, los Cat Bonds han generado rentabilidades del 8% al 10% anualizado en los últimos tres años.",
+      "Los futuros gestionados representan otra alternativa descorrelacionada que funcionó muy bien en 2008 (+30%), 2020 (+20%) y 2022 (+20%), actuando como un bono gubernamental sin riesgo de crédito estatal."
+    ],
+    "tesis_principal": "Para proteger y rentabilizar una cartera frente a recesiones, conviene combinar liquidez a corto plazo y bonos de muy larga duración con activos alternativos y descorrelacionados como los futuros gestionados y los bonos catástrofe (Cat Bonds), especialmente atractivos con tipos de interés altos.",
+    "temas": [
+      "Bonos y renta fija",
+      "Crecimiento y recesión",
+      "Fed y tipos de interés EE. UU.",
+      "Oro y metales",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "Cat Bonds",
+      "Letras del Tesoro",
+      "Oro",
+      "Deuda gubernamental a largo plazo",
+      "Fondos monetarios",
+      "Futuros gestionados",
+      "American Coastal"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Santiso ve muy atractivo tanto el tramo corto monetario como la deuda pública de muy largo plazo y los bonos catástrofe bajo el entorno de tipos altos."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Santiso considera seguro que llegará una recesión o crisis económica en los próximos años, aunque no se sepa la fecha exacta."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Advierte de que en la fase más tensa de una recesión el oro puede sufrir caídas al ser liquidado para cubrir pérdidas o comprar acciones."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Va a venir una recesión/crisis económica, aunque nadie sabe si será en 1, 2 o 3 años.",
+        "activo_o_variable": "Crecimiento económico global / Recesión",
+        "direccion": "baja",
+        "horizonte": "1 a 3 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Cuando llegue la recesión, los bancos centrales bajarán tipos a saco para potenciar la economía, disparando el valor de la deuda gubernamental de muy largo plazo.",
+        "activo_o_variable": "Deuda pública de muy largo plazo",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En una recesión aguda como la de 2008, el oro llegó a caer temporalmente porque los inversores vendieron activos líquidos para comprar renta variable deprimida.",
+      "Los Cat Bonds han generado entre un 8% y un 10% anualizado en los últimos 3 años con una volatilidad reducida en torno al 3% y correlación cero con el ciclo económico.",
+      "El track record histórico de los Cat Bonds desde 2003/2005 muestra drawdowns máximos contenidos de solo entre el 10% y el 15%.",
+      "Los futuros gestionados subieron más del 30% en 2008 y más del 20% tanto en 2020 como en 2022, demostrando ser un activo asimétrico y descorrelacionado."
+    ],
+    "riesgos_mencionados": [
+      "Ocurrencia de catástrofes naturales con daños extraordinarios por encima del umbral asegurado, lo que generaría pérdidas directas de capital en los Cat Bonds.",
+      "Falta de cobertura del oro durante momentos de pánico extremo y ventas forzadas de liquidez.",
+      "Coste de oportunidad de los futuros gestionados, que pueden pasar periodos de hasta 5 años totalmente planos sin aportar rentabilidad."
+    ],
+    "participantes": [
+      "Carlos Santiso",
+      "Luis Miguel Ortiz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

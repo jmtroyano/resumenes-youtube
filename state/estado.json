@@ -493,30 +493,11 @@
   "HWYH2EK8ITE": "2026-10-24T20:55:39.844715+00:00",
   "oHq3CvGJwQc": "2026-10-24T20:57:00.359202+00:00",
   "_oc9guYIdqA": "2026-10-25T21:00:44.004120+00:00",
-  "bwz2wRSydLU": "2026-10-25T21:03:27.406655+00:00"
+  "bwz2wRSydLU": "2026-10-25T21:03:27.406655+00:00",
+  "PhormuWs_ks": "2026-10-25T23:21:57.407067+00:00",
+  "zpdppZlj_Fs": "2026-10-25T23:24:20.861960+00:00"
  },
- "cola": [
-  {
-   "video_id": "zpdppZlj_Fs",
-   "titulo": "Algo Está Pasando con el ORO y Pocos Entienden Por Qué",
-   "url": "https://www.youtube.com/watch?v=zpdppZlj_Fs",
-   "publicado": "2026-10-25T16:00:19+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-25T16:29:10.766438+00:00"
-  },
-  {
-   "video_id": "PhormuWs_ks",
-   "titulo": "La Alternativa a los Bonos Tradicionales que Casi NADIE Usa en España",
-   "url": "https://www.youtube.com/watch?v=PhormuWs_ks",
-   "publicado": "2026-10-25T19:00:07+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-25T20:55:31.916562+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",

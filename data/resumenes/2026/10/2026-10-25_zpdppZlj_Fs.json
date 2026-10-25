@@ -1,0 +1,83 @@
+{
+  "video_id": "zpdppZlj_Fs",
+  "url": "https://www.youtube.com/watch?v=zpdppZlj_Fs",
+  "titulo": "Algo Está Pasando con el ORO y Pocos Entienden Por Qué",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-25T16:00:19+00:00",
+  "fecha_resumen": "2026-10-25T23:24:19.504170+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Carlos Santiso y Luis Miguel Ortiz analizan los factores y proxies que determinan el comportamiento del oro a nivel macroeconómico. Explican que, aunque tradicionalmente los tipos de interés reales positivos perjudicaban al metal, la reciente desconexión se debe a las compras masivas de bancos centrales como China y al debasement trade ante el descontrol fiscal de los Estados. Santiso defiende una postura contracíclica y destaca la importancia de equilibrar el oro con la renta fija para protegerse de escenarios extremos del sistema monetario.",
+    "ideas_clave": [
+      "Tradicionalmente, el principal input del oro eran los tipos reales: tipos reales positivos altos reducen el incentivo de tener lingotes al existir rentabilidad en activos monetarios seguros.",
+      "El oro suele despuntar cuando los tipos reales son negativos o nulos, escenario común tras la crisis de 2008 y los tipos a cero en 2009.",
+      "La reciente subida del oro con tipos reales positivos se fundamenta en la desdolarización y compras masivas de bancos centrales (destacando China) y en el 'debasement trade'.",
+      "Los déficits fiscales persistentes tanto en EE. UU. como en Europa en tiempos de bonanza económica reflejan una falta de disciplina en las cuentas públicas que impulsa al oro como refugio.",
+      "Carlos Santiso señala que fue fuertemente alcista con el oro en 2022 cuando cotizaba deprimido y avisó de correcciones cuando el mercado se volvió eufórico y especulativo.",
+      "Mantener conjuntamente oro y renta fija aporta equilibrio y tranquilidad mental al inversor, protegiendo tanto en escenarios de estabilidad como de colapso de deuda soberana."
+    ],
+    "tesis_principal": "El desacoplamiento del oro frente a los tipos de interés reales responde a la desdolarización de bancos centrales como China y a la desconfianza estructural en la sostenibilidad fiscal de los Estados occidentales.",
+    "temas": [
+      "Oro y metales",
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Dólar y divisas",
+      "China",
+      "Inflación"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Euro",
+      "Dólar",
+      "TIPS",
+      "Deuda pública europea",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Considera que las razones estructurales del oro (compras institucionales y descontrol fiscal) permanecen intactas pese a las correcciones lógicas tras rallies especulativos."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Critica duramente la falta de disciplina fiscal de EE. UU. y Europa, manteniendo déficits propios de guerras o recesiones en plena expansión económica."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Aunque desconfía de la deuda soberana a largo plazo, defiende su función equilibradora junto al oro dentro de una cartera diversificada."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Explicación del coste de oportunidad: con depósitos o monetarios batiendo a la inflación, el oro pierde atractivo tradicionalmente.",
+      "China y otros bancos centrales han incrementado de forma agresiva sus reservas de oro en un proceso de desdolarización.",
+      "El déficit público de EE. UU. y Europa se mantiene en niveles anómalamente altos a pesar del crecimiento económico.",
+      "Mención de niveles históricos del oro: cotizó en torno a los 1.200-1.500 dólares en momentos clave y llegó a multiplicar sustancialmente en fases alcistas posteriores."
+    ],
+    "riesgos_mencionados": [
+      "Inestabilidad o colapso del sistema financiero por exceso de endeudamiento gubernamental.",
+      "Correcciones bruscas en el precio del oro tras subidas con alto componente especulativo.",
+      "Pérdida de poder adquisitivo del dinero fiat mantenido en cuenta frente a la inflación real.",
+      "Riesgos de fragmentación o necesidad de rescates indirectos de deuda soberana en la Eurozona (ej. Francia, Italia, España)."
+    ],
+    "participantes": [
+      "Carlos Santiso",
+      "Luis Miguel Ortiz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
