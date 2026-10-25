@@ -1,0 +1,143 @@
+{
+  "video_id": "_oc9guYIdqA",
+  "url": "https://www.youtube.com/watch?v=_oc9guYIdqA",
+  "titulo": "💥Prepárate para LO PEOR. Empieza a GUARDAR tu DINERO…(Aquí te EXPLICO el motivo)",
+  "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+  "handle": "@Artedeinvertir",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "value investing",
+  "fecha_publicacion": "2026-10-25T17:15:16+00:00",
+  "fecha_resumen": "2026-10-25T21:00:42.533759+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Alejandro Estebaranz analiza las advertencias de inversores legendarios como Warren Buffett, Ray Dalio y Stanley Druckenmiller ante las elevadas valoraciones del mercado, la deuda descontrolada y los riesgos de inflación. Aporta datos estadísticos que demuestran que el mayor peligro para el inversor particular no es una corrección, sino vender por pánico y quedarse fuera del mercado. Finalmente, detalla sectores defensivos y a valoraciones atractivas, como aseguradoras, infraestructuras, consumo básico y empresas mineras o de pequeña/mediana capitalización.",
+    "ideas_clave": [
+      "Grandes inversores como Buffett, Dalio y Druckenmiller advierten de riesgos de deuda, inflación y mercados sobrevalorados, aumentando su liquidez o posicionándose defensivamente.",
+      "El peor error financiero es vender en pánico: un estudio muestra que casi el 40% de los inversores que venden en crisis nunca regresan al mercado y el 20% tarda más de un año, perdiéndose la recuperación.",
+      "Las valoraciones actuales de las grandes empresas estadounidenses (Forward P/E superior a 20-23x) implican históricamente retornos anualizados pobres o cercanos al 0% para los próximos 10 años.",
+      "Existen discrepancias de valoración significativas: mientras las megacaps están caras, el S&P 400 y S&P 600 (medianas y pequeñas empresas) cotizan en torno a 14x beneficios.",
+      "Cuando la bolsa cae entre un 20% y 30%, el riesgo disminuye drásticamente y la rentabilidad esperada a 3-5 años se dispara, reduciendo la probabilidad de pérdidas a 12 meses a solo un 3-9%.",
+      "Para proteger el capital en entornos complejos se recomiendan activos reales como el oro (10-15% según Dalio), energía y sectores resistentes como aseguradoras (Chubb, Tokio Marine) y consumo básico defensivo (Coca-Cola, Kri-Kri Milk)."
+    ],
+    "tesis_principal": "Ante el riesgo creciente de corrección bursátil y presiones macroeconómicas, la mejor estrategia no es salir del mercado ni vender por pánico, sino mantener la disciplina, aumentar liquidez gradualmente y rotar hacia sectores defensivos y activos con valoraciones razonables.",
+    "temas": [
+      "Valoración de mercado y burbujas",
+      "Bolsa EE. UU.",
+      "Small caps",
+      "Oro y metales",
+      "Energía y petróleo",
+      "Inflación",
+      "Deuda pública y déficit",
+      "Finanzas personales"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "S&P 400",
+      "S&P 600",
+      "Berkshire Hathaway",
+      "Tokio Marine Holdings",
+      "Chubb Limited",
+      "The Coca-Cola Company",
+      "Kri-Kri Milk Industry",
+      "YPF",
+      "Vista Energy",
+      "Linde",
+      "Solstice Advanced Materials",
+      "Entegris",
+      "Qnity Electronics",
+      "AngloGold Ashanti",
+      "Barrick Mining",
+      "Freeport-McMoRan",
+      "Eiffage",
+      "Vinci",
+      "Brookfield Infrastructure",
+      "Oro",
+      "GLD",
+      "Franco-Nevada",
+      "Royal Gold"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las grandes empresas y el índice general cotizan a múltiplos elevados que históricamente auguran rentabilidades pobres a diez años vista."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El flujo masivo hacia megacaps estadounidenses ha dejado los índices vulnerables a fuertes correcciones ante imprevistos económicos."
+      },
+      {
+        "tema": "Small caps",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Las empresas de mediana y pequeña capitalización presentan múltiplos mucho más atractivos de unas 14 veces beneficios con salidas netas de dinero previas."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Se destaca la recomendación de Ray Dalio de tener entre un 10% y 15% en oro como protección ante devaluación monetaria y riesgo inflacionario."
+      },
+      {
+        "tema": "Finanzas personales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se aconseja no actuar de forma emocional, evitar vender en caídas y planificar compras escalonadas con el capital disponible."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Stanley Druckenmiller mantiene fuertes apuestas en petroleras como YPF y Vista Energy como cobertura contra shocks inflacionarios."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "A los niveles actuales de valoración del S&P 500, la rentabilidad esperada anualizada a 10 años se situará entre el -1% y el +5%.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "lateral",
+        "horizonte": "10 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Las mineras, infraestructuras y activos reales superarán a las empresas tecnológicas de larga duración ante el resurgimiento de la inflación.",
+        "activo_o_variable": "Activos reales y mineras vs tecnológicas",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Kri-Kri Milk alcanzará una producción multiplicada por 3 y unos 1.000 millones de euros en facturación en 2030 gracias a su expansión internacional.",
+        "activo_o_variable": "Kri-Kri Milk Industry",
+        "direccion": "sube",
+        "horizonte": "2030",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Estudios académicos revelan que el 40% de los inversores que venden en pánico durante una crisis nunca vuelven al mercado, perdiéndose la recuperación.",
+      "El 80% de la rentabilidad a 10 años en renta variable viene explicada por la valoración de partida (Forward P/E).",
+      "Los inversores mayores de 45 años y los perfiles casados o divorciados tienen entre un 20% y un 30% más de probabilidad de vender por pánico en comparación con perfiles más jóvenes o viudos.",
+      "Tras caídas del 30% en el mercado, la probabilidad histórica de perder dinero a 12 meses es de solo un 3%, frente a un 21,6% incondicional habitual.",
+      "Compañías como Chubb cotizan a un Forward P/E de 12-14x con un ratio combinado de 85,7%, notablemente mejor que el promedio del sector de 93,6%."
+    ],
+    "riesgos_mencionados": [
+      "Burbuja y sostenibilidad de la deuda pública y déficit excesivo en Estados Unidos.",
+      "Riesgos geopolíticos y conflicto en Oriente Medio que disparen el petróleo y la inflación.",
+      "Riesgo de venta en pánico por parte de inversores que consolida pérdidas definitivas frente a la inflación.",
+      "Múltiplos de valoración exigentes en grandes valores tecnológicos que dejan poco margen de seguridad."
+    ],
+    "participantes": [
+      "Alejandro Estebaranz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

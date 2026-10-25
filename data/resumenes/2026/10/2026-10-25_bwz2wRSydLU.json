@@ -1,0 +1,88 @@
+{
+  "video_id": "bwz2wRSydLU",
+  "url": "https://www.youtube.com/watch?v=bwz2wRSydLU",
+  "titulo": "Dos formas de invertir en el S&P 500 ¿Cuál cae menos en una crisis? -  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-25T08:52:28+00:00",
+  "fecha_resumen": "2026-10-25T21:03:25.973542+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza las diferencias de comportamiento entre el S&P 500 tradicional ponderado por capitalización bursátil y el S&P 500 equiponderado ante diferentes tipos de crisis. Matiza que el equiponderado no siempre amortigua las caídas, ya que en seis de los últimos ocho episodios de fuertes descensos cayó más que el tradicional. Subraya que la ventaja del equiponderado se concentra en burbujas provocadas por concentración en pocos valores (como en el año 2000) o en plazos de tres a cinco años tras episodios de estrechamiento extremo del mercado.",
+    "ideas_clave": [
+      "Comprar el S&P 500 equiponderado representa una cartera radicalmente distinta al tradicional: tecnología pesa un 15,7% frente al 39,7% en el tradicional, mientras que industriales y financieras cobran más peso (16,6% y 14,7%).",
+      "El equiponderado no bate sistemáticamente al tradicional: de 2004 a 2025, el equiponderado superó al tradicional en 10 de 22 años, sufriendo en 2023 y 2024 sus peores años relativos (-12 puntos porcentuales cada uno).",
+      "El grado actual de estrechamiento del mercado se sitúa en el percentil 92,5% de todos los meses registrados desde 1929.",
+      "A un año de un estrechamiento extremo, el impacto es nulo y la bolsa sube con normalidad, pero a 3 años el equiponderado batió al tradicional el 87% de las veces (+4,8 pp/año) y a 5 años el 95% de las veces (+4,1 pp/año).",
+      "En caídas generales de mercado y recesiones de crédito (como 2008 o 2020), el equiponderado cayó más que el tradicional (por ejemplo, -59,9% frente a -55,2% en 2007-2009 y -39% frente a -33,7% en 2020).",
+      "El inversor debe definir el riesgo que teme: si teme al riesgo de concentración de las grandes tecnológicas, el equiponderado ayuda; si teme a una recesión económica, el equiponderado no amortigua el desplome."
+    ],
+    "tesis_principal": "El S&P 500 equiponderado no es un refugio universal para frenar desplomes en caso de recesión o crisis de crédito, sino una herramienta eficaz únicamente para mitigar el riesgo de concentración y desinfle de burbujas en megacapitalizadas a medio y largo plazo.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Fondos indexados y ETFs",
+      "Valoración de mercado y burbujas",
+      "Tecnología e inteligencia artificial",
+      "Crecimiento y recesión"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "S&P 500 Equiponderado",
+      "SPY",
+      "RSP"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Muestra datos históricos objetivos sobre el comportamiento relativo de los índices sin inclinarse por una caída o subida inmediata."
+      },
+      {
+        "tema": "Fondos indexados y ETFs",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Explica la mecánica de los vehículos ponderados frente a equiponderados (SPY vs RSP) destacando pros y contras de cada uno."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Señala la extrema concentración actual en tecnología que sitúa el estrechamiento del mercado en niveles extremos históricos comparables a burbujas previas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Tras el estrechamiento extremo actual, a un plazo de 3 a 5 años la rentabilidad del S&P 500 equiponderado tenderá a superar a la del tradicional según la pauta histórica.",
+        "activo_o_variable": "S&P 500 equiponderado vs tradicional",
+        "direccion": "sube",
+        "horizonte": "3 a 5 años",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En la crisis del año 2000, el equiponderado subió un +26% a cierre de 2003 mientras el tradicional retrocedió un -19,7%.",
+      "Ponderación sectorial comparada: Tecnología supone 39,7% en el tradicional vs 15,7% en el equiponderado; Industriales 8,0% vs 16,6%; Financieras 11,4% vs 14,7%.",
+      "Lectura de estrechamiento del mercado más estrecha que el 92,5% de los meses registrados desde 1929.",
+      "A 3 años de estrechamientos extremos, el equiponderado ganó el 87% de las veces (+4,8 puntos porcentuales anuales de mediana sobre el normal).",
+      "A 5 años de estrechamientos extremos, el equiponderado ganó el 95% de las veces (+4,1 puntos porcentuales anuales de mediana sobre el normal).",
+      "De 8 episodios de desplomes analizados, en 6 el equiponderado sufrió una caída máxima mayor que el S&P 500 tradicional."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de concentración excesiva en un reducido número de valores tecnológicos gigantes en el S&P 500.",
+      "Riesgo de asumir falsamente que el equiponderado amortigua pérdidas en una recesión económica.",
+      "Riesgo de bajo rendimiento a corto plazo por rotar de índice sin un horizonte temporal adecuado."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -491,19 +491,11 @@
   "rVCRHmzSO3Q": "2026-10-23T21:34:47.638296+00:00",
   "p2X1xv-4niI": "2026-10-24T11:14:03.941281+00:00",
   "HWYH2EK8ITE": "2026-10-24T20:55:39.844715+00:00",
-  "oHq3CvGJwQc": "2026-10-24T20:57:00.359202+00:00"
+  "oHq3CvGJwQc": "2026-10-24T20:57:00.359202+00:00",
+  "_oc9guYIdqA": "2026-10-25T21:00:44.004120+00:00",
+  "bwz2wRSydLU": "2026-10-25T21:03:27.406655+00:00"
  },
  "cola": [
-  {
-   "video_id": "bwz2wRSydLU",
-   "titulo": "Dos formas de invertir en el S&P 500 ¿Cuál cae menos en una crisis? -  Cárpatos",
-   "url": "https://www.youtube.com/watch?v=bwz2wRSydLU",
-   "publicado": "2026-10-25T08:52:28+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-25T11:39:22.576653+00:00"
-  },
   {
    "video_id": "zpdppZlj_Fs",
    "titulo": "Algo Está Pasando con el ORO y Pocos Entienden Por Qué",
@@ -513,6 +505,16 @@
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
    "intentos": 1,
    "en_cola_desde": "2026-10-25T16:29:10.766438+00:00"
+  },
+  {
+   "video_id": "PhormuWs_ks",
+   "titulo": "La Alternativa a los Bonos Tradicionales que Casi NADIE Usa en España",
+   "url": "https://www.youtube.com/watch?v=PhormuWs_ks",
+   "publicado": "2026-10-25T19:00:07+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-25T20:55:31.916562+00:00"
   }
  ],
  "fallidos": {
@@ -522,7 +524,8 @@
   "-p5J2U1vDb4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "4OrTgls31-4": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "5ObAsIpyrog": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "Es7wLR-CMmA": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "Es7wLR-CMmA": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "nFhOzswoVrw": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
  },
  "aviso_config": null
 }
