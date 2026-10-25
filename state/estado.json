@@ -493,7 +493,18 @@
   "HWYH2EK8ITE": "2026-10-24T20:55:39.844715+00:00",
   "oHq3CvGJwQc": "2026-10-24T20:57:00.359202+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "bwz2wRSydLU",
+   "titulo": "Dos formas de invertir en el S&P 500 ¿Cuál cae menos en una crisis? -  Cárpatos",
+   "url": "https://www.youtube.com/watch?v=bwz2wRSydLU",
+   "publicado": "2026-10-25T08:52:28+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-25T11:39:22.576653+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
