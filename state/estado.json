@@ -497,7 +497,38 @@
   "PhormuWs_ks": "2026-10-25T23:21:57.407067+00:00",
   "zpdppZlj_Fs": "2026-10-25T23:24:20.861960+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "WLki4jelUtE",
+   "titulo": "PROPIEDAD, HERENCIA y AUTOCUSTODIA: Lo que Cambia con Bitcoin | Clara García (Abogada tributaria)",
+   "url": "https://www.youtube.com/watch?v=WLki4jelUtE",
+   "publicado": "2026-10-26T13:00:21+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
+  },
+  {
+   "video_id": "taa4MvVnoTQ",
+   "titulo": "Brasil se desploma y afecta a valores expuestos - Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=taa4MvVnoTQ",
+   "publicado": "2026-10-26T12:01:03+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
+  },
+  {
+   "video_id": "-XDwrs2D3-w",
+   "titulo": "Musk habla de quiebras en neoclouds - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=-XDwrs2D3-w",
+   "publicado": "2026-10-26T07:59:08+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
