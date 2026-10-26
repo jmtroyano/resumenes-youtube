@@ -1,0 +1,91 @@
+{
+  "video_id": "WLki4jelUtE",
+  "url": "https://www.youtube.com/watch?v=WLki4jelUtE",
+  "titulo": "PROPIEDAD, HERENCIA y AUTOCUSTODIA: Lo que Cambia con Bitcoin | Clara García (Abogada tributaria)",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-26T13:00:21+00:00",
+  "fecha_resumen": "2026-10-26T20:40:11.599595+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La abogada tributaria Clara García analiza junto a Luis Miguel Ortiz el impacto jurídico y fiscal de Bitcoin, abordándolo como una nueva forma de propiedad privada sin intermediarios. La conversación profundiza en la necesidad crítica de preservar la trazabilidad del origen de fondos para evitar que Hacienda catalogue las operaciones como ganancias patrimoniales no justificadas imputables a la base general. Asimismo, se examinan los retos sucesorios, la aplicación del método FIFO global frente al cálculo por exchange, la tributación en permutas y DeFi, y la evolución normativa bajo MiCA, DAC8 y el modelo 721.",
+    "ideas_clave": [
+      "Acreditar el origen y la trazabilidad de los fondos en Bitcoin es indispensable para evitar que la Agencia Tributaria considere las transferencias o ventas como ganancias patrimoniales no justificadas, gravadas a la base general más sanciones.",
+      "El método aplicable para computar las ganancias o pérdidas en la venta de Bitcoin es el FIFO global y no por exchange individual, lo que obliga a reconstruir todo el historial de adquisiciones consolidado.",
+      "La regla de los dos meses para compensar pérdidas patrimoniales aplica en la ley del IRPF a valores homogéneos cotizados; aunque Bitcoin no encaja expresamente de forma literal, usar la compensación sin esperar el plazo entraña un riesgo fiscal en zona gris.",
+      "Las permutas de criptoactivos (incluyendo cambios de cripto a cripto, a stablecoins o el wrapped/tokenizado en DeFi) tributan en el IRPF como alteración patrimonial en la base del ahorro.",
+      "El Modelo 721 es meramente informativo y exige declarar a particulares tenencias de criptoactivos en custodios situados en el extranjero cuando el saldo supere los 50.000 euros a 31 de diciembre.",
+      "La autocustodia no se declara en el Modelo 721, pero exige diseñar un plan de acceso técnico y un testamento coordinado para evitar que los herederos pierdan el acceso o deban tributar por activos inaccesibles.",
+      "Pignorar Bitcoin para obtener liquidez no genera hecho imponible en el IRPF al ser un préstamo, salvo que se produzca una liquidación de la garantía (margin call), momento en el cual se computa una venta sujeta a tributación."
+    ],
+    "tesis_principal": "Bitcoin redefine la propiedad privada al suprimir los intermediarios tradicionales, pero exige una gestión documental y de trazabilidad rigurosa para garantizar la seguridad jurídica, cumplir con la fiscalidad vigente y evitar sanciones tributarias ante inspecciones o transmisiones patrimoniales.",
+    "temas": [
+      "Criptomonedas",
+      "Política fiscal e impuestos",
+      "Finanzas personales",
+      "Bancos",
+      "Inmobiliario y vivienda"
+    ],
+    "activos_mencionados": [
+      "Bitcoin",
+      "Ethereum",
+      "USDT",
+      "MicroStrategy"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Ambos consideran a Bitcoin una innovación disruptiva insoslayable para preservar valor a largo plazo y una forma superior de propiedad privada, aunque reconocen su volatilidad a corto plazo."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Clara García advierte sobre la complejidad regulatoria, la creciente presión fiscal informativa (DAC8, CARF, 721) y los severos riesgos de inspección si no se mantiene la trazabilidad."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La regulación internacional hacia los criptoactivos y DeFi se endurecerá y cerrará cada vez más el cerco mediante normativas como MiCA II, DAC8 y CARF en los próximos años.",
+        "activo_o_variable": "Regulación de criptoactivos y DeFi",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La sucesión y herencia de Bitcoin en autocustodia planteará litigios y dudas doctrinales que se irán resolviendo caso a caso en los próximos 5 a 15 años.",
+        "activo_o_variable": "Jurisprudencia sobre herencias de criptoactivos",
+        "direccion": "no aplica",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El plazo de prescripción fiscal en España es de 4 años, pero en la práctica abarca 5 años fiscales desde que finaliza el periodo de presentación de la declaración.",
+      "El umbral para la obligación de presentar el Modelo 721 informativo sobre criptoactivos en custodios extranjeros está fijado en saldos conjuntos iguales o superiores a 50.000 euros.",
+      "Los tipos del IRPF para la base del ahorro oscilan entre el 19% y el 30%, mientras que una ganancia patrimonial no justificada tributa al tipo marginal de la base general, significativamente más elevado.",
+      "Si se vende un inmueble cobrando en Bitcoin, la operación entre particulares califica como permuta y puede conllevar IRPF por la plusvalía más el Impuesto sobre Transmisiones Patrimoniales Onerosas (TPO) por la recepción del criptoactivo."
+    ],
+    "riesgos_mencionados": [
+      "Calificación de fondos no trazados como ganancia patrimonial no justificada e imposición de sanciones tributarias por Hacienda.",
+      "Pérdida irreversible de claves privadas o frase semilla en autocustodia, dejando los fondos inaccesibles para el titular o sus herederos.",
+      "Riesgo de margin call y liquidación automática en préstamos colateralizados con Bitcoin debido a su elevada volatilidad.",
+      "Bloqueo o congelación de cuentas bancarias por los departamentos de compliance al transferir fondos fiat provenientes de la venta de criptoactivos sin trazabilidad previa.",
+      "Filtraciones de datos personales y riesgos de seguridad física derivados de declaraciones de autocustodia ante el Estado."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Clara García"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

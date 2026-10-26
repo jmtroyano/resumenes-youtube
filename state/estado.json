@@ -495,19 +495,10 @@
   "_oc9guYIdqA": "2026-10-25T21:00:44.004120+00:00",
   "bwz2wRSydLU": "2026-10-25T21:03:27.406655+00:00",
   "PhormuWs_ks": "2026-10-25T23:21:57.407067+00:00",
-  "zpdppZlj_Fs": "2026-10-25T23:24:20.861960+00:00"
+  "zpdppZlj_Fs": "2026-10-25T23:24:20.861960+00:00",
+  "WLki4jelUtE": "2026-10-26T20:40:14.703908+00:00"
  },
  "cola": [
-  {
-   "video_id": "WLki4jelUtE",
-   "titulo": "PROPIEDAD, HERENCIA y AUTOCUSTODIA: Lo que Cambia con Bitcoin | Clara García (Abogada tributaria)",
-   "url": "https://www.youtube.com/watch?v=WLki4jelUtE",
-   "publicado": "2026-10-26T13:00:21+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
-  },
   {
    "video_id": "taa4MvVnoTQ",
    "titulo": "Brasil se desploma y afecta a valores expuestos - Media sesión Cárpatos",
@@ -515,7 +506,7 @@
    "publicado": "2026-10-26T12:01:03+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
   },
   {
@@ -527,6 +518,26 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 1,
    "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
+  },
+  {
+   "video_id": "X72SkXLsgUc",
+   "titulo": "Anthropic sale a bolsa y anima al mercado - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=X72SkXLsgUc",
+   "publicado": "2026-10-26T16:35:56+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-26T20:33:22.019151+00:00"
+  },
+  {
+   "video_id": "P14tAXSV8uY",
+   "titulo": "Brasil, España, Francia y China: Operación TACO.  José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=P14tAXSV8uY",
+   "publicado": "2026-10-26T13:21:45+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-26T20:33:22.019151+00:00"
   }
  ],
  "fallidos": {
