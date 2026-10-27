@@ -1,0 +1,140 @@
+{
+  "video_id": "_gWjSWhbJ54",
+  "url": "https://www.youtube.com/watch?v=_gWjSWhbJ54",
+  "titulo": "Bitcoin, ORO e IA Caen Juntos, ¿Por Qué? ¿Por XI? | José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-27T13:29:28+00:00",
+  "fecha_resumen": "2026-10-27T22:23:38.933563+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza cómo los despidos masivos en Microsoft y la reorganización corporativa reflejan el impacto de la inteligencia artificial en el mercado laboral y la reasignación de capital hacia infraestructuras de IA. Explica que la reciente caída conjunta de las acciones de IA en China, el oro y el estancamiento de bitcoin se debe a la contracción del balance del Banco Central de China y a la falta de liquidez global. A corto plazo la escasez de liquidez y las necesidades de refinanciación de deuda pública frenan a los activos, pero a largo plazo tanto EE. UU. como China se verán forzados a inyectar liquidez masiva. Esta futura degradación monetaria terminará impulsando con fuerza al oro y a bitcoin.",
+    "ideas_clave": [
+      "Microsoft planea recortar decenas de miles de empleos para reducir costes laborales en hasta 20.000 millones de dólares y financiar inversiones de capital (CAPEX) en inteligencia artificial que alcanzan los 40.000 millones.",
+      "La inteligencia artificial provocará una contracción neta de la oferta agregada de empleo en diversas industrias durante los próximos diez años antes de que se materialicen los beneficios plenos de productividad.",
+      "Desde el análisis técnico, la acción de Microsoft mantiene soporte clave en 522,5 dólares; si lo respeta tras sus resultados, su objetivo alcista se sitúa en el rango de 550 a 575 dólares.",
+      "El índice chino STAR 50 se ha desplomado un 44% desde julio debido a presiones deflacionarias (bono a 10 años en el 1,6%) y a la retirada de estímulos, no por fallas en la tecnología de IA.",
+      "La debilidad reciente del oro y el estancamiento de bitcoin responden a la contracción del balance del Banco Popular de China y a la escasez temporal de liquidez global.",
+      "Tanto Washington como Pekín necesitarán una crisis o justificación para reactivar la inyección masiva de liquidez con el fin de financiar deudas soberanas y evitar escenarios de estancamiento al estilo japonés.",
+      "A largo plazo, la degradación monetaria global (estimada por Cava en torno al 8% anual) será el gran catalizador alcista para el oro y bitcoin."
+    ],
+    "tesis_principal": "La caída sincronizada de las tecnológicas de IA, el oro y bitcoin no se debe al agotamiento de sus tendencias de fondo sino a un estrangulamiento temporal de liquidez por parte de los bancos centrales (especialmente China); una situación insostenible que forzará nuevas inyecciones monetarias masivas, beneficiando en última instancia a los activos duros y a la tecnología.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Oro y metales",
+      "Criptomonedas",
+      "China",
+      "Liquidez y crédito",
+      "Bolsa EE. UU.",
+      "Empleo",
+      "Deuda pública y déficit",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Microsoft (MSFT)",
+      "STAR 50",
+      "Oro",
+      "Bitcoin",
+      "Bono chino a 10 años"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Las empresas continúan canalizando masivos volúmenes de capital hacia infraestructuras de IA a costa de recortar costes laborales tradicionales."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Considera probable que Microsoft mantenga su soporte técnico de 522,5 dólares y retome su impulso hacia 550-575 dólares."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Advierte deflación evidente reflejada en los rendimientos del bono a 10 años y riesgo de una década perdida si no inyectan liquidez."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "La corrección actual es transitoria y la inevitable devaluación monetaria terminará disparando su cotización."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Aunque a corto plazo sufre por la sequía de liquidez global, se verá enormemente favorecido cuando los bancos centrales vuelvan a expandir balance."
+      },
+      {
+        "tema": "Empleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Prevé destrucción persistente de puestos de trabajo en los próximos 10 años debido a la adopción y reestructuraciones por IA."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Actualmente hay escasez restrictiva por contracción de balance en China, pero se verá forzada una expansión futura."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si Microsoft mantiene el soporte de 522,5 dólares tras resultados, se dirigirá a la resistencia de 550 a 575 dólares.",
+        "activo_o_variable": "Microsoft (MSFT)",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La oferta agregada de empleo se reducirá de forma extendida en los próximos 10 años por el impacto de la IA.",
+        "activo_o_variable": "Empleo global",
+        "direccion": "baja",
+        "horizonte": "10 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "China y Estados Unidos se verán obligados a inyectar liquidez masiva al sistema para evitar deflación y financiar deuda soberana.",
+        "activo_o_variable": "Liquidez global de bancos centrales",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El oro y bitcoin reanudarán fuertes subidas impulsados por la degradación monetaria e inyecciones de liquidez.",
+        "activo_o_variable": "Oro y Bitcoin",
+        "direccion": "sube",
+        "horizonte": "medio-largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Microsoft ha anunciado programas de bajas y despidos que podrían alcanzar 60.000 empleados (27% de la plantilla en ciertas áreas), generando un ahorro estimado de 20.000 millones de dólares.",
+      "El gasto de capital (CAPEX) trimestral de Microsoft en infraestructuras de inteligencia artificial ronda los 40.000 millones de dólares.",
+      "El índice bursátil chino STAR 50 acumula una caída del 44% desde julio de 2023.",
+      "La rentabilidad del bono soberano chino a 10 años se sitúa en torno al 1,6%, lo que sugiere un crecimiento nominal insuficiente y riesgo deflacionario frente a un crecimiento real estimado del 2%.",
+      "El balance del Banco Popular de China se contrajo tras marzo y no ha expandido liquidez de forma neta en meses recientes.",
+      "La degradación monetaria anualizada en las principales economías se calcula en torno al 8% anual."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de que China caiga en una década perdida similar a la de Japón por falta de estímulo a salarios y consumo.",
+      "Presión deflacionaria y crisis de liquidez a corto plazo que retrasa el despegue de activos de riesgo y refugio.",
+      "Insostenibilidad fiscal por elevado volumen de refinanciación de deuda pública en EE. UU.",
+      "Pérdida de soporte técnico de 522,5 dólares en la acción de Microsoft tras la publicación de resultados."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

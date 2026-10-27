@@ -1,0 +1,141 @@
+{
+  "video_id": "wSkOBpnxSvw",
+  "url": "https://www.youtube.com/watch?v=wSkOBpnxSvw",
+  "titulo": "Nasdaq sube fuerte, RSP baja - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-27T16:25:05+00:00",
+  "fecha_resumen": "2026-10-27T22:22:12.093026+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la sesión bursátil destacando la fuerte subida del sector tecnológico y los semiconductores, mientras que el mercado amplio se muestra débil con caídas en el ETF equiponderado del S&P 500 (RSP). Se expone un análisis técnico sobre el rebote del ETF de semiconductores (SMH) en la media de 200 sesiones y un informe de Deutsche Bank sobre el comportamiento relativo de la tecnología frente al resto del mercado. Asimismo, se revisan estudios sobre el impacto de la inteligencia artificial en el PIB según Goldman Sachs, la estacionalidad electoral del dólar según Crédit Agricole y datos macroeconómicos favorables en EE. UU.",
+    "ideas_clave": [
+      "La tecnología y los semiconductores lideran las subidas apoyados en noticias corporativas y rebotes técnicos, pero la amplitud de mercado es pobre, reflejada en la caída del RSP (-0,38%).",
+      "El ETF de semiconductores SMH rebotó en la media móvil de 200 sesiones tras formar una estrella del amanecer; Cárpatos advierte que si pierde ese soporte técnico, habría que salir corriendo del mercado.",
+      "Un analista de Deutsche Bank señala que, dentro de un canal matemático de tendencia desde 2016, a la tecnología aún le restaría rendir un 5% peor que el S&P 500 para tocar el suelo del canal.",
+      "Según Goldman Sachs, el impulso de la inversión en inteligencia artificial al PIB de EE. UU. tocará techo en el cuarto trimestre de 2026 (1,47% del PIB) para desacelerar fuertemente a partir de 2027.",
+      "Crédit Agricole muestra que tras elecciones en EE. UU., un Congreso dividido beneficia al dólar (+3,6% a 6 meses), mientras que el control unipartidista de ambas cámaras deprecia al billete verde.",
+      "En datos macro, la confianza del consumidor de Conference Board batió previsiones con 91,7 puntos frente a 81 esperados, y las ventas de viviendas nuevas también mejoraron expectativas.",
+      "Boeing se desploma cerca de un 10% por problemas corporativos y lastra al índice Dow Jones."
+    ],
+    "tesis_principal": "El mercado actual está impulsado casi exclusivamente por un rebote técnico y selectivo de los semiconductores y las grandes tecnológicas en soportes clave, pero carece de amplitud global y enfrenta un comportamiento relativo maduro.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico",
+      "Dólar y divisas",
+      "Energía y petróleo",
+      "Empleo"
+    ],
+    "activos_mencionados": [
+      "SMH",
+      "RSP",
+      "S&P 500",
+      "Nasdaq",
+      "Dow Jones",
+      "Russell 2000",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Meta",
+      "AMD",
+      "Nvidia",
+      "Broadcom",
+      "CoreWeave",
+      "Boeing",
+      "Tesla",
+      "Mercedes",
+      "Petróleo",
+      "Oro",
+      "Bitcoin",
+      "EUR/USD",
+      "USD/JPY",
+      "Bono EE. UU. 10 años",
+      "Bund alemán",
+      "VIX"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Rebote técnico relevante en la media de 200 sesiones con soporte en formación de estrella del amanecer."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Suben por noticias a corto plazo, pero los informes apuntan a un posible agotamiento relativo y techo del gasto en IA en 2026."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Nasdaq sube con fuerza, pero el mercado amplio (RSP) cae y el futuro del S&P 500 choca con resistencias clave."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Evolución condicionada al resultado de las elecciones de medio término según la composición del Congreso."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El crudo retrocede por expectativas de negociaciones con Irán y disminución de tensión a corto plazo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el ETF de semiconductores SMH pierde la media de 200 sesiones, se desencadenará una fuerte caída en el mercado tecnológico.",
+        "activo_o_variable": "SMH",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "A la tecnología le restaría un 5% de peor comportamiento relativo frente al S&P 500 para tocar el suelo del canal histórico según el analista de Deutsche Bank.",
+        "activo_o_variable": "Tecnología vs S&P 500",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El impulso del gasto de hiperescaladores en IA al PIB estadounidense tocará techo en el cuarto trimestre de 2026 y comenzará a desacelerar a inicios de 2027.",
+        "activo_o_variable": "Aporte de IA al PIB de EE. UU.",
+        "direccion": "baja",
+        "horizonte": "2026-2027",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Nasdaq sube un 1,41% mientras que el ETF RSP cae un 0,38%, evidenciando falta de amplitud.",
+      "El CDS de CoreWeave se sitúa en 1.041 puntos, implicando una probabilidad de quiebra a 5 años del 60%.",
+      "Desde 2016, el cociente entre tecnología y el resto del S&P 500 ha crecido a un ritmo tendencial del 14,2% anual dentro de un canal del 10% alrededor de la tendencia.",
+      "Estudio de Crédit Agricole: con Congreso dividido, el dólar sube 1,9% a 3 meses, 3,6% a 6 meses y 2,9% a 12 meses.",
+      "La confianza del consumidor Conference Board sube a 91,7 puntos frente a una estimación de 81 y un dato previo de 84,2.",
+      "Boeing cae cerca de un 10%, penalizando notablemente el desempeño del Dow Jones."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida de la media de 200 sesiones en el ETF de semiconductores SMH.",
+      "Falta de amplitud de mercado con divergencia bajista en índices equiponderados.",
+      "Posible ataque militar de EE. UU. a Irán tras las elecciones, lo que reavivaría el precio del crudo.",
+      "Riesgo de crédito elevado en proveedores de nube para IA como CoreWeave.",
+      "Desaceleración prevista de la inversión de capital en IA a partir de 2027."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

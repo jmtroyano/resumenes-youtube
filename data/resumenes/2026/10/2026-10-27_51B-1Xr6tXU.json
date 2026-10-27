@@ -1,0 +1,75 @@
+{
+  "video_id": "51B-1Xr6tXU",
+  "url": "https://www.youtube.com/watch?v=51B-1Xr6tXU",
+  "titulo": "¿Cómo Bancarizar Bitcoin Sin Tener Problemas con el Banco?",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-27T19:00:37+00:00",
+  "fecha_resumen": "2026-10-27T22:21:16.896564+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo aborda los aspectos legales y fiscales necesarios para bancarizar Bitcoin y reintroducir fondos en el sistema financiero tradicional sin sufrir bloqueos de cuentas bancarias. La experta invitada explica que, a diferencia del efectivo, Bitcoin cuenta con una total trazabilidad en la cadena de bloques, lo que facilita acreditar el origen de los fondos ante la normativa de prevención de blanqueo de capitales. Se recomienda encarecidamente avisar de forma preventiva a la entidad bancaria y aportar informes de compliance fiscal antes de transferir importes significativos procedentes de exchanges. Asimismo, se analizan las dificultades probatorias asociadas a compras antiguas de Bitcoin mediante métodos P2P o cajeros automáticos frente a la operativa en custodios regulados.",
+    "ideas_clave": [
+      "A diferencia del dinero físico, Bitcoin es plenamente trazable en blockchain, lo que facilita demostrar que no se trata de una ganancia patrimonial no justificada ante Hacienda.",
+      "Antes de transferir grandes cantidades de dinero fiduciario desde un exchange al banco, es recomendable acudir de forma preventiva al banco con un informe de trazabilidad y origen de fondos.",
+      "Si una transacción no encaja con el perfil salarial o de ingresos habituales del cliente, el departamento de compliance bancario está obligado a reportarla y puede bloquear o congelar la cuenta.",
+      "El plazo de prescripción tributaria formal es de 4 años, pero en la práctica abarca 5 años computados desde el devengo y fin del plazo voluntario de presentación de la declaración.",
+      "La bancarización de fondos adquiridos en custodios regulados con KYC es sencilla, mientras que las compras P2P carecen de identificación y dificultan justificar el origen lícito del capital.",
+      "El intercambio P2P físico presenta serios riesgos de seguridad personal, y los cajeros de criptomonedas actuales exigen KYC con límites estrictos de operativa (en torno a 1.000 euros)."
+    ],
+    "tesis_principal": "Para bancarizar beneficios procedentes de Bitcoin sin bloqueos bancarios ni sanciones tributarias, es imprescindible justificar la trazabilidad, acreditar el origen de los fondos y actuar de forma preventiva ante la entidad bancaria antes de ordenar la transferencia.",
+    "temas": [
+      "Criptomonedas",
+      "Política fiscal e impuestos",
+      "Bancos",
+      "Finanzas personales"
+    ],
+    "activos_mencionados": [
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El análisis se centra exclusivamente en el cumplimiento normativo, tributación y procesos de bancarización de Bitcoin, sin hacer valoraciones sobre su cotización de mercado."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se detallan los requisitos de Hacienda sobre IRPF, Impuesto sobre el Patrimonio y los plazos de prescripción de las operaciones no declaradas."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se describen los procedimientos internos de prevención de blanqueo de capitales y cumplimiento normativo que aplican las entidades financieras."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Retirar e ingresar dinero en efectivo sin justificación puede llevar a Hacienda a calificarlo como ganancia patrimonial no justificada e imputarlo a la base imponible general.",
+      "El plazo de prescripción tributaria en España es de 4 años a contar desde que vence la obligación legal de presentación del modelo fiscal, resultando en la práctica en un cómputo de 5 años.",
+      "Los cajeros de criptomonedas aplican procesos de KYC y suelen tener un límite operativo cercano a los 1.000 euros conforme a la regulación comunitaria."
+    ],
+    "riesgos_mencionados": [
+      "Bloqueo o congelación preventiva de cuentas corrientes por parte de los departamentos de cumplimiento normativo bancario.",
+      "Imputación de ganancias patrimoniales no justificadas por parte de la Agencia Tributaria al no poder acreditar la procedencia del dinero.",
+      "Dificultades extremas para justificar el origen de fondos adquiridos en compras P2P o con contrapartes anónimas.",
+      "Riesgo de seguridad física y fraude en operativas P2P presenciales."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Asesora fiscal (invitada)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

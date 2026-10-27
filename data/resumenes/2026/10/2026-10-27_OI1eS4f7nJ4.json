@@ -1,0 +1,75 @@
+{
+  "video_id": "OI1eS4f7nJ4",
+  "url": "https://www.youtube.com/watch?v=OI1eS4f7nJ4",
+  "titulo": "Bitcoin Está Cambiando para SIEMPRE el Concepto de Propiedad",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-27T17:00:27+00:00",
+  "fecha_resumen": "2026-10-27T22:24:56.578524+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo analiza la disrupción que supone Bitcoin sobre el concepto tradicional de propiedad privada y los retos jurídicos que plantea. A diferencia de activos tradicionales como inmuebles, cuentas bancarias o acciones, Bitcoin funciona sin intermediarios ni registros centralizados, basando la titularidad en el control fáctico de claves privadas. Los participantes debaten sobre la complejidad de demostrar la titularidad en casos de robo, pérdida o herencia, así como las implicaciones ante la fiscalidad y la prevención de blanqueo de capitales.",
+    "ideas_clave": [
+      "Bitcoin representa un cambio de paradigma histórico al coordinar confianza y transferir valor sin una institución centralizada o intermediarios.",
+      "En el sistema legal tradicional la propiedad se basa en registros públicos o entidades custodias, mientras que en Bitcoin la tenencia se sustenta en el control fáctico de las claves criptográficas.",
+      "El marco regulatorio (como MiCA) ha avanzado en la regulación de intermediarios y custodia, pero aún deja vacíos normativos en la definición jurídica esencial de la propiedad y herencia en Bitcoin.",
+      "La seudonomía y la ausencia de vinculación directa entre una clave y una identidad dificultan probar la propiedad legítima ante tribunales en situaciones de estafa, robo o extorsión.",
+      "A nivel tributario y judicial, recurrir a actas notariales para acreditar la titularidad de direcciones o fondos se enfrenta al estricto escrutinio de prevención de blanqueo de capitales (origen de los fondos)."
+    ],
+    "tesis_principal": "Bitcoin redefine el concepto milenario de propiedad privada al vincular la posesión al control fáctico de claves criptográficas descentralizadas, generando retos jurídicos, tributarios y probatorios que el marco legal tradicional aún no ha resuelto.",
+    "temas": [
+      "Criptomonedas",
+      "Política fiscal e impuestos"
+    ],
+    "activos_mencionados": [
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Se analiza Bitcoin desde un prisma técnico-jurídico, reconociendo su innovación como activo sin intermediarios pero subrayando la falta de madurez de las soluciones legales para su custodia, herencia y protección."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se señala la dificultad que afrontan los usuarios para justificar pérdidas patrimoniales en el IRPF o acreditar el origen de fondos ante autoridades y notarios."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Se seguirán sucediendo casos legales complejos relativos a la titularidad, herencia y sustracción ilegítima de Bitcoin que obligarán a los juristas a sentar jurisprudencia.",
+        "activo_o_variable": "Marco legal y jurisprudencia de Bitcoin",
+        "direccion": "no aplica",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En el derecho tradicional, los bienes inmuebles o activos financieros dependen de registros centralizados (registro de la propiedad, bancos, depositarios).",
+      "El reglamento europeo MiCA establece normas para proveedores de servicios de criptoactivos y custodia, pero no resuelve integralmente el régimen sustantivo de la propiedad privada de Bitcoin en autocustodia.",
+      "Instituciones como UNIDROIT han empezado a publicar principios de derecho privado aplicables a activos digitales.",
+      "La blockchain pública permite la trazabilidad completa de transacciones y saldos de una dirección pública, a diferencia de una cuenta bancaria con IBAN donde los terceros no pueden ver el saldo, pero carece de identidad nominal explícita asociada por defecto."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida irreversible de fondos en caso de extravío de claves privadas o semillas de recuperación.",
+      "Riesgo de extorsión, hackeo o robo sin posibilidad de revertir la transacción en la red.",
+      "Dificultades probatorias para acreditar la titularidad o el origen lícito de los fondos ante notarios, Hacienda y juzgados.",
+      "Incertidumbre jurídica en materia de transmisiones hereditarias de criptoactivos en autocustodia."
+    ],
+    "participantes": [
+      "Alberto (Inversión Racional)",
+      "Elena Santos Pinto"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
