@@ -1,0 +1,125 @@
+{
+  "video_id": "taa4MvVnoTQ",
+  "url": "https://www.youtube.com/watch?v=taa4MvVnoTQ",
+  "titulo": "Brasil se desploma y afecta a valores expuestos - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-26T12:01:03+00:00",
+  "fecha_resumen": "2026-10-27T00:36:42.904500+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la fuerte caída del mercado brasileño tras las elecciones, lo que castiga a valores españoles expuestos como Telefónica, Santander y Mapfre. En el plano macroeconómico, destaca el preocupante repunte del IPP en España y advierte de que el mercado es demasiado optimista con la inflación. En renta variable y resultados, señala la alta concentración de cuentas empresariales en EE. UU. esta semana y las previsiones de Morgan Stanley para el cierre de año.",
+    "ideas_clave": [
+      "El ETF de Brasil (EWZ) se desploma más de un 25% y el real cae cerca del 10% tras la victoria de Lula, lastrando a cotizadas españolas como Telefónica, Santander y Mapfre.",
+      "El IPP en España sube al 18,3% interanual (+4% mensual), evidenciando que el impacto energético persiste y que las previsiones globales de inflación son excesivamente complacientes.",
+      "HSBC rebaja su recomendación sobre la renta variable global de comprar a neutral, recortando peso en oro y aumentando en petróleo.",
+      "Semana clave de resultados en EE. UU., donde presenta cuentas el 44,4% de la capitalización del S&P 500.",
+      "Las firmas del sector 'neo-cloud' sufren caídas tras las advertencias de Elon Musk de que muchas quebrarán o deberán fusionarse, mientras Meta planea cuantiosas emisiones de capital para financiar IA."
+    ],
+    "tesis_principal": "La incertidumbre política en Brasil y la persistente presión inflacionaria ligada a la energía añaden volatilidad y cautela a las bolsas, en una semana crítica por la avalancha de resultados corporativos en Wall Street.",
+    "temas": [
+      "Mercados emergentes",
+      "Inflación",
+      "Bolsa España",
+      "Bolsa EE. UU.",
+      "Energía y petróleo",
+      "Bonos y renta fija",
+      "Resultados empresariales",
+      "Tecnología e inteligencia artificial"
+    ],
+    "activos_mencionados": [
+      "iShares MSCI Brazil ETF (EWZ)",
+      "Real brasileño",
+      "Telefónica",
+      "Banco Santander",
+      "Mapfre",
+      "Bono francés a 10 años",
+      "Bono alemán a 10 años",
+      "S&P 500",
+      "CoreWeave",
+      "Bono estadounidense a 10 años",
+      "Meta",
+      "Petróleo",
+      "Oro"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Mercados emergentes",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Desplome de más del 25% en el ETF de acciones de Brasil y caída cercana al 10% en su divisa."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Fuerte rebote del IPP en España al 18,3% y advertencia de exceso de optimismo en las previsiones globales."
+      },
+      {
+        "tema": "Bolsa España",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Contagio negativo a valores con alta exposición en Brasil como Santander, Telefónica y Mapfre."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Afronta una semana crítica de resultados con el 44,4% del índice publicando y previsiones mixtas a corto plazo pero alcistas a fin de año."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Alivio temporal por la relajación de la rentabilidad y diferencial del bono francés, con el bono de EE. UU. en el 4,99%."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Advertencias de quiebras en empresas del sector y gran necesidad de capital en Meta para costear infraestructuras de IA."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Mike Wilson (Morgan Stanley) prevé que el S&P 500 podría corregir a corto plazo y luego rebotar con fuerza tras las elecciones hasta los 8.000 puntos a fin de año.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "A fin de año",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Muchas de las 200 empresas del sector de computación y nube quebrarán o se fusionarán para sobrevivir según Elon Musk.",
+        "activo_o_variable": "Empresas del sector neo-cloud",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF EWZ cae un 25,38% y el real brasileño se deprecia cerca del 10%.",
+      "El IPP en España salta del 13,2% al 18,3% interanual con un incremento mensual del 4%.",
+      "El 44,4% de la capitalización del S&P 500 publica resultados durante la semana en curso.",
+      "El bono francés a 10 años baja su rentabilidad al 4,97% (desde máximos de 5,1% la semana previa).",
+      "Tarifas de fletes petroleros disparadas a 650.000 dólares diarios y menor refinado de diésel por 3 millones de barriles diarios en Rusia y Oriente Medio.",
+      "Dato IFO de confianza empresarial en Alemania se sitúa en 90,2 frente a 90,0 estimado."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo político y de divisas en mercados emergentes (Brasil).",
+      "Inflación más persistente de lo descontado debido a costes energéticos.",
+      "Necesidades masivas de financiación y quiebras en empresas asociadas a infraestructura de IA.",
+      "Altos costes de transporte marítimo de crudo y déficit de refinado de diésel."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

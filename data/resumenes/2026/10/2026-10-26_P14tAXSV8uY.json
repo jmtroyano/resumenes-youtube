@@ -1,0 +1,111 @@
+{
+  "video_id": "P14tAXSV8uY",
+  "url": "https://www.youtube.com/watch?v=P14tAXSV8uY",
+  "titulo": "Brasil, España, Francia y China: Operación TACO.  José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-26T13:21:45+00:00",
+  "fecha_resumen": "2026-10-27T00:32:53.917531+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la coyuntura económica y de mercados, comenzando con una crítica al excesivo peso del gasto público y electoral de los mayores de 60 años en economías como la española y francesa. Examina la debilidad estructural de China, cuya economía enfrenta deflación y un riesgo similar a la década perdida japonesa, lo que impulsa a los ciudadanos chinos a comprar oro masivamente como refugio. Finalmente, analiza el sentimiento extremadamente negativo en las bolsas estadounidenses y prevé un rebote alcista de cara a las elecciones.",
+    "ideas_clave": [
+      "Identificación de trampas de mercado en análisis técnico: formación de nuevos máximos con volumen decreciente seguidos de caídas.",
+      "En España, los mayores de 60 años suponen el 40% del censo electoral, acumulan más del 53% de la riqueza y absorben el 45% del gasto social, viéndose beneficiados por subidas de tipos frente a los jóvenes.",
+      "El intervencionismo y gasto público en Europa alcanza niveles extremos, como Francia con un gasto público proyectado del 57% del PIB, superando incluso niveles históricos de la Unión Soviética.",
+      "China se encamina hacia una 'década perdida' similar a la de Japón, atrapada en deflación tras el pinchazo inmobiliario y con el bono a 10 años en el 1,5% frente al 5,5% de EE. UU.",
+      "La población china acude en masa a comprar oro físico ante el colapso del ladrillo y el bloqueo a la salida de capitales mediante criptomonedas.",
+      "Si China recurre a inyecciones masivas de liquidez para estimular su economía, la cotización del oro tenderá a subir significativamente a largo plazo.",
+      "El excesivo posicionamiento corto de los gestores y el miedo de los inversores minoristas refugiados en fondos monetarios abren la puerta a una subida contraria de las bolsas de cara a las elecciones en EE. UU."
+    ],
+    "tesis_principal": "El exceso de intervención estatal y el estancamiento deflacionario chino están reorientando los flujos hacia el oro, mientras que el extremo pesimismo y posicionamiento bajista en la renta variable anticipa un rebote alcista en las bolsas hacia las elecciones de EE. UU.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "China",
+      "Oro y metales",
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Inflación",
+      "Análisis técnico",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Bono del Tesoro de EE. UU. a 10 años",
+      "Bono soberano chino a 10 años",
+      "Criptomonedas"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Considera que el miedo extremo, las ventas y el exceso de posiciones cortas propiciarán un movimiento al alza hacia las elecciones."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "La demanda minorista china y la probable inyección de liquidez masiva para combatir la deflación impulsarán el precio del oro al alza."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Advierte de deflación, crisis inmobiliaria, deuda encubierta y una senda hacia una década perdida similar a la de Japón."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Critica el descontrol del gasto público y el intervencionismo estatal en países como Francia y España."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El miedo extremo y la capitulación de inversores deberían favorecer una subida de las bolsas hacia y después de las elecciones de noviembre.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "sube",
+        "horizonte": "semanas (noviembre)",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "China se dirige hacia una década perdida similar a la de Japón debido a presiones deflacionarias.",
+        "activo_o_variable": "Economía de China",
+        "direccion": "baja",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "A la larga, con la inyección masiva de liquidez necesaria en China, el oro debería subir.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El colectivo de más de 60 años en España representa el 40% del censo electoral, posee más del 53% de la riqueza y absorbe el 45% del gasto social.",
+      "El gasto público en Francia alcanzará el 57% del PIB en 2025, superando el 50% que tenía la Unión Soviética en 1989.",
+      "El rendimiento del bono estadounidense a 10 años ronda el 5,5% (PIB nominal en torno al 6%), mientras el bono chino a 10 años está en el 1,5%, reflejando deflación en China.",
+      "Afluencia masiva de compradores al mercado minorista de oro de Shuibei en Shenzhen tras las correcciones del precio del metal."
+    ],
+    "riesgos_mencionados": [
+      "Deflación estructural y burbuja de deuda oculta en China.",
+      "Trampas de mercado al marcar nuevos máximos con menor volumen negociado.",
+      "Exceso de endeudamiento del sector público y transferencias fiscales insostenibles entre generaciones.",
+      "Riesgo de retraso o falta de claridad en el recuento del resultado electoral en EE. UU."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
