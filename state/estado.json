@@ -498,28 +498,19 @@
   "zpdppZlj_Fs": "2026-10-25T23:24:20.861960+00:00",
   "WLki4jelUtE": "2026-10-26T20:40:14.703908+00:00",
   "P14tAXSV8uY": "2026-10-27T00:32:55.575343+00:00",
-  "taa4MvVnoTQ": "2026-10-27T00:36:44.480858+00:00"
+  "taa4MvVnoTQ": "2026-10-27T00:36:44.480858+00:00",
+  "X72SkXLsgUc": "2026-10-27T09:12:40.825642+00:00"
  },
  "cola": [
   {
-   "video_id": "-XDwrs2D3-w",
-   "titulo": "Musk habla de quiebras en neoclouds - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=-XDwrs2D3-w",
-   "publicado": "2026-10-26T07:59:08+00:00",
+   "video_id": "6EPuZXteGDI",
+   "titulo": "IA ¿cambia deuda por capital? -  Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=6EPuZXteGDI",
+   "publicado": "2026-10-27T07:55:54+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-26T13:11:56.622819+00:00"
-  },
-  {
-   "video_id": "X72SkXLsgUc",
-   "titulo": "Anthropic sale a bolsa y anima al mercado - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=X72SkXLsgUc",
-   "publicado": "2026-10-26T16:35:56+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-26T20:33:22.019151+00:00"
+   "intentos": 1,
+   "en_cola_desde": "2026-10-27T09:05:50.416078+00:00"
   }
  ],
  "fallidos": {
@@ -530,7 +521,8 @@
   "4OrTgls31-4": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "5ObAsIpyrog": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "Es7wLR-CMmA": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "nFhOzswoVrw": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "nFhOzswoVrw": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "-XDwrs2D3-w": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
