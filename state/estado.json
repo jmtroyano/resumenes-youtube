@@ -507,7 +507,18 @@
   "A6xfj2bvI8A": "2026-10-28T05:52:01.597408+00:00",
   "6EPuZXteGDI": "2026-10-28T05:53:15.686009+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "HhuhcGOnAnA",
+   "titulo": "Corea anima tecnología pero en mercado dividido - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=HhuhcGOnAnA",
+   "publicado": "2026-10-28T08:00:08+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-28T13:03:31.862815+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
