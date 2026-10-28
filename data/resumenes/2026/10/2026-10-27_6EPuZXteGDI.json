@@ -1,0 +1,120 @@
+{
+  "video_id": "6EPuZXteGDI",
+  "url": "https://www.youtube.com/watch?v=6EPuZXteGDI",
+  "titulo": "IA ¿cambia deuda por capital? -  Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-27T07:55:54+00:00",
+  "fecha_resumen": "2026-10-28T05:53:14.121241+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la creencia errónea del mercado de que la inteligencia artificial se financiará únicamente vía ampliaciones de capital y no con deuda, señalando macrooperaciones bancarias recientes como la de Broadcom. Asimismo, revisa la estacionalidad electoral en EE. UU., destacando que a 12 meses vista de las elecciones de medio término el S&P 500 siempre ha subido con independencia de la composición política del Congreso, aunque a corto plazo sí hay diferencias. Por último, repasa los niveles técnicos del S&P 500, Bitcoin y el petróleo, subrayando un mercado bursátil actualmente lateral y encajado en un rango estrecho.",
+    "ideas_clave": [
+      "La financiación de la inteligencia artificial sigue demandando enormes volúmenes de deuda, como demuestra la operación estructurada de 60.000 millones de dólares de Broadcom con cuatro grandes entidades bancarias.",
+      "El éxito continuado de modelos como OpenAI y Anthropic resulta crucial, ya que un fallo en sus modelos de negocio provocaría un efecto dominó sobre todo el ecosistema de la IA.",
+      "Los inversores minoristas no están fuera del mercado ni son pesimistas, concentrando el 61% del volumen total negociado en opciones financieras según datos de The Kobeissi Letter.",
+      "Históricamente, el S&P 500 ha cerrado en positivo en el 100% de las ocasiones (20 de 20) doce meses después de las elecciones de medio término desde 1946, con una subida media en torno al 14,8% - 14,9%.",
+      "A 12 meses vista, el control partidista de las cámaras del Congreso de EE. UU. apenas genera una diferencia de 0,7 puntos en la rentabilidad del S&P 500, aunque a 3 y 6 meses el comportamiento sí varía sensiblemente.",
+      "El S&P 500 cotiza en una franja lateral delimitada por una fuerte resistencia técnica y cuantitativa en 7.850-7.900 (con 8.000 como barrera psicológica) y un sólido soporte entre 7.500 y 7.600."
+    ],
+    "tesis_principal": "El apetito por deuda en el sector de la inteligencia artificial continúa intacto a pesar de las salidas a bolsa y emisiones de capital, mientras que las bolsas se encuentran en un rango lateral a la espera de catalizadores, respaldadas a largo plazo por una estacionalidad electoral post-midterms históricamente infalible.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Criptomonedas",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Bitcoin",
+      "Oro",
+      "Petróleo",
+      "Bono EE. UU. a 10 años",
+      "EUR/USD",
+      "USD/JPY",
+      "Broadcom",
+      "Anthropic",
+      "Meta"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "A pesar de la euforia inversora, advierte del riesgo sistémico que supondría si empresas clave como Anthropic u OpenAI no logran rentabilizar sus masivos costes de deuda y capital."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.05,
+        "justificacion": "El mercado se encuentra atrapado en un rango lateral técnico a corto plazo, aunque respaldado por estadísticas electorales positivas a 12 meses."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El rendimiento del bono a 10 años estadounidense permanece estable y estancado cerca del 4,98% sin señales de ruptura técnica."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El crudo cotiza plano en torno a los 102 dólares ante la falta de credibilidad sobre un acuerdo inminente para la reapertura definitiva de Ormuz."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.25,
+        "justificacion": "Bitcoin muestra debilidad al situarse por debajo de su media de 50 sesiones y perder tracción dentro de su rango lateral."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La inteligencia artificial provocará que el PCE subyacente en EE. UU. suba 0,5 puntos más de lo previsto, según estimaciones de Goldman Sachs.",
+        "activo_o_variable": "PCE subyacente de EE. UU.",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Los algoritmos de los CTA pasarían de posiciones cortas a largas a medio plazo en bonos estadounidenses si el rendimiento del bono a 10 años pierde el 4,85%.",
+        "activo_o_variable": "Bono de EE. UU. a 10 años",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Operación estructurada de Broadcom con Bank of America, Blackstone, Citi y Morgan Stanley por valor cercano a 60.000 millones de dólares para adquirir y alquilar aceleradores a Anthropic.",
+      "El volumen de negociación de opciones por parte de inversores minoristas representa el 61% del total del mercado según datos de Citadel Securities y The Kobeissi Letter.",
+      "Desde 1946, en 20 de 20 elecciones de medio término el S&P 500 ha subido 12 meses después, con un rendimiento mínimo de +2,0% (1986) y un máximo de +33,0% (1954).",
+      "A 12 meses vista tras las midterms con presidente republicano, el S&P 500 sube en promedio un 14,9% con republicanos en ambas cámaras, un 15,5% con Congreso dividido y un 14,8% con demócratas en ambas cámaras.",
+      "A 3 meses de las midterms, el S&P 500 sube un 10,3% si los demócratas controlan ambas cámaras, sube un 1,1% si la Cámara es demócrata y el Senado republicano, y cae un 8,4% si los republicanos mantienen ambas cámaras.",
+      "Niveles técnicos del S&P 500: zona de soporte clave entre 7.500 y 7.600 (media de 100 en 7.600) y resistencia densa entre 7.850 y 7.900, con la barrera psicológica de 8.000 puntos por encima."
+    ],
+    "riesgos_mencionados": [
+      "Deterioro financiero o quiebra de Anthropic u OpenAI, lo que derrumbaría el entramado de crédito e inversiones en torno a la IA.",
+      "Impacto inflacionario de la alta demanda de suministros tecnológicos y centros de datos para IA sobre los índices de precios al consumidor.",
+      "Ruptura a la baja del soporte de 75.900 y 73.000 dólares en Bitcoin, lo que agravaría su sesgo bajista.",
+      "Falso optimismo geopolítico en torno al estrecho de Ormuz que no termine materializándose en una reducción real del riesgo sobre el petróleo."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

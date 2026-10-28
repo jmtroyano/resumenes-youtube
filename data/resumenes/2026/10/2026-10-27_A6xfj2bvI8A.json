@@ -1,0 +1,113 @@
+{
+  "video_id": "A6xfj2bvI8A",
+  "url": "https://www.youtube.com/watch?v=A6xfj2bvI8A",
+  "titulo": "Semis rebotan desde media 200 - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-27T13:07:05+00:00",
+  "fecha_resumen": "2026-10-28T05:51:59.470823+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los mercados se han dado la vuelta al alza a media sesión impulsados por el sector tecnológico y una caída en el precio del petróleo. Técnicamente, el ETF de semiconductores (SMH) rebota tras apoyarse en la media de 200 sesiones con una figura de estrella del amanecer, arrastrando al resto de la tecnología. Por su parte, el crudo cede ante rumores confusos sobre la disposición de Irán a negociar antes de las elecciones estadounidenses. En contraste con la subida general, los sectores automotriz y bancario en Europa sufren caídas relevantes tras los resultados de Mercedes y HSBC.",
+    "ideas_clave": [
+      "El rebote de las bolsas no responde a una gran noticia concreta, sino al arrastre técnico de los semiconductores y al alivio geopolítico reflejado en el petróleo.",
+      "Meta planea una oferta de 25.000 millones de dólares en acciones a 625 dólares y 12.500 millones en preferentes al 6,5%, con Nvidia comprometiéndose a comprar 3.000 millones de la ampliación.",
+      "El ETF de semiconductores (SMH) sube un 1,02% y rebota sobre la media de 200 días formando una estrella del amanecer, sirviendo de motor técnico para el resto del mercado.",
+      "Cárpatos se muestra escéptico con la euforia de la IA y considera que las dudas sobre la financiación y el retorno del gasto persistirán.",
+      "El petróleo cae un 0,76% hasta 100,99 dólares ante especulaciones de que Irán busque la paz o negociaciones para evitar represalias de EE. UU. tras las elecciones.",
+      "En el frente macroeconómico de EE. UU., el empleo ADP muestra 16.750 puestos semanales (solidez laboral) y los pedidos de bienes duraderos quedan en +0,5% frente al +0,6% esperado.",
+      "En Europa, el sector automotriz cae un 0,98% tras el recorte de previsiones de Mercedes, y el bancario baja un 0,75% por el desplome de HSBC."
+    ],
+    "tesis_principal": "El giro alcista del mercado a media sesión está sustentado en un rebote técnico de los semiconductores en su media de 200 y en la caída del petróleo por rumores geopolíticos, más que en un retorno genuino de la confianza ciega en la inteligencia artificial.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Resultados empresariales",
+      "Empleo",
+      "Bolsa Europa",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "VanEck Semiconductor ETF (SMH)",
+      "Meta Platforms",
+      "Nvidia",
+      "Anthropic",
+      "Petróleo Light Crude",
+      "Mercedes-Benz",
+      "HSBC",
+      "Coca-Cola",
+      "Bono francés a 10 años",
+      "S&P 500",
+      "Russell 2000",
+      "DAX"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El sector rebota técnicamente sobre la media de 200 sesiones impulsando a la tecnología."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "A pesar de las noticias corporativas de Meta y Nvidia, el autor duda de que se haya recuperado la confianza ciega y advierte dudas de financiación."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El crudo cae ante declaraciones y rumores sobre posibles vías diplomáticas con Irán."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Sectores clave como automoción y bancos sufren caídas claras por decepción en resultados empresariales."
+      },
+      {
+        "tema": "Empleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "El dato de empleo ADP privado no refleja problemas en el mercado laboral estadounidense."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las dudas sobre la financiación y rentabilidad de la inteligencia artificial van a continuar en el mercado.",
+        "activo_o_variable": "Tecnología e inteligencia artificial",
+        "direccion": "lateral",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Meta plantea emitir 25.000 millones de dólares a 625 dólares por acción y 12.500 millones en preferentes al 6,50% de cupón.",
+      "Nvidia prevé invertir 3.000 millones de dólares en la ampliación de capital de Meta.",
+      "El ETF de semiconductores (SMH) sube un 1,02% rebotando en su media móvil simple de 200 días con un patrón de estrella del amanecer.",
+      "El crudo ligero baja un 0,76% situándose en 100,99 dólares por barril.",
+      "Creación de empleo semanal ADP en EE. UU. en 16.750 puestos frente a 17.500 previos.",
+      "Pedidos de bienes duraderos en EE. UU. suben un 0,5% frente al 0,6% previsto.",
+      "Caída del sector automotriz europeo del 0,98% por advertencia de beneficios de Mercedes y del sector bancario del 0,75% por HSBC."
+    ],
+    "riesgos_mencionados": [
+      "Dudas sobre la sostenibilidad financiera del gasto masivo en infraestructuras de inteligencia artificial.",
+      "Riesgo de escalada militar de EE. UU. contra Irán tras las elecciones presidenciales.",
+      "Deterioro de beneficios y márgenes empresariales en Europa evidenciado por Mercedes y HSBC."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
