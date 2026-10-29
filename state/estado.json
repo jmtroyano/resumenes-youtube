@@ -521,16 +521,6 @@
    "en_cola_desde": "2026-10-28T13:03:31.862815+00:00"
   },
   {
-   "video_id": "KKK_6L1Cyq0",
-   "titulo": "Heredar Bitcoin Puede Convertirse en una Pesadilla si NO Haces Esto",
-   "url": "https://www.youtube.com/watch?v=KKK_6L1Cyq0",
-   "publicado": "2026-10-28T19:00:18+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
-  },
-  {
    "video_id": "cPA7vMZdNnY",
    "titulo": "Modelo 721: Lo que Debes Saber si Tienes Criptomonedas",
    "url": "https://www.youtube.com/watch?v=cPA7vMZdNnY",
@@ -547,7 +537,7 @@
    "publicado": "2026-10-28T15:45:24+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
+   "intentos": 1,
    "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
   },
   {
@@ -561,14 +551,14 @@
    "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
   },
   {
-   "video_id": "Tq5QnM5bwbk",
-   "titulo": "Tengo Miedo y RABIA: Pensiones, Anthropic y Nasdaq | José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=Tq5QnM5bwbk",
-   "publicado": "2026-10-28T13:07:48+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
+   "video_id": "2mZOSIXCcx8",
+   "titulo": "Google  10% tras resultados enfría los ánimos - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=2mZOSIXCcx8",
+   "publicado": "2026-10-29T08:08:20+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-29T10:05:07.112394+00:00"
   }
  ],
  "fallidos": {
@@ -581,7 +571,9 @@
   "Es7wLR-CMmA": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "nFhOzswoVrw": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "-XDwrs2D3-w": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "3wGpp2cBM_A": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "3wGpp2cBM_A": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "KKK_6L1Cyq0": "The read operation timed out",
+  "Tq5QnM5bwbk": "Server disconnected without sending a response."
  },
  "aviso_config": null
 }
