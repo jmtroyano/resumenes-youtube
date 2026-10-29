@@ -1,0 +1,134 @@
+{
+  "video_id": "zjx3dL8PFLU",
+  "url": "https://www.youtube.com/watch?v=zjx3dL8PFLU",
+  "titulo": "A la espera de la FED, Microsoft y Google - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-28T17:25:22+00:00",
+  "fecha_resumen": "2026-10-29T01:09:34.369014+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado opera en compás de espera ante la inminente decisión de tipos de la Reserva Federal y la publicación de resultados de Microsoft y Alphabet. Charlie McElligott de Nomura destaca el rebote de la temática de inteligencia artificial y la relajación de la volatilidad, aunque Cárpatos se muestra escéptico ante los elevados niveles de los CDS de las grandes tecnológicas. Por su parte, el crudo repunta con fuerza por tensiones en Oriente Medio e inventarios desfavorables, mientras que el Ibex 35 retrocede lastrado por el desplome de Banco Santander.",
+    "ideas_clave": [
+      "McElligott (Nomura) afirma que el mercado respira aliviado con el rebote del sector de semiconductores e inteligencia artificial tras datos de Anthropic y SK Hynix, pero Cárpatos advierte de que el riesgo crediticio (CDS) de hyperscalers sigue en niveles máximos.",
+      "Los hedge funds presentan una exposición récord a los '7 Magníficos' (percentil 97), mientras que los fondos tradicionales se encuentran en el percentil 11 por limitaciones de diversificación.",
+      "El mercado de opciones descuenta una volatilidad inusualmente reducida para la reunión de la Fed, estimando un movimiento de apenas +/- 0,5% en los índices.",
+      "El sector de semiconductores y memoria repunta con fuerza (ETF de memoria +5%, Micron >+4%) apoyado en un rebote técnico sobre la media de 200 sesiones.",
+      "Ryan Detrick resalta una figura técnica de 'sopera' de vuelta alcista de dos años en el ETF de software equiponderado (XSW) al borde de romper resistencias clave.",
+      "El petróleo sube con violencia por encima de los 103 dólares (+3,5%) ante ataques a refinerías en Arabia Saudí, tensiones con Irán e inventarios con fuerte caída en destilados.",
+      "El Ibex 35 cae más del 1,5% arrastrado por Banco Santander (-5,66%), que pierde su media de 200 sesiones tras presentar resultados y sufrir por su exposición a Brasil."
+    ],
+    "tesis_principal": "El mercado experimenta un alivio técnico y una tregua en el sector tecnológico a la espera de catalizadores decisivos (reunión de la Fed y cuentas de Microsoft y Alphabet), pero persisten señales de alerta como la escalada del petróleo, el encarecimiento de los CDS y la debilidad del mercado amplio.",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Resultados empresariales",
+      "Energía y petróleo",
+      "Bolsa EE. UU.",
+      "Bolsa España",
+      "Análisis técnico",
+      "Bonos y renta fija",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Ibex 35",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Russell 2000",
+      "RSP (Invesco S&P 500 Equal Weight ETF)",
+      "XSW (SPDR S&P Software & Services ETF)",
+      "SMH (VanEck Semiconductor ETF)",
+      "DRAM (Roundhill Memory ETF)",
+      "Petróleo West Texas (Light Crude)",
+      "Oro",
+      "Bitcoin",
+      "Bono EE. UU. 10 años",
+      "Banco Santander",
+      "Microsoft",
+      "Alphabet",
+      "SK Hynix",
+      "Anthropic",
+      "Tesla",
+      "Meta",
+      "Oracle",
+      "SpaceX",
+      "Broadcom"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Existe optimismo por la rentabilidad reportada por Anthropic y compras de opciones 'call', pero los CDS de deuda de las grandes tecnológicas continúan en niveles alarmantemente altos."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Fuertes subidas tras las cuentas de SK Hynix y rebote técnico confirmado desde la media de 200 sesiones con pauta de estrella del amanecer."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Fuerte subida del crudo superando los 103 dólares debido a incidentes bélicos en Oriente Medio y un drenaje acusado de inventarios de diésel."
+      },
+      {
+        "tema": "Bolsa España",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El Ibex 35 cae con fuerza por el castigo del 5,66% a Santander tras sus resultados, perdiendo su media móvil de 200 sesiones."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El S&P 500 se mantiene encallado en un rango lateral estricto a la espera de las decisiones de la Fed y los resultados de las grandes tecnológicas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "UBS establece un precio objetivo para el S&P 500 de 8.400 puntos para mediados de junio.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "mediados de junio",
+        "conviccion_del_autor": "baja"
+      },
+      {
+        "afirmacion": "Si el ETF de software equiponderado (XSW) confirma la ruptura de la resistencia de la figura de sopera tras un eventual 'pullback', presentará un enorme potencial alcista.",
+        "activo_o_variable": "XSW (ETF de software)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de memoria DRAM sube más de un 5% y Micron avanza por encima del 4% impulsados por los resultados de SK Hynix.",
+      "Anthropic declara en su folleto generar 2,08 dólares de ingresos por cada dólar invertido en computación, frente a 0,57 dólares hace un año.",
+      "Los hedge funds long/short acumulan una exposición percentil 97 en los 7 Magníficos, frente al percentil 11 de los fondos tradicionales.",
+      "El Banco Santander cae un 5,66% arrastrando al Ibex 35 y perdiendo la media de 200 sesiones por primera vez desde 2024.",
+      "El crudo sube un 3,5% hasta los 103,4 dólares por barril tras caídas en inventarios de crudo y destilados y tensión con Irán.",
+      "El Banco Central de Canadá elevó sus tipos de interés de 2,25% a 2,50%, su primera subida desde el verano de 2023."
+    ],
+    "riesgos_mencionados": [
+      "Escalada bélica en Oriente Medio con potenciales ataques a refinerías e intervención de Estados Unidos contra Irán.",
+      "Inestabilidad o decepción en los resultados trimestrales de Microsoft y Alphabet tras el cierre del mercado.",
+      "Riesgo de liquidez y desapalancamiento en estrategias cuantitativas (CTA y carry trade) según Nomura.",
+      "Niveles excesivos de apalancamiento y emisión de deuda en hyperscalers reflejados en el encarecimiento de sus CDS."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

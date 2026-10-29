@@ -1,0 +1,121 @@
+{
+  "video_id": "fWCDk7BtXL4",
+  "url": "https://www.youtube.com/watch?v=fWCDk7BtXL4",
+  "titulo": "La Crisis Del Petróleo Pone A Prueba a Trump",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-28T18:30:00+00:00",
+  "fecha_resumen": "2026-10-29T01:07:18.822594+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo analiza la crisis geopolítica y del petróleo vinculada al conflicto con Irán y el estrecho de Ormuz, contrastando la actuación del presidente Donald Trump con las reglas de negociación de su libro 'The Art of the Deal'. A través de cinco de estas reglas, se extraen lecciones prácticas para inversores sobre el margen de seguridad, la gestión de costes y la paciencia temporal. Finalmente, se advierte sobre las presiones inflacionarias del crudo y la elevada valoración de la bolsa estadounidense frente a la renta fija.",
+    "ideas_clave": [
+      "No actuar como un vendedor desesperado en bolsa: contar con un colchón de liquidez y no invertir dinero necesario a corto plazo evita malvender en caídas.",
+      "El impacto de la energía y el diésel (que alcanzó 6,53 $/galón en EE. UU.) genera efectos de segunda ronda que alimentan la inflación general.",
+      "En bolsa, la mayor ventaja competitiva del inversor particular es el horizonte temporal; regalar el calendario o precipitarse traslada la prima a quien tiene paciencia.",
+      "Los mercados se guían por precios y no por titulares o discursos políticos: el bono estadounidense a 10 años escaló al 5,34% ante las dudas sobre la deuda pública.",
+      "Nadie puede derrotar permanentemente al mercado ni fijar precios artificiales: el intento del Tesoro de recomprar bonos llevó el rendimiento del bono a 30 años al 5,69%.",
+      "El petróleo por encima de 100 $ no se considera sostenible a largo plazo por el debilitamiento de la demanda china y descuentos aplicados por productores del Golfo, previéndose una normalización gradual.",
+      "La prima de riesgo del S&P 500 frente al bono a 10 años se sitúa en terreno negativo (-1,27 puntos), una carestía del mercado general no vista desde el año 2000 que exige selección individual de acciones ('stock picking')."
+    ],
+    "tesis_principal": "Las reglas clásicas de negociación expuestas por Trump ilustran que los mercados no responden a narrativas políticas sino a realidades de precios y costes, por lo que el inversor debe protegerse de la inflación, operar con margen de seguridad y ser selectivo ante una bolsa cara frente a los altos rendimientos de la deuda.",
+    "temas": [
+      "Energía y petróleo",
+      "Geopolítica",
+      "Inflación",
+      "Bonos y renta fija",
+      "Deuda pública y déficit",
+      "Bolsa EE. UU.",
+      "Valoración de mercado y burbujas",
+      "Finanzas personales"
+    ],
+    "activos_mencionados": [
+      "Petróleo Brent",
+      "Diésel",
+      "Bono de EE. UU. a 10 años",
+      "Bono de EE. UU. a 30 años",
+      "S&P 500"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Aunque el crudo cotiza con prima de miedo entre 112 $ y 114 $, se proyecta una normalización a la baja al no ser sostenible a largo plazo por encima de 100 $."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los altos costes del combustible y del diésel se trasladan al transporte y encarecen la cesta general de la economía."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La desconfianza ante el volumen de deuda pública de más de 40 billones presiona las rentabilidades de los bonos al alza (5,34% en el 10 años)."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "La prima de riesgo de la renta variable frente a la renta fija es negativa (-1,27%), señalando que comprar el índice en su conjunto resulta caro y poco rentable."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El conflicto con Irán y las tensiones en el estrecho de Ormuz mantienen el tráfico restringido y una elevada incertidumbre."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El precio del petróleo no se mantendrá por encima de 100 dólares de forma consistente durante los próximos 5 años y tenderá a normalizarse a la baja.",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "baja",
+        "horizonte": "5 años",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Morgan Stanley prevé que el barril de Brent se sitúe en torno a 105 dólares en el cuarto trimestre.",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "baja",
+        "horizonte": "cuarto trimestre",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El barril de Brent llegó a tocar los 112-114 dólares y el contrato a un año se mantiene sobre los 95 dólares.",
+      "El tráfico por el estrecho de Ormuz cayó a unos 11,6 millones de barriles diarios frente a los más de 17 millones habituales.",
+      "El precio del diésel en Estados Unidos alcanzó un récord de 6,53 dólares el galón.",
+      "La deuda pública de Estados Unidos supera los 40 billones de dólares, generando un coste anual solo en intereses superior a 1 billón.",
+      "El rendimiento del bono estadounidense a 10 años subió al 5,34%, su nivel más alto desde 2002.",
+      "El rendimiento del bono a 30 años aumentó del 5,25% al 5,69% tras intervenciones fallidas del Tesoro.",
+      "Arabia Saudí amplió el descuento del crudo hacia Asia a 5 dólares para noviembre frente a 3 dólares en octubre, reflejando menor demanda.",
+      "La prima de la bolsa estadounidense frente al bono a 10 años cayó a -1,27 puntos porcentuales, nivel no observado desde el año 2000."
+    ],
+    "riesgos_mencionados": [
+      "Escalada bélica continuada y ataques persistentes a petroleros en el estrecho de Ormuz.",
+      "Repunte inflacionario severo impulsado por el encarecimiento sostenido de los carburantes.",
+      "Descontrol del déficit y de la carga de intereses de la deuda pública estadounidense.",
+      "Pérdida de valor adquisitivo del efectivo y de los activos monetarios sin protección frente a la inflación.",
+      "Valoración excesiva del índice S&P 500 frente a la rentabilidad libre de riesgo de la renta fija."
+    ],
+    "participantes": [
+      "Presentador de Los Locos de Wall Street",
+      "Albert Millán (mencionado, LWS Financial Research)",
+      "Donald Trump (citado)",
+      "Scott Bessent (citado)",
+      "Chris Wright (citado)",
+      "Kevin Hassett (citado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
