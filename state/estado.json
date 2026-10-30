@@ -518,7 +518,8 @@
   "Nyc63JGhllU": "2026-10-30T10:19:41.947127+00:00",
   "91SL2W3S6uM": "2026-10-30T18:09:06.402185+00:00",
   "r0Jq0-8w_Jg": "2026-10-30T18:14:26.704698+00:00",
-  "FonAxIgUBck": "2026-10-30T18:15:50.266135+00:00"
+  "FonAxIgUBck": "2026-10-30T18:15:50.266135+00:00",
+  "hVUaThubd4s": "2026-10-30T22:29:42.153088+00:00"
  },
  "cola": [
   {
@@ -528,7 +529,7 @@
    "publicado": "2026-10-28T08:00:08+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-28T13:03:31.862815+00:00"
   },
   {
@@ -538,7 +539,7 @@
    "publicado": "2026-10-30T16:24:33+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-10-30T18:03:01.163538+00:00"
   }
  ],
