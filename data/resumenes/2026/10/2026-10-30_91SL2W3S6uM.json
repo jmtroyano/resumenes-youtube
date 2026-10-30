@@ -1,0 +1,123 @@
+{
+  "video_id": "91SL2W3S6uM",
+  "url": "https://www.youtube.com/watch?v=91SL2W3S6uM",
+  "titulo": "YA han ATRAPADO a los últimos. KEVIN INYECTARÁ LIQUIDEZ. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-30T12:23:18+00:00",
+  "fecha_resumen": "2026-10-30T18:09:04.974046+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava compara la situación macro y monetaria actual con el crash de 1929, argumentando que el factor determinante de los mercados no son los tipos de interés sino la liquidez. Sostiene que la Reserva Federal se verá forzada a inyectar liquidez para permitir la refinanciación de la masiva deuda pública estadounidense y financiar el gasto de los hiperescaladores de inteligencia artificial. En el plano técnico, explica que la corrección prevista se ha desplazado en el tiempo y anticipa que, tras un último latigazo bajista para barrer los stops restantes, se producirá un rebote hacia las elecciones.",
+    "ideas_clave": [
+      "En 1929 la Fed subió tipos y drenó liquidez provocando una caída del 40%; al bajar tipos rebotó un 80% en seis meses por barrido de stops, pero al no inyectar liquidez el mercado cayó hasta 1932.",
+      "La verdadera función actual de la Reserva Federal no es el mandato dual de empleo e inflación, sino garantizar la refinanciación de la gigantesca deuda pública de EE. UU.",
+      "Los gigantes tecnológicos e hiperescaladores de inteligencia artificial están experimentando escasez de liquidez, lo que ha presionado a la baja al Nasdaq y al ETF de los Siete Magníficos.",
+      "El ciclo previsto de corrección tras el vencimiento de opciones de septiembre se retrasó ligeramente, pero se está ejecutando ahora con barridos de liquidez falsos al alza antes de las caídas.",
+      "En el ETF de los Siete Magníficos (MAGS) se ejecutó una trampa alcista sobre 73,46 y busca apoyo en la zona de soporte clave de 66,62 para limpiar stops.",
+      "El ETF del Nasdaq 100 (QQQ) tiene soporte relevante en torno a los mínimos del 16 de septiembre cerca del nivel de 499-500 (mencionado como 699,25/700 según el gráfico mostrado).",
+      "El sentimiento del mercado se encuentra en zona de miedo (Fear & Greed en 35), lo que suele preceder a suelos de mercado tras un latigazo final."
+    ],
+    "tesis_principal": "La escasez de liquidez provocada por las masivas necesidades de refinanciación de deuda pública y la inversión en IA está forzando una corrección técnica en Wall Street, pero la Fed inevitablemente inyectará liquidez, permitiendo un suelo inminente y un rebote de cara a las elecciones antes de nuevas caídas.",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Bolsa EE. UU.",
+      "Liquidez y crédito",
+      "Deuda pública y déficit",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Roundhill Magnificent Seven ETF (MAGS)",
+      "Invesco QQQ Trust (QQQ)",
+      "Oro",
+      "Franco suizo (CHF)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Considera que la Fed se verá obligada a suministrar liquidez al sistema para asegurar la refinanciación de la deuda."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Espera un latigazo bajista final a corto plazo para barrer liquidez, seguido de un rebote técnico hacia las elecciones y posterior incertidumbre."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Aunque hay tensión de liquidez a corto plazo, predice que los bancos centrales tendrán que inyectar liquidez de forma masiva."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Señala que a las empresas de IA les falta liquidez y están corrigiendo, aunque están cerca de zonas de soporte clave."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Alerta sobre el volumen insostenible de deuda pública que absorbe toda la liquidez del mercado privado."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal tendrá que inyectar liquidez al sistema para refinanciar la deuda pública estadounidense.",
+        "activo_o_variable": "Liquidez de la Reserva Federal",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El ETF de los Siete Magníficos (MAGS) barrerá la zona de soporte en torno a 66,62 antes de rebotar.",
+        "activo_o_variable": "ETF MAGS",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El mercado de valores experimentará un rebote significativo de cara a las elecciones estadounidenses tras completar la limpieza de stops.",
+        "activo_o_variable": "Bolsa EE. UU. (Nasdaq / S&P 500)",
+        "direccion": "sube",
+        "horizonte": "semanas (hasta elecciones)",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Tras las elecciones estadounidenses comenzará un periodo de fuertes caídas e incertidumbre.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "baja",
+        "horizonte": "medio plazo (a partir de noviembre)",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En 1929 las bolsas se desplomaron un 40% por subida de tipos y contracción de liquidez; el rebote posterior fue de cerca del 80% en 6 meses hasta 1930.",
+      "El crecimiento nominal de la economía estadounidense ronda actualmente el 6,5%.",
+      "El ETF Roundhill Magnificent Seven (MAGS) rebotó desde mínimos de 66,5 en agosto hasta marcar un escape en falso en 73,46 el 22 de septiembre.",
+      "El indicador CNN Fear & Greed Index se sitúa en 35 puntos (miedo)."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida definitiva del soporte de 66,62 en el ETF de los Siete Magníficos, lo que indicaría problemas estructurales más graves en la economía.",
+      "Persistencia de la contracción de liquidez que desemboque en una crisis mayor o reset financiero.",
+      "Fuerte volatilidad y caídas tras las elecciones presidenciales de Estados Unidos."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

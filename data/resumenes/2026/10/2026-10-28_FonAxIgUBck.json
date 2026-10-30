@@ -1,0 +1,102 @@
+{
+  "video_id": "FonAxIgUBck",
+  "url": "https://www.youtube.com/watch?v=FonAxIgUBck",
+  "titulo": "Rebote de baja calidad - Media sesión  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-28T12:55:40+00:00",
+  "fecha_resumen": "2026-10-30T18:15:48.872463+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado experimenta un rebote caracterizado por activos de menor calidad, como tecnológicas no rentables y acciones muy vendidas en corto, mientras el S&P 500 ponderado por igual supera al índice ponderado por capitalización. La renta variable cotiza con calma tensa a la espera de los resultados clave de Microsoft y Alphabet, así como de la reunión de la Reserva Federal. En Europa destaca la divergencia en el sector bancario tras los resultados empresariales, mientras que el petróleo repunta con fuerza ante el rechazo iraní a un plan de paz y la incertidumbre geopolítica en Oriente Medio.",
+    "ideas_clave": [
+      "El rebote reciente en el mercado estadounidense es considerado de 'baja calidad', impulsado principalmente por semiconductores, empresas tecnológicas sin beneficios y valores con altas posiciones cortas.",
+      "Desde el 30 de septiembre, el S&P 500 de igual ponderación (acción promedio) acumula una subida cercana al 5%, superando con holgura al S&P 500 tradicional.",
+      "Máxima expectación ante la publicación de resultados de Microsoft (situada un 4,17% por encima de su media de 50) y Alphabet (un 6,40% por debajo de su media de 50).",
+      "El sectorial bancario europeo muestra gran dispersión: caídas notables en Banco Santander y UBS tras resultados, frente a subidas en Deutsche Bank y Standard Chartered.",
+      "El sector de semiconductores continúa siendo el soporte clave del sector tecnológico al rebotar en torno a su media móvil de 200 sesiones.",
+      "El petróleo registra un alza superior al 2% (superando los 102 dólares) tras rechazar Irán la propuesta de paz de Qatar y persistir la tensión sobre posibles daños de los hutíes a refinerías en Arabia Saudí."
+    ],
+    "tesis_principal": "El rebote actual del mercado presenta signos de debilidad al estar liderado por valores de baja calidad y alta especulación, manteniéndose en vilo ante los resultados de las grandes tecnológicas y las tensiones geopolíticas que impulsan el crudo.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Resultados empresariales",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Bancos"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "S&P 500 Equal Weight",
+      "SOX",
+      "SMH",
+      "Russell 2000",
+      "Dow Jones",
+      "Microsoft",
+      "Alphabet",
+      "Google",
+      "Tesla",
+      "Banco Santander",
+      "UBS",
+      "Deutsche Bank",
+      "Standard Chartered",
+      "SK Hynix",
+      "Micron Technology",
+      "Petróleo Crudo Light"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Avisa de que el rebote está liderado por valores con muchos cortos y tecnológicas no rentables, lo que denota poca calidad estructural."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Considera decisivo el rebote técnico desde la media móvil de 200 sesiones."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "El crudo experimenta subidas superiores al 2% alimentado por el fracaso de negociaciones de paz e incidentes bélicos."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Los mercados esperan con cautela las cifras de gigantes como Alphabet y Microsoft, con reacciones mixtas en la banca europea."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "El S&P 500 equal weighted ha subido cerca de un 5% desde el 30 de septiembre, batiendo claramente al índice estándar.",
+      "Tesla cotiza un 11,29% por encima de su media de 50 sesiones, mientras que Alphabet se encuentra un 6,40% por debajo.",
+      "El ETF de semiconductores (SMH) sube un 0,91% defendiendo la media de 200 sesiones.",
+      "Micron avanza un 4% tras el cierre alcista de la surcoreana SK Hynix.",
+      "El petróleo cotiza sobre los 102,04 dólares con una subida diaria del 2,16%."
+    ],
+    "riesgos_mencionados": [
+      "Rebote técnico frágil apoyado en empresas no rentables y cierre de cortos.",
+      "Volatilidad ante la publicación de resultados de Microsoft y Alphabet.",
+      "Escalada bélica en Oriente Medio y potenciales ataques a refinerías de Arabia Saudí (Ras Tanura) por parte de rebeldes hutíes.",
+      "Ruptura de negociaciones diplomáticas entre Catar e Irán."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

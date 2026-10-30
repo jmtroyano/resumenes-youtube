@@ -1,0 +1,121 @@
+{
+  "video_id": "r0Jq0-8w_Jg",
+  "url": "https://www.youtube.com/watch?v=r0Jq0-8w_Jg",
+  "titulo": "Brutal desplome de Intel del 25% - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-30T11:30:25+00:00",
+  "fecha_resumen": "2026-10-30T18:14:25.311907+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El sector tecnológico experimenta fuertes caídas encabezadas por los desplomes de Intel y Amazon tras sus resultados trimestrales, arrastrando al Nasdaq y a los semiconductores. A pesar de esto, el mercado general muestra resistencia mediante una rotación hacia sectores defensivos y tradicionales. Al mismo tiempo, repuntan las presiones inflacionarias en Europa, el petróleo sube por tensiones con Irán en Ormuz, y se aproxima la pauta estacional alcista del 'efecto Halloween'.",
+    "ideas_clave": [
+      "Intel se desploma entre un 25% y un 27%, camino de su peor jornada bursátil desde 1974, mientras Amazon cae cerca de un 7% tras presentar resultados.",
+      "El sector tecnológico europeo cede un 2%, el Nasdaq cae un 2,47% y los semiconductores retroceden casi un 5%.",
+      "El mercado general no se ve completamente contaminado: el Dow Jones cotiza plano y el ETF RSP (S&P 500 equiponderado) baja solo un 0,1%.",
+      "Fuerte rotación hacia sectores defensivos en Europa: Alimentación y Bebidas sube un 2,32%, Salud un 1,90%, Telecomunicaciones un 0,40% y 'Utilities' un 0,10%.",
+      "Alerta inflacionaria en Europa: el IPC de Italia en octubre sube al 5,4% interanual frente al 4,6% esperado, y el de España se sitúa en el 4,9%.",
+      "El PIB de la eurozona crece un 0,4% frente al 0,2% estimado, pero el dato está distorsionado por Irlanda (+5%), mientras que Francia entra en contracción (-0,1%).",
+      "El crudo West Texas sube un 2,23% hasta 104,31 dólares tras la detención de dos barcos por parte de Irán en el estrecho de Ormuz.",
+      "Comienza la pauta estacional del 'efecto Halloween' analizada por Seasonax, donde las bolsas rinden históricamente un 8,07% de media entre noviembre y abril frente al 0,26% entre mayo y octubre."
+    ],
+    "tesis_principal": "El desplome de los gigantes tecnológicos tras sus cuentas está provocando una fuerte rotación de flujos hacia sectores defensivos en lugar de un pánico generalizado, aunque el repunte de la inflación en Europa y la tensión geopolítica sobre el petróleo añaden incertidumbre de cara a las elecciones estadounidenses.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Resultados empresariales",
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Inflación",
+      "Crecimiento y recesión",
+      "Energía y petróleo",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "Intel",
+      "Amazon",
+      "Google (Alphabet)",
+      "Nasdaq",
+      "Dow Jones",
+      "S&P 500",
+      "RSP (Invesco S&P 500 Equal Weight ETF)",
+      "Petróleo West Texas (WTI)",
+      "Euro Stoxx 600"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.3,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Fuertes caídas del Nasdaq y rebajas de precios objetivos tras decepciones en resultados corporativos."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "El sector cae casi un 5% arrastrado por el desplome histórico de Intel de más del 25%."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "El mercado no tecnológico aguanta bien y muestra rotación con el Dow Jones y el S&P 500 equiponderado casi planos."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Sorpresas al alza en los IPC de Italia y España que hacen temer nuevos repuntes inflacionarios globales."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Fuerte subida superior al 2% por tensiones geopolíticas y detenciones marítimas en el estrecho de Ormuz."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El mercado descuenta un riesgo muy fuerte de nuevos ataques geopolíticos a partir del martes que viene, una vez pasen las elecciones.",
+        "activo_o_variable": "Petróleo y riesgo geopolítico",
+        "direccion": "sube",
+        "horizonte": "días",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La bolsa iniciará la pauta estacional del 'efecto Halloween' con mejor comportamiento histórico relativo entre noviembre y abril que entre mayo y octubre.",
+        "activo_o_variable": "Mercados bursátiles generales",
+        "direccion": "sube",
+        "horizonte": "6 meses",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Intel cae entre un 25% y un 27%, marcando su peor día desde 1974.",
+      "Amazon cae cerca de un 7% en el mercado 'fuera de horas' (after-hours).",
+      "El sector tecnológico europeo cae un 2% y el índice de semiconductores retrocede cerca del 5%.",
+      "Citi rebajó el precio objetivo de Google de 447 a 375 dólares.",
+      "IPC de Italia en octubre se sitúa en 5,4% interanual frente al 4,6% estimado; IPC de España en 4,9%.",
+      "El PIB de la eurozona se situó en +0,4% trimestral (previsto +0,2%), con Irlanda disparándose al +5% y Francia en negativo.",
+      "El crudo WTI cotiza a 104,31 dólares el barril tras subir un 2,23%.",
+      "El rendimiento bursátil medio histórico del período noviembre-abril es del 8,07% frente al 0,26% de mayo a octubre."
+    ],
+    "riesgos_mencionados": [
+      "Contagio de las fuertes caídas del sector tecnológico al resto del mercado bursátil.",
+      "Repunte descontrolado de la inflación empezando por Europa y trasladándose a Estados Unidos.",
+      "Escalada de tensiones bélicas y ataques en Oriente Próximo (estrecho de Ormuz) tras las elecciones en EE. UU.",
+      "Deterioro macroeconómico en grandes economías europeas como Francia tras registrar un PIB negativo."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
