@@ -1,0 +1,140 @@
+{
+  "video_id": "spKVENBWCvI",
+  "url": "https://www.youtube.com/watch?v=spKVENBWCvI",
+  "titulo": "GOOGLE Hunde el Mercado: Toca PROTEGERSE | José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-10-29T11:29:37+00:00",
+  "fecha_resumen": "2026-10-30T01:16:10.104658+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava alerta sobre una crisis latente de deuda y liquidez provocada por los masivos vencimientos de deuda pública y el colosal gasto de capital requerido por la inteligencia artificial. Destaca que las manos fuertes están cubriéndose mediante la compra masiva y a precios récord de CDS de empresas tecnológicas (Meta, Microsoft, Amazon, Google, Nvidia) en lugar de comprar opciones put para no hundir la bolsa antes de las elecciones. Como estrategia defensiva, recomienda buscar refugio en activos del sector salud y empresas de pagos diversificadas, manteniendo siempre una estricta gestión del riesgo con stop loss.",
+    "ideas_clave": [
+      "Coincidencia de señales de alarma: tensión en la deuda francesa, caída de cotizaciones bancarias y aumento del diferencial de crédito en empresas ligadas a la IA.",
+      "Crisis de liquidez estructural: en 2027 vencen volúmenes récord de deuda emitida durante la pandemia (2020-2021) en EE. UU., coincidiendo con déficits fiscales desbocados y una inversión en infraestructuras de IA estimada en el 3,6% del PIB.",
+      "Las 'manos fuertes' institucionales compran volúmenes récord de CDS (Credit Default Swaps) de empresas tecnológicas para proteger tanto carteras de bonos como de renta variable.",
+      "Se elude la compra masiva de opciones 'put' para evitar que los creadores de mercado (dealers) vendan acciones y provoquen una caída abrupta de los índices bursátiles antes de las elecciones.",
+      "Búsqueda de refugio en el sector salud a través del ETF iShares S&P 500 Health Care Sector (QDVG.EU), con sesgo alcista mientras cotice sobre 12,6.",
+      "Oportunidades técnicas individuales en AbbVie (ABBV, alcista sobre 270 con objetivo 290-300), Pfizer (PFE, suelo en H-C-H invertido sobre 27-27,5) y Visa (V, alcista sobre 390).",
+      "Previsión de que los riesgos aumenten sustancialmente tras las elecciones estadounidenses, abriendo una ventana de corrección o crisis en los 6 meses posteriores."
+    ],
+    "tesis_principal": "Existe una crisis de liquidez y deuda en ciernes agravada por los costes de la IA, evidenciada por la cobertura institucional masiva con CDS, lo que aconseja refugiarse en sectores defensivos como salud y medios de pago.",
+    "temas": [
+      "Deuda pública y déficit",
+      "Liquidez y crédito",
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Fondos indexados y ETFs",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "CDS North American IG CDX Index",
+      "Nvidia",
+      "Amazon",
+      "Meta",
+      "Alphabet",
+      "Microsoft",
+      "iShares S&P 500 Health Care Sector UCITS ETF (QDVG.EU)",
+      "AbbVie (ABBV)",
+      "Pfizer (PFE)",
+      "Visa (V)",
+      "Mastercard (MA)",
+      "Eli Lilly",
+      "Johnson & Johnson"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "Advierte de un récord de vencimientos en 2027 y gasto desbocado en EE. UU., Francia y Reino Unido que agotará la liquidez."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Alerta de una clara falta de liquidez en el sistema que derivará en crisis de deuda pública y privada."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Las manos fuertes están cubriéndose con CDS ante posibles impagos o sobrecostes masivos de infraestructura en el sector."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Sostiene que el mercado está sostenido artificialmente hasta las elecciones y que los riesgos de caída se dispararán después."
+      },
+      {
+        "tema": "Fondos indexados y ETFs",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Recomienda el ETF del sector salud (QDVG) como valor refugio frente a un entorno de endurecimiento monetario."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Utiliza niveles de soporte clave (12,6 en ETF salud, 270 en ABBV, 27 en PFE, 390 en Visa) para condicionar las posiciones."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La acción de AbbVie (ABBV) tratará de alcanzar la zona de 290-300 dólares mientras se mantenga sobre 270.",
+        "activo_o_variable": "AbbVie (ABBV)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Pfizer mantendrá predisposición alcista mientras su cotización permanezca por encima de la zona de soporte de 27 dólares.",
+        "activo_o_variable": "Pfizer (PFE)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Visa conservará su tendencia alcista mientras se mantenga por encima de los 390 dólares.",
+        "activo_o_variable": "Visa (V)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "A partir de las elecciones presidenciales se dispararán los riesgos de mercado y podría desencadenarse una crisis en un plazo de seis meses.",
+        "activo_o_variable": "Bolsa de EE. UU. / Mercados financieros",
+        "direccion": "baja",
+        "horizonte": "6 meses",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La inversión en infraestructuras de IA proyectada entre 2025 y 2032 representa un 3,6% del PIB de EE. UU., superando booms históricos como el ferrocarril (2,2%), carreteras (1,1%) o telecomunicaciones (1,1%).",
+      "Los bonos emitidos a 5-7 años en 2020 y 2021 para paliar la crisis del Covid vencen en su punto álgido hacia 2026-2027, exigiendo una liquidez de refinanciación colosal.",
+      "El volumen semanal negociado en CDS ligados a hiperescaladores de IA se disparó hasta rozar los 10.000 millones de dólares en otoño.",
+      "El precio de los seguros de impago (CDS a 5 años) de Meta, Alphabet, Amazon, Microsoft y Nvidia ha marcado máximos crecientes continuos en 2026."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de liquidez por acumulación de deuda pública y privada.",
+      "Burbuja o sobrecoste insostenible en el despliegue de infraestructuras de inteligencia artificial.",
+      "Ventas masivas de acciones por parte de inversores institucionales tras expirar los compromisos preelectorales.",
+      "Efecto arrastre sobre los principales índices (S&P 500 y Nasdaq) por el elevado peso de las grandes tecnológicas."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "video_id": "5V8t6y2FGgQ",
+  "url": "https://www.youtube.com/watch?v=5V8t6y2FGgQ",
+  "titulo": "No han nacido los ganadores de la IA verdaderos - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-29T16:18:37+00:00",
+  "fecha_resumen": "2026-10-30T01:08:54.160682+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la sesión bursátil destacando que las caídas en gigantes como Microsoft y Google se deben a emisiones masivas de deuda y flujos de caja libre negativos, respectivamente. Señala que no se trata de ventas generalizadas sino de una rotación hacia el mercado amplio y valores de pequeña capitalización. Plantea la tesis de que los verdaderos ganadores definitivos de la inteligencia artificial aún no han nacido, repitiendo el patrón posterior a la burbuja puntocom. En el frente macroeconómico, repasa los datos de paro, PCE y PIB en Estados Unidos, junto con la reunión del BCE y la dimisión anunciada de Christine Lagarde.",
+    "ideas_clave": [
+      "Microsoft cae con fuerza tras anunciar que planea emitir 25.000 millones de dólares en deuda vía bonos, compitiendo directamente con la deuda del Tesoro.",
+      "Alphabet sufre fuertes caídas acumuladas debido a su segundo trimestre consecutivo con flujo de caja libre negativo.",
+      "La corrección tecnológica no implica un desplome general: se vive una 'gran rotación' reflejada en la subida del Russell 2000 (+1,19% a +1,3%) y del ETF RSP de igual ponderación (+0,87%).",
+      "Tesis sobre la IA: al igual que Google salió a bolsa en 2004 tras la limpieza de la burbuja puntocom, los líderes definitivos de la IA surgirán probablemente tras una purga del mercado actual.",
+      "El posicionamiento cuantitativo muestra una notable acumulación de opciones en el rango 8.050-8.100, indicando que manos fuertes no descartan un tirón alcista a final de año.",
+      "Datos macro en EE. UU.: paro semanal en 194.000 solicitudes (frente a 198.000 esperadas), PCE interanual subyacente en 3,1% (general en 3,6%) y PIB avanzando al 3,4% con consumo al 3,8%.",
+      "El BCE mantiene tipos y Lagarde anuncia su dimisión para febrero; sin embargo, filtraciones a Reuters apuntan a una subida de tipos en diciembre."
+    ],
+    "tesis_principal": "El retroceso del mercado no es una venta indiscriminada sino una rotación saludable desde las megacapitalizaciones endeudadas hacia el mercado amplio, mientras que en inteligencia artificial la historia sugiere que los verdaderos líderes a largo plazo aparecerán solo después de que estalle la actual burbuja inicial.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "BCE y tipos de interés Europa",
+      "Crecimiento y recesión",
+      "Inflación",
+      "Empleo",
+      "Small caps",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "Microsoft (MSFT)",
+      "Alphabet (GOOGL)",
+      "Amazon (AMZN)",
+      "Meta Platforms (META)",
+      "Tesla (TSLA)",
+      "Apple (AAPL)",
+      "Intel (INTC)",
+      "S&P 500 (Mini S&P 500)",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "Russell 2000",
+      "Nasdaq 100",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Bono estadounidense a 10 años",
+      "Petróleo Light Crude / WTI",
+      "Petróleo Brent",
+      "Gasóleo de calefacción / Diésel (ULSD)",
+      "Oro",
+      "Bitcoin",
+      "VIX",
+      "EUR/USD",
+      "USD/JPY",
+      "BBVA"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Las grandes tecnológicas sufren por endeudamiento y flujos de caja libres negativos, y anticipa una limpieza de burbuja antes de consolidar el sector."
+      },
+      {
+        "tema": "Small caps",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El Russell 2000 sube más del 1% beneficiado de la rotación de capital que sale de las grandes tecnológicas."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "A pesar de la caída del Nasdaq y S&P 500 ponderado, el mercado equiponderado avanza y las opciones sugieren potencial subida a fin de año."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El PIB estadounidense del 3,4% y el consumo del 3,8% muestran una economía y un consumidor robustos."
+      },
+      {
+        "tema": "BCE y tipos de interés Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Las filtraciones señalan subidas de tipos en diciembre debido a una inflación persistente, junto a la incertidumbre por la dimisión de Lagarde."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Tras la limpieza de la burbuja actual de IA, surgirán nuevas compañías líderes comparables a los Google o Amazon de la era posterior a la burbuja puntocom.",
+        "activo_o_variable": "Sector tecnológico / Inteligencia artificial",
+        "direccion": "no aplica",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El BCE subirá los tipos de interés sí o sí en su reunión de diciembre según filtraciones a Reuters.",
+        "activo_o_variable": "Tipos de interés BCE",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Existe una señal cuantitativa de fuerte acumulación de opciones en 8.050-8.100 que apunta a un posible tirón alcista hacia finales de año.",
+        "activo_o_variable": "Bolsa EE. UU. (S&P 500 / derivados)",
+        "direccion": "sube",
+        "horizonte": "final de año",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Microsoft planea colocar 25.000 millones de dólares en bonos de deuda.",
+      "Google registró su segundo trimestre consecutivo con flujo de caja libre negativo.",
+      "El Russell 2000 subió un 1,19% y el RSP avanzó un 0,87%, evidenciando rotación sectorial.",
+      "Peticiones semanales de subsidio por desempleo en EE. UU.: 194.000 frente a 198.000 previstas.",
+      "PCE mensual subyacente en +0,3% (+0,32% sin redondear) e interanual en 3,1%; PCE general en 3,6%.",
+      "PIB estadounidense creció a una tasa del 3,4% frente al 3,2% esperado, con el gasto en consumo al 3,8% frente al 3,4% previsto.",
+      "La rentabilidad del bono estadounidense a 10 años se sitúa en 4,999%, justo por debajo de la cota psicológica del 5%."
+    ],
+    "riesgos_mencionados": [
+      "Endeudamiento creciente y deterioro del flujo de caja en los hiperescaladores tecnológicos.",
+      "Persistencia de la inflación por encima del objetivo del 2% en EE. UU. y Europa, forzando tipos altos.",
+      "Posible prolongación de la prohibición de exportación de diésel por parte de Rusia hasta fin de año.",
+      "Incumplimiento técnico de soportes en el futuro del Mini S&P 500 en torno a 7.735-7.680."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

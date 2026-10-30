@@ -1,0 +1,130 @@
+{
+  "video_id": "irkf3hTd93s",
+  "url": "https://www.youtube.com/watch?v=irkf3hTd93s",
+  "titulo": "Las 5 Empresas que SORPRENDERÁN al Mercado en el PRÓXIMO Gran Ciclo | Javier Caballero",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-29T13:01:24+00:00",
+  "fecha_resumen": "2026-10-30T01:13:02.290158+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Javier Caballero analiza la filosofía y composición de la cartera de su fondo (Gestión Boutique VI Opportunity), explicando cómo combina principios de inversión valor aprendidos de Warren Buffett y Charlie Munger con activos de nueva generación. Detalla la tesis detrás de empresas ligadas a Bitcoin y Ethereum como Bitmine, Strategy, Coinbase y Galaxy Digital, así como mineras de Bitcoin que reconvierten su capacidad energética hacia centros de datos para inteligencia artificial. Además, explica los motivos de gobierno corporativo para salir por completo de Metaplanet y expone sus tesis de recuperación en empresas tradicionales como Berkshire Hathaway y Nike.",
+    "ideas_clave": [
+      "La cartera del fondo se divide aproximadamente en un 50% en temática criptoactivos, un 30% en empresas de alta calidad y mineras en transición a centros de datos para IA, y un 20% en liquidez.",
+      "La liquidez no se busca pasivamente, sino que surge de vender activos cuando sus valoraciones o múltiplos se disparan, manteniéndose en bonos soberanos a corto plazo de la zona euro a la espera de valoraciones atractivas.",
+      "Tesis en Bitmine: actúa como la tesorera de Ethereum acumulando cerca del 5% del suministro de ETH, generando entre 300 y 400 millones de dólares anuales netos mediante staking con apenas deuda y caja neta.",
+      "Tesis en Strategy (MicroStrategy): tras haber vendido cerca de máximos con Bitcoin a múltiplos de 3x NAV, Caballero volvió a comprar con convicción máxima tras caídas del 80% en la acción y 50% en Bitcoin.",
+      "Tesis en Galaxy Digital: combina banca de inversión cripto (Goldman Sachs cripto), balances en activos digitales y la reconversión de su planta minera Helios (Texas) en centros de datos para IA con contratos de alquiler a 15 años como el de CoreWeave (1.000M$ anuales).",
+      "Coinbase destaca por su diversificación de ingresos: custodia de la mayoría de ETFs de Bitcoin, negocio institucional y minorista, y el acuerdo que le otorga el 50% de los ingresos de reservas de USDC generados por Circle sin incurrir en costes.",
+      "Venta total de Metaplanet: a pesar del potencial alcista, decidieron salir por falta de ética de la directiva, después de que su CEO ejecutara opciones sobre 64 millones de acciones a 10 yenes cotizando a 350 yenes mientras el consejo congelaba el plan de compensación.",
+      "Tesis en Nike: comprada tras una caída del 80% en su cotización y 50% en beneficios, interpretando su caída de márgenes y errores de distribución directa al consumidor como un bache temporal de una marca extraordinaria."
+    ],
+    "tesis_principal": "El value investing moderno exige desaprender dogmas rígidos para aprovechar oportunidades asimétricas en la disrupción tecnológica y de activos digitales, combinando empresas con fuerte generación de caja o reservas infravaloradas (Ethereum/Bitcoin), infraestructuras energéticas demandadas por la IA y negocios extraordinarios en problemas temporales, manteniendo siempre la disciplina de valoración y alineación de intereses con los directivos.",
+    "temas": [
+      "Criptomonedas",
+      "Tecnología e inteligencia artificial",
+      "Value investing",
+      "Valoración de mercado y burbujas",
+      "Liquidez y crédito",
+      "Bonos y renta fija",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Bitcoin",
+      "Ethereum",
+      "MicroStrategy (MSTR)",
+      "Bitmine Immersion Technologies (BMNR)",
+      "Galaxy Digital (GLXY)",
+      "Coinbase (COIN)",
+      "CleanSpark (CLSK)",
+      "Marathon Digital (MARA)",
+      "Metaplanet",
+      "Nike (NKE)",
+      "Berkshire Hathaway (BRK)",
+      "Apple (AAPL)",
+      "Meta (META)",
+      "Nvidia (NVDA)",
+      "LVMH",
+      "USDC (Circle)",
+      "MSCI World",
+      "S&P 500"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "Caballero considera que Bitcoin y Ethereum seguirán ganando cuota relativa frente a los 700 billones de activos mundiales por adopción generacional e institucional."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Identifica los centros de datos con conexión a red eléctrica como el verdadero cuello de botella de la IA, lo que hace muy valiosas las infraestructuras de mineras reconvertidas."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Defiende comprar activos extraordinarios cuando sufren baches temporales o múltiplos muy deprimidos, como en el caso de Nike o Strategy tras desplomes del 80%."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Utilizan bonos gubernamentales a corto plazo de la zona euro exclusivamente como vehículo seguro y remunerado para almacenar liquidez a la espera de compras."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Bitcoin y los activos digitales absorberán una cuota proporcionalmente mucho mayor del pastel de preservación de riqueza global (actualmente 700 billones de dólares) en los próximos 10 a 20 años.",
+        "activo_o_variable": "Bitcoin / Criptomonedas",
+        "direccion": "sube",
+        "horizonte": "10-20 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La capitalización de Bitcoin y los activos digitales puede llegar a situarse entre 50 y 100 billones de dólares a largo plazo impulsada por la adopción generacional.",
+        "activo_o_variable": "Capitalización de mercado de criptoactivos",
+        "direccion": "sube",
+        "horizonte": "10-20 años",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Los hiperescaladores de IA gastarán alrededor de 800.000 millones este año y entre 1,2 y 1,5 billones de dólares el próximo año en infraestructura y centros de datos.",
+        "activo_o_variable": "Gasto en infraestructura de IA (Capex de hiperescaladores)",
+        "direccion": "sube",
+        "horizonte": "1-2 años",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Bitmine cuenta con 14.000 millones de dólares en Ethereum (cerca del 5% del total en circulación) y genera 300-400 millones al año en staking con sólo 350 millones en acciones preferentes y 600 millones en caja.",
+      "Strategy cotizaba a 3 veces su NAV en máximos y tras caer un 80% volvió a valoraciones atractivas, momento en el cual el fondo incrementó su posición al máximo permitido.",
+      "Galaxy Digital cuenta con 1,63 GW aprobados de interconexión eléctrica en Texas, de los cuales 0,8 GW ya están alquilados a CoreWeave por cerca de 1.000 millones de dólares al año durante 15 años.",
+      "El cuello de botella de la IA es el acceso a la red eléctrica: conseguir permisos de interconexión toma más de 5 años de media.",
+      "Metaplanet pasó de 46 millones a 319 millones de acciones en su programa de opciones; su CEO ejecutó opciones a 10 yenes cuando la acción cotizaba a 350 yenes, diluyendo a los accionistas para su beneficio personal.",
+      "Nike ha visto caer su beneficio más de un 50% y sus ventas un 20% por problemas de márgenes y reestructuración tras su fallida estrategia directa al consumidor, pero su cotización se ha desplomado un 80%, ofreciendo margen de seguridad.",
+      "La riqueza global en reserva de valor ronda los 700 billones de dólares: 400 billones en inmobiliario, 150 billones en bonos, 125 billones en acciones, 30 billones en oro y sólo 1,5 billones en Bitcoin."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de gobierno corporativo y desalineación de directivos en tesoreras corporativas (ejemplo de Metaplanet).",
+      "Riesgo de apalancamiento financiero y cupones de convertibles/preferentes en Strategy si el mercado aprieta y Bitcoin cae con fuerza.",
+      "Riesgos de ejecución y sobrecostes de capex en la construcción y reconversión de centros de datos de alta capacidad energética.",
+      "Volatilidad cíclica extrema en el sector cripto que puede provocar caídas temporales de más del 50-80% en cotizadas del sector.",
+      "Pérdida de tracción de marca o aumento de competencia deportiva en Nike (pérdida de patrocinios relevantes como Mbappé frente a nuevas marcas como On o Lululemon)."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Javier Caballero"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

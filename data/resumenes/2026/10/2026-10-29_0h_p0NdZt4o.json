@@ -1,0 +1,122 @@
+{
+  "video_id": "0h_p0NdZt4o",
+  "url": "https://www.youtube.com/watch?v=0h_p0NdZt4o",
+  "titulo": "En que nivel del bono hay daño en el SP500 - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-29T12:03:31+00:00",
+  "fecha_resumen": "2026-10-30T01:17:07.804867+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En la media sesión europea, los mercados asimilan resultados dispares de las grandes tecnológicas, donde los inversores castigan a las empresas con flujo de caja libre negativo por gastos en IA. En Europa, el sector bancario retrocede lastrado por las caídas de BBVA y Santander, mientras automoción y energía avanzan gracias a Renault y Shell. Además, Cárpatos analiza un informe de JP Morgan sobre a qué nivel las rentabilidades de los bonos dañan al S&P 500, concluyendo que la mayoría de valores sufren a partir de rentabilidades del 4% o 5%.",
+    "ideas_clave": [
+      "El mercado penaliza con severidad el flujo de caja libre negativo provocado por los fuertes desembolsos de capital en inteligencia artificial.",
+      "El sector tecnológico sufre por los débiles resultados de Samsung en memorias y los desplomes de valores de software como Fortinet y ServiceNow.",
+      "El Ibex 35 y la banca europea (-0,48%) se ven lastrados por caídas de más del 5% en BBVA, contagiando a Banco Santander.",
+      "El sectorial europeo de automoción sube un 1,13% impulsado por Renault (+5%), que compensa las pérdidas operativas peores de lo previsto de Volkswagen de más de 8.000 millones de euros.",
+      "La dimisión anunciada de Christine Lagarde para el 7 de febrero se considera un movimiento táctico sin gran impacto en las cotizaciones, esperando tipos sin cambios en la reunión del BCE.",
+      "El crudo retrocede un 0,74% ante especulaciones de acuerdos temporales antes de las elecciones estadounidenses.",
+      "El gráfico de JP Morgan compartido por Diego Puertas demuestra que el umbral de daño en el S&P 500 por la rentabilidad del bono depende del crecimiento del BPA: con crecimiento ordinario (0-10%), el daño bursátil empieza ya en el 4% de rentabilidad."
+    ],
+    "tesis_principal": "Los mercados afrontan presiones por el elevado gasto de capital en IA que drena el flujo de caja y por la rentabilidad de la deuda, la cual penaliza las valoraciones de la mayoría de cotizadas cuando supera el 4% o 5%.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Bolsa España",
+      "Resultados empresariales",
+      "Tecnología e inteligencia artificial",
+      "Bonos y renta fija",
+      "BCE y tipos de interés Europa",
+      "Bancos",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Ibex 35",
+      "Bono estadounidense a 10 años",
+      "Alphabet",
+      "Microsoft",
+      "Samsung",
+      "Fortinet",
+      "ServiceNow",
+      "BBVA",
+      "Banco Santander",
+      "Shell",
+      "Renault",
+      "Volkswagen",
+      "Petróleo Crudo"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El mercado castiga las inversiones masivas en IA que afectan negativamente al flujo de caja y decepciones en software y chips de memoria."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Predominan sorpresas negativas y castigos severos en compañías como BBVA, Samsung, Volkswagen, ServiceNow y Fortinet."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Las rentabilidades de los bonos en los niveles actuales ejercen presión bajista sobre el PER de los valores que no tienen hipercrecimiento."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "bajista",
+        "puntuacion": -0.45,
+        "justificacion": "Caída del sectorial bancario europeo arrastrado por desplomes en BBVA y Santander."
+      },
+      {
+        "tema": "BCE y tipos de interés Europa",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "No se esperan movimientos en tipos de interés y la salida de Lagarde se interpreta como una cuestión de calendario sin impacto macro."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El BCE no tocará los tipos de interés en su reunión de hoy ni adoptará medidas especiales",
+        "activo_o_variable": "Tipos de interés BCE",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La dimisión táctica de Christine Lagarde para el 7 de febrero no moverá de forma relevante el mercado",
+        "activo_o_variable": "Mercados europeos",
+        "direccion": "lateral",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Microsoft modera sus ganancias al +1,32% y Alphabet repunta al +1,50% en sesión regular tras el movimiento nocturno.",
+      "BBVA cae más de un 5%, arrastrando a Santander y provocando una caída del 0,48% en el índice bancario europeo.",
+      "Renault sube un 5%, compensando las pérdidas operativas de Volkswagen de más de 8.000 millones de euros peores de lo previsto.",
+      "El sector de petróleo y gas en Europa sube un 1,41% gracias a las cifras de Shell.",
+      "Según JP Morgan, las bolsas solo resisten subidas del bono hasta el 6% si el crecimiento del BPA es superior al 20%; si el BPA crece entre 0% y 10%, el impacto negativo comienza ya a partir del 4% de rentabilidad del bono a 10 años."
+    ],
+    "riesgos_mencionados": [
+      "Flujo de caja libre negativo por el capex intensivo en inteligencia artificial.",
+      "Niveles de rentabilidad del bono a 10 años por encima del 4%-5% que comprimen múltiplos de valoración.",
+      "Pérdidas operativas masivas en la industria automotriz europea."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Diego Puertas"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

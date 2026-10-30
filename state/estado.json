@@ -507,7 +507,11 @@
   "A6xfj2bvI8A": "2026-10-28T05:52:01.597408+00:00",
   "6EPuZXteGDI": "2026-10-28T05:53:15.686009+00:00",
   "fWCDk7BtXL4": "2026-10-29T01:07:20.346653+00:00",
-  "zjx3dL8PFLU": "2026-10-29T01:09:35.876474+00:00"
+  "zjx3dL8PFLU": "2026-10-29T01:09:35.876474+00:00",
+  "5V8t6y2FGgQ": "2026-10-30T01:08:55.768272+00:00",
+  "irkf3hTd93s": "2026-10-30T01:13:05.331654+00:00",
+  "spKVENBWCvI": "2026-10-30T01:16:11.650618+00:00",
+  "0h_p0NdZt4o": "2026-10-30T01:17:09.325941+00:00"
  },
  "cola": [
   {
@@ -559,46 +563,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 1,
    "en_cola_desde": "2026-10-29T10:05:07.112394+00:00"
-  },
-  {
-   "video_id": "irkf3hTd93s",
-   "titulo": "Las 5 Empresas que SORPRENDERÁN al Mercado en el PRÓXIMO Gran Ciclo | Javier Caballero",
-   "url": "https://www.youtube.com/watch?v=irkf3hTd93s",
-   "publicado": "2026-10-29T13:01:24+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-29T18:31:07.633539+00:00"
-  },
-  {
-   "video_id": "5V8t6y2FGgQ",
-   "titulo": "No han nacido los ganadores de la IA verdaderos - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=5V8t6y2FGgQ",
-   "publicado": "2026-10-29T16:18:37+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-29T18:31:07.633539+00:00"
-  },
-  {
-   "video_id": "0h_p0NdZt4o",
-   "titulo": "En que nivel del bono hay daño en el SP500 - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=0h_p0NdZt4o",
-   "publicado": "2026-10-29T12:03:31+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-29T18:31:07.633539+00:00"
-  },
-  {
-   "video_id": "spKVENBWCvI",
-   "titulo": "GOOGLE Hunde el Mercado: Toca PROTEGERSE | José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=spKVENBWCvI",
-   "publicado": "2026-10-29T11:29:37+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-29T18:31:07.633539+00:00"
   }
  ],
  "fallidos": {
