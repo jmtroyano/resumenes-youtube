@@ -1,0 +1,148 @@
+{
+  "video_id": "2mZOSIXCcx8",
+  "url": "https://www.youtube.com/watch?v=2mZOSIXCcx8",
+  "titulo": "Google  10% tras resultados enfría los ánimos - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-29T08:08:20+00:00",
+  "fecha_resumen": "2026-10-30T10:16:27.887397+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El desplome de Alphabet cercano al 10% tras registrar flujo de caja libre negativo lastra al sector tecnológico y al Nasdaq, en contraste con la solidez de Microsoft. Mientras las grandes tecnológicas y los semiconductores sufren volatilidad y escrutinio en sus gastos de inteligencia artificial, el mercado amplio se mantiene indiferente y en rango lateral. La Reserva Federal mantuvo tipos de interés pero apunta a un endurecimiento en diciembre ante la fortaleza del crecimiento y la inflación persistente. En el plano técnico, el S&P 500 sigue encajado en un lateral, aunque el mercado de opciones empieza a construir posiciones alcistas relevantes en los niveles de 8.050 a 8.100 puntos.",
+    "ideas_clave": [
+      "Alphabet cae un 9,8% castigada por un flujo de caja libre negativo de -9.100 millones de dólares en el trimestre (acumulando unos -15.000 millones en dos trimestres) y un leve fallo en publicidad.",
+      "El mercado discrimina fuertemente en inteligencia artificial: premia a firmas con fuerte flujo de caja como Microsoft (+4%, 18.600 millones de FCF) y penaliza a las que queman caja o aumentan deuda.",
+      "Samsung se desploma en Corea arrastrando a los ETFs de memorias (-3,2%) y semiconductores (-2%), mientras el mercado amplio (ETF RSP) permanece inmune en rango lateral.",
+      "La Fed mantuvo tipos con dos votos disidentes que pedían +25 pb; el mercado descuenta un 85% de probabilidad de subida de tipos en diciembre ante la persistente inflación.",
+      "El straddle de opciones para el día de las elecciones presidenciales de EE. UU. descuenta una volatilidad sorprendentemente baja de apenas el 1,24%, según Goldman Sachs y JP Morgan.",
+      "El petróleo cede un 0,87% tras filtrarse contactos diplomáticos de EE. UU. con Irán, si bien persiste el riesgo de ataques y represalias tras los comicios.",
+      "En el S&P 500 se detecta una fuerte concentración inusual de contratos de opciones en los strikes de 8.050 a 8.100 puntos, lo que deja despejada la vía alcista si se rompe la resistencia de 7.800-7.900."
+    ],
+    "tesis_principal": "El mercado ha comenzado a exigir rentabilidad real y flujo de caja libre a las inversiones masivas en inteligencia artificial, penalizando severamente a Alphabet frente a Microsoft, mientras los índices generales se mantienen en un rango lateral a la espera de catalizadores macroeconómicos y electorales.",
+    "temas": [
+      "Resultados empresariales",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Fed y tipos de interés EE. UU.",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "Alphabet (Google)",
+      "Microsoft",
+      "S&P 500",
+      "RSP ETF",
+      "ETF de semiconductores",
+      "ETF de memorias",
+      "Samsung",
+      "SK Hynix",
+      "Oracle",
+      "Amazon",
+      "Intel",
+      "Bono EE. UU. a 10 años",
+      "Bund alemán",
+      "Petróleo",
+      "Oro",
+      "Bitcoin",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "BBVA",
+      "Banco Santander",
+      "EUR/USD",
+      "USD/JPY",
+      "Índice MOVE",
+      "VIX"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Comportamiento muy dispar con fuerte castigo a Alphabet y Samsung frente al buen desempeño de Microsoft y las promesas de Oracle."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.35,
+        "justificacion": "Aumento del castigo a las compañías con elevado gasto de capital y flujo de caja negativo derivado de la IA."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "La retórica agresiva sobre crecimiento e inflación eleva al 85% la opción de una subida de tipos en diciembre."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El S&P 500 sigue atrapado en su lateral de meses con escaso volumen, aunque con interés comprador latente en opciones OTM."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Ligera corrección técnica por intentos de negociación con Irán, pero con elevada tensión geopolítica de fondo."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "La rentabilidad del bono a 10 años se mantiene cerca del 5% y el índice de volatilidad MOVE se relaja por debajo de 98 puntos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal subirá los tipos de interés en su reunión de diciembre con un 85% de probabilidad estimada por el mercado.",
+        "activo_o_variable": "Fed funds rate",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El Banco Central Europeo mantendrá una pausa en los tipos de interés en su reunión inmediata sin adoptar medidas significativas.",
+        "activo_o_variable": "Tipos oficiales del BCE",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el S&P 500 supera la resistencia técnica de 7.800-7.900 puntos, tiene el camino despejado para buscar los niveles de 8.050 a 8.100 puntos según el posicionamiento de opciones.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Alphabet reportó un flujo de caja libre trimestral de -9.100 millones de dólares tras otro trimestre previo de -5.900 millones.",
+      "Microsoft generó 18.600 millones de dólares de flujo de caja libre en el trimestre, superando previsiones.",
+      "El volumen negociado en Wall Street fue de 16.600 millones de acciones frente a la media anual de 18.500 millones.",
+      "El desequilibrio vendedor al cierre en la subasta MOC fue de 1.300 millones de dólares.",
+      "El straddle para el día electoral descuenta un movimiento implícito de solo el 1,24% en el mercado estadounidense.",
+      "El índice de volatilidad de bonos MOVE cerró en 94,5 puntos, por debajo de la cota crítica de 98.",
+      "JP Morgan calcula que el S&P 500 puede soportar tires del bono a 10 años de hasta el 5,5%-6,0% sin caídas desordenadas."
+    ],
+    "riesgos_mencionados": [
+      "Gasto excesivo de capital y destrucción de flujo de caja libre en desarrollos de inteligencia artificial.",
+      "Nuevas subidas de tipos de 25 o 50 puntos básicos por parte de la Fed en diciembre si los datos macro siguen tensionados.",
+      "Escalada bélica en Oriente Medio con posibles ataques de Israel y EE. UU. sobre Irán tras las elecciones y represalias sobre aliados del Golfo.",
+      "Ruptura a la baja del soporte del S&P 500 en los 7.500-7.600 puntos."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

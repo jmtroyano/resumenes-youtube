@@ -511,7 +511,11 @@
   "5V8t6y2FGgQ": "2026-10-30T01:08:55.768272+00:00",
   "irkf3hTd93s": "2026-10-30T01:13:05.331654+00:00",
   "spKVENBWCvI": "2026-10-30T01:16:11.650618+00:00",
-  "0h_p0NdZt4o": "2026-10-30T01:17:09.325941+00:00"
+  "0h_p0NdZt4o": "2026-10-30T01:17:09.325941+00:00",
+  "siyAOnq118M": "2026-10-30T10:12:18.637383+00:00",
+  "cPA7vMZdNnY": "2026-10-30T10:14:29.248114+00:00",
+  "2mZOSIXCcx8": "2026-10-30T10:16:30.694125+00:00",
+  "Nyc63JGhllU": "2026-10-30T10:19:41.947127+00:00"
  },
  "cola": [
   {
@@ -525,26 +529,6 @@
    "en_cola_desde": "2026-10-28T13:03:31.862815+00:00"
   },
   {
-   "video_id": "cPA7vMZdNnY",
-   "titulo": "Modelo 721: Lo que Debes Saber si Tienes Criptomonedas",
-   "url": "https://www.youtube.com/watch?v=cPA7vMZdNnY",
-   "publicado": "2026-10-28T17:00:20+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 0,
-   "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
-  },
-  {
-   "video_id": "Nyc63JGhllU",
-   "titulo": "La inversión que gana un 26% anualizado sin depender de la dirección de los mercados",
-   "url": "https://www.youtube.com/watch?v=Nyc63JGhllU",
-   "publicado": "2026-10-28T15:45:24+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
-  },
-  {
    "video_id": "FonAxIgUBck",
    "titulo": "Rebote de baja calidad - Media sesión  Cárpatos",
    "url": "https://www.youtube.com/watch?v=FonAxIgUBck",
@@ -553,16 +537,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 0,
    "en_cola_desde": "2026-10-28T20:20:10.813974+00:00"
-  },
-  {
-   "video_id": "2mZOSIXCcx8",
-   "titulo": "Google  10% tras resultados enfría los ánimos - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=2mZOSIXCcx8",
-   "publicado": "2026-10-29T08:08:20+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-29T10:05:07.112394+00:00"
   }
  ],
  "fallidos": {

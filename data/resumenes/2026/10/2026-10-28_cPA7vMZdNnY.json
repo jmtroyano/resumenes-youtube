@@ -1,0 +1,68 @@
+{
+  "video_id": "cPA7vMZdNnY",
+  "url": "https://www.youtube.com/watch?v=cPA7vMZdNnY",
+  "titulo": "Modelo 721: Lo que Debes Saber si Tienes Criptomonedas",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-28T17:00:20+00:00",
+  "fecha_resumen": "2026-10-30T10:14:27.885111+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Clara García y Luis Miguel Ortiz analizan las implicaciones fiscales del Modelo 721 en España para contribuyentes con criptoactivos en custodios en el extranjero. Aclaran que este modelo es puramente informativo y aplica a partir de 50.000 euros custodiados fuera del país, quedando excluida la autocustodia. Asimismo, debaten sobre la privacidad y riesgos de seguridad física frente a normativas más invasivas, y explican el funcionamiento del 'exit tax' en relación a Bitcoin.",
+    "ideas_clave": [
+      "El Modelo 721 es una declaración informativa sobre criptoactivos en custodios extranjeros, no un impuesto a pagar.",
+      "La obligación de presentar el Modelo 721 surge cuando los saldos en plataformas extranjeras igualan o superan los 50.000 euros, o tras revalorizaciones posteriores de 20.000 euros o ventas.",
+      "Las criptomonedas almacenadas en autocustodia (wallets privadas) no están sujetas a la obligación de declarar en el Modelo 721.",
+      "Declarar claves o fondos en autocustodia plantea severos riesgos de seguridad y privacidad frente a ciberataques o secuestros físicos, como los casos debatidos en Francia.",
+      "Según consultas vinculantes de la DGT, el 'exit tax' regulado en el IRPF español no aplica a personas físicas que poseen Bitcoin en autocustodia al cambiar de residencia fiscal, a diferencia de participaciones en empresas."
+    ],
+    "tesis_principal": "El Modelo 721 exige informar de criptoactivos en custodios situados fuera de España a partir de 50.000 euros, pero la autocustodia permanece al margen de esta declaración informativa y del exit tax.",
+    "temas": [
+      "Criptomonedas",
+      "Política fiscal e impuestos",
+      "Finanzas personales"
+    ],
+    "activos_mencionados": [
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El análisis se enfoca en la regulación y fiscalidad aplicable al almacenamiento y tenencia, sin valorar la cotización futura."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se detallan de manera técnica los requisitos legales y vacíos normativos en el marco tributario español e internacional."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Umbral de 50.000 euros en custodio exterior para la obligatoriedad del Modelo 721.",
+      "Regla de incremento de 20.000 euros en la cartera para la necesidad de volver a declarar en ejercicios posteriores.",
+      "Artículo 95 bis de la Ley del IRPF sobre el exit tax y consulta vinculante de la Dirección General de Tributos (DGT) eximiendo a Bitcoin en autocustodia.",
+      "Obligaciones de reporte de wallets en Brasil como precedente regulatorio internacional."
+    ],
+    "riesgos_mencionados": [
+      "Sanciones de Hacienda por no presentar modelos informativos obligatorios.",
+      "Filtraciones de bases de datos estatales y hackeos que expongan domicilios y patrimonios de poseedores de criptomonedas.",
+      "Secuestros de directivos de exchanges y usuarios motivados por desconocimiento técnico de los atacantes.",
+      "Trabas bancarias y aplicación de la Travel Rule al trasladarse a otras jurisdicciones fiscales."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Clara García"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

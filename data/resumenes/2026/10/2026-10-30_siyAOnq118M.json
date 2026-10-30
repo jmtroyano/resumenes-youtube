@@ -1,0 +1,145 @@
+{
+  "video_id": "siyAOnq118M",
+  "url": "https://www.youtube.com/watch?v=siyAOnq118M",
+  "titulo": "Amazon e Intel avivan la gran rotación - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-30T08:16:28+00:00",
+  "fecha_resumen": "2026-10-30T10:12:17.268243+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los malos resultados y previsiones de Amazon e Intel han provocado fuertes caídas en el sector tecnológico, acentuadas por el elevado gasto de capital y el deterioro del flujo de caja libre. A pesar de los retrocesos en el Nasdaq y en el S&P 500 ponderado, el mercado no muestra pánico, sino una intensa rotación hacia sectores defensivos y compras de refugio en bonos soberanos. En el frente geopolítico y macroeconómico, el petróleo repunta ante amenazas en Oriente Medio y la economía francesa decepciona con una contracción en su PIB del tercer trimestre. Técnicamente, los índices clave como el futuro del Nasdaq se aproximan a soportes decisivos como la media de 200 sesiones.",
+    "ideas_clave": [
+      "Amazon decepciona en ventas y beneficios con un flujo de caja libre anual que cae a -42.400 millones de dólares debido al desmedido gasto en centros de datos e IA.",
+      "Intel se desploma un 23% fuera de hora por malas guías de ventas de PC, problemas de caja y unos precios desorbitados en chips y memorias que retraen la demanda del consumidor.",
+      "No hay pánico generalizado sino rotación sectorial: mientras el Nasdaq cae un 2%, el ETF del S&P 500 de igual ponderación se mantiene plano (-0,02%) tras haber subido con fuerza en la sesión previa.",
+      "Los bonos del Tesoro estadounidense actúan como activo de refugio, subiendo fuertemente de precio y presionando las rentabilidades a la baja hacia la zona del 4,90%.",
+      "El Banco de Japón mantuvo los tipos de interés sin cambios en una votación de 8 a 1, aunque apunta a una probable subida en diciembre.",
+      "El petróleo vuelve a dispararse (+1,6% en el crudo ligero) por ataques hutíes a instalaciones en Arabia Saudí y la expectativa de represalias conjuntas de EE. UU. e Israel tras las elecciones.",
+      "A nivel técnico, el futuro del Nasdaq tiene un soporte crítico de primera división en la zona de 28.550 puntos (confluencia de media de 200 y banda Mogalef inferior), donde podría producirse un fuerte rebote."
+    ],
+    "tesis_principal": "El pinchazo de expectativas y flujo de caja en gigantes tecnológicos como Amazon e Intel está acelerando una rotación hacia sectores defensivos y bonos de refugio en lugar de provocar un pánico bursátil indiscriminado.",
+    "temas": [
+      "Resultados empresariales",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Otros bancos centrales",
+      "Análisis técnico",
+      "Criptomonedas"
+    ],
+    "activos_mencionados": [
+      "Amazon",
+      "Intel",
+      "Nvidia",
+      "Microsoft",
+      "Tesla",
+      "Nasdaq",
+      "S&P 500",
+      "Russell 2000",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Nikkei",
+      "KOSPI",
+      "Bono estadounidense a 10 años",
+      "Bono estadounidense a 30 años",
+      "Bund alemán",
+      "Petróleo WTI",
+      "Petróleo Brent",
+      "Oro",
+      "Bitcoin",
+      "Dólar/Yen",
+      "Euro/Dólar",
+      "ETF SMH"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las cuentas de Amazon e Intel evidencian deterioro de flujos de caja por gasto masivo en IA y demanda debilitada por precios prohibitivos."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El desplome del 23% en Intel y la debilidad en memorias reflejan que el mercado no puede soportar los precios desorbitados de los chips."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Aunque los índices ponderados por capitalización caen con fuerza, la acción media y los sectores defensivos aguantan bien gracias a la rotación."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Entrada masiva de dinero buscando refugio frente a la volatilidad tecnológica, provocando subidas de precio y caídas de rentabilidad."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Escalada de tensiones geopolíticas en Oriente Medio que impulsa el crudo por encima de los 103 dólares."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Ataque hacker masivo reportado en Binance que daña la confianza del mercado y hace corregir al Bitcoin."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El Banco de Japón probablemente subirá los tipos de interés en su reunión de diciembre.",
+        "activo_o_variable": "Tipos de interés de Japón",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El soporte técnico en 28.550 del futuro del Nasdaq podría provocar un gran rebote si el precio llega a esa zona.",
+        "activo_o_variable": "Futuro del Nasdaq",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Estados Unidos e Israel llevarán a cabo un ataque de gran envergadura en Oriente Medio tras las elecciones.",
+        "activo_o_variable": "Tensión geopolítica y petróleo",
+        "direccion": "sube",
+        "horizonte": "después de las elecciones de EE. UU.",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El flujo de caja libre trailing 12 meses de Amazon pasó de +14.800 millones a -42.400 millones de dólares en un año debido al capex en centros de datos.",
+      "Intel cae un 23% en el fuera de horas tras recortar previsiones de ventas de ordenadores personales por el encarecimiento de memorias y chips.",
+      "El S&P 500 ponderado por igual cotizaba prácticamente plano (-0,02%) frente a la caída del 0,90% del índice estándar y el -2% del Nasdaq.",
+      "El PIB del tercer trimestre de Francia cayó un 0,1% frente al crecimiento esperado del +0,1%.",
+      "La emisión de bonos de Microsoft por 25.000 millones de dólares recibió cuatro veces más demanda que la oferta disponible."
+    ],
+    "riesgos_mencionados": [
+      "Precios excesivos en chips y componentes de memoria que frenan la renovación de ordenadores y equipos.",
+      "Quema descontrolada de flujo de caja libre por las enormes inversiones en inteligencia artificial sin retorno inmediato.",
+      "Riesgo de ciberseguridad tras el ataque multimillonario a Binance que merma la confianza en criptoactivos.",
+      "Presión inflacionista derivada del encarecimiento continuado del petróleo y los destilados.",
+      "Riesgo de escalada militar abierta entre EE. UU., Israel y actores en Oriente Medio tras los comicios estadounidenses."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

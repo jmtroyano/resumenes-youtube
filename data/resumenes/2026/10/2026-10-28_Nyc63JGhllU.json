@@ -1,0 +1,67 @@
+{
+  "video_id": "Nyc63JGhllU",
+  "url": "https://www.youtube.com/watch?v=Nyc63JGhllU",
+  "titulo": "La inversión que gana un 26% anualizado sin depender de la dirección de los mercados",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-28T15:45:24+00:00",
+  "fecha_resumen": "2026-10-30T10:19:40.609861+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos y JJ Montoya presentan la estrategia de derivados 'Invertopia Opciones III', la cual busca generar rentabilidad descorrelacionada de la dirección de la bolsa. Explican que el enfoque se basa en tres pilares analíticos: análisis técnico del precio, volatilidad implícita y estructuras de gamma de los creadores de mercado. Se detallan los resultados históricos de la estrategia, que arrojan una rentabilidad anualizada superior al 26% con una correlación de apenas el 10% respecto al S&P 500, haciendo hincapié en la disciplina, el control del drawdown y la gestión del riesgo.",
+    "ideas_clave": [
+      "La estrategia 'Invertopia Opciones III' obtuvo una rentabilidad anualizada neta de comisiones del 26,54% entre mayo de 2025 y septiembre de 2026.",
+      "El enfoque presenta una correlación de solo el 10% con el S&P 500, logrando rentabilidades positivas en 15 de los 17 meses analizados.",
+      "JJ Montoya estructura su toma de decisiones en tres variables: análisis técnico (soportes y resistencias del S&P 500), nivel y estructura de volatilidad (VIX), y posicionamiento de gamma de los dealers.",
+      "La operativa se organiza en tres pilares tácticos: flujos (captura de movimientos por desequilibrio de coberturas de dealers), estrategias neutrales (captura de theta/paso del tiempo mediante mariposas) y volatilidad (cobertura o venta de volatilidad).",
+      "El mercado de opciones 0DTE tiene una influencia diaria crítica en las dinámicas intradiarias y en la aceleración o compresión de movimientos del S&P 500.",
+      "Ante caídas o drawdowns, la clave operativa reside en la paciencia, la gestión estricta del riesgo y el ajuste de strikes o coberturas con futuros en lugar de reaccionar impulsivamente."
+    ],
+    "tesis_principal": "El mercado de opciones financieras permite generar rentabilidades atractivas y consistentes aprovechando la volatilidad, el paso del tiempo y las distorsiones de posicionamiento de los creadores de mercado sin depender de que la bolsa suba o baje.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Análisis técnico",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "VIX",
+      "SPY"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "No emiten una visión direccional alcista o bajista sobre la bolsa; defienden que los índices pasan cerca del 80% del tiempo en rango lateral y diseñan estrategias no direccionales."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Rentabilidad anualizada de la estrategia Invertopia Opciones III de +26,54% neta de comisiones (mayo 2025 a septiembre 2026).",
+      "La estrategia logró resultados positivos en 15 de 17 meses, con un peor mes de -2,19% y el mejor mes de +4,37%.",
+      "Evolución hipotética de 100.000 € que alcanzaron 137.610 € en el periodo evaluado sin reinvertir beneficios.",
+      "En el 3T de 2026 la rentabilidad fue del +8,04% con una volatilidad anualizada del 16,61% (ratio rentabilidad/volatilidad de 1,60).",
+      "Correlación del 10% con el S&P 500 entre el 01/09/2025 y el 30/09/2026.",
+      "Cerca del 80% del tiempo los índices bursátiles se mueven en rangos laterales y solo el 20% en tendencia clara."
+    ],
+    "riesgos_mencionados": [
+      "Movimientos direccionales repentinos y muy violentos que superan las coberturas iniciales y generan drawdowns.",
+      "Riesgo de pérdida parcial o total del capital en la operativa con derivados financieros.",
+      "Falta de paciencia y disciplina emocional, que puede llevar a cerrar operaciones precipitadamente antes de que maduren o a operar con euforia tras meses muy buenos.",
+      "Apalancamiento excesivo y uso de tamaños de posición inadecuados para el capital de la cuenta (operar SPX con cuentas pequeñas en vez de recurrir a opciones sobre SPY)."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "JJ Montoya"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
