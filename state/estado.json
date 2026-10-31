@@ -520,20 +520,12 @@
   "r0Jq0-8w_Jg": "2026-10-30T18:14:26.704698+00:00",
   "FonAxIgUBck": "2026-10-30T18:15:50.266135+00:00",
   "hVUaThubd4s": "2026-10-30T22:29:42.153088+00:00",
-  "HhuhcGOnAnA": "2026-10-31T05:53:27.777771+00:00"
+  "HhuhcGOnAnA": "2026-10-31T05:53:27.777771+00:00",
+  "q97cFH9L1LY": "2026-10-31T19:22:35.758809+00:00",
+  "s4MYKqgtfls": "2026-10-31T19:27:35.103384+00:00",
+  "efETrV4hJIA": "2026-10-31T19:30:12.104437+00:00"
  },
- "cola": [
-  {
-   "video_id": "efETrV4hJIA",
-   "titulo": "No pánico, gran rotación en bolsa, de momento -  Las 4 claves de la semana  Cárpatos",
-   "url": "https://www.youtube.com/watch?v=efETrV4hJIA",
-   "publicado": "2026-10-31T12:06:19+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-10-31T12:41:35.029763+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",

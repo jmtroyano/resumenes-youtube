@@ -1,0 +1,131 @@
+{
+  "video_id": "s4MYKqgtfls",
+  "url": "https://www.youtube.com/watch?v=s4MYKqgtfls",
+  "titulo": "Por Esto IREN Puede Ser De Las Pocas Neoclouds Que Sobrevivan",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-31T18:00:22+00:00",
+  "fecha_resumen": "2026-10-31T19:27:32.332646+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado estadounidense atraviesa una corrección liderada por el sector tecnológico debido al desmesurado gasto en capital (capex) y la fuerte quema de caja en proyectos de inteligencia artificial. Las compañías de infraestructuras neocloud han sufrido un duro desplome en octubre, contagiadas por el cierre de los mercados de deuda y el retraso en inversiones de gigantes como Microsoft. Dentro de este sector castigado, IREN destaca como una de las pocas firmas con contratos firmados, financiación garantizada y capacidad real para beneficiarse del déficit estructural de centros de datos previsto para 2028.",
+    "ideas_clave": [
+      "Las Big Tech están quemando caja a ritmo récord para financiar la IA: Google reportó un flujo de caja libre negativo de -9.065 millones de dólares en el 3T y destina 89 de cada 100 dólares de caja operativa a capex.",
+      "El sector neocloud sufrió caídas de entre el 37% y el 52% en octubre debido al cierre de los mercados de deuda, el aumento de los CDS y la venta masiva de bonos de CoreWeave.",
+      "Damodaran valoró la salida a bolsa de Anthropic en 447,34 dólares por acción frente a los 525 dólares rumoreados; sin embargo, Antonio Hidalgo argumenta que aplicando una tasa de descuento realista del 25% la empresa valdría un 70% menos.",
+      "Intel sufrió la mayor caída de su historia bursátil (cerca del 30%) no por sus cifras del 3T, que superaron expectativas, sino por una débil guía para el 4T provocada por la falta de memoria y el encarecimiento de los PC.",
+      "Hyperliquid repuntó un 25% semanal tras la entrada de Stan Druckenmiller como inversor y el acuerdo con ICE (dueña de la Bolsa de Nueva York) para lanzar futuros perpetuos de acciones en EE. UU.",
+      "A pesar de caer un 41% en octubre, IREN cuenta con catalizadores alcistas: contrato de 9.700 millones de dólares con Microsoft, 363 millones de dólares en financiación asegurada con GPUs y un déficit global estimado de 49 GW en centros de datos para 2028.",
+      "Se presentan estrategias con opciones para operar con riesgo acotado en activos de alta volatilidad implícita como PayPal, Hyperliquid e IREN mediante túneles alcistas y ventas de put protegidas."
+    ],
+    "tesis_principal": "El mercado está castigando con severidad la excesiva quema de caja y endeudamiento de las grandes tecnológicas en inteligencia artificial, lo que provocará la quiebra y consolidación de la gran mayoría de las más de 200 empresas de neocloud; no obstante, IREN cuenta con los contratos, financiación y métricas necesarias para ser una de las pocas supervivientes y revalorizarse.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Resultados empresariales",
+      "Valoración de mercado y burbujas",
+      "Análisis técnico",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq Composite",
+      "VIX",
+      "IREN",
+      "GOOGL",
+      "MSFT",
+      "AMZN",
+      "INTC",
+      "PYPL",
+      "SPURR",
+      "CIFR",
+      "CRWV",
+      "NBIS",
+      "NVDA",
+      "META"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El Nasdaq y el S&P 500 han entrado en una fase de corrección con picos de volatilidad en el VIX y el índice Fear & Greed rozando el miedo extremo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El mercado desconfía de la rentabilidad a corto plazo del capex masivo en IA y castiga duramente la quema de flujo de caja libre de las Big Tech y neoclouds."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El colapso de Intel y los cuellos de botella en sustratos y chips de memoria generan dudas sobre el suministro de hardware para servidores y PC."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Compañías como Microsoft y PayPal reportaron números sólidos, pero los inversores castigan de forma implacable cualquier guía futura débil o aumento desmedido de costes."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Se cuestionan las valoraciones excesivas de salidas a bolsa como la de Anthropic y los modelos de negocio basados en deuda sin ingresos sostenibles."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La inmensa mayoría de las más de 200 compañías neocloud desaparecerán o se consolidarán por el cierre de los mercados de deuda, quedando solo unos pocos ganadores como IREN.",
+        "activo_o_variable": "Sector Neocloud / IREN",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Habrá un déficit global estructural de capacidad en centros de datos de 49 GW en 2028, con una demanda de 327 GW frente a una oferta de 278 GW.",
+        "activo_o_variable": "Capacidad de centros de datos de IA",
+        "direccion": "sube",
+        "horizonte": "2028",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si a la valoración de Anthropic se le aplica un coste de capital exigente del 25% en vez del 9,74% de Damodaran, su valor se reducirá un 70% hasta unos 448 millones de dólares.",
+        "activo_o_variable": "Valoración de salida a bolsa de Anthropic",
+        "direccion": "baja",
+        "horizonte": "salida a bolsa",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Nasdaq Composite cayó un 2,27% en la semana y el índice VIX repuntó más de un 12% alcanzando niveles intradía de 24 puntos.",
+      "Alphabet registró un flujo de caja libre negativo de -9.065 millones de dólares en el 3T frente a los +24.551 millones del año anterior, destinando 89 de cada 100 dólares de caja a capex.",
+      "El flujo de caja libre a 12 meses de Amazon se deterioró hasta -42.357 millones de dólares en comparación con los +14.788 millones previos.",
+      "Las acciones neocloud cayeron de media un 41% en octubre: CIFR -52%, IREN -41%, CRWV -40% y NBIS -27%.",
+      "Damodaran calculó un valor por acción para Anthropic de 447,34 dólares (1,475 billones de valor de equity) frente al rango rumoreado de salida de 525 dólares.",
+      "Intel presentó ingresos del 3T por 16.500 millones de dólares y BPA de 0,52 dólares, pero redujo su guía de ingresos del 4T a un rango de 15.000-16.000 millones frente a los 17.050 millones previstos.",
+      "IREN cuenta con un contrato firmado con Microsoft de 9.700 millones a 5 años, una financiación de 363 millones asegurada por sus GPUs y un ARR contratado para 2026 de más de 4.000 millones de dólares."
+    ],
+    "riesgos_mencionados": [
+      "Cierre de los mercados de deuda para empresas que carecen de flujos de caja independientes y recurrentes.",
+      "Compromisos masivos de inversión en IREN de hasta 13.800 millones de dólares en 12 meses junto a un programa de emisión ATM de 6.000 millones que amenaza con fuerte dilución.",
+      "Estructura accionarial de Anthropic con 5 clases de acciones donde 7 cofundadores retienen el 50,1% del voto, dejando indefenso al inversor minorista.",
+      "Escasez de sustratos y componentes de memoria que frenan las ventas de servidores Xeon y encarecen los ordenadores de sobremesa.",
+      "Posibles retrasos en la entrega y puesta en marcha de megavatios e infraestructuras contratadas con terceros en proyectos como Horizon."
+    ],
+    "participantes": [
+      "Antonio Hidalgo"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

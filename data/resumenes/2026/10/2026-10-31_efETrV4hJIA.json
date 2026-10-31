@@ -1,0 +1,151 @@
+{
+  "video_id": "efETrV4hJIA",
+  "url": "https://www.youtube.com/watch?v=efETrV4hJIA",
+  "titulo": "No pánico, gran rotación en bolsa, de momento -  Las 4 claves de la semana  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-31T12:06:19+00:00",
+  "fecha_resumen": "2026-10-31T19:30:09.425975+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado no ha entrado en pánico generalizado sino en una intensa rotación sectorial desde las tecnológicas ligadas a la inteligencia artificial hacia sectores defensivos y de valor. A pesar de las fuertes caídas en el sector tecnológico provocadas por el desmedido endeudamiento y el deterioro del flujo de caja libre, los índices se mantienen en niveles de soporte técnico clave. Si estos soportes aguantan, la estacionalidad histórica post-elecciones de medio término y de fin de año es sumamente favorable para las bolsas.",
+    "ideas_clave": [
+      "Rotación defensiva: Mientras las cestas de IA y centros de datos de Goldman Sachs se desplomaron entre un 7% y un 8%, sectores defensivos como energía (+1,91%), consumo básico (+1,38%) y utilities (+0,64%) cerraron en verde.",
+      "El S&P 500 equiponderado (RSP) subió un 5% en octubre, evidenciando que el mercado amplio resiste bien frente a la carnicería en megacaps tecnológicas.",
+      "Crisis de rentabilidad en IA: Los gigantes tecnológicos han emitido más de 570.000 millones de dólares en deuda para financiar capex en IA, llevando el flujo de caja libre a terreno negativo (Alphabet y Amazon registraron cifras negativas de FCF alarmantes).",
+      "Puntos críticos de venta sistemática (CTAs): Según Nomura/McElligott, una caída del 2% en el S&P 500 desataría ventas automáticas por 110.000 millones de dólares, mientras que perder los 7.606 y 7.450 puntos activaría fuertes ventas de medio y largo plazo.",
+      "Estacionalidad histórica alcista: Desde 1950, en 19 de 19 ocasiones el S&P 500 ha estado en positivo a 6 meses de las elecciones legislativas de medio término (+13,8% de rentabilidad media), y noviembre es estadísticamente el mejor mes del año (+1,9% de media).",
+      "Petróleo al alza e inflación: El barril Brent escaló a 113 USD y el WTI a 104 USD ante tensiones con Irán y ataques a refinerías, amenazando con un rebrote inflacionario que podría forzar a los bancos centrales a subir tipos en diciembre."
+    ],
+    "tesis_principal": "No estamos ante un derrumbe general de las bolsas sino ante una rotación desde la burbuja de gasto excesivo en inteligencia artificial hacia sectores tradicionales, con índices que aún respetan soportes técnicos y encaran una ventana estacional muy alcista hacia fin de año.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Inflación",
+      "Análisis técnico",
+      "Liquidez y crédito",
+      "Oro y metales",
+      "Criptomonedas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "MAGS ETF",
+      "SMH ETF",
+      "VFLO ETF",
+      "Petróleo Brent",
+      "Petróleo WTI",
+      "Oro",
+      "Bitcoin",
+      "Intel",
+      "Alphabet",
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Broadcom",
+      "Apple"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Los soportes técnicos aguantan y la estacionalidad de noviembre y de las midterm elections es muy alcista, aunque la fragilidad técnica de las megacaps es alta."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El gasto en capex y centros de datos es insostenible, los flujos de caja libre se hunden y el mercado castiga duramente las valoraciones infladas."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Actúan como valor refugio frente a la caída tecnológica, pero tipos al 10 años por encima del 5% suponen un freno para la renta variable."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Escalada por riesgo de conflicto bélico con Irán y ataques a refinerías rusas empujando el Brent sobre 113 USD."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Pérdida del soporte psicológico y técnico clave de los 4.000 USD y ruptura de la banda Mogalef y media de 100 semanas."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Corrección técnica hacia soportes tras el robo millonario en Binance que socava la confianza del inversor."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si los soportes en la media de 200 y bandas Mogalef aguantan, el S&P 500 experimentará un rally de fin de año impulsado por estacionalidad y cierre de cortos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "2 meses",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el futuro del S&P 500 cotiza con claridad por debajo de 7.606 y especialmente 7.450, los CTAs iniciarán ventas agresivas de medio y largo plazo.",
+        "activo_o_variable": "Futuro S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La Reserva Federal, el BCE y el Banco de Japón subirán tipos de interés en sus reuniones de diciembre.",
+        "activo_o_variable": "Tipos de interés globales",
+        "direccion": "sube",
+        "horizonte": "diciembre 2026",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Podría ser una buena oportunidad ponerse corto de petróleo en el primer semestre de 2027 si se alcanzan acuerdos de paz en Oriente Medio y Ucrania.",
+        "activo_o_variable": "Petróleo",
+        "direccion": "baja",
+        "horizonte": "1S 2027",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Cesta de IA de Goldman Sachs cayó un 8,25% y la de centros de datos un 7,35% en una sola sesión de viernes.",
+      "El sectorial de consumo básico tocó nuevos máximos históricos impulsado por valores como Colgate y Mondelez.",
+      "Emisiones de deuda acumuladas para financiar IA alcanzan 572.000 millones de dólares en lo que va de año.",
+      "El capex de los hiperescaladores de IA proyecta pasar de 240.000 millones de dólares en 2024 a 1,2 billones en 2027, mientras su FCF pasaría de +240.000 millones a -180.000 millones.",
+      "El diferencial de crédito exigido a bonos vinculados a IA duplica al de bonos comparables sin exposición a IA (139 pb frente a 76 pb en grado de inversión).",
+      "Estudio de JPMorgan muestra que históricamente el PER del S&P 500 empieza a deteriorarse a partir de que el rendimiento del bono a 10 años supera el 5%-6%."
+    ],
+    "riesgos_mencionados": [
+      "Asimetría de flujos cuantitativos: las ventas forzadas ante caídas son mucho mayores que las compras ante subidas.",
+      "Riesgo de escalada militar directa contra Irán tras las elecciones legislativas.",
+      "Presión inflacionaria reavivada por el encarecimiento de la energía que obligue a los bancos centrales a endurecer tipos.",
+      "Ruptura de soportes técnicos en 7.606/7.450 puntos en el S&P 500 que desataría ventas masivas de CTAs.",
+      "Destrucción de margen por exceso de capex e insostenibilidad de valoraciones en el sector IA."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "J.J. Montoya (mencionado)",
+      "Michael Hartnett (citado)",
+      "Charlie McElligott (citado)"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

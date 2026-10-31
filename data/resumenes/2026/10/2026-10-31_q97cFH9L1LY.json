@@ -1,0 +1,77 @@
+{
+  "video_id": "q97cFH9L1LY",
+  "url": "https://www.youtube.com/watch?v=q97cFH9L1LY",
+  "titulo": "METAPLANET Bajo Sospecha: La Decisión de su CEO que Ha Roto la Confianza de los Inversores",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-10-31T19:00:04+00:00",
+  "fecha_resumen": "2026-10-31T19:22:34.405827+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Javier Caballero explica los motivos por los cuales decidió vender toda su posición en la empresa japonesa Metaplanet, conocida por emular la estrategia de tesorería en Bitcoin de MicroStrategy. La venta se produjo tras una polémica decisión de su CEO, Simon Gerovich, quien ejecutó un millonario paquete de opciones sobre acciones justo mientras el consejo preparaba un recorte del plan de compensación. Aunque ambos participantes reconocen que la compañía puede beneficiarse del ciclo alcista de Bitcoin, discrepan sobre mantener la inversión: Caballero prioriza la alineación ética del equipo gestor, mientras que el entrevistador opta por mantener esperando una recuperación.",
+    "ideas_clave": [
+      "Javier Caballero liquidó por completo su posición en Metaplanet tras considerar rota la confianza en la directiva de la empresa.",
+      "El plan de 'stock options' de Metaplanet crecía proporcionalmente con cada emisión de acciones para comprar Bitcoin, pasando el total de acciones de 46 a 319 millones y representando un 20% 'fully diluted'.",
+      "Durante el periodo de revisión en el que el consejo planeaba congelar y recortar el plan de incentivos, el CEO Simon Gerovich ejecutó 64 millones de acciones a 10 yenes mientras cotizaban a 350 yenes.",
+      "Posteriormente a la ejecución de las opciones por parte del CEO, el plan de compensación directiva fue recortado en un 40%.",
+      "Javier Caballero defiende como regla innegociable no invertir con directivos que anteponen su beneficio personal y diluyen a sus accionistas de manera cuestionable.",
+      "El entrevistador reconoce la gravedad del comportamiento ético de la directiva, pero mantiene sus acciones confiando en el ciclo alcista de Bitcoin y una mayor fiscalización futura."
+    ],
+    "tesis_principal": "Una directiva que antepone su interés personal diluyendo a los accionistas rompe la confianza y el principio innegociable de alineación de intereses, justificando la venta total de la acción independientemente de lo atractiva que sea la tesis subyacente en Bitcoin.",
+    "temas": [
+      "Criptomonedas",
+      "Value investing"
+    ],
+    "activos_mencionados": [
+      "Metaplanet",
+      "MicroStrategy",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Ambos participantes coinciden en que el ciclo alcista de Bitcoin continúa y beneficiará a las empresas con tesorerías en el activo."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "Severa crítica al gobierno corporativo y a la falta de alineación de intereses del equipo directivo de Metaplanet por diluir masivamente a los accionistas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Metaplanet se beneficiará del ciclo alcista de Bitcoin y su negocio funcionará bien en bolsa a pesar de la polémica",
+        "activo_o_variable": "Metaplanet",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El número de acciones de Metaplanet aumentó de 46 a 319 millones para financiar la compra de Bitcoin.",
+      "El plan de opciones sobre acciones otorgaba a un reducido grupo de directivos hasta un 20% del total diluido de la empresa.",
+      "El CEO ejecutó 64 millones de acciones a un precio de ejercicio de 10 yenes por acción cuando el valor de mercado rondaba los 350 yenes.",
+      "Tras la maniobra del CEO, el consejo de administración redujo el plan de compensación directiva en un 40%."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de agencia y desalineación entre el equipo directivo y los accionistas.",
+      "Dilución masiva del accionariado mediante planes desproporcionados de 'stock options'.",
+      "Destrucción de la reputación corporativa y pérdida de confianza del mercado institucional."
+    ],
+    "participantes": [
+      "Javier Caballero",
+      "Entrevistador"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
