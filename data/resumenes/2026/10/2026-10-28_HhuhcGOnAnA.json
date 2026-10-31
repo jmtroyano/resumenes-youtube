@@ -1,0 +1,157 @@
+{
+  "video_id": "HhuhcGOnAnA",
+  "url": "https://www.youtube.com/watch?v=HhuhcGOnAnA",
+  "titulo": "Corea anima tecnología pero en mercado dividido - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-10-28T08:00:08+00:00",
+  "fecha_resumen": "2026-10-31T05:53:24.949649+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión abre con fuerte divergencia en los mercados: el sector tecnológico y de semiconductores rebota con vigor impulsado por los excelentes resultados de la surcoreana SK Hynix y grandes acuerdos de financiación en inteligencia artificial, mientras que el resto del mercado muestra debilidad y una amplitud negativa. Al mismo tiempo, el petróleo sube con fuerza ante tensiones geopolíticas en refinerías saudíes y caída de inventarios, lo que empuja el rendimiento del bono estadounidense a 10 años por encima del 5% y reaviva los temores de inflación. La atención de la jornada se centra en la reunión de la Reserva Federal, prevista con división interna, y en los resultados trimestrales de Microsoft y Alphabet al cierre.",
+    "ideas_clave": [
+      "Divergencia marcada en la bolsa: el Nasdaq sube apoyado en la tecnología, pero la amplitud de mercado es pobre (el ETF equiponderado RSP cayó un 0,22% la víspera y el 60% de los valores del S&P 500 bajaron).",
+      "El sector de semiconductores y memoria repunta globalmente tras dispararse SK Hynix un 10,8% en la bolsa coreana gracias a unos resultados sobresalientes.",
+      "El mercado celebra acuerdos de capital y financiación alternativa en IA por más de 200.000 millones de dólares (Meta, Broadcom/Anthropic y SpaceX), aunque Cárpatos advierte de que el descomunal capex exigirá justificar altas rentabilidades.",
+      "El crudo repunta con fuerza (Brent en 116 $ y WTI sobre 102 $) debido al objetivo de UBS de 110 $, el ataque hutí reportado contra la refinería de Ras Tanura y el desplome inesperado de inventarios API (-2,03 millones de barriles).",
+      "La TIR del bono estadounidense a 10 años vuelve a superar el 5% (5,03%), presionada por el encarecimiento energético y la falta de compras de refugio.",
+      "Reunión clave de la Reserva Federal: JP Morgan prevé al menos dos votos disidentes y tensiones internas en una decisión condicionada por la cercanía de las elecciones.",
+      "Análisis técnico del S&P 500: fuerte resistencia entre 7.800 y 7.900 puntos (con proyección a 8.050 si se supera) y soporte sólido consolidado entre 7.500 y 7.650 puntos."
+    ],
+    "tesis_principal": "El mercado experimenta un rebote técnico liderado exclusivamente por la inteligencia artificial y los semiconductores tras los resultados de SK Hynix, pero la subida carece de amplitud y se ve amenazada por las presiones inflacionistas del petróleo y el repunte de los rendimientos de los bonos por encima del 5%.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Energía y petróleo",
+      "Bonos y renta fija",
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Bolsa EE. UU.",
+      "Resultados empresariales",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nasdaq",
+      "S&P 500",
+      "RSP (Invesco S&P 500 Equal Weight ETF)",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Nikkei",
+      "Bolsa de Corea (KOSPI)",
+      "SK Hynix",
+      "Micron Technology",
+      "Meta Platforms",
+      "Broadcom",
+      "Anthropic",
+      "SpaceX",
+      "Microsoft",
+      "Alphabet",
+      "Banco Santander",
+      "Petróleo WTI",
+      "Petróleo Brent",
+      "Bono EE. UU. 10 años",
+      "Bund alemán",
+      "Oro",
+      "Bitcoin",
+      "EUR/USD",
+      "USD/JPY"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El sector rebota con fuerza por la financiación alternativa conseguida y el impulso de los chips, aunque persisten dudas sobre la rentabilidad del capex."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Los excelentes resultados de SK Hynix provocaron una subida de casi el 11% en el valor contagiando al resto del sector."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "Sube más del 2% impulsado por problemas de refinado tras ataques en Arabia Saudí, inventarios mínimos y revisiones al alza de precios."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El aumento sostenido del petróleo y los cuellos de botella en refinerías provocarán un calentamiento de la inflación muy superior a lo estimado."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las ventas de bonos aumentan ante el riesgo de inflación y menor demanda de refugio, elevando la rentabilidad del 10 años sobre el 5%."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El índice general se mantiene plano y con mala amplitud interna, sostenido únicamente por el peso de las grandes tecnológicas."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "Se espera división en el comité con votos disidentes debido a la inflación descontrolada frente al contexto político preelectoral."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La inflación se va a calentar mucho más de lo previsto por la Reserva Federal y los bancos de inversión debido a la tensión en el petróleo y refinerías.",
+        "activo_o_variable": "Inflación en EE. UU.",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El precio del petróleo Brent alcanzará los 110 dólares a finales de año según la previsión de UBS que Cárpatos considera acertada.",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "sube",
+        "horizonte": "finales de año",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el S&P 500 supera la resistencia de los 7.900 puntos, podría extender su avance hasta la zona de 8.000-8.050 puntos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "SK Hynix se disparó un 10,8% en la bolsa de Corea, llevando al índice bursátil coreano a subir más del 6%.",
+      "Meta levanta 97.500 millones de dólares en acciones (25.000 M en clase A, 12.500 M en convertibles y 60.000 M en clase C), Broadcom acuerda 63.000 M y SpaceX 40.000 M para financiar infraestructura de IA.",
+      "La amplitud de mercado fue muy negativa: el 60% de las acciones del S&P 500 cerraron en negativo la jornada anterior.",
+      "El petróleo Brent cotiza a 116,16 $ (+2%) y el WTI a 102,14 $ (+2,24%).",
+      "Los inventarios de petróleo según el API cayeron en 2,03 millones de barriles frente al incremento esperado de 800.000 barriles.",
+      "Las reservas estratégicas de petróleo de EE. UU. se encuentran en mínimos desde 1982.",
+      "La TIR del bono americano a 10 años cotiza al 5,03%.",
+      "Al cierre anterior se registraron 3.300 millones de dólares en órdenes MOC netamente vendedoras con volumen bajo (16.300 millones frente a una media de 18.500 millones).",
+      "El indicador Fear & Greed de la CNN se sitúa en 34 (zona de miedo)."
+    ],
+    "riesgos_mencionados": [
+      "Cuellos de botella en la capacidad de refinado a nivel mundial y ataques a infraestructuras petrolíferas estratégicas como Ras Tanura.",
+      "Repunte descontrolado de la inflación impulsado por la energía que obligue a mantener tipos de interés más altos por más tiempo.",
+      "Sobreendeudamiento y dudas sobre el retorno de la inversión (ROI) en los gigantescos planes de gasto de capital (capex) en inteligencia artificial.",
+      "Mala amplitud de mercado en los índices estadounidenses con excesiva concentración en megacapitalizaciones tecnológicas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

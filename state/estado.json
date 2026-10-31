@@ -519,30 +519,10 @@
   "91SL2W3S6uM": "2026-10-30T18:09:06.402185+00:00",
   "r0Jq0-8w_Jg": "2026-10-30T18:14:26.704698+00:00",
   "FonAxIgUBck": "2026-10-30T18:15:50.266135+00:00",
-  "hVUaThubd4s": "2026-10-30T22:29:42.153088+00:00"
+  "hVUaThubd4s": "2026-10-30T22:29:42.153088+00:00",
+  "HhuhcGOnAnA": "2026-10-31T05:53:27.777771+00:00"
  },
- "cola": [
-  {
-   "video_id": "HhuhcGOnAnA",
-   "titulo": "Corea anima tecnología pero en mercado dividido - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=HhuhcGOnAnA",
-   "publicado": "2026-10-28T08:00:08+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-28T13:03:31.862815+00:00"
-  },
-  {
-   "video_id": "rcHxsF7OjrY",
-   "titulo": "Carnicería tecnológica se contagia a todo - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=rcHxsF7OjrY",
-   "publicado": "2026-10-30T16:24:33+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-10-30T18:03:01.163538+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
@@ -555,7 +535,8 @@
   "-XDwrs2D3-w": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "3wGpp2cBM_A": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "KKK_6L1Cyq0": "The read operation timed out",
-  "Tq5QnM5bwbk": "Server disconnected without sending a response."
+  "Tq5QnM5bwbk": "Server disconnected without sending a response.",
+  "rcHxsF7OjrY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
