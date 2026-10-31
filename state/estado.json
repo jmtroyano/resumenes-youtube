@@ -522,7 +522,18 @@
   "hVUaThubd4s": "2026-10-30T22:29:42.153088+00:00",
   "HhuhcGOnAnA": "2026-10-31T05:53:27.777771+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "efETrV4hJIA",
+   "titulo": "No pánico, gran rotación en bolsa, de momento -  Las 4 claves de la semana  Cárpatos",
+   "url": "https://www.youtube.com/watch?v=efETrV4hJIA",
+   "publicado": "2026-10-31T12:06:19+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-10-31T12:41:35.029763+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
@@ -536,7 +547,8 @@
   "3wGpp2cBM_A": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "KKK_6L1Cyq0": "The read operation timed out",
   "Tq5QnM5bwbk": "Server disconnected without sending a response.",
-  "rcHxsF7OjrY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "rcHxsF7OjrY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "fJVfbeoWBYg": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
  },
  "aviso_config": null
 }
