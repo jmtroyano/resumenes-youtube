@@ -1,0 +1,106 @@
+{
+  "video_id": "h9P2KoPw5js",
+  "url": "https://www.youtube.com/watch?v=h9P2KoPw5js",
+  "titulo": "IA: El abogado del diablo - Las cuentas no salen - Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-01T08:30:18+00:00",
+  "fecha_resumen": "2026-11-01T13:38:42.874008+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos ejerce de 'abogado del diablo' para analizar la viabilidad económica del auge de la inteligencia artificial. Expone la enorme brecha existente entre el descomunal gasto de capital (Capex) y endeudamiento de las grandes tecnológicas frente a los reducidos ingresos reales que genera la tecnología actualmente. Concluye trazando un paralelismo directo con la burbuja de las telecomunicaciones y la fibra oscura de 2001-2002, donde la demanda tardó años en llegar y los inversores iniciales sufrieron pérdidas masivas.",
+    "ideas_clave": [
+      "Monetización insuficiente en particulares: solo el 5,6% de los usuarios semanales de ChatGPT paga suscripción (94,4% es gratuito), y en EE. UU. apenas entre el 2,2% y el 3% de los hogares paga por herramientas de IA.",
+      "Baja adopción corporativa real: aunque el 40% de las empresas tiene suscripciones oficiales, las encuestas del Census indican que menos del 20% utiliza IA de forma relevante.",
+      "Explosión de Capex frente a ingresos: el gasto de capital conjunto de Microsoft, Alphabet, Amazon y Meta se multiplica por cinco (de 151.000 millones de dólares en 2023 a una previsión de 760.000 millones en 2026 y 935.000 millones en 2027).",
+      "Brecha insostenible de rentabilidad: según cálculos de J.P. Morgan, se requerirían 650.000 millones de dólares anuales en ingresos para rentabilizar el Capex con un 10%, mientras que el gasto total actual entre empresas y particulares ronda solo 77.000 millones.",
+      "Compromisos fuera de balance y titulización de deuda: los compromisos opacos fuera de balance de los hiperescaladores alcanzan los 4,1 billones de dólares, y los bancos están reempaquetando deuda ligada a IA para colocarla en aseguradoras y fondos de pensiones al estilo de las hipotecas subprime.",
+      "Contabilidad agresiva en chips: Michael Burry advierte que las tecnológicas amortizan los chips a 6 años cuando su vida útil intensiva real es de 1 a 3 años, lo que implicaría infravalorar la amortización en 176.000 millones de dólares.",
+      "Paralelismo histórico con el año 2001: durante la burbuja de las telecomunicaciones el 95-98% de la fibra óptica tendida quedó apagada ('fibra oscura') y múltiples operadoras quebraron porque la demanda no llegó a tiempo, un patrón que amenaza con repetirse en los centros de datos."
+    ],
+    "tesis_principal": "El auge de la inteligencia artificial presenta una burbuja insostenible impulsada por un Capex y endeudamiento desorbitados que no guardan relación con la reducida demanda de pago actual, lo que anticipa una fuerte corrección bursátil y pérdidas para los inversores similar al colapso de las telecomunicaciones en 2001.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Valoración de mercado y burbujas",
+      "Bolsa EE. UU.",
+      "Resultados empresariales",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "OpenAI",
+      "ChatGPT",
+      "Alphabet",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Nvidia",
+      "Broadcom",
+      "Oracle",
+      "SpaceX",
+      "CoreWeave"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.75,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Las inversiones multimillonarias no se traducen en ingresos suficientes y la tasa de conversión a usuarios de pago es mínima."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Existe un ciclo de retroalimentación de euforia bursátil y emisión de deuda que colapsará si las cotizaciones caen o si los ingresos no acompañan al Capex."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Una corrección en las grandes tecnológicas que lideran los índices arrastraría con fuerza al conjunto del mercado."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El empaquetamiento de deuda de IA vendido a fondos de pensiones y aseguradoras genera un riesgo sistémico alertado incluso por el FMI."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La demanda de monetización de la inteligencia artificial no llegará a tiempo para cubrir las descomunales inversiones realizadas, desembocando en una limpieza de mercado y fuertes pérdidas para quienes invierten en el sector.",
+        "activo_o_variable": "Sector tecnológico / Acciones de IA",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "De 900 millones de usuarios semanales de ChatGPT, solo unos 50 millones pagan suscripción (5,6%).",
+      "Solo el 2,2% al 3% de los hogares estadounidenses paga por herramientas de IA generativa, frente al 25% suscrito a streaming de vídeo.",
+      "El Capex combinado de Microsoft, Alphabet, Amazon y Meta pasará de 151.000 millones de dólares en 2023 a 760.000 millones estimados en 2026 y 935.000 millones en 2027.",
+      "Para rentabilizar el Capex al 10%, J.P. Morgan estima necesarios 650.000 millones de dólares anuales en ingresos; equivaldría a que cada usuario de iPhone pagara 34,72 dólares al mes de por vida.",
+      "Los compromisos fuera de balance de hiperescaladores y tecnológicas clave aumentaron de 1,8 billones a 4,1 billones de dólares entre junio y octubre.",
+      "Previsión OpenAI (2026-2030): quema de caja proyectada en 278.000 millones de dólares en cinco años y necesidad de multiplicar por 10 sus ingresos.",
+      "En la crisis de 2001, entre el 95% y el 98% de la fibra óptica instalada en EE. UU. quedó apagada sin uso, llevando al impago al 25,8% de los bonos corporativos del sector telecomunicaciones."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de burbuja financiera y colapso bursátil similar a las 'puntocom' y a las telecomunicaciones en 2001-2002.",
+      "Riesgo sistémico para fondos de pensiones y aseguradoras al absorber deuda reempaquetada ligada a proyectos de centros de datos e IA.",
+      "Riesgo de desplome de flujo de caja si las valoraciones bursátiles caen y se cierra el grifo del crédito barato y la emisión de acciones.",
+      "Alucinaciones y fallos técnicos estructurales de los modelos que impiden su adopción en sectores críticos como salud.",
+      "Desajuste contable por la sobreestimación del tiempo de amortización útil de los procesadores gráficos (chips)."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
