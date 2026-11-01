@@ -1,0 +1,157 @@
+{
+  "video_id": "6-AzqY6KRWM",
+  "url": "https://www.youtube.com/watch?v=6-AzqY6KRWM",
+  "titulo": "💥 La GENTE no tiene NI IDEA de lo que se ACERCA |👉CRISIS en el MERCADO de BONOS",
+  "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+  "handle": "@Artedeinvertir",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "value investing",
+  "fecha_publicacion": "2026-11-01T17:15:35+00:00",
+  "fecha_resumen": "2026-11-01T19:50:18.850780+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado de bonos global atraviesa una crisis caracterizada por la subida de los rendimientos exigidos a los gobiernos debido al excesivo déficit fiscal, la masiva impresión monetaria y el bajo crecimiento económico. Para hacer frente a esta deuda insostenible, los gobiernos optarán con casi total certeza por 'inflar la deuda' tolerando una inflación superior a la habitual antes que aplicar medidas de austeridad impopulares. En este escenario inflacionario, los bonos y la liquidez pierden poder adquisitivo en términos reales, mientras que activos como acciones (especialmente mercados emergentes y growth), REITs, materias primas y entidades bancarias ofrecen mejores vías de protección y rentabilidad.",
+    "ideas_clave": [
+      "El mercado de bonos estadounidense ($66 billones y más de 60.000 emisiones) supera ampliamente al mercado de acciones ($40 billones) y condiciona directamente los costes de hipotecas, alquileres y deuda empresarial.",
+      "El incremento de las rentabilidades exigidas a la deuda soberana (como el bono a 10 años de EE. UU. superando el 5%) encarece el coste de capital y dispara el gasto en intereses de los Estados.",
+      "Los tres motores detrás de esta tensión son la masiva oferta monetaria creada desde 2020 (un 20% de los dólares en circulación creados en solo 5 años), déficits públicos descontrolados (en torno al 8% en EE. UU.) y un crecimiento económico anémico.",
+      "Entre recortar gasto drásticamente o licuar la deuda mediante mayor inflación, los gobiernos tienen un 99% de probabilidades de elegir inflar la deuda para no perder votos.",
+      "Históricamente, en escenarios de inflación alta y al alza (estudio de J.P. Morgan desde 1988), la renta fija y la liquidez ofrecen retornos reales negativos tras descontar la inflación.",
+      "Los activos mejor posicionados en este contexto histórico han sido las acciones de mercados emergentes (media histórica del 26%), acciones de crecimiento (14%), REITs (12%) y materias primas (11%).",
+      "Los bancos comerciales (como Santander o BBVA) se ven favorecidos por la expansión de márgenes entre el activo y el pasivo con tipos altos, siempre que no acontezca una recesión severa."
+    ],
+    "tesis_principal": "Los gobiernos evitarán el ajuste fiscal y optarán por licuar sus insostenibles niveles de deuda pública permitiendo una inflación persistentemente elevada, lo que destruirá el poder adquisitivo en renta fija y efectivo, obligando a los inversores a refugiarse en acciones de calidad, mercados emergentes, materias primas y activos inmobiliarios cotizados.",
+    "temas": [
+      "Bonos y renta fija",
+      "Deuda pública y déficit",
+      "Inflación",
+      "Inmobiliario y vivienda",
+      "Mercados emergentes",
+      "Bancos",
+      "Materias primas",
+      "Bolsa EE. UU."
+    ],
+    "activos_mencionados": [
+      "Bono de EE. UU. a 10 años",
+      "Bono de Francia a 10 años",
+      "Bono de Japón a 10 años",
+      "iShares 20+ Year Treasury Bond ETF (TLT)",
+      "iShares MSCI Brazil ETF (EWZ)",
+      "S&P 500",
+      "Nasdaq",
+      "Banco Santander",
+      "BBVA",
+      "Alphabet / Google",
+      "Nvidia",
+      "Microsoft",
+      "Netflix",
+      "Oro",
+      "Petróleo",
+      "Cobre",
+      "Aluminio"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Las rentabilidades reales tras inflación son negativas o insuficientes y la espiral de deuda empuja los rendimientos al alza perjudicando el precio del bono."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "Los déficits descontrolados de las principales potencias generan una espiral insostenible de emisiones y gasto en intereses."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Se proyecta una inflación estructuralmente elevada como vía deliberada de los gobiernos para licuar la deuda soberana."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "El encarecimiento abrupto de las hipotecas reduce la asequibilidad, aunque los alquileres y los REITs se adaptan a la inflación exigiendo mayores retornos."
+      },
+      {
+        "tema": "Mercados emergentes",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Cuentan con menores ratios de deuda y cotizan a múltiplos atractivos que se revalorizan con fuerza en periodos inflacionarios en economías desarrolladas."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El entorno de tipos elevados impulsa sus márgenes de intermediación de forma sustancial mientras la mora no repunte por recesión."
+      },
+      {
+        "tema": "Materias primas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.65,
+        "justificacion": "Actúan como cobertura probada frente a la pérdida de valor adquisitivo de las divisas fiduciarias durante fases inflacionarias."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Aunque los índices generales están caros, las acciones de calidad y empresas growth mantienen capacidad de batir a la inflación a largo plazo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los gobiernos elegirán con un 99% de probabilidad licuar e inflar la deuda dejando correr la inflación por encima de lo normal en lugar de aplicar recortes presupuestarios.",
+        "activo_o_variable": "Política fiscal y nivel de inflación",
+        "direccion": "sube",
+        "horizonte": "medio y largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los precios de bienes y servicios tenderán a seguir subiendo debido al traspaso del mayor coste de financiación de las empresas hacia el consumidor.",
+        "activo_o_variable": "Índice de precios de bienes y servicios",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La renta variable a largo plazo superará los episodios de volatilidad y crisis económica continuando su tendencia secular alcista de los últimos 200 años.",
+        "activo_o_variable": "Mercado global de acciones",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El mercado de bonos estadounidense alcanza 66 billones de dólares con más de 60.000 referencias, mientras que el mercado bursátil ronda los 40 billones con unas 5.000 acciones.",
+      "El tamaño agregado del mercado de bonos a nivel mundial supera el producto interior bruto global.",
+      "El rendimiento del bono a 10 años de EE. UU. y Francia ha escalado hacia el 5%, cuando años atrás se financiaban a tasas próximas al 1%.",
+      "Japón ha visto triplicar el tipo exigido a su deuda soberana a 10 años, pasando de cerca del 1% al entorno del 3%.",
+      "Aproximadamente el 20% de toda la oferta monetaria de dólares en circulación fue emitido en un plazo de solo 5 años a raíz de las medidas de 2020.",
+      "El déficit público de Estados Unidos se sitúa en torno al 8%, frente al umbral de sostenibilidad recomendado del 3%.",
+      "Según un informe histórico de J.P. Morgan, en periodos de inflación alta y creciente desde 1988, la renta variable de mercados emergentes promedió un 26% de rendimiento anual medio, acciones de crecimiento un 14%, REITs un 12% y materias primas un 11%, frente al 7% de los bonos y 4% de la liquidez.",
+      "La duración media de una crisis bursátil suele oscilar entre 12 y 13 meses, mientras que los mercados alcistas suelen extenderse entre 50 y 60 meses."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de deuda soberana y desconfianza de los acreedores que fuerce subidas inasumibles de tipos de interés.",
+      "Colapso o devaluación brusca de las divisas fiduciarias principales (dólar y euro) por sobreemisión monetaria.",
+      "Destrucción del poder adquisitivo de ahorradores anclados en liquidez, depósitos bancarios o bonos tradicionales.",
+      "Encarecimiento de costes hipotecarios y de alquiler que asfixie el poder de compra de los hogares.",
+      "Riesgo de recesión económica derivada de tipos de interés demasiado elevados para enfriar la inflación."
+    ],
+    "participantes": [
+      "Alejandro Estebaranz",
+      "Warren Buffett (citado)",
+      "Stanley Druckenmiller (citado)",
+      "Ray Dalio (citado)",
+      "Donald Trump (citado en prensa)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
