@@ -529,7 +529,48 @@
   "6-AzqY6KRWM": "2026-11-01T19:50:21.861820+00:00",
   "1Lp2Wa4Rh7E": "2026-11-02T11:21:24.545707+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "dI7kFRl763g",
+   "titulo": "El Negocio MILLONARIO de Coinbase que NO Depende del Precio de Bitcoin",
+   "url": "https://www.youtube.com/watch?v=dI7kFRl763g",
+   "publicado": "2026-11-02T19:00:31+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
+  },
+  {
+   "video_id": "68b2poS7HCI",
+   "titulo": "Neoclouds siguen mal - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=68b2poS7HCI",
+   "publicado": "2026-11-02T16:08:46+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
+  },
+  {
+   "video_id": "3tXSnlQzUS8",
+   "titulo": "El petróleo se desploma -  Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=3tXSnlQzUS8",
+   "publicado": "2026-11-02T11:35:52+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
+  },
+  {
+   "video_id": "7e6yWdesiK4",
+   "titulo": "¿Qué Pasa con el ORO? ¿Y los SINDICATOS Españoles y el PCCH? | José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=7e6yWdesiK4",
+   "publicado": "2026-11-02T14:04:14+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
