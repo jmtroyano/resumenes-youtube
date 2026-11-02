@@ -1,0 +1,137 @@
+{
+  "video_id": "1Lp2Wa4Rh7E",
+  "url": "https://www.youtube.com/watch?v=1Lp2Wa4Rh7E",
+  "titulo": "Rebote en soportes + petróleo - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-02T08:10:33+00:00",
+  "fecha_resumen": "2026-11-02T11:21:22.822225+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Las bolsas rebotan con fuerza en niveles de soporte técnico clave como la media de 200 sesiones en el Nasdaq 100 y el S&P 500. El impulso se ve favorecido además por una fuerte caída del petróleo tras el anuncio de Irán de reabrir el estrecho de Ormuz en dos días ante las inminentes elecciones en Estados Unidos. Persiste una marcada rotación en el mercado, donde las acciones ajenas a la inteligencia artificial marcan máximos históricos mientras las tecnológicas de IA corrigen con fuerza.",
+    "ideas_clave": [
+      "El Nasdaq 100 y los semiconductores rebotan tras apoyarse en la media de 200 sesiones y la banda de Mogalef inferior.",
+      "El crudo cae más del 3% ante la propuesta iraní de reabrir el estrecho de Ormuz en dos días, aliviando tensiones antes de los comicios estadounidenses.",
+      "Existe una bifurcación histórica en la renta variable: el S&P 500 equiponderado registra su mejor mes relativo frente al ponderado desde abril de 2009, y el S&P sin IA alcanza nuevos máximos.",
+      "La cesta de ganadores de IA de Goldman Sachs acumula una caída del 22% desde los máximos de agosto, reflejando paralelismos con la sobreinversión en fibra oscura de la burbuja puntocom.",
+      "El PER del S&P 500 se sitúa en mínimos anuales (18,5x-19x) pese a subir un 10,7% en el año, apoyado por el crecimiento de los beneficios empresariales.",
+      "El oro pierde los 4.000 dólares por liquidaciones forzosas de inversores para cubrir 'margin calls' provocadas por las caídas tecnológicas.",
+      "El mercado de opciones descuenta movimientos hasta fin de año de ±5,1% en el S&P 500, ±6,3% en el Russell 2000 y ±7,8% en el Nasdaq 100."
+    ],
+    "tesis_principal": "El mercado experimenta un rebote técnico justificado en soportes críticos y el alivio temporal del crudo, enmarcado en una profunda rotación sectorial fuera de la inteligencia artificial hacia el resto del mercado.",
+    "temas": [
+      "Análisis técnico",
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Bonos y renta fija",
+      "China"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "S&P 500",
+      "Russell 2000",
+      "Euro Stoxx 50",
+      "DAX 40",
+      "Ibex 35",
+      "Petróleo Brent",
+      "Petróleo WTI",
+      "Oro",
+      "Bitcoin",
+      "Bund alemán",
+      "Bono estadounidense a 10 años",
+      "EUR/USD",
+      "USD/JPY",
+      "Apple",
+      "Nvidia",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Google (Alphabet)",
+      "Tesla"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Los índices rebotan con precisión en soportes de gran calibre como medias de 200 sesiones y bandas inferiores de Mogalef."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La cesta de IA cae un 22% desde agosto y surgen dudas sobre el retorno del elevado capex frente a los escasos ingresos de suscripciones."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El petróleo cae más del 3% a corto plazo por el anuncio de reapertura del estrecho de Ormuz por parte de Irán."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "El mercado general y los sectores fuera de la IA muestran solidez y valoración razonable, aunque con cautela ante eventos electorales y resultados."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "El oro cede los 4.000 dólares presionado por ventas forzadas para atender llamadas de margen en carteras tecnológicas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Goldman Sachs prevé el barril de Brent en 105 dólares a finales de 2026 y un promedio de 90 dólares en 2027 si se abre Ormuz, o entre 130 y 140 dólares si permanece cerrado.",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "sube",
+        "horizonte": "2026-2027",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El mercado de opciones descuenta una variación de ±1,5% para el miércoles tras los resultados de Apple y las elecciones.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "lateral",
+        "horizonte": "menos de 1 semana",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Las opciones descuentan hasta el 31 de diciembre movimientos de ±5,1% en el S&P 500, ±6,3% en el Russell 2000 y ±7,8% en el Nasdaq 100.",
+        "activo_o_variable": "Índices bursátiles estadounidenses",
+        "direccion": "no aplica",
+        "horizonte": "hasta fin de año",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Correlación inversa del -0,7 a dos semanas entre los bonos del Tesoro de EE. UU. a largo plazo y la cesta de ganadores de IA.",
+      "La cesta de valores de IA de Goldman Sachs cae un 22% desde los máximos de agosto, mientras que el S&P 500 excluyendo valores de IA marca nuevos máximos.",
+      "Solo el 5,6% de los usuarios semanales de ChatGPT son suscriptores de pago frente al 94,4% que usa la versión gratuita.",
+      "Durante la burbuja de las telecomunicaciones (2000-2002), entre el 95% y el 98% de la fibra óptica instalada en EE. UU. quedó apagada sin utilizarse.",
+      "El PER a doce meses del S&P 500 se ubica en 18,5x-19x, el nivel más bajo del año.",
+      "De los Siete Magníficos, Apple lidera con +27,1% en el año funcionando como cobertura, mientras Meta (-6,6%), Google (-10,4%) y Tesla (-11,1%) están en negativo.",
+      "PMI manufacturero de Caixin en China se situó en 52 puntos, pero los índices oficiales marcaron contracción (manufacturas 49,3 y servicios 49,7).",
+      "Polymarket asigna un 70% de probabilidades de que los demócratas ganen el control de ambas cámaras del Congreso."
+    ],
+    "riesgos_mencionados": [
+      "Exceso de inversión (capex) en infraestructura y centros de datos de IA sin monetización suficiente, análogo a la burbuja puntocom.",
+      "Escalada bélica o ataque de EE. UU. contra Irán tras las elecciones legislativas que vuelva a disparar el crudo hasta 130-140 dólares.",
+      "Riesgo de caídas adicionales en el S&P 500 hacia la media de 200 sesiones en 7.300 puntos si pierde el soporte de 7.500/7.484.",
+      "Efecto contagio por llamadas de margen (margin calls) que obligan a liquidar activos refugio como el oro."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
