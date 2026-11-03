@@ -532,16 +532,6 @@
  },
  "cola": [
   {
-   "video_id": "dI7kFRl763g",
-   "titulo": "El Negocio MILLONARIO de Coinbase que NO Depende del Precio de Bitcoin",
-   "url": "https://www.youtube.com/watch?v=dI7kFRl763g",
-   "publicado": "2026-11-02T19:00:31+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
-  },
-  {
    "video_id": "68b2poS7HCI",
    "titulo": "Neoclouds siguen mal - Cierre Cárpatos",
    "url": "https://www.youtube.com/watch?v=68b2poS7HCI",
@@ -560,6 +550,46 @@
    "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
    "intentos": 2,
    "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
+  },
+  {
+   "video_id": "nvE3xrY0Dkc",
+   "titulo": "Texas estado clave para la IA en elecciones medio término  - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=nvE3xrY0Dkc",
+   "publicado": "2026-11-03T16:15:29+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
+  },
+  {
+   "video_id": "P5fpYjlbjBQ",
+   "titulo": "IA ¿Y si ganan los demócratas? - Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=P5fpYjlbjBQ",
+   "publicado": "2026-11-03T12:47:47+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
+  },
+  {
+   "video_id": "3yPMzGeNLQw",
+   "titulo": "Explicando vuelta de ayer a la baja - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=3yPMzGeNLQw",
+   "publicado": "2026-11-03T08:21:22+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
+  },
+  {
+   "video_id": "ZeeE660AA-U",
+   "titulo": "Los gestores están MUERTOS de MIEDO porque siguen cargaditos. José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=ZeeE660AA-U",
+   "publicado": "2026-11-03T13:13:39+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
   }
  ],
  "fallidos": {
@@ -577,7 +607,9 @@
   "Tq5QnM5bwbk": "Server disconnected without sending a response.",
   "rcHxsF7OjrY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "fJVfbeoWBYg": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "kd82t1v22z0": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "kd82t1v22z0": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "ltep_RR7QuY": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "dI7kFRl763g": "Server disconnected without sending a response."
  },
  "aviso_config": null
 }
