@@ -1,0 +1,113 @@
+{
+  "video_id": "3tXSnlQzUS8",
+  "url": "https://www.youtube.com/watch?v=3tXSnlQzUS8",
+  "titulo": "El petróleo se desploma -  Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-02T11:35:52+00:00",
+  "fecha_resumen": "2026-11-03T07:01:01.610726+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los mercados continúan experimentando un rebote técnico apoyado en el Nasdaq 100 y los semiconductores tras tocar sus medias de 200 sesiones. El desplome del petróleo en torno al 4,5% aporta tranquilidad tras informaciones de Axios sobre una posible vía diplomática con Irán. Por su parte, Morgan Stanley proyecta un escenario base alcista para el S&P 500 hacia los 8.300 puntos, sugiriendo compras en correcciones.",
+    "ideas_clave": [
+      "El rebote técnico de las bolsas se apoya en que el Nasdaq 100 y el ETF de semiconductores (SMH) han rebotado con precisión en su media de 200 sesiones.",
+      "El petróleo crudo cae un 4,51% hasta los 99,44 dólares tras publicarse que Trump podría dar margen a la diplomacia antes de un eventual ataque a Irán.",
+      "Google realiza una nueva emisión de bonos denominada en euros, reflejando las continuas necesidades de liquidez de las tecnológicas ligadas a la inteligencia artificial.",
+      "Mike Wilson (Morgan Stanley) prevé un escenario base para el S&P 500 de 8.300 puntos (+9%) y alcista de 9.400 (+24%), situando la zona óptima de compra entre 7.100 y 7.300 puntos.",
+      "El 60% de las acciones del Russell 3000 ha caído un 20% o más desde junio, y el PER del S&P 500 se ha reducido un 20% desde sus máximos de hace un año.",
+      "El PMI manufacturero de la eurozona se sitúa en 52,7 (frente al 52,4 esperado), aunque Francia e Italia continúan en contracción por debajo de 50 puntos."
+    ],
+    "tesis_principal": "Las bolsas disfrutan de un rebote técnico desde soportes clave reforzado por el alivio en los precios del crudo, en un entorno donde los grandes bancos de inversión recomiendan aprovechar correcciones para comprar.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Análisis técnico",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Bonos y renta fija",
+      "Crecimiento y recesión"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "VanEck Semiconductor ETF (SMH)",
+      "Petróleo Light Crude",
+      "Russell 3000",
+      "Bono de EE. UU. a 10 años",
+      "Google"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Morgan Stanley y otros bancos de inversión manejan escenarios base alcistas y sugieren comprar en las correcciones tras la fuerte purga interna de acciones."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El rebote desde la media de 200 sesiones en el Nasdaq 100 y el índice de semiconductores está funcionando como soporte técnico."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Fuerte desplome intradía del crudo superior al 4,5% por desescalada geopolítica temporal."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Posible pausa diplomática antes de acciones contra Irán, aunque persiste el riesgo latente tras las elecciones."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Mercado de bonos tranquilo con el 10 años estadounidense en 4,91% a la espera de los datos de financiación del Tesoro."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El S&P 500 alcanzará los 8.300 puntos en su escenario base y hasta 9.400 en escenario alcista según Morgan Stanley",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La zona de compra ideal para el S&P 500 se sitúa entre 7.100 y 7.300 puntos tras una capitulación",
+        "activo_o_variable": "S&P 500",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de semiconductores SMH tocó por segunda vez la media móvil de 200 sesiones.",
+      "El petróleo Light Crude cayó un 4,49% hasta los 99,44 dólares.",
+      "El PMI manufacturero de la eurozona marcó 52,7 frente a 52,4 estimado, con Italia y Francia por debajo de 50.",
+      "El rendimiento del bono del Tesoro estadounidense a 10 años cotiza al 4,91%.",
+      "El 60% de los valores del Russell 3000 cae más de un 20% desde junio, y el ratio PER del S&P 500 ha bajado un 20% en el último año."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de ataque militar a Irán tras las elecciones estadounidenses.",
+      "Contracción continuada de la manufactura en Francia e Italia.",
+      "Emisiones del Tesoro de EE. UU. que puedan desestabilizar el mercado de deuda."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Mike Wilson (mencionado)"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
