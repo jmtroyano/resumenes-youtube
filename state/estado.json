@@ -552,23 +552,13 @@
    "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
   },
   {
-   "video_id": "nvE3xrY0Dkc",
-   "titulo": "Texas estado clave para la IA en elecciones medio término  - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=nvE3xrY0Dkc",
-   "publicado": "2026-11-03T16:15:29+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
-  },
-  {
    "video_id": "P5fpYjlbjBQ",
    "titulo": "IA ¿Y si ganan los demócratas? - Media sesión Cárpatos",
    "url": "https://www.youtube.com/watch?v=P5fpYjlbjBQ",
    "publicado": "2026-11-03T12:47:47+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
   },
   {
@@ -582,23 +572,13 @@
    "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
   },
   {
-   "video_id": "ZeeE660AA-U",
-   "titulo": "Los gestores están MUERTOS de MIEDO porque siguen cargaditos. José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=ZeeE660AA-U",
-   "publicado": "2026-11-03T13:13:39+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
-  },
-  {
    "video_id": "wKcnsjHpaDY",
    "titulo": "Nike Pierde un 80% en Bolsa: ¿Negocio en DECLIVE u Oportunidad HISTÓRICA?",
    "url": "https://www.youtube.com/watch?v=wKcnsjHpaDY",
    "publicado": "2026-11-03T19:00:00+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-03T23:27:20.057669+00:00"
   }
  ],
@@ -619,7 +599,9 @@
   "fJVfbeoWBYg": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "kd82t1v22z0": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "ltep_RR7QuY": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "dI7kFRl763g": "Server disconnected without sending a response."
+  "dI7kFRl763g": "Server disconnected without sending a response.",
+  "nvE3xrY0Dkc": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "ZeeE660AA-U": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
