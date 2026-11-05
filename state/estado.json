@@ -572,16 +572,6 @@
    "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
   },
   {
-   "video_id": "wKcnsjHpaDY",
-   "titulo": "Nike Pierde un 80% en Bolsa: ¿Negocio en DECLIVE u Oportunidad HISTÓRICA?",
-   "url": "https://www.youtube.com/watch?v=wKcnsjHpaDY",
-   "publicado": "2026-11-03T19:00:00+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-03T23:27:20.057669+00:00"
-  },
-  {
    "video_id": "XJ4s5J7q-h8",
    "titulo": "Causas rebote explicadas - Media sesión Cárpatos",
    "url": "https://www.youtube.com/watch?v=XJ4s5J7q-h8",
@@ -608,7 +598,7 @@
    "publicado": "2026-11-05T16:53:32+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
   },
   {
@@ -638,8 +628,18 @@
    "publicado": "2026-11-05T11:16:37+00:00",
    "canal": "José Luis Cava (Bolsacava)",
    "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
+  },
+  {
+   "video_id": "Q1B8Zta1Gf8",
+   "titulo": "La Crisis de la Vivienda en España Va a EMPEORAR por Esto",
+   "url": "https://www.youtube.com/watch?v=Q1B8Zta1Gf8",
+   "publicado": "2026-11-05T19:00:07+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-05T23:41:01.448670+00:00"
   }
  ],
  "fallidos": {
@@ -665,7 +665,8 @@
   "-CaulZbRv9k": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "pNwz_pxEoqU": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "a5YlMzCgiVM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "GxONXV4q5A0": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "GxONXV4q5A0": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "wKcnsjHpaDY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
