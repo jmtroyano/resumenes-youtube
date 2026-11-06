@@ -1,0 +1,96 @@
+{
+  "video_id": "ebPAiVIsgCI",
+  "url": "https://www.youtube.com/watch?v=ebPAiVIsgCI",
+  "titulo": "Capitulación del inversor minorista ayer - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-06T11:56:46+00:00",
+  "fecha_resumen": "2026-11-06T23:23:34.859956+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado experimenta un rebote técnico en la sesión europea liderado por los sectores de tecnología, semiconductores y valores de memoria tras fuertes caídas previas. Sin embargo, Cárpatos advierte del riesgo de extrapolar este movimiento antes de la apertura de Wall Street, donde fondos de control de volatilidad tienen pendientes fuertes ventas. Asimismo, se destacan lecturas extremas de pánico del día anterior, como el récord histórico de compra de opciones put y capitulación del inversor minorista, las cuales históricamente suelen anteceder subidas del S&P 500 a medio plazo.",
+    "ideas_clave": [
+      "Rebote matinal en valores tecnológicos de neo-cloud como CoreWeave (+6%-7%), semiconductores (+3,58%) y fabricantes de memoria (+5,64%).",
+      "Precaución con extrapolar los rebotes de las mañanas europeas a Wall Street, ya que fondos de control de volatilidad y manos fuertes tienen órdenes de venta pendientes.",
+      "Récord histórico de contratación de opciones put en el CBOE (11,23 millones de contratos), superando niveles del crash del Covid.",
+      "El indicador de pánico de Goldman Sachs se activó: históricamente, tras esta señal, el S&P 500 sube de media un 4,7% a 1 mes, 6,2% a 3 meses y 9% a 6 meses.",
+      "Venta masiva y capitulación de inversores minoristas en la apertura de la sesión previa, alcanzando la mayor venta neta registrada en al menos seis años según Vanda Research.",
+      "Goldman Sachs recortó su previsión para el oro a 4.150 $/oz para finales de 2026 y a 4.800 $/oz para finales de 2027.",
+      "Dato macroeconómico negativo en Europa con una caída de las ventas minoristas del -0,7% frente al -0,1% estimado."
+    ],
+    "tesis_principal": "El mercado muestra un rebote técnico tras una jornada de pánico y capitulación minorista extrema que suele ofrecer rendimientos positivos a medio plazo, pero la apertura de Wall Street mantiene riesgos a corto plazo por el flujo vendedor de fondos sistemáticos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Oro y metales",
+      "Bolsa Europa",
+      "Fed y tipos de interés EE. UU."
+    ],
+    "activos_mencionados": [
+      "CoreWeave",
+      "Nebius",
+      "S&P 500",
+      "Oro",
+      "ETF de semiconductores",
+      "ETF de memoria (Roundhill Memory ETF)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Las lecturas de sentimiento contrario por pánico extremo y ventas récord de minoristas y opciones put suelen anticipar fuertes alzas a medio plazo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Experimentan un fuerte rebote técnico en la sesión europea tras las correcciones previas."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Goldman Sachs rebajó sus objetivos de precio a futuro para 2026 y 2027."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "El dato de ventas al por menor en la eurozona fue sensiblemente peor de lo previsto (-0,7%)."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Goldman Sachs sitúa su previsión del oro en 4.150 dólares para finales de 2026 y 4.800 dólares para finales de 2027",
+        "activo_o_variable": "Oro",
+        "direccion": "baja",
+        "horizonte": "2026-2027",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Contratos de opciones put negociados en el Cboe alcanzaron un récord de 11,23 millones de contratos.",
+      "El indicador de pánico de Goldman Sachs (superior a 9,5) arroja una rentabilidad media histórica en el S&P 500 de +4,7% a 1 mes frente al +0,8% normal.",
+      "Las ventas de minoristas al inicio de la sesión anterior superaron los 379 millones de dólares en acciones individuales, la cifra más alta en al menos seis años.",
+      "El dato de ventas al por menor en la eurozona cayó un -0,7% frente a la caída estimada del -0,1%."
+    ],
+    "riesgos_mencionados": [
+      "Ventas pendientes masivas por parte de fondos de control de volatilidad y manos fuertes en la apertura americana.",
+      "Persistencia de la inflación señalada por Williams de la Reserva Federal.",
+      "Deterioro del consumo reflejado en las ventas al por menor europeas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

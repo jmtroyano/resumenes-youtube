@@ -528,7 +528,10 @@
   "-sGNGLWNibE": "2026-11-01T19:46:43.829863+00:00",
   "6-AzqY6KRWM": "2026-11-01T19:50:21.861820+00:00",
   "1Lp2Wa4Rh7E": "2026-11-02T11:21:24.545707+00:00",
-  "3tXSnlQzUS8": "2026-11-03T07:01:03.245547+00:00"
+  "3tXSnlQzUS8": "2026-11-03T07:01:03.245547+00:00",
+  "luWjal3Yv_8": "2026-11-06T23:15:00.797135+00:00",
+  "K-l6gOexmM0": "2026-11-06T23:19:15.050029+00:00",
+  "ebPAiVIsgCI": "2026-11-06T23:23:36.330452+00:00"
  },
  "cola": [
   {
@@ -628,17 +631,7 @@
    "publicado": "2026-11-06T16:17:25+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
-  },
-  {
-   "video_id": "ebPAiVIsgCI",
-   "titulo": "Capitulación del inversor minorista ayer - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=ebPAiVIsgCI",
-   "publicado": "2026-11-06T11:56:46+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
   },
   {
@@ -649,16 +642,6 @@
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 0,
-   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
-  },
-  {
-   "video_id": "K-l6gOexmM0",
-   "titulo": "Ellos Mismos Provocan la CRISIS... y las Magníficas Oportunidades (ORO y Bolsas). José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=K-l6gOexmM0",
-   "publicado": "2026-11-06T12:41:22+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
    "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
   }
  ],

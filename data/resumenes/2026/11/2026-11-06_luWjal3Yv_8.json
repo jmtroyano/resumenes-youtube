@@ -1,0 +1,87 @@
+{
+  "video_id": "luWjal3Yv_8",
+  "url": "https://www.youtube.com/watch?v=luWjal3Yv_8",
+  "titulo": "¿VA A BAJAR LA VIVIENDA EN ESPAÑA? La DURA REALIDAD del Mercado Inmobiliario",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-06T19:00:00+00:00",
+  "fecha_resumen": "2026-11-06T23:14:59.241371+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los ponentes debaten la situación del mercado inmobiliario en España y descartan una bajada significativa de precios a corto o medio plazo. La escasez estructural de oferta y la falta de mano de obra impiden una rápida construcción de vivienda nueva. Al mismo tiempo, la demanda se mantiene impulsada por el atractivo internacional de ciudades como Madrid o Valencia frente a otras capitales mundiales y por unas condiciones financieras más solventes que en la crisis de 2008.",
+    "ideas_clave": [
+      "Es inviable solucionar el déficit de oferta de vivienda en un horizonte inferior a 5 o 10 años debido a los lentos plazos de construcción y la escasez de mano de obra en el sector.",
+      "La vivienda en España resulta barata en comparación internacional para compradores extranjeros o nómadas digitales con altos salarios, lo que presiona los precios al alza en ciudades como Madrid y Valencia.",
+      "El mercado actual difiere radicalmente de 2008: no existe sobreendeudamiento descontrolado, predomina la hipoteca a tipo fijo y los bancos aplican criterios de concesión estrictos.",
+      "Solo 1 de cada 10 compras de vivienda se destina a inversión; la inmensa mayoría adquiere para residir, lo que aleja el escenario de especulación masiva previa a 2008.",
+      "La oferta existente está congelada porque los propietarios hipotecados a tipos fijos bajos carecen de incentivos para vender y asumir un nuevo crédito o pagar alquileres más elevados.",
+      "El proceso de expulsión de la población local de los centros urbanos hacia la periferia o ciudades dormitorio replica la dinámica ya experimentada en urbes como Londres, París o Nueva York."
+    ],
+    "tesis_principal": "El precio de la vivienda en las principales ciudades españolas difícilmente experimentará caídas drásticas a corto o medio plazo debido a una oferta estructuralmente congelada y una fuerte demanda global solvente.",
+    "temas": [
+      "Inmobiliario y vivienda",
+      "BCE y tipos de interés Europa",
+      "Fed y tipos de interés EE. UU.",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "La falta de oferta de obra nueva y el atractivo internacional de España sostienen la presión al alza sobre los precios de compra y alquiler."
+      },
+      {
+        "tema": "BCE y tipos de interés Europa",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Los tipos hipotecarios en España en torno al 3%-3,5% se perciben como históricamente normales y moderados frente a otros mercados."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se mencionan los tipos hipotecarios a 30 años en EE. UU. al 7%-8% a modo de contraste con la relativa asequibilidad europea."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El precio de la vivienda difícilmente bajará de aquí a cinco años y tenderá a subir por la globalización de la demanda y la incapacidad de aumentar la oferta",
+        "activo_o_variable": "Precio de la vivienda en España",
+        "direccion": "sube",
+        "horizonte": "5 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Solo personas con rentas muy elevadas podrán residir en los centros urbanos de las grandes ciudades, desplazando al resto a la periferia",
+        "activo_o_variable": "Acceso a la vivienda céntrica en España",
+        "direccion": "no aplica",
+        "horizonte": "20 años",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En EE. UU. las hipotecas fijas a 30 años se sitúan en torno al 7%-8%, mientras que en España rondan el 2,8%-3,5%.",
+      "En Valencia todavía existen pisos en venta por debajo de 200.000 euros, cifra muy competitiva a nivel internacional.",
+      "Aproximadamente 9 de cada 10 transacciones inmobiliarias en España son para vivienda habitual y no para inversión especulativa."
+    ],
+    "riesgos_mencionados": [
+      "Dificultad de acceso a la vivienda para los salarios locales debido a la competencia con capital internacional.",
+      "Pérdida de competitividad salarial en España frente al incremento en el coste de vida y alojamiento."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Carlos Galán",
+      "Toni Fernández-Pro"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
