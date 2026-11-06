@@ -622,14 +622,44 @@
    "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
   },
   {
-   "video_id": "Q1B8Zta1Gf8",
-   "titulo": "La Crisis de la Vivienda en España Va a EMPEORAR por Esto",
-   "url": "https://www.youtube.com/watch?v=Q1B8Zta1Gf8",
-   "publicado": "2026-11-05T19:00:07+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-05T23:41:01.448670+00:00"
+   "video_id": "70JPAalvK34",
+   "titulo": "Mercado con muchas dudas intenta rebote - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=70JPAalvK34",
+   "publicado": "2026-11-06T16:17:25+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
+  },
+  {
+   "video_id": "ebPAiVIsgCI",
+   "titulo": "Capitulación del inversor minorista ayer - Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=ebPAiVIsgCI",
+   "publicado": "2026-11-06T11:56:46+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
+  },
+  {
+   "video_id": "ssEz7PFWNxo",
+   "titulo": "SP500 spot en la media de 200 tras la carnicería de ayer - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=ssEz7PFWNxo",
+   "publicado": "2026-11-06T08:32:41+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
+  },
+  {
+   "video_id": "K-l6gOexmM0",
+   "titulo": "Ellos Mismos Provocan la CRISIS... y las Magníficas Oportunidades (ORO y Bolsas). José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=K-l6gOexmM0",
+   "publicado": "2026-11-06T12:41:22+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
   }
  ],
  "fallidos": {
@@ -657,7 +687,8 @@
   "a5YlMzCgiVM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "GxONXV4q5A0": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "wKcnsjHpaDY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "YN_r-4BPvug": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "YN_r-4BPvug": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "Q1B8Zta1Gf8": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
