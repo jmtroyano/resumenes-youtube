@@ -592,16 +592,6 @@
    "en_cola_desde": "2026-11-04T17:19:23.870351+00:00"
   },
   {
-   "video_id": "YN_r-4BPvug",
-   "titulo": "¡Pánico! La carnicería tecnológica se contagia a todo el mercado -  Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=YN_r-4BPvug",
-   "publicado": "2026-11-05T16:53:32+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
-  },
-  {
    "video_id": "L8ooErB3pK0",
    "titulo": "¿Se seguirá alcista sin IA? - Media sesión Cárpatos",
    "url": "https://www.youtube.com/watch?v=L8ooErB3pK0",
@@ -638,7 +628,7 @@
    "publicado": "2026-11-05T19:00:07+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-05T23:41:01.448670+00:00"
   }
  ],
@@ -666,7 +656,8 @@
   "pNwz_pxEoqU": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "a5YlMzCgiVM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "GxONXV4q5A0": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "wKcnsjHpaDY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "wKcnsjHpaDY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "YN_r-4BPvug": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
