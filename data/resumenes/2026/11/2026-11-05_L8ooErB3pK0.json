@@ -1,0 +1,115 @@
+{
+  "video_id": "L8ooErB3pK0",
+  "url": "https://www.youtube.com/watch?v=L8ooErB3pK0",
+  "titulo": "¿Se seguirá alcista sin IA? - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-05T11:49:02+00:00",
+  "fecha_resumen": "2026-11-07T13:21:42.159455+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la dependencia de los índices respecto a los 'Siete Magníficos', argumentando que el rumbo del mercado depende de sus ponderaciones y no exclusivamente de la temática de IA. Señala que el capex en centros de datos e inteligencia artificial podría estar tocando techo ante crecientes trabas regulatorias y moratorias en varios estados de EE. UU. Además, advierte sobre la persistente inflación en Europa tras un mal dato de precios de producción y repasa los movimientos sectoriales destacados de la sesión.",
+    "ideas_clave": [
+      "Frente a la tesis de Goldman Sachs de que el mercado puede subir sin la IA, Cárpatos recalca que la tendencia alcista depende matemáticamente de los 'Siete Magníficos' al representar cerca del 40% del S&P 500 y Nasdaq.",
+      "El ETF de los 'Siete Magníficos' (MAGS) ha rebotado tras testear con éxito su media móvil de 200 sesiones.",
+      "JP Morgan advierte que el capex en centros de datos para IA enfrenta dificultades por moratorias y exigencias regulatorias en estados clave como Texas, Georgia y Ohio, sugiriendo rotación de capital.",
+      "Cárpatos discrepa con JP Morgan sobre la reducción del riesgo geopolítico con Irán, recordando que el nuevo Congreso de EE. UU. no asume hasta enero.",
+      "El índice de precios a la producción (IPP) de la eurozona repuntó un 2,5% mensual hasta situarse en el 11,1% interanual (frente al 10,6% esperado), amenazando con trasladarse al IPC.",
+      "En resultados corporativos, Qualcomm cae más del 10% por menor demanda de chips móviles, mientras ArcelorMittal y Air France registran fuertes subidas."
+    ],
+    "tesis_principal": "La continuidad del mercado alcista está supeditada al comportamiento técnico y la ponderación de las grandes tecnológicas (los 'Siete Magníficos'), mientras que el 'boom' de inversión en infraestructuras de IA comienza a encontrar trabas políticas y regulatorias que sugieren una rotación de flujos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Inflación",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Resultados empresariales"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "MAGS (Roundhill Magnificent Seven ETF)",
+      "Petróleo",
+      "Diesel / Gasóleo de calefacción",
+      "Qualcomm",
+      "ArcelorMittal",
+      "Air France"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "El rebote en la media de 200 de las grandes tecnológicas sostiene al mercado, pero el capex de IA parece haber tocado techo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Aumentan las trabas políticas y moratorias para nuevos centros de datos, limitando el crecimiento del capex."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Qualcomm se desploma más de un 10% por debilidad en la demanda de chips para telefonía móvil."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El IPP europeo repunta hasta el 11,1% interanual y Cárpatos teme que se traslade directamente al IPC."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El crudo rebota levemente tras el desplome previo, pero los ataques a refinerías rusas mantienen la tensión en los destilados."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el ETF de los 'Siete Magníficos' (MAGS) se va al alza tras rebotar en la media de 200, el conjunto del mercado se irá con él.",
+        "activo_o_variable": "Bolsa EE. UU. / S&P 500",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La presión del 11,1% interanual del IPP de la zona euro acabará trasladándose a los precios al consumo (IPC).",
+        "activo_o_variable": "IPC de la zona euro",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Los 'Siete Magníficos' ponderan aproximadamente un 40% en índices como el S&P 500 y el Nasdaq.",
+      "Texas alberga el 27% de todos los centros de datos previstos para construcción y enfrenta una moratoria inmediata y fin de ayudas fiscales.",
+      "El IPP de la eurozona se situó en el 11,1% interanual frente al 10,6% esperado, con un incremento mensual del 2,5%.",
+      "Las acciones de Qualcomm cayeron más de un 10% tras reportar resultados afectados por la menor demanda de móviles.",
+      "El sector de recursos básicos en Europa subió un 2,22% impulsado por los resultados de ArcelorMittal.",
+      "Air France se revalorizó un 11% tras presentar sus cuentas."
+    ],
+    "riesgos_mencionados": [
+      "Freno en la inversión de centros de datos por bloqueos regulatorios estatales en EE. UU.",
+      "Riesgo de repunte inflacionario en Europa trasladado desde el índice de precios al productor.",
+      "Incertidumbre geopolítica pendiente con Irán antes del cambio formal de administración en enero.",
+      "Ataques continuos de Ucrania a refinerías rusas que presionan al alza los márgenes y precios del diésel."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

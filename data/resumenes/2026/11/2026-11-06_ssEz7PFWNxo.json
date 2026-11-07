@@ -1,0 +1,127 @@
+{
+  "video_id": "ssEz7PFWNxo",
+  "url": "https://www.youtube.com/watch?v=ssEz7PFWNxo",
+  "titulo": "SP500 spot en la media de 200 tras la carnicería de ayer - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-06T08:32:41+00:00",
+  "fecha_resumen": "2026-11-07T13:20:30.000665+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el desplome histórico vivido en Wall Street, especialmente en el sector tecnológico y de semiconductores, tras las elecciones en Texas y las crecientes dudas sobre el gasto en infraestructura de inteligencia artificial. El S&P 500 en su versión contado (spot) ha tocado el soporte técnico crítico de su media de 200 sesiones en el entorno de los 7.320 puntos. Se advierte de que el rebote intradía puede ser frágil debido a la enorme presión vendedora pendiente de fondos cuantitativos, de control de volatilidad y CTAs. Informes de entidades como UBS sugieren que el suelo definitivo de este movimiento correctivo podría no completarse hasta la sesión del lunes.",
+    "ideas_clave": [
+      "La sesión previa dejó la peor caída del Nasdaq y semiconductores desde la crisis del Covid en 2020, y la peor del S&P 500 desde abril de 2025, invalidando la teoría de una 'rotación sectorial sana'.",
+      "El detonante electoral fue la inesperada victoria demócrata en Texas con la gobernadora Inojosa, lo que pone en riesgo regulatorio hasta un 30% de los proyectos de centros de datos proyectados hacia 2028.",
+      "El trasfondo real de la corrección reside en el agotamiento del capex en inteligencia artificial, el elevado endeudamiento del sector y las tensiones en los bonos de alto rendimiento de empresas vinculadas (ej. CoreWeave con rendimientos de hasta el 16%).",
+      "Nivel técnico decisivo: el S&P 500 spot ha llegado al soporte mayor de la media de 200 sesiones en 7.320 puntos, tras haber destrozado el nivel clave de opciones en 7.500 puntos.",
+      "Mecánica cuantitativa: según Charlie McElligott y Goldman Sachs, los fondos de control de volatilidad venden con 1-2 días de retraso, por lo que aún restan por liquidar entre 40.000 y 61.000 millones de dólares durante la jornada.",
+      "Los fondos sistemáticos CTA han perforado su umbral de medio plazo en los futuros del S&P 500 (7.549 puntos), activando órdenes de venta sistemática adicionales.",
+      "UBS destaca que en episodios precedentes de ventas masivas (agosto de 2024 y abril de 2025), el mínimo se alcanzó el lunes por la mañana en horario europeo antes de iniciar un rebote sostenido.",
+      "Efecto fin de año: los gestores de fondos acumulan un ejercicio con amplias ganancias y liquidan posiciones para no arriesgar sus bonus en el mes y medio restante, lo que limita la entrada de compras agresivas en soporte."
+    ],
+    "tesis_principal": "El desplome del mercado refleja una crisis de confianza sobre el retorno de la inversión y financiación de la inteligencia artificial, acelerada por la política en Texas y agravada por un bucle de ventas mecánicas sistemáticas que mantendrán la volatilidad hasta poner a prueba soportes estructurales como la media de 200.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Liquidez y crédito",
+      "Bonos y renta fija"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Mini Russell 2000",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Nvidia",
+      "SK Hynix",
+      "CoreWeave",
+      "Bitcoin",
+      "Petróleo crudo",
+      "Oro",
+      "Bonos del Tesoro EE. UU."
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Las ventas automáticas de fondos sistemáticos y la pérdida de niveles de soporte clave como 7.500 mantienen una alta presión bajista."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "El mercado teme el techo de capex, la alta deuda asociada y la paralización regulatoria de centros de datos de IA."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El sector experimentó su peor caída desde marzo de 2020 y los rebotes iniciales carecen de solidez técnica."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El S&P 500 spot alcanza un soporte mayor en la media de 200 sesiones (7.320), que históricamente ha frenado caídas, aunque sin señales de giro confirmadas."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los diferenciales de crédito en bonos de centros de datos se disparan por encima del 16% y los dealers operan en gamma negativa vendiendo en caídas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los fondos de control de volatilidad ejecutarán ventas masivas automáticas con retraso por valor de decenas de miles de millones de dólares durante la sesión.",
+        "activo_o_variable": "Bolsa EE. UU. (flujos de fondos de volatilidad)",
+        "direccion": "baja",
+        "horizonte": "intradía / corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Según la nota de UBS, el mínimo de la corrección del mercado se marcará con mayor probabilidad el lunes por la mañana europea antes de la apertura de EE. UU.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "días",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Tras caídas diarias superiores al 4% en el S&P 500, la estadística histórica de Bespoke apunta a rebotes medios del 2,04% al mes y del 6,66% a tres meses vista.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "3 meses",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice de volatilidad del Nasdaq (VXN) saltó al percentil histórico de 99,9% en una ventana de 26 años.",
+      "El indicador VVIX (volatilidad de la volatilidad) registró su segundo mayor salto de la historia, solo superado por el 'Volmageddon' de febrero de 2018.",
+      "La media móvil de 200 periodos del S&P 500 contado se ubica en 7.320 puntos, nivel que actúa como soporte mayor.",
+      "Los umbrales de venta de medio plazo de los CTA en los futuros del S&P 500 se perforaron en 7.549 puntos.",
+      "Los fondos ETF apalancados se vieron forzados a vender 47.000 millones de dólares al cierre para reequilibrar carteras.",
+      "Los rendimientos exigidos a los bonos de centros de datos de CoreWeave a 4-6 años han escalado hasta el rango de entre 15,96% y 16,63%."
+    ],
+    "riesgos_mencionados": [
+      "Presión de ventas mecánicas adicionales procedentes de dealers en gamma negativa y fondos de control de riesgo.",
+      "Paralización de licencias e inversiones de infraestructura para centros de datos en Texas por decisiones regulatorias del nuevo gobierno estatal.",
+      "Riesgo de bola de nieve por liquidaciones forzosas de minoristas que aún no han alcanzado capitulación total.",
+      "Riesgo de cierre de ejercicio prematuro por parte de gestores para asegurar bonus, retirando liquidez compradora del mercado."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

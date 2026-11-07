@@ -1,0 +1,152 @@
+{
+  "video_id": "uXDlwX6ghUo",
+  "url": "https://www.youtube.com/watch?v=uXDlwX6ghUo",
+  "titulo": "Fontanería bursáil, manual operativo - Las 4 claves de la semana  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-07T12:29:10+00:00",
+  "fecha_resumen": "2026-11-07T13:17:20.516474+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos desglosa las causas y la mecánica cuantitativa del desplome bursátil tras las elecciones estadounidenses, marcado por una subida histórica del VIX del 70% y ventas masivas en tecnología. Apoyándose en informes de Charlie McElligott (Nomura) y Michael Hartnett (BofA), explica cómo los flujos sistemáticos de fondos de control de volatilidad, CTAs y ETFs apalancados aceleraron la caída. Concluye que, según las pautas estadísticas tras choques similares, el mercado tenderá a dar bandazos durante dos a cuatro semanas antes de estabilizarse, en un entorno condicionado por la presión en los tipos de interés de la Fed y la sobreinversión en inteligencia artificial.",
+    "ideas_clave": [
+      "Mecánica de fontanería de mercado: los fondos de control de volatilidad venden al día siguiente de las grandes caídas, los ETFs apalancados ejecutan ventas forzadas al cierre y los CTAs continúan vendiendo sistemáticamente durante días sin importar la dirección del mercado.",
+      "El sector minorista registró su mayor salida neta de fondos en un solo día desde el inicio de la pandemia de COVID-19, alcanzando 379 millones de dólares en ventas netas.",
+      "Goldman Sachs calcula que para obtener un ROIC del 15% sobre el gasto en capex de IA, los hiperescaladores necesitarían generar 1,42 billones de dólares acumulados en ingresos de IA entre 2028 y 2030 (11.600 millones anuales por gigavatio instalado).",
+      "Estadística tras caídas superiores al 4,4% en el S&P 500: el comportamiento histórico revela un periodo de dos semanas a un mes de bandazos e indecisión (probabilidad del 50-63% de estar en positivo tras dos semanas), antes de reanudar subidas consistentes a 6 y 12 meses.",
+      "Niveles técnicos críticos: la media móvil de 200 sesiones en el ETF de los Siete Magníficos (MAGS) y en el S&P 500 al contado actúan como soportes clave; su pérdida confirmaría techos estructurales de mercado.",
+      "Hartnett (BofA) sostiene que las elecciones marcaron el pico de concentración bursátil en IA y recomienda tácticamente vender energía, comprar bonos y comprar oro ante la inminente batalla política por el techo de deuda en enero-febrero.",
+      "El dato de empleo estadounidense resultó sorprendentemente robusto, situando las probabilidades de una subida de tipos de 25 puntos básicos por parte de la Fed en diciembre en torno al 80%."
+    ],
+    "tesis_principal": "El reciente desplome bursátil no responde a un cisne negro aislado sino a la explosión de excesos acumulados en el capex de la inteligencia artificial y a una saturación extrema de posicionamiento largo, amplificada mecánicamente por fondos sistemáticos y derivados, lo que anticipa varias semanas de alta volatilidad y bandazos laterales antes de una recuperación sostenible.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Fed y tipos de interés EE. UU.",
+      "Empleo",
+      "Oro y metales",
+      "Energía y petróleo",
+      "Deuda pública y déficit"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "VIX",
+      "MAGS (Roundhill Magnificent Seven ETF)",
+      "SMH (VanEck Semiconductor ETF)",
+      "TSMC (TSM)",
+      "Nvidia",
+      "Petróleo West Texas (Light Crude Oil)",
+      "Oro",
+      "Bonos del Tesoro de EE. UU.",
+      "RSP (S&P 500 Equal Weight)",
+      "JNK (SPDR Bloomberg High Yield Bond ETF)",
+      "MDY (SPDR S&P MidCap 400 ETF)",
+      "IXG (iShares Global Financials ETF)"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Las manos fuertes están cerrando libros para proteger bonus anuales y los flujos sistemáticos continuarán vendiendo ante cualquier rebote."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Se advierte sobrecapacidad insostenible, capex desorbitado, deudas crecientes y paralelismos claros con la burbuja de telecomunicaciones de 2000-2002."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El sector ha caído más del 17% bajo su media de 200 sesiones y TSMC ha completado figuras técnicas de doble techo."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La fortaleza del empleo y la presión inflacionaria en los costes salariales elevan la probabilidad de una subida de tipos en diciembre."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Hartnett prevé alzas sustanciales del oro similares a 2011 y 2023 debido a las tensiones políticas por el límite de deuda estadounidense a principios de año."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El crudo sufre presiones a la baja ante expectativas de negociaciones diplomáticas y la necesidad de abaratar costes al consumidor."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Los índices se frenan en soportes clave como la media de 200 sesiones, apuntando a fases de congestión y bandazos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los mercados bursátiles experimentarán bandazos y volatilidad desorientada durante un periodo de dos semanas a un mes antes de definir una tendencia alcista limpia.",
+        "activo_o_variable": "S&P 500 y Nasdaq 100",
+        "direccion": "lateral",
+        "horizonte": "1 mes",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La Reserva Federal subirá los tipos de interés en su reunión de diciembre con una probabilidad cercana al 80%, forzada por los datos de empleo y salarios.",
+        "activo_o_variable": "Fed funds rate",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El oro experimentará un fuerte impulso alcista en los tres meses previos a la negociación del techo de deuda en Estados Unidos fijado en 41,1 billones de dólares.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "enero-febrero",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Los fondos sistemáticos (CTAs) venderán entre 22.000 y 31.000 millones de dólares en acciones durante la semana entrante con independencia de si el mercado sube, baja o queda plano.",
+        "activo_o_variable": "Flujos de fondos CTAs en renta variable global",
+        "direccion": "baja",
+        "horizonte": "1 semana",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El VIX subió un 70% en una sola sesión, marcando el segundo mayor incremento diario de su historia.",
+      "El volumen de opciones put sobre índices alcanzó niveles récord absolutos en búsqueda de cobertura.",
+      "El 81% de las ventas forzadas en ETFs apalancados se concentró en el sector tecnológico y de semiconductores.",
+      "Nomura calculó ventas de fondos de control de volatilidad superiores a 40.000 millones de dólares en la sesión posterior al desplome.",
+      "La tasa de paro en EE. UU. se situó en mínimos no vistos desde 1969, presionando las expectativas de endurecimiento monetario.",
+      "En 2001, tras tender miles de kilómetros de fibra óptica, solo entre el 2% y el 5% estaba encendida, quebrando numerosas operadoras por falta de demanda inmediata a pesar de ser una infraestructura vital a futuro; Cárpatos traza un paralelismo exacto con la inversión actual en centros de datos para IA."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida de la media móvil de 200 sesiones en el S&P 500 o en el ETF MAGS, lo que activaría ventas técnicas de gran calado.",
+      "Bloqueo político y crisis fiscal en EE. UU. ante un Congreso dividido frente a la Administración para elevar el techo de deuda.",
+      "Incapacidad de las empresas de IA para monetizar el colosal gasto de capex proyectado para 2026-2027, derivando en flujos de caja libres negativos de más de 250.000 millones de dólares.",
+      "Efecto de cierre de libros a fin de año por parte de gestores que liquidan posiciones para consolidar plusvalías en lugar de comprar caídas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Charlie McElligott (citado)",
+      "Michael Hartnett (citado)",
+      "J.J. Montoya (mencionado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
