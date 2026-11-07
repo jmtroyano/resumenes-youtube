@@ -576,7 +576,7 @@
    "publicado": "2026-11-04T11:32:46+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-04T17:19:23.870351+00:00"
   },
   {
@@ -596,8 +596,28 @@
    "publicado": "2026-11-05T08:16:01+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
+  },
+  {
+   "video_id": "73U9c1LTE3I",
+   "titulo": "Por Esto Se Hunde La Bolsa y Casi Nadie Te Lo Está Contando",
+   "url": "https://www.youtube.com/watch?v=73U9c1LTE3I",
+   "publicado": "2026-11-07T18:12:19+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-07T19:27:52.058999+00:00"
+  },
+  {
+   "video_id": "OSRP9WUZ5MY",
+   "titulo": "Cómo Utilizar la DEUDA para Hacer Crecer tu PATRIMONIO INMOBILIARIO",
+   "url": "https://www.youtube.com/watch?v=OSRP9WUZ5MY",
+   "publicado": "2026-11-07T19:00:19+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-07T19:27:52.058999+00:00"
   }
  ],
  "fallidos": {
