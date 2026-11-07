@@ -1,0 +1,137 @@
+{
+  "video_id": "70JPAalvK34",
+  "url": "https://www.youtube.com/watch?v=70JPAalvK34",
+  "titulo": "Mercado con muchas dudas intenta rebote - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-06T16:17:25+00:00",
+  "fecha_resumen": "2026-11-07T06:11:51.195635+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los mercados intentan un rebote tras las fuertes caídas previas, aunque de forma dubitativa y sin la confirmación de la amplitud de mercado ni de sectores clave. El dato de empleo en EE. UU. sorprendió al alza junto a una mayor presión salarial, elevando al 79% las probabilidades de una subida de tipos de 25 pb en la reunión de diciembre de la Fed. A su vez, el mercado de opciones muestra un encarecimiento simultáneo de puts y calls en un entorno de gamma negativa, anticipando fuertes movimientos en cualquier dirección.",
+    "ideas_clave": [
+      "El rebote del mercado no es limpio: el ETF RSP (S&P 500 equi-ponderado), el consumo, las finanzas y las utilities no acompañan la subida.",
+      "Persiste la amenaza de ventas sistemáticas por parte de fondos de control de volatilidad y CTAs, estimadas en torno a 40.000 millones de dólares.",
+      "El informe de empleo de EE. UU. mostró una creación de 165.000 nóminas frente a las 65.000 estimadas, con una tasa de paro del 4,1% e ingresos por hora interanuales subiendo al +3,1% (frente al 2,9% previsto), presionando los rendimientos de los bonos.",
+      "Las probabilidades de una subida de tipos de 25 puntos básicos por parte de la Fed en diciembre se han disparado hasta el 79% en los mercados de apuestas.",
+      "El sector minorista registró la mayor venta neta matinal en al menos seis años (superando el colapso del COVID en marzo de 2020), según datos de Vanda Research.",
+      "El skew de opciones muestra una subida simultánea en puts y calls, lo que indica que los inversores pagan primas elevadas cubriéndose ante movimientos bruscos en ambas direcciones dentro de un entorno de gamma negativa.",
+      "Un informe de Cleanview alerta de que el 41% de los centros de datos proyectados en EE. UU. afrontan riesgos regulatorios o de paralización tras los cambios políticos en estados clave como Texas."
+    ],
+    "tesis_principal": "El intento de rebote en los índices se encuentra sumido en una enorme incertidumbre debido a la falta de amplitud, la presión de ventas sistemáticas, el endurecimiento de expectativas sobre la Fed tras el dato de empleo y la alta volatilidad reflejada en la estructura de opciones.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Fed y tipos de interés EE. UU.",
+      "Empleo",
+      "Inflación",
+      "Bonos y renta fija",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico",
+      "Dólar y divisas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "VIX",
+      "Bono estadounidense a 10 años",
+      "Bund alemán",
+      "Dólar estadounidense",
+      "EUR/USD",
+      "USD/JPY",
+      "EUR/CHF",
+      "Bitcoin",
+      "Oro",
+      "Petróleo (Light Crude)",
+      "Tesla",
+      "Meta",
+      "Nvidia"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Intenta rebotar en soportes técnicos clave como las medias de 200 sesiones, pero el rebote carece de amplitud y sigue amenazado por ventas sistemáticas."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El aumento en los costes laborales y la fortaleza del mercado laboral elevan al 79% la probabilidad de una subida de 25 pb en tipos."
+      },
+      {
+        "tema": "Empleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Los datos macroeconómicos superaron con claridad las previsiones con 165.000 empleos creados y desempleo en el 4,1%."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Los precios de los bonos sufren caídas al reajustarse las expectativas de tipos tras los datos de salarios."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Rebota con fuerza tras el desplome anterior, pero afronta vientos en contra regulatorios para centros de datos y menores valoraciones estimadas para OPVs como la de Anthropic."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "El dólar se refuerza notablemente frente al euro y el yen impulsado por la perspectiva de tipos más altos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el futuro del S&P 500 se coloca claramente por encima de los 7.456 puntos, el rebote ganará amplitud; si pierde el mínimo intradía cerca de 7.326/7.376, aumentará el riesgo de ventas adicionales.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "no aplica",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La Reserva Federal tendrá que subir tipos (posiblemente 25 pb en diciembre) si la inflación o los datos de IPC continúan mostrando tensiones.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "diciembre 2024",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Creación de nóminas no agrícolas: 165.000 vs. 65.000 esperadas.",
+      "Tasa de desempleo en EE. UU.: 4,1% vs. 4,2% esperado.",
+      "Salarios por hora interanuales: +3,1% vs. +2,9% esperado.",
+      "Probabilidad de subida de tipos de 25 pb de la Fed en diciembre: 79% en Kalshi.",
+      "Potencial volumen de ventas de fondos de volatilidad controlada y CTAs: cerca de 40.000 millones de dólares.",
+      "Gráfico de Cleanview: el 41% de los centros de datos planificados en EE. UU. se ubican en estados con riesgo de moratoria o pausa política.",
+      "VIX por encima de 23 (23,71), señal de elevada volatilidad.",
+      "Desplome de valoraciones descontadas de Anthropic de cara a su salida a bolsa: de 2 billones a 1,2-1,3 billones de dólares."
+    ],
+    "riesgos_mencionados": [
+      "Presión vendedora sistemática por parte de CTAs y fondos de control de volatilidad.",
+      "Entorno de gamma negativa en opciones que amplifica la violencia de los movimientos de mercado.",
+      "Riesgos regulatorios y trabas políticas estatales a la construcción de centros de datos de IA.",
+      "Repunte de la inflación salarial que obligue a la Reserva Federal a endurecer más la política monetaria.",
+      "Tensiones geopolíticas e incertidumbre en Oriente Medio respecto a ataques a petroleros."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

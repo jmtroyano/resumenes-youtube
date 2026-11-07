@@ -531,7 +531,9 @@
   "3tXSnlQzUS8": "2026-11-03T07:01:03.245547+00:00",
   "luWjal3Yv_8": "2026-11-06T23:15:00.797135+00:00",
   "K-l6gOexmM0": "2026-11-06T23:19:15.050029+00:00",
-  "ebPAiVIsgCI": "2026-11-06T23:23:36.330452+00:00"
+  "ebPAiVIsgCI": "2026-11-06T23:23:36.330452+00:00",
+  "70JPAalvK34": "2026-11-07T06:11:56.074451+00:00",
+  "litMhgyoPjg": "2026-11-07T06:17:40.762769+00:00"
  },
  "cola": [
   {
@@ -541,16 +543,6 @@
    "publicado": "2026-11-02T16:08:46+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
-  },
-  {
-   "video_id": "7e6yWdesiK4",
-   "titulo": "¿Qué Pasa con el ORO? ¿Y los SINDICATOS Españoles y el PCCH? | José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=7e6yWdesiK4",
-   "publicado": "2026-11-02T14:04:14+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
    "intentos": 2,
    "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
   },
@@ -615,33 +607,13 @@
    "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
   },
   {
-   "video_id": "litMhgyoPjg",
-   "titulo": "Éste es el Objetivo de La CRISIS que Necesitan. José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=litMhgyoPjg",
-   "publicado": "2026-11-05T11:16:37+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
-  },
-  {
-   "video_id": "70JPAalvK34",
-   "titulo": "Mercado con muchas dudas intenta rebote - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=70JPAalvK34",
-   "publicado": "2026-11-06T16:17:25+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
-  },
-  {
    "video_id": "ssEz7PFWNxo",
    "titulo": "SP500 spot en la media de 200 tras la carnicería de ayer - Apertura Cárpatos",
    "url": "https://www.youtube.com/watch?v=ssEz7PFWNxo",
    "publicado": "2026-11-06T08:32:41+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
+   "intentos": 1,
    "en_cola_desde": "2026-11-06T16:48:32.026331+00:00"
   }
  ],
@@ -671,7 +643,8 @@
   "GxONXV4q5A0": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "wKcnsjHpaDY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "YN_r-4BPvug": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "Q1B8Zta1Gf8": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "Q1B8Zta1Gf8": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "7e6yWdesiK4": "Server disconnected without sending a response."
  },
  "aviso_config": null
 }

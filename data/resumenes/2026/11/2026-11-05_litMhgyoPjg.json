@@ -1,0 +1,122 @@
+{
+  "video_id": "litMhgyoPjg",
+  "url": "https://www.youtube.com/watch?v=litMhgyoPjg",
+  "titulo": "Éste es el Objetivo de La CRISIS que Necesitan. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-05T11:16:37+00:00",
+  "fecha_resumen": "2026-11-07T06:17:39.338083+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava argumenta que la próxima crisis de mercado no vendrá de un cisne negro imprevisto, sino de la desaceleración del gasto en infraestructura de inteligencia artificial ante la falta de liquidez de los hiperescaladores. El diferencial de tipos entre los bonos estadounidenses a 10 y 5 años muestra un claro flujo hacia la seguridad por el temor a una recesión o corrección severa. Cava prevé que la Reserva Federal intervendrá inyectando liquidez hacia finales del segundo trimestre de 2027 y propone el sector energético (XLE / QDVF) como activo refugio descorrelacionado frente al S&P 500.",
+    "ideas_clave": [
+      "La próxima crisis provendrá previsiblemente de la inteligencia artificial si las grandes empresas hiperescaladoras recortan inversión, ya que su flujo neto de caja medio es prácticamente cero y dependen fuertemente de financiación externa.",
+      "El diferencial entre el bono del Tesoro estadounidense a 10 años y a 5 años ha caído de cerca de 0,50% en julio a 0,182%, reflejando un vuelo hacia la seguridad y una creciente aversión al riesgo.",
+      "La Reserva Federal aparenta disciplina monetaria, pero se verá obligada a rescatar a los mercados e inyectar liquidez comprando deuda pública cuando la crisis se agudice, evento que Cava sitúa en torno a finales del segundo trimestre de 2027.",
+      "El sector energético presenta actualmente una correlación negativa (-0,45) respecto al S&P 500, un fenómeno que solo se vio previamente durante el pinchazo de la burbuja punto com (2000-2001).",
+      "Para aprovechar el sector energético como refugio, Cava señala soportes técnicos de compra en el ETF XLE entre 66,19 y 65,25 dólares (con soporte estructural en 60), y en el ETF europeo equivalente (QDVF) en la zona de 12,60 - 12,40 euros."
+    ],
+    "tesis_principal": "Una contracción del gasto en IA por falta de liquidez de los hiperescaladores desencadenará una crisis bursátil que forzará un rescate de la Fed hacia mediados de 2027, momento para el cual el sector de la energía actúa como refugio descorrelacionado del S&P 500.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Energía y petróleo",
+      "Fondos indexados y ETFs",
+      "Análisis técnico",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Bono del Tesoro de EE. UU. a 10 años",
+      "Bono del Tesoro de EE. UU. a 5 años",
+      "Energy Select Sector SPDR Fund (XLE)",
+      "iShares S&P 500 Energy Sector UCITS ETF (QDVF)",
+      "iShares S&P 500 Health Care Sector UCITS ETF (QDVG)",
+      "ExxonMobil",
+      "Chevron",
+      "ConocoPhillips",
+      "Phillips 66"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Advierte de una fuerte caída en los índices si se frena el gasto empresarial en IA."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las empresas hiperescaladoras tienen flujo de caja nulo en media y compiten con la deuda pública por conseguir financiación costosa."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "La reducción de la prima en el tramo a 10 años frente al de 5 años muestra un vuelo hacia los bonos soberanos por seguridad."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Muestra correlación negativa con el S&P 500 y tendencia alcista técnica, sirviendo como sector refugio."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Anticipa que la Fed mantendrá una fachada dura hasta que la crisis le obligue a volver a inyectar liquidez y monetizar deuda."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La crisis bursátil tocará su punto más profundo y provocará la intervención masiva de liquidez de la Reserva Federal hacia finales del segundo trimestre de 2027",
+        "activo_o_variable": "Bolsa EE. UU. e intervención de la Fed",
+        "direccion": "baja",
+        "horizonte": "Finales del Q2 2027",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El ETF del sector energía (XLE) corregirá hacia la zona de 66,19 - 65,25 dólares (o 60 dólares) donde encontrará soporte antes de continuar al alza",
+        "activo_o_variable": "XLE",
+        "direccion": "sube",
+        "horizonte": "Medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El ETF europeo de energía QDVF encontrará soporte en el rango de 12,60 a 12,40 euros para reanudar subidas",
+        "activo_o_variable": "QDVF",
+        "direccion": "sube",
+        "horizonte": "Medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El flujo neto de caja medio de los proveedores e hiperescaladores de infraestructura de IA se sitúa en cero.",
+      "El diferencial entre el rendimiento del bono de EE. UU. a 10 años y a 5 años cayó desde cerca de 0,50 puntos porcentuales en julio a 0,182.",
+      "La correlación a 6 meses entre el sector energético del S&P 500 y el propio índice S&P 500 es de -0,45, nivel negativo no visto desde la burbuja puntocom de 2000-2001.",
+      "El ETF QDVF tiene un coste de gestión del 0,15%, es de acumulación y cuenta con réplica física directa de las acciones."
+    ],
+    "riesgos_mencionados": [
+      "Dificultades de financiación y aumento del coste de la deuda para las empresas tecnológicas e hiperescaladoras.",
+      "Competencia por la liquidez frente a las emisiones masivas de deuda del gobierno de Estados Unidos.",
+      "Caída generalizada en los índices bursátiles si la inversión en IA decepciona en términos de rentabilidad.",
+      "Riesgo de pérdida de capital inherente a la operativa bursátil si no se emplean órdenes stop loss estrictas."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
