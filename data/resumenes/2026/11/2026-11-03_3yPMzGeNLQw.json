@@ -1,0 +1,136 @@
+{
+  "video_id": "3yPMzGeNLQw",
+  "url": "https://www.youtube.com/watch?v=3yPMzGeNLQw",
+  "titulo": "Explicando vuelta de ayer a la baja - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-03T08:21:22+00:00",
+  "fecha_resumen": "2026-11-08T18:02:49.189678+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el fuerte giro intradía a la baja de Wall Street, donde el S&P 500 y el Nasdaq pasaron de subir más de un 1% a registrar caídas notables debido a las dudas persistentes sobre la rentabilidad de la inteligencia artificial. La sesión estuvo marcada por una intensa rotación desde los valores ganadores y tecnológicos hacia sectores rezagados y defensivos, agravada por el agotamiento de los inversores minoristas, que cerraron en ventas netas por segunda vez en el año. El análisis técnico resalta una situación delicada tras la pérdida provisional de la media de 200 sesiones en el Nasdaq 100 y en los semiconductores, mientras el mercado espera el desenlace de las elecciones de medio mandato en Estados Unidos.",
+    "ideas_clave": [
+      "La rotación sectorial castigó a los ganadores del año: la cesta de 'momentum' cayó un 6,7%, mientras que los valores rezagados subieron un 1% y el Dow Jones cerró en positivo (+0,41%).",
+      "Preocupación por las ingentes emisiones de deuda y ampliaciones de capital de las 'big tech' para financiar la infraestructura de IA (Oracle solicita 20.000 millones, Meta 20.000 millones y Google 6.000 millones).",
+      "Los inversores minoristas dieron la vuelta a sus posiciones intradiarias y terminaron con fuertes ventas netas, marcando apenas la segunda jornada de saldo vendedor minorista de todo el año.",
+      "El índice de semiconductores SOX y el ETF SMH perforaron sus medias de 200 sesiones, desencadenando órdenes automáticas de venta sin compradores que frenaran la caída.",
+      "Goldman Sachs y J.P. Morgan anticipan un impacto moderado de las elecciones de medio mandato en EE. UU., otorgando la mayor probabilidad (66%) a un control demócrata de ambas cámaras con una reacción del S&P 500 de entre -0,25% y +0,50%.",
+      "El soporte cuantitativo más crítico en el S&P 500 se sitúa en el 'strike' de 7.500 puntos por concentración de gamma, cuya pérdida abriría el camino hacia la media de 200 sesiones en 7.300 puntos."
+    ],
+    "tesis_principal": "El mercado no experimenta un pánico generalizado sino una severa rotación y desconfianza focalizada en el sector tecnológico y la inteligencia artificial por el aluvión de emisiones de deuda para financiar infraestructuras, poniendo a prueba niveles de soporte técnico críticos como la media de 200 sesiones.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Resultados empresariales",
+      "Geopolítica",
+      "Energía y petróleo",
+      "Otros bancos centrales"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Dow Jones",
+      "Russell 2000",
+      "Roundhill NeoCloud ETF (NCLD)",
+      "VanEck Semiconductor ETF (SMH)",
+      "Índice SOX",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Petróleo WTI",
+      "Oro",
+      "Bitcoin",
+      "Bono EE. UU. 10 años",
+      "Bund alemán",
+      "Oracle",
+      "Google (Alphabet)",
+      "Meta",
+      "Apple",
+      "Palantir",
+      "SK Hynix",
+      "AMD"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Creciente temor en el mercado a un exceso de capacidad y dudas sobre quién pagará la descomunal factura de emisiones para financiar la IA."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El SOX y el ETF SMH han perforado su media de 200 sesiones sin presencia de compradores que defiendan las cotizaciones."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "El mercado amplio, las pequeñas compañías y los sectores defensivos aguantan bien gracias a la rotación desde las grandes tecnológicas."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Apertura de bandas inferiores de Mogalef y testeo peligroso de medias móviles de 200 sesiones en los principales índices directores."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Rebote tras los ataques nocturnos de EE. UU. contra objetivos militares en Irán que reavivan la prima de riesgo geopolítico."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La pérdida confirmada del nivel de 27.360 en el Nasdaq 100 ratificaría la rotura bajista de la media de 200 sesiones y provocaría caídas mayores.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el S&P 500 pierde el soporte de 7.486 y el strike de 7.500, irá rápidamente a buscar la media de 200 sesiones situada en torno a 7.300 puntos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El impacto directo e inmediato de las elecciones de medio mandato en el mercado será limitado debido a la perspectiva de un gobierno dividido.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El S&P 500 de igual ponderación superó al S&P 500 ponderado por capitalización en 125 puntos básicos en la sesión previa.",
+      "La brecha de rentabilidad entre el Nasdaq 100 (-1,39%) y el Dow Jones (+0,41%) fue de 1,8 puntos porcentuales.",
+      "El ETF de semiconductores SMH y el índice SOX cerraron bajo la media de 200 sesiones por primera vez desde junio de 2025.",
+      "El ETF de NeoCloud (NCLD) acumula un desplome cercano al 50% desde mediados de agosto.",
+      "El banco central de Australia subió tipos 25 puntos básicos con una votación dividida de 5 contra 3.",
+      "El Tesoro estadounidense anunció necesidades de financiación para el próximo trimestre por 618.000 millones de dólares."
+    ],
+    "riesgos_mencionados": [
+      "Avalancha excesiva de oferta de papel (bonos y acciones) de empresas tecnológicas que supere la capacidad de absorción del mercado.",
+      "Ruptura definitiva de soportes técnicos clave (media de 200 sesiones) en semiconductores y Nasdaq 100.",
+      "Escalada bélica entre EE. UU. e Irán tras los recientes ataques militares que mantenga tensionado el precio del crudo.",
+      "Pérdida del nivel de 7.500 puntos en el S&P 500, lo que desencadenaría ventas sistemáticas hacia los 7.300-7.100 puntos."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

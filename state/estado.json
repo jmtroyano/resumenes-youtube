@@ -543,28 +543,20 @@
   "XJ4s5J7q-h8": "2026-11-08T00:48:19.887532+00:00",
   "SjwlFGffWWc": "2026-11-08T10:30:30.369722+00:00",
   "vddzaS9PTog": "2026-11-08T10:33:13.023340+00:00",
-  "P5fpYjlbjBQ": "2026-11-08T10:36:59.774561+00:00"
+  "P5fpYjlbjBQ": "2026-11-08T10:36:59.774561+00:00",
+  "3yPMzGeNLQw": "2026-11-08T18:02:50.750176+00:00",
+  "68b2poS7HCI": "2026-11-08T18:04:10.537991+00:00"
  },
  "cola": [
   {
-   "video_id": "68b2poS7HCI",
-   "titulo": "Neoclouds siguen mal - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=68b2poS7HCI",
-   "publicado": "2026-11-02T16:08:46+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
-  },
-  {
-   "video_id": "3yPMzGeNLQw",
-   "titulo": "Explicando vuelta de ayer a la baja - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=3yPMzGeNLQw",
-   "publicado": "2026-11-03T08:21:22+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
-   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
+   "video_id": "KhvSMTQh_zo",
+   "titulo": "💥Warren Buffett: “HACERSE RICO en BOLSA es MUY FÁCIL”|👉5 sencillas ESTRATEGIAS",
+   "url": "https://www.youtube.com/watch?v=KhvSMTQh_zo",
+   "publicado": "2026-11-08T17:15:19+00:00",
+   "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+   "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-08T17:57:19.383475+00:00"
   }
  ],
  "fallidos": {
