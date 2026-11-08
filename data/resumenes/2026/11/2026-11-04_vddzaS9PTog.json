@@ -1,0 +1,118 @@
+{
+  "video_id": "vddzaS9PTog",
+  "url": "https://www.youtube.com/watch?v=vddzaS9PTog",
+  "titulo": "Repercusión en mercado de elecciones - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-04T08:32:52+00:00",
+  "fecha_resumen": "2026-11-08T10:33:11.489915+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la fuerte volatilidad nocturna provocada por los resultados electorales en Estados Unidos, donde la victoria demócrata en ambas cámaras y el triunfo en estados clave como Texas amenazan el despliegue de centros de datos para inteligencia artificial. A pesar de los temores regulatorios que lastraron inicialmente a la tecnología, los mercados recuperaron terreno ante la expectativa de que el bloqueo político limite el déficit fiscal. Además, destaca el papel amplificador de las ventas forzadas por el rebalanceo de ETFs apalancados y los niveles técnicos clave del S&P 500.",
+    "ideas_clave": [
+      "La inesperada victoria demócrata en ambas cámaras y en estados críticos para centros de datos (como Texas con Inojosa) provocó una caída inicial del 1,8% en el S&P 500 por miedo a trabas regulatorias a la IA.",
+      "El bloqueo político entre la presidencia y el Congreso beneficia a la renta fija al estimarse que será más difícil seguir incrementando el déficit público.",
+      "La correlación inversa clásica entre bonos y bolsa ha vuelto al -68%, recuperando los bonos su papel tradicional de activo refugio.",
+      "UBS advierte del impacto mecánico de los ETFs apalancados, que el viernes ejecutaron ventas forzadas por 36.000 millones de dólares (16.500 millones en semiconductores) al cierre.",
+      "Según FactSet, se prevé una rotación de beneficios: el resto de compañías del S&P 500 (las 493 restantes) crecerían al 30,8% frente al 22,6% de los 'Siete Magníficos' en el cuarto trimestre.",
+      "Técnicamente, el S&P 500 mantiene como soporte clave el nivel de 7.500 puntos por concentración de gamma; perderlo abriría caídas rápidas hacia la media de 200 en 7.324."
+    ],
+    "tesis_principal": "Los resultados electorales introducen trabas regulatorias para la infraestructura de inteligencia artificial en EE. UU., pero la parálisis fiscal resultante y la moderación del déficit sostienen a los bonos y permiten una digestión técnica de la volatilidad en la renta variable.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Fondos indexados y ETFs",
+      "Deuda pública y déficit",
+      "Análisis técnico",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Russell 2000",
+      "T-Note 10 años",
+      "T-Bond 30 años",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "KOSPI",
+      "Dólar",
+      "Euro",
+      "Yen",
+      "Bitcoin",
+      "Oro",
+      "Petróleo Crudo",
+      "AMD",
+      "Super Micro Computer"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Las victorias demócratas en estados con alta concentración de centros de datos amenazan con moratorias y trabas regulatorias y medioambientales."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Un Congreso dividido o demócrata dificultará el aumento del déficit público y los bonos recuperan su comportamiento de valor refugio."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El mercado se encuentra en rango lateral, digiriendo la volatilidad electoral entre el soporte de 7.500 y la resistencia de 7.622 puntos."
+      },
+      {
+        "tema": "Fondos indexados y ETFs",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El rebalanceo mecánico diario de los ETFs apalancados introduce un grave riesgo de amplificación de caídas bruscas al cierre de sesión."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La colocación y desarrollo de centros de datos para inteligencia artificial sufrirá muchas más trabas y retrasos en los próximos meses.",
+        "activo_o_variable": "Infraestructura de Centros de Datos e IA",
+        "direccion": "baja",
+        "horizonte": "meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el S&P 500 pierde el soporte de 7.500 puntos por gamma, caerá rápidamente hacia la media de 200 sesiones en 7.324.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En la noche electoral, el futuro del S&P 500 se desplomó un 1,8% para rebotar posteriormente un 1,3%.",
+      "Texas representa el 26,7% de la capacidad prevista de centros de datos de Estados Unidos.",
+      "El viernes anterior se produjo la tercera mayor venta histórica de ETFs apalancados con 36.000 millones de dólares, de los cuales 16.500 correspondieron a semiconductores.",
+      "La correlación a 20 días entre los 12 grandes activos mundiales cayó a mínimos históricos (3%), reflejando una descorrelación extrema según UBS.",
+      "La correlación inversa entre bonos del Tesoro y bolsa estadounidense se situó en el -68% a 30 de octubre.",
+      "El PMI de servicios chino de Caixin cayó a 50,8 frente al 51,6 previo y 51,7 esperado."
+    ],
+    "riesgos_mencionados": [
+      "Moratorias y bloqueos regulatorios estatales a licencias de agua y electricidad para centros de datos de IA.",
+      "Efecto cascada y ventas mecánicas masivas al cierre por rebalanceo de ETFs apalancados.",
+      "Riesgo geopolítico de conflicto militar directo entre Estados Unidos, Israel e Irán.",
+      "Pérdida del soporte de volatilidad/gamma en los 7.500 puntos en el S&P 500."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

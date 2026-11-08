@@ -540,7 +540,10 @@
   "OSRP9WUZ5MY": "2026-11-08T00:46:08.278006+00:00",
   "73U9c1LTE3I": "2026-11-08T00:47:23.594076+00:00",
   "11wjrAkdSSk": "2026-11-08T00:47:50.536575+00:00",
-  "XJ4s5J7q-h8": "2026-11-08T00:48:19.887532+00:00"
+  "XJ4s5J7q-h8": "2026-11-08T00:48:19.887532+00:00",
+  "SjwlFGffWWc": "2026-11-08T10:30:30.369722+00:00",
+  "vddzaS9PTog": "2026-11-08T10:33:13.023340+00:00",
+  "P5fpYjlbjBQ": "2026-11-08T10:36:59.774561+00:00"
  },
  "cola": [
   {
@@ -554,16 +557,6 @@
    "en_cola_desde": "2026-11-02T21:44:25.540972+00:00"
   },
   {
-   "video_id": "P5fpYjlbjBQ",
-   "titulo": "IA ¿Y si ganan los demócratas? - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=P5fpYjlbjBQ",
-   "publicado": "2026-11-03T12:47:47+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
-  },
-  {
    "video_id": "3yPMzGeNLQw",
    "titulo": "Explicando vuelta de ayer a la baja - Apertura Cárpatos",
    "url": "https://www.youtube.com/watch?v=3yPMzGeNLQw",
@@ -572,16 +565,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 0,
    "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
-  },
-  {
-   "video_id": "vddzaS9PTog",
-   "titulo": "Repercusión en mercado de elecciones - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=vddzaS9PTog",
-   "publicado": "2026-11-04T08:32:52+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
-   "en_cola_desde": "2026-11-04T17:19:23.870351+00:00"
   }
  ],
  "fallidos": {
@@ -611,7 +594,8 @@
   "wKcnsjHpaDY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "YN_r-4BPvug": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "Q1B8Zta1Gf8": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "7e6yWdesiK4": "Server disconnected without sending a response."
+  "7e6yWdesiK4": "Server disconnected without sending a response.",
+  "VzaVZtb-9VI": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
  },
  "aviso_config": null
 }

@@ -1,0 +1,121 @@
+{
+  "video_id": "P5fpYjlbjBQ",
+  "url": "https://www.youtube.com/watch?v=P5fpYjlbjBQ",
+  "titulo": "IA ¿Y si ganan los demócratas? - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-03T12:47:47+00:00",
+  "fecha_resumen": "2026-11-08T10:36:58.221384+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El Nasdaq 100 ha experimentado su cuarta peor caída en tres días desde la pandemia de COVID, reflejando crecientes dudas sobre la rentabilidad de las inversiones en inteligencia artificial y el elevado endeudamiento del sector tecnológico. A esto se suman los decepcionantes resultados de grandes tecnológicas como Apple y Palantir, así como un incremento notable en los diferenciales de crédito corporativo para bonos del sector tecnológico. En el plano político, surge el riesgo de que una victoria demócrata en ambas cámaras en EE. UU. frene la expansión de centros de datos de IA por cuestiones regulatorias. En Europa, el euro se mantiene débil con bajas expectativas de recuperación en sondeos, mientras las tensiones geopolíticas entre EE. UU. e Irán persisten.",
+    "ideas_clave": [
+      "El Nasdaq 100 sufrió una caída acumulada del 6,1% en tres sesiones consecutivas, situándose entre las cuatro peores rachas bajistas de tres días desde el crash del COVID.",
+      "El diferencial de la deuda de tecnológicas con grado de inversión (Tech IG) frente al índice general corporativo se ha ensanchado hasta exigir una prima superior (+19,67 pb) ante la acumulación de deuda e incertidumbre sobre la rentabilidad de la IA.",
+      "Los resultados empresariales de las grandes tecnológicas están decepcionando, destacando las caídas de Apple (-4%) por compresión de márgenes debido a costes de memorias y de Palantir (-8%).",
+      "Técnicamente, el tímido rebote del Nasdaq (+0,38%) mantiene al índice en una zona de alto peligro, cotizando muy lejos de su media móvil de 200 sesiones.",
+      "Comienza a trazarse un paralelismo con la burbuja puntocom del año 2000 por el exceso de capacidad proyectado muy por encima de la demanda real en centros de datos e IA.",
+      "Un escenario político donde los demócratas ganen ambas cámaras en EE. UU. podría perjudicar a empresas vinculadas a centros de datos ('neocloud') debido a la oposición regulatoria que han mostrado varios candidatos.",
+      "El euro cotiza débil en 1,1198 frente al dólar; según la encuesta de Reuters, los economistas prevén una recuperación anémica de solo 1,13 a 3 meses y 1,14 a 6 meses."
+    ],
+    "tesis_principal": "El sector tecnológico estadounidense y la narrativa de la inteligencia artificial enfrentan un punto de inflexión peligroso debido a excesos de deuda, resultados trimestrales decepcionantes y posibles trabas regulatorias a los centros de datos, todo ello en un contexto técnico frágil y de creciente aversión al riesgo crediticio.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Resultados empresariales",
+      "Bonos y renta fija",
+      "Dólar y divisas",
+      "Bolsa Europa",
+      "Geopolítica",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "S&P 500",
+      "Apple",
+      "Palantir",
+      "Bayer",
+      "EUR/USD"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.75,
+        "justificacion": "Se multiplican las dudas sobre la rentabilidad de las inversiones en IA, el sobrecoste de centros de datos y el encarecimiento de la financiación de deuda tecnológica."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.65,
+        "justificacion": "El Nasdaq ha vivido una de sus peores rachas de tres días desde 2020 y sigue lejos de su media de 200 en un entorno de alto peligro técnico."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "La campaña de resultados de las grandes tecnológicas ha sido calificada como un desastre general, con caídas severas en Apple y Palantir."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Los diferenciales de crédito de la deuda tecnológica Investment Grade se amplían frente al resto del mercado corporativo exigiendo una prima inusual."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El euro permanece deprimido frente al dólar y las previsiones de los analistas apuntan a una recuperación prácticamente insignificante en los próximos meses."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Irán tilda de inaceptables las condiciones propuestas por EE. UU., disipando una vez más el optimismo de un acuerdo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El tipo de cambio EUR/USD se situará en 1,13 a tres meses vista según el consenso de economistas encuestados por Reuters.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "sube",
+        "horizonte": "3 meses",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El tipo de cambio EUR/USD alcanzará 1,14 a seis meses vista según la encuesta de Reuters.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "sube",
+        "horizonte": "6 meses",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Nasdaq 100 cayó un -6,1% en tres sesiones, siendo la 4ª peor caída de tres días desde el COVID (tras el -12,3% y -10,9% de 2020 y el -11,0% previo).",
+      "El spread Tech IG vs Bloomberg Corp Agg OAS subió a +19,67 puntos básicos, reflejando que los prestatarios tecnológicos pagan una prima creciente por primera vez en años.",
+      "Apple retrocede casi un 4% tras admitir compresión en sus márgenes por los precios elevados de componentes de memoria.",
+      "Palantir registra descensos del 8% en la sesión tras sus cuentas.",
+      "El Nasdaq 100 apenas rebota un 0,38% y continúa operando claramente por debajo de su media móvil de 200 días.",
+      "El par EUR/USD cotiza en 1,1198 con previsiones de consenso en 1,13 a 3 meses y 1,14 a 6 meses.",
+      "En Europa, Bayer avanza cerca de un 4% tras elevar previsiones, mientras que materiales básicos cae un -1,93%, el sector tecnológico cede un -1,5% y el lujo lidera con un +1,35%."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de que el ciclo de IA replique la burbuja del año 2000 por creación de capacidad excesiva respecto a la demanda real.",
+      "Riesgo de sobreendeudamiento e incapacidad para monetizar las ingentes inversiones de capital en infraestructuras de inteligencia artificial.",
+      "Riesgo político-regulatorio para las empresas de centros de datos y 'neocloud' si los demócratas ganan el control de ambas cámaras en EE. UU.",
+      "Riesgo geopolítico persistente en Oriente Medio por el rechazo de Irán a las exigencias diplomáticas de Estados Unidos."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
