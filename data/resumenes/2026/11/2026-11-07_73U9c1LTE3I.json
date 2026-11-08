@@ -1,0 +1,119 @@
+{
+  "video_id": "73U9c1LTE3I",
+  "url": "https://www.youtube.com/watch?v=73U9c1LTE3I",
+  "titulo": "Por Esto Se Hunde La Bolsa y Casi Nadie Te Lo Está Contando",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-07T18:12:19+00:00",
+  "fecha_resumen": "2026-11-08T00:47:22.104927+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Antonio analiza la reciente y profunda corrección en las bolsas estadounidenses, liderada por el Nasdaq y el sector tecnológico. Explica que el detonante fundamental ha sido el giro político en estados clave como Texas, donde la victoria demócrata amenaza con pausar hasta el 41% de los centros de datos previstos para inteligencia artificial, sumado al riesgo de deuda fuera de balance en las grandes tecnológicas. Asimismo, detalla cómo los mecanismos técnicos del mercado, como la gamma negativa, las ventas de fondos de control de volatilidad y el rebalanceo de ETFs apalancados, amplificaron la caída, antes de desglosar los resultados y riesgos de IREN.",
+    "ideas_clave": [
+      "La victoria demócrata en gobernaturas clave como Texas amenaza con frenar proyectos de centros de datos de IA por presiones medioambientales y costes eléctricos, afectando al 41% de la capacidad proyectada en EE. UU.",
+      "Gran parte del gasto masivo en infraestructura de IA se financia fuera de balance mediante vehículos especiales (SPV) y deuda no computada directamente, de la cual JPMorgan estima que solo el 15% aparece reflejada en los balances.",
+      "La caída bursátil fue exacerbada de forma mecánica por fondos de control de volatilidad (que vendieron 117.000 millones de dólares) y el rebalanceo forzado de ETFs apalancados (otros 47.000 millones de dólares de ventas el 5 de noviembre).",
+      "El régimen de gamma negativa aceleró la presión vendedora de los creadores de mercado ante un volumen récord histórico de compra de opciones put (con fuerte presencia de 0DTE y 1DTE).",
+      "A pesar del pánico, el índice de pánico de volatilidad de Goldman Sachs tocó 9,57 y el PER adelantado del sector tecnológico cayó a 17 veces, niveles que históricamente han representado oportunidades atractivas de entrada a medio y largo plazo.",
+      "IREN presentó un aumento trimestral de ingresos en nube IA, pero enfrenta retrasos en los pagos e implantaciones pactadas con Microsoft y la necesidad de captar 6.000 millones de dólares adicionales para cubrir su Capex."
+    ],
+    "tesis_principal": "El desplome del mercado tecnológico no es un hecho aislado, sino la combinación de un freno político y financiero a los centros de datos de IA con un efecto dominó técnico amplificado por derivados, gamma negativa y ventas sistemáticas de fondos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Liquidez y crédito",
+      "Fondos indexados y ETFs",
+      "Resultados empresariales",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "IREN",
+      "Microsoft",
+      "Oracle",
+      "Alphabet",
+      "Meta",
+      "Amazon",
+      "Nvidia",
+      "CoreWeave",
+      "Nebius",
+      "Applied Digital",
+      "VIX",
+      "VVIX",
+      "VXN",
+      "Oro"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Señala que los niveles extremos de miedo y los picos de volatilidad suelen ser históricamente zonas óptimas para comprar renta variable a plazos de 3 a 12 meses."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Advierte sobre la excesiva deuda oculta, la quema de caja y los posibles bloqueos regulatorios a centros de datos que ponen en duda las proyecciones a 2030."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Los spreads de crédito y los CDS de centros de datos y tecnológicas se han disparado con fuerza reflejando un encarecimiento de la financiación."
+      },
+      {
+        "tema": "Resultados empresariales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "IREN muestra fuerte crecimiento operativo pero debe levantar 6.000 millones de dólares y afronta retrasos comerciales con clientes clave como Microsoft."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Tras tocar niveles superiores a 9,5 en el índice de pánico de volatilidad de Goldman Sachs, el retorno del S&P 500 tiende a ser significativamente positivo en los siguientes 3, 6 y 12 meses.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "3 a 12 meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El precio de la acción de IREN tenderá a converger hacia su nivel de Max Pain en opciones financieras alrededor de 24,50 dólares en el corto plazo.",
+        "activo_o_variable": "IREN",
+        "direccion": "sube",
+        "horizonte": "1 semana",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Nasdaq cayó un 5,50% y el S&P 500 un 3,7% en una de las peores semanas en años, con el VVIX subiendo 45 puntos.",
+      "El 41% de los centros de datos planificados en EE. UU. se ubica en estados donde los gobernadores podrían imponer una pausa regulatoria.",
+      "Texas aglutina en solitario el 26% de la capacidad neta de data centers proyectada para el periodo 2026-2030.",
+      "Según JPMorgan, solo el 15% de los compromisos de deuda y arrendamiento de IA de las grandes empresas figuran formalmente en balance.",
+      "Los fondos de control de volatilidad liquidaron 117.000 millones de dólares en renta variable al repuntar la volatilidad.",
+      "Los ETFs apalancados ejecutaron ventas masivas por 47.000 millones de dólares el 5 de noviembre para reajustar sus carteras.",
+      "El índice de pánico de volatilidad de Goldman Sachs alcanzó 9,57 puntos sobre 10, entrando en zona de pánico extremo.",
+      "El PER adelantado a 12 meses del sector de Tecnologías de la Información se situó en 17 veces, por debajo del PER de 18 del S&P 500.",
+      "IREN cuenta con 5.800 millones de dólares en caja pero necesita levantar 6.000 millones de dólares adicionales para financiar su plan de Capex de 15.000 millones hasta el año fiscal 2027."
+    ],
+    "riesgos_mencionados": [
+      "Paralización o moratoria política y medioambiental sobre licencias eléctricas para centros de datos en estados clave de EE. UU.",
+      "Riesgo de refinanciación y solvencia por exceso de deuda oculta fuera de balance ligada al despliegue de chips e infraestructura de IA.",
+      "Efecto bola de nieve por liquidaciones forzadas de creadores de mercado operando en gamma negativa.",
+      "Cancelación o renegociación a la baja de contratos de computación por parte de grandes hiperescaladores como Microsoft u Oracle.",
+      "Sobreestimación de proyectos especulativos en los pipelines energéticos de los neoclouds."
+    ],
+    "participantes": [
+      "Antonio Hidalgo (Antonio LWS)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

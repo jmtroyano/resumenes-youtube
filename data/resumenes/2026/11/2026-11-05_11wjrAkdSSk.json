@@ -1,0 +1,142 @@
+{
+  "video_id": "11wjrAkdSSk",
+  "url": "https://www.youtube.com/watch?v=11wjrAkdSSk",
+  "titulo": "Nasdaq no consigue superar media 200 - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-05T08:16:01+00:00",
+  "fecha_resumen": "2026-11-08T00:47:48.996383+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos advierte contra la euforia reciente del mercado, destacando que el futuro del Nasdaq no ha logrado superar su media móvil de 200 sesiones y presenta riesgo bajista si pierde mínimos recientes. El mercado muestra una fuerte división interna, con avances en sectores defensivos y tradicionales frente a castigos severos en inteligencia artificial y semiconductores. Además, bancos de inversión como Goldman Sachs y estrategas como McElligott señalan que la subida bursátil fue meramente mecánica por cierre de cortos y retirada de coberturas tras el cierre de año fiscal, y no por entrada de dinero nuevo.",
+    "ideas_clave": [
+      "El futuro del Nasdaq no ha superado la media de 200 sesiones; necesitaría rebasar los 29.000 puntos para confirmar una vuelta alcista, mientras que perder los 27.620 activaría una señal bajista peligrosa.",
+      "Bifurcación extrema en el mercado: mientras el Dow Jones subió más del 3% y el consumo minorista repuntó un 5,5%, los semiconductores cayeron con fuerza (ETF de memorias -5,31% y semis japoneses -10%).",
+      "La fuerte caída del petróleo hasta los 87,88 dólares se basa en la asunción prematura del mercado de una paz rápida con Irán tras comentarios electorales de Trump y Vance, pese a informaciones de Axios sobre posibles ataques militares inminentes.",
+      "Citi eleva sus previsiones para el oro, proyectando niveles de 4.500 dólares en un plazo de 0 a 3 meses y 5.000 dólares entre 6 y 12 meses.",
+      "Goldman Sachs y McElligott coinciden en que el rebote fue técnico por coberturas y cierre de cortos tras el fin de año fiscal del 31 de octubre para muchos fondos, sin entrada significativa de dinero fresco.",
+      "El S&P 500 permanece en rango lateral entre el soporte de 7.500-7.550 y la resistencia clave de 7.800 puntos, con mejor desempeño relativo del índice equiponderado (RSP)."
+    ],
+    "tesis_principal": "El reciente rebote bursátil no representa un cambio de tendencia sostenible ni euforia justificada, sino un movimiento mecánico de cierre de cortos y rebalanceo de carteras que mantiene a los índices atrapados en un rango lateral, con debilidad técnica palpable en la tecnología y los semiconductores.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Bonos y renta fija",
+      "Fed y tipos de interés EE. UU.",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "S&P 500",
+      "Dow Jones",
+      "Russell 2000",
+      "RSP (Invesco S&P 500 Equal Weight ETF)",
+      "Petróleo WTI",
+      "Oro",
+      "CoreWeave",
+      "VanEck Semiconductor ETF",
+      "Roundhill Memory ETF",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Bitcoin",
+      "Bund alemán"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El S&P 500 y el Nasdaq continúan en rangos laterales sin confirmación de ruptura alcista y con subidas explicadas por cierre de cortos."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Rotación masiva fuera del sector con desplomes en chips japoneses (-10%) y fuertes caídas en ETFs de memoria y semiconductores."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Se castiga a las empresas que suministran hardware e infraestructura ante expectativas de un capex más lento en centros de datos."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "El precio del crudo se desplomó a la zona de 87 dólares por el descuento precipitado de un final en el conflicto con Irán."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Supera los 4.100 dólares con revisiones de precios al alza por parte de Citi hasta los 4.500 y 5.000 dólares."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Subidas en precios de bonos europeos y estadounidenses ante expectativas de menor presión política sobre la Fed."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Citi prevé que el oro alcance los 4.500 dólares en un plazo de entre 0 y 3 meses.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "3 meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Citi estima que el oro cotizará en 5.000 dólares en un horizonte de 6 a 12 meses.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "12 meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El Banco de Inglaterra subirá los tipos de interés del 3,75% al 4,00%.",
+        "activo_o_variable": "Tipos de interés Reino Unido",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el futuro del Nasdaq rompe el nivel de 27.620 puntos, confirmará una señal bajista bastante peligrosa.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de memorias cayó un 5,31% en sesión regular y un 4,06% adicional en el mercado nocturno.",
+      "El sector de consumo minorista batió al S&P 500 en 3,9 puntos porcentuales con una subida del 5,5%, su segunda mayor brecha en dos años.",
+      "El volumen negociado fue de 21.700 millones de acciones frente a la media anual de 18.500 millones, impulsado por rotación y cierre de 530.000 opciones 'calls' del VIX.",
+      "El 30 de octubre supuso el cierre del año fiscal para múltiples fondos de inversión, lo que provocó ventas forzadas seguidas de recompras mecánicas.",
+      "La cesta de momentum de Morgan Stanley cayó un 6% en la jornada anterior.",
+      "El soporte técnico del S&P 500 se sitúa en los 7.500-7.550 puntos y la resistencia clave en 7.800 puntos."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de escalada militar abierta en Irán que desbarate el optimismo sobre el abaratamiento del petróleo.",
+      "Pérdida del soporte de 27.620 puntos en el futuro del Nasdaq tras fallar en romper la media de 200.",
+      "Desaceleración o trabas regulatorias en la construcción y gasto de centros de datos de inteligencia artificial en Estados Unidos.",
+      "Falta de liquidez o drenaje de capital debido a próximas salidas a bolsa y ampliaciones de capital según Goldman Sachs."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "video_id": "XJ4s5J7q-h8",
+  "url": "https://www.youtube.com/watch?v=XJ4s5J7q-h8",
+  "titulo": "Causas rebote explicadas - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-04T11:32:46+00:00",
+  "fecha_resumen": "2026-11-08T00:48:18.435595+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Tras un susto inicial postelectoral, las bolsas registran un fuerte rebote generalizado motivado por una relectura del escenario político en Estados Unidos. El mercado descuenta que unas cámaras legislativas en contra de Trump frenarán políticas fiscales extremas y grandes paquetes de gasto, reduciendo la previsión de déficit y la presión sobre los tipos de interés. Esta perspectiva debilita al dólar y favorece tanto a la renta variable en general como a las pequeñas compañías y al oro. En Europa, la menor amenaza de presiones comerciales impulsa con fuerza a los bancos y al selectivo español.",
+    "ideas_clave": [
+      "La lectura inicial negativa sobre centros de datos e inteligencia artificial fue sustituida por el alivio de que un Congreso dividido limitará las políticas extremas y los aranceles de Trump.",
+      "Menores estímulos fiscales implicarán menos emisiones de bonos, menores presiones al alza en tipos de interés y un dólar más débil, lo que favorece a los activos de riesgo y al oro.",
+      "El oro experimenta una subida del 2,87%, mientras que el Russell 2000 avanza un 1,38% beneficiado por factores macroeconómicos y domésticos favorables.",
+      "En Europa, el sector bancario se dispara un 4,27% ante la menor probabilidad de exigencias agresivas desde EE. UU., impulsando al IBEX 35 un 2,74%.",
+      "El ETF RSP (S&P 500 equiponderado) sube un 1%, confirmando que se trata de un rebote amplio y no concentrado únicamente en megacaps.",
+      "El PMI de servicios de la eurozona muestra signos de debilidad al caer a 51,4 frente al 53 previo y 51,7 esperado.",
+      "Técnicamente, el Nasdaq 100 forma una vela pinbar de posible vuelta y testea su media de 200 sesiones, nivel clave para confirmar la continuidad alcista."
+    ],
+    "tesis_principal": "El rebote de las bolsas se debe a la interpretación de que unas cámaras legislativas opuestas a Trump bloquearán políticas extremas y aumentos descontrolados del déficit, lo que relaja los tipos, debilita al dólar e impulsa sectores castigados como bancos y small caps.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Bolsa España",
+      "Bancos",
+      "Small caps",
+      "Dólar y divisas",
+      "Oro y metales",
+      "Deuda pública y déficit",
+      "Política fiscal e impuestos",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Russell 2000",
+      "Nasdaq 100",
+      "IBEX 35",
+      "DAX 40",
+      "SX7E (Bancos Euro Stoxx)",
+      "RSP (Invesco S&P 500 Equal Weight)",
+      "Oro",
+      "Dólar estadounidense",
+      "AMD"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Rebote amplio respaldado por el S&P 500 equiponderado y la posible figura técnica de vuelta en el Nasdaq."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Fuerte tracción alcista liderada por el sector bancario y el sector de aerogeneradores."
+      },
+      {
+        "tema": "Bolsa España",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "El IBEX 35 es el índice más beneficiado con un alza del 2,74% por su alta ponderación bancaria."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "El sectorial bancario europeo sube más de un 4% al desaparecer el temor a ataques regulatorios inmediatos de Trump."
+      },
+      {
+        "tema": "Small caps",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El Russell 2000 avanza con fuerza ante la expectativa de menor presión de tipos y déficit doméstico."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.75,
+        "justificacion": "Sube un 2,87% favorecido por la caída del dólar y el descenso esperado en tipos de interés."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El dólar se debilita por la menor expectativa de estímulos fiscales y menores tipos de interés."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El dato de PMI de servicios europeo mostró mayor debilidad económica de la esperada."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el Nasdaq 100 consigue superar la media móvil de 200 sesiones, el rebote puede ser de gran envergadura.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Las posibilidades de incremento de déficit público van a ser mucho menores a partir de ahora por la falta de acuerdos legislativos.",
+        "activo_o_variable": "Déficit público de EE. UU.",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El oro sube un 2,87% ante la perspectiva de menores tipos y un dólar más débil.",
+      "El sectorial bancario europeo repunta un 4,27%, tirando del IBEX 35 que avanza un 2,74%.",
+      "El Russell 2000 sube un 1,38% impulsado por factores macroeconómicos internos más tranquilos.",
+      "El ETF de igual ponderación RSP sube un 1,00%, mostrando amplitud en el rebote de la bolsa americana.",
+      "AMD sube un 7% en el mercado tras la publicación de sus resultados empresariales.",
+      "El PMI de servicios de la eurozona desciende de 53 a 51,4, por debajo del 51,7 previsto.",
+      "El Nasdaq 100 forma una vela pinbar tras apoyarse y testear la media móvil simple de 200 sesiones."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida de tracción del crecimiento económico en Europa reflejada en la caída del PMI de servicios.",
+      "Fracaso técnico del Nasdaq en superar y consolidar por encima de la media de 200 sesiones.",
+      "Valores de defensa y centros de datos rezagados en el mercado por cambios en expectativas políticas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

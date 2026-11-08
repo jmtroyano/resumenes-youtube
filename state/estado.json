@@ -536,7 +536,11 @@
   "litMhgyoPjg": "2026-11-07T06:17:40.762769+00:00",
   "uXDlwX6ghUo": "2026-11-07T13:17:23.600504+00:00",
   "ssEz7PFWNxo": "2026-11-07T13:20:33.046133+00:00",
-  "L8ooErB3pK0": "2026-11-07T13:21:43.704333+00:00"
+  "L8ooErB3pK0": "2026-11-07T13:21:43.704333+00:00",
+  "OSRP9WUZ5MY": "2026-11-08T00:46:08.278006+00:00",
+  "73U9c1LTE3I": "2026-11-08T00:47:23.594076+00:00",
+  "11wjrAkdSSk": "2026-11-08T00:47:50.536575+00:00",
+  "XJ4s5J7q-h8": "2026-11-08T00:48:19.887532+00:00"
  },
  "cola": [
   {
@@ -570,16 +574,6 @@
    "en_cola_desde": "2026-11-03T17:07:03.271260+00:00"
   },
   {
-   "video_id": "XJ4s5J7q-h8",
-   "titulo": "Causas rebote explicadas - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=XJ4s5J7q-h8",
-   "publicado": "2026-11-04T11:32:46+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-04T17:19:23.870351+00:00"
-  },
-  {
    "video_id": "vddzaS9PTog",
    "titulo": "Repercusión en mercado de elecciones - Apertura Cárpatos",
    "url": "https://www.youtube.com/watch?v=vddzaS9PTog",
@@ -588,36 +582,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 0,
    "en_cola_desde": "2026-11-04T17:19:23.870351+00:00"
-  },
-  {
-   "video_id": "11wjrAkdSSk",
-   "titulo": "Nasdaq no consigue superar media 200 - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=11wjrAkdSSk",
-   "publicado": "2026-11-05T08:16:01+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-05T17:27:31.423721+00:00"
-  },
-  {
-   "video_id": "73U9c1LTE3I",
-   "titulo": "Por Esto Se Hunde La Bolsa y Casi Nadie Te Lo Está Contando",
-   "url": "https://www.youtube.com/watch?v=73U9c1LTE3I",
-   "publicado": "2026-11-07T18:12:19+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-07T19:27:52.058999+00:00"
-  },
-  {
-   "video_id": "OSRP9WUZ5MY",
-   "titulo": "Cómo Utilizar la DEUDA para Hacer Crecer tu PATRIMONIO INMOBILIARIO",
-   "url": "https://www.youtube.com/watch?v=OSRP9WUZ5MY",
-   "publicado": "2026-11-07T19:00:19+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-07T19:27:52.058999+00:00"
   }
  ],
  "fallidos": {
