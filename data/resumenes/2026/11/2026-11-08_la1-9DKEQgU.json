@@ -1,0 +1,75 @@
+{
+  "video_id": "la1-9DKEQgU",
+  "url": "https://www.youtube.com/watch?v=la1-9DKEQgU",
+  "titulo": "El País Donde Están Encontrando GRANDES OPORTUNIDADES INMOBILIARIAS",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-08T19:00:28+00:00",
+  "fecha_resumen": "2026-11-08T22:14:25.599307+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Carlos Galán y Toni Fernández-Pro explican las razones que los llevaron a internacionalizar sus inversiones inmobiliarias mediante su proyecto Atlas Prop. Tras analizar múltiples países en Asia, Europa y América, encontraron en Asunción (Paraguay) una oportunidad atractiva de diversificación frente a España. Destacan su marco fiscal ventajoso, un modelo inmobiliario moderno inspirado en Miami y la seguridad jurídica que aportan los fideicomisos de garantía y administración.",
+    "ideas_clave": [
+      "Internacionalización para diversificar: Ante la creciente tensión regulatoria y de mercado en España, ambos inversores consideraron una responsabilidad diversificar patrimonio fuera del país.",
+      "Prospección internacional exhaustiva: Evaluaron mercados inmobiliarios en Japón, Indonesia, Tailandia, Estonia, EE. UU., México y Colombia antes de decantarse por Paraguay.",
+      "Paraguay como polo de desarrollo: Encontraron en Asunción una réplica a escala y accesible del modelo de construcción de Miami, con edificios modernos enfocados tanto a alquiler tradicional como a corta estancia.",
+      "Mitigación del riesgo promotor vía fideicomisos: Para cubrir el riesgo de quiebra o mala gestión de la constructora, estructuran todas las compras en obra nueva mediante fideicomisos de administración y garantía que custodian el capital.",
+      "Seguridad física y jurídica: Aunque reconocen los riesgos de corrupción inherentes a Latinoamérica, señalan que Paraguay ofrece de los mejores niveles de seguridad física y un marco de registro de propiedad muy similar al español."
+    ],
+    "tesis_principal": "La inversión inmobiliaria en obra nueva en Paraguay representa una oportunidad sólida de diversificación internacional gracias a su ventajoso marco fiscal, crecimiento del modelo residencial tipo Miami y la protección del capital mediante fideicomisos bancarios.",
+    "temas": [
+      "Inmobiliario y vivienda",
+      "Mercados emergentes",
+      "Política fiscal e impuestos"
+    ],
+    "activos_mencionados": [
+      "Inmuebles en Asunción (Paraguay)",
+      "Inmuebles de obra nueva"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Observan excelentes oportunidades en obra nueva orientada a alquiler tradicional y corta estancia en Asunción, replicando estándares de Miami con tickets de entrada atractivos."
+      },
+      {
+        "tema": "Mercados emergentes",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Consideran que Paraguay destaca favorablemente frente a otros países emergentes por su estabilidad, marco fiscal e instrumentos jurídicos de protección."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Resaltan la baja carga fiscal y las ventajas tributarias que ofrece Paraguay frente a jurisdicciones europeas."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Viajaron hasta tres veces en ocho meses con sus propios fiscalistas españoles para realizar due diligence legal y fiscal con notarios y entidades locales.",
+      "Descartaron entrar fuertemente en Miami debido al elevado ticket de entrada actual, prefiriendo replicar las tipologías de producto de dicha ciudad en Asunción.",
+      "El fideicomiso retiene los pagos y fiscaliza el avance de obra real antes de liberar fondos a la constructora, protegiendo a los compradores de la práctica de usar fondos de un proyecto para financiar otros."
+    ],
+    "riesgos_mencionados": [
+      "Corrupción y riesgo político/populismo en Latinoamérica",
+      "Inflación y depreciación de divisa local",
+      "Quiebra o parón de la constructora/desarrolladora",
+      "Inseguridad física o jurídica inherente a la región"
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Carlos Galán",
+      "Toni Fernández-Pro"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
