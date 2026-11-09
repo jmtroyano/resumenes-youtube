@@ -1,0 +1,112 @@
+{
+  "video_id": "tPtwMCRg7kc",
+  "url": "https://www.youtube.com/watch?v=tPtwMCRg7kc",
+  "titulo": "Mercado no IA rebota con fuerza - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-09T12:11:03+00:00",
+  "fecha_resumen": "2026-11-09T20:06:11.036792+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "A pesar de las caídas cercanas al 6% en Nvidia por rebajas de recomendación y dudas sobre la financiación de sus clientes, el mercado amplio rebota con fuerza impulsado por sectores tradicionales. Las bolsas europeas y el Ibex 35 lideran las subidas ante el menor peso de la tecnología y el empuje del sector bancario tras resultados y movimientos corporativos. La notable caída del petróleo contribuye al optimismo general ante expectativas de paz, aunque los altos precios del diésel y la inminente publicación del IPC en EE. UU. mantienen cierta cautela en la renta fija.",
+    "ideas_clave": [
+      "Nvidia cae casi un 6% arrastrando al sector de semiconductores tras una rebaja de recomendación de Aletheia Capital de comprar a mantener.",
+      "El mercado amplio muestra solidez, con el ETF RSP (S&P 500 equi-ponderado) subiendo un 1,04%, evidenciando rotación fuera del sector de inteligencia artificial.",
+      "Las bolsas europeas y el Ibex 35 (+1,5%) registran fuertes rebotes gracias a su baja exposición tecnológica y al liderazgo del sector bancario (+2,25%).",
+      "El sector bancario europeo se ve impulsado por las cuentas mejores de lo previsto de UniCredit y la posible fusión de la filial italiana de Crédit Agricole con Banco BPM.",
+      "El sector del lujo retrocede (LVMH -1,71%) debido a datos débiles de consumo en China.",
+      "El petróleo cae más del 2,5% descontando un acuerdo de paz inminente, si bien JP Morgan advierte un 50% de probabilidades de una intervención armada de EE. UU.",
+      "Goldman Sachs calcula que por cada 100.000 millones de dólares de inversión en capex, los beneficios del S&P 500 aumentan un 2,5%."
+    ],
+    "tesis_principal": "Se está produciendo una rotación de flujos de capital desde la tecnología ligada a la inteligencia artificial hacia el mercado amplio y sectores tradicionales como la banca europea, favorecida por la caída del crudo.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Bolsa España",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bancos",
+      "Energía y petróleo",
+      "Inflación"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "Ibex 35",
+      "UniCredit",
+      "Crédit Agricole",
+      "Banco BPM",
+      "LVMH",
+      "Petróleo (WTI / Light Crude)",
+      "Diésel / Gasóleo de calefacción",
+      "Meta Platforms",
+      "Amazon",
+      "Índice Sentix"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "El índice equi-ponderado RSP avanza con firmeza pese a las dudas y caídas en valores directores de IA."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Los índices europeos rebotan con mayor fuerza gracias a su menor ponderación tecnológica y el tirón bancario."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Las acciones de semiconductores sufren correcciones y el mercado muestra dudas sobre la rentabilidad del capex."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "El sector sube con fuerza gracias a resultados de UniCredit y operaciones corporativas en Italia."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El crudo sufre caídas superiores al 2,5% ante expectativas de un acuerdo de paz."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "JP Morgan otorga un 50% de probabilidades a que finalmente se produzca un ataque militar muy intenso por parte de EE. UU.",
+        "activo_o_variable": "Conflicto geopolítico / Intervención de EE. UU.",
+        "direccion": "no aplica",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF RSP (S&P 500 equi-ponderado) sube un 1,04%.",
+      "El Ibex 35 avanza un 1,5% y el sector bancario europeo un 2,25%.",
+      "Nvidia cae cerca del 6% y el sector del lujo (LVMH) un 1,71% tras datos débiles de consumo en China.",
+      "El petróleo Light Crude desciende un 2,54%.",
+      "El índice Sentix de la eurozona bajó de 2,7 a 2,4, aunque superó la previsión de 2,1.",
+      "Según Goldman Sachs, cada 100.000 millones de capex aportan un 2,5% al crecimiento de beneficios del S&P 500."
+    ],
+    "riesgos_mencionados": [
+      "Precios elevados del diésel que amenazan con complicar el control de la inflación.",
+      "Dato del IPC en Estados Unidos pendiente de publicación que mantiene en cautela al mercado de bonos.",
+      "Riesgo geopolítico de escalada si EE. UU. ejecuta un ataque intenso."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

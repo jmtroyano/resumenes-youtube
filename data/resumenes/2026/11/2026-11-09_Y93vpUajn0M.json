@@ -1,0 +1,92 @@
+{
+  "video_id": "Y93vpUajn0M",
+  "url": "https://www.youtube.com/watch?v=Y93vpUajn0M",
+  "titulo": "NVIDIA: La Espía que Me Amó | José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-09T13:40:16+00:00",
+  "fecha_resumen": "2026-11-09T20:02:36.614630+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la noticia del New York Times sobre la supuesta relación entre Jensen Huang, CEO de Nvidia, y una ejecutiva vinculada a los servicios secretos chinos. Argumenta que esta información ya era conocida por las manos fuertes y que se utilizó el mercado para distribuir acciones antes de hacerla pública. Mediante el análisis técnico del volumen, advierte de una trampa alcista y proyecta una corrección del precio de Nvidia hacia la zona de soporte entre los 166 y 150 dólares.",
+    "ideas_clave": [
+      "La noticia del New York Times sobre Jensen Huang y la supuesta espía china de MegaSpeed busca preparar al público para un mayor control gubernamental e investigaciones sobre la exportación de chips a China.",
+      "El Departamento de Comercio de EE. UU. y el consejo de Nvidia ya conocían la situación antes de que se publicara tras las elecciones de medio mandato.",
+      "El negocio fundamental de Nvidia no se ve amenazado: la demanda de chips de inteligencia artificial sigue intacta y no se espera la dimisión de Jensen Huang.",
+      "Técnicamente, Nvidia realizó una ruptura en falso de los máximos de mayo en torno a 235,5 dólares con volumen escaso, lo que configuró una trampa alcista.",
+      "La posterior perforación a la baja de los 235,5 dólares se ejecutó con un incremento notable del volumen, señal de distribución por parte del dinero institucional.",
+      "Se espera que la cotización de Nvidia caiga a barrer los mínimos y órdenes de stop situadas en 166-165 dólares, pudiendo llegar hasta el soporte de los 150 dólares."
+    ],
+    "tesis_principal": "El escándalo geopolítico de Nvidia fue aprovechado por las manos fuertes para distribuir papel tras una trampa alcista sin volumen en 235,5 dólares, por lo que la acción corregirá a corto plazo hacia el rango de 150-166 dólares antes de estabilizarse.",
+    "temas": [
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico",
+      "Geopolítica",
+      "Bolsa EE. UU."
+    ],
+    "activos_mencionados": [
+      "NVIDIA (NVDA)"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Se prevé una corrección técnica en el precio de Nvidia hacia los 150-166 dólares, a pesar de que la demanda estructural de chips sigue fuerte."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Se confirmó una rotura en falso en 235,5 dólares con escaso volumen seguida de una descarga institucional con alto volumen al caer."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El conflicto tecnológico entre EE. UU. y China implicará más comisiones y regulación sobre la IA, pero China buscará vías alternativas para abastecerse."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La cotización de Nvidia caerá a barrer los stops por debajo de 166-165 dólares y se apoyará en la zona entre 165 y 150 dólares sin perforar los 150.",
+        "activo_o_variable": "NVIDIA (NVDA)",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Jensen Huang no dimitirá ni será despedido como CEO de Nvidia por ser un líder estratégico indispensable.",
+        "activo_o_variable": "Liderazgo de NVIDIA (Jensen Huang)",
+        "direccion": "no aplica",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Superación de la resistencia de 235,5 dólares el 6 de octubre con volumen negociado muy bajo en el perfil de volumen.",
+      "Fuerte incremento del volumen de negociación en la caída entre el 15 y el 30 de octubre al perder de nuevo los 235,5 dólares, indicando descarga de manos fuertes.",
+      "Primer impacto en cotización tras la noticia con una caída del 6%.",
+      "Soporte relevante marcado en 166-165 dólares correspondiente a los mínimos de septiembre de 2025 (según gráfico mostrado).",
+      "Soporte inferior en 150 dólares coincidente con los máximos de junio y noviembre de 2024."
+    ],
+    "riesgos_mencionados": [
+      "Investigaciones del Congreso de EE. UU. y comisiones de investigación sobre exportación de chips a China.",
+      "Mayor intervención y control gubernamental en el sector de la inteligencia artificial.",
+      "Riesgo de barrido de 'stop loss' de posiciones largas en la zona de 165 dólares.",
+      "Falta de crecimiento de la liquidez global que propicia trampas alcistas en el mercado."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

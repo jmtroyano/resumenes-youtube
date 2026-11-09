@@ -1,0 +1,99 @@
+{
+  "video_id": "ywtzbEPukV4",
+  "url": "https://www.youtube.com/watch?v=ywtzbEPukV4",
+  "titulo": "PARAGUAY: La Oportunidad INMOBILIARIA que Pocos Conocen",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-09T19:00:04+00:00",
+  "fecha_resumen": "2026-11-09T19:57:02.821802+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Carlos Galán y Toni Fernández-Pro analizan las ventajas de invertir en el mercado inmobiliario de Paraguay, destacando su atractivo frente a otros destinos como España o Miami. Explican que, más allá de la rentabilidad del alquiler, el verdadero valor radica en la diversificación patrimonial en dólares, la fuerte revalorización de obra nueva y un entorno fiscal y legal altamente favorable para el inversor extranjero. Además, detallan cómo articulan las inversiones desde España tanto a nivel societario como a título particular acogiéndose al convenio de doble imposición.",
+    "ideas_clave": [
+      "Rentabilidad del alquiler: en alquiler tradicional calculan de forma conservadora un 7% a 8% neto tras gastos de gestión, mientras que en alquiler de corta estancia o corporativo puede superar el 11% o 12%.",
+      "Apreciación del capital: la mayor parte del retorno esperado proviene de la revalorización durante la fase de construcción y de los precios de entrada reducidos en comparación con otras capitales de Latinoamérica.",
+      "Diversificación en dólares: aunque la moneda local es el guaraní, las transacciones inmobiliarias se realizan en dólares estadounidenses, permitiendo desvincular parte del patrimonio del euro y de la jurisdicción europea.",
+      "Marco fiscal pro-inversor: Paraguay aplica un esquema impositivo del 10% en sociedades, 10% en IRPF y 10% en IVA, con un sistema territorial donde los ingresos generados fuera del país tributan al 0% para residentes fiscales.",
+      "Tratamiento fiscal para inversores españoles: existe un convenio para evitar la doble imposición; Paraguay aplica una retención del 7,5% sobre los beneficios repatriados que es computable en la declaración española, donde se tributa por renta mundial.",
+      "Estructuración de la inversión: se puede operar como persona física o mediante vehículos societarios (como EAS dependientes de un holding español), utilizando la figura del fideicomiso para garantizar la seguridad jurídica de la compra en bloque."
+    ],
+    "tesis_principal": "Invertir en inmuebles en Paraguay ofrece una combinación atractiva de diversificación geográfica y en divisa (USD), seguridad jurídica, fiscalidad favorable y apreciación por déficit estructural de vivienda, complementada con rentabilidades netas del 7% al 12%.",
+    "temas": [
+      "Inmobiliario y vivienda",
+      "Política fiscal e impuestos",
+      "Dólar y divisas",
+      "Mercados emergentes"
+    ],
+    "activos_mencionados": [
+      "Inmuebles en Asunción (Paraguay)",
+      "Dólar estadounidense (USD)",
+      "Guaraní paraguayo"
+    ],
+    "sentimiento_general": "muy alcista",
+    "puntuacion_sentimiento": 0.8,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "Destacan el déficit de vivienda, la entrada de empresas y residentes desde países vecinos, y las rentabilidades de entre 7% y 12% neto junto a revalorización en obra nueva."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Resaltan el sistema tributario paraguayo del 10/10/10, la tributación territorial al 0% exterior y el convenio de doble imposición con España."
+      },
+      {
+        "tema": "Mercados emergentes",
+        "sentimiento": "alcista",
+        "puntuacion": 0.75,
+        "justificacion": "Consideran a Paraguay un país refugio y de crecimiento en Latinoamérica, con abundancia de recursos como agua y energía limpia."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Ven como una ventaja clave adquirir activos tangibles cotizados y rentados en dólares para desmarcarse del euro."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La compra sobre plano de inmuebles en Asunción experimenta y continuará experimentando una revalorización significativa desde el inicio de la construcción hasta la entrega.",
+        "activo_o_variable": "Precio de la vivienda en Asunción (Paraguay)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La demanda de vivienda e inversión en Paraguay continuará aumentando impulsada por la inmigración empresarial y fiscal procedente de Brasil y Argentina.",
+        "activo_o_variable": "Demanda inmobiliaria y residencial en Paraguay",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Rentabilidad neta estimada en alquiler tradicional del 7% al 8% tras descontar gastos de gestión.",
+      "Rentabilidad neta estimada en alquiler temporal o corporativo de entre el 11% y el 12%.",
+      "Régimen fiscal general en Paraguay estructurado en tipos planos del 10% para impuesto de sociedades, 10% en renta personal y 10% de IVA.",
+      "Retención en origen del 7,5% sobre los beneficios en Paraguay aplicable bajo el convenio de doble imposición con España.",
+      "El país posee la segunda central hidroeléctrica más grande del mundo y una población reducida de 7 millones de habitantes enfocada en atraer capital."
+    ],
+    "riesgos_mencionados": [
+      "Falta de salida al mar y menor visibilidad internacional frente a otros destinos.",
+      "Incertidumbre regulatoria o cambios normativos en la fiscalidad del alquiler en España.",
+      "Complejidad en la gestión remota que exige estructuración mediante fideicomisos y constructores solventes."
+    ],
+    "participantes": [
+      "Carlos Galán",
+      "Toni Fernández-Pro"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

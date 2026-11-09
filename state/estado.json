@@ -547,9 +547,24 @@
   "3yPMzGeNLQw": "2026-11-08T18:02:50.750176+00:00",
   "68b2poS7HCI": "2026-11-08T18:04:10.537991+00:00",
   "la1-9DKEQgU": "2026-11-08T22:14:26.996219+00:00",
-  "KhvSMTQh_zo": "2026-11-09T06:49:47.971000+00:00"
+  "KhvSMTQh_zo": "2026-11-09T06:49:47.971000+00:00",
+  "ywtzbEPukV4": "2026-11-09T19:57:10.069483+00:00",
+  "4sAIe6iuNL4": "2026-11-09T20:02:04.599669+00:00",
+  "Y93vpUajn0M": "2026-11-09T20:02:38.027188+00:00",
+  "tPtwMCRg7kc": "2026-11-09T20:06:12.497125+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "Ztmy9e2Xsew",
+   "titulo": "Nvidia y los espías -  Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=Ztmy9e2Xsew",
+   "publicado": "2026-11-09T08:30:47+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-09T19:52:25.695147+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
