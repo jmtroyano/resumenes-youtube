@@ -546,20 +546,10 @@
   "P5fpYjlbjBQ": "2026-11-08T10:36:59.774561+00:00",
   "3yPMzGeNLQw": "2026-11-08T18:02:50.750176+00:00",
   "68b2poS7HCI": "2026-11-08T18:04:10.537991+00:00",
-  "la1-9DKEQgU": "2026-11-08T22:14:26.996219+00:00"
+  "la1-9DKEQgU": "2026-11-08T22:14:26.996219+00:00",
+  "KhvSMTQh_zo": "2026-11-09T06:49:47.971000+00:00"
  },
- "cola": [
-  {
-   "video_id": "KhvSMTQh_zo",
-   "titulo": "💥Warren Buffett: “HACERSE RICO en BOLSA es MUY FÁCIL”|👉5 sencillas ESTRATEGIAS",
-   "url": "https://www.youtube.com/watch?v=KhvSMTQh_zo",
-   "publicado": "2026-11-08T17:15:19+00:00",
-   "canal": "El Arte de Invertir (Alejandro Estebaranz)",
-   "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-08T17:57:19.383475+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
