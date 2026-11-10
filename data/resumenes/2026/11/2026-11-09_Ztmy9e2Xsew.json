@@ -1,0 +1,136 @@
+{
+  "video_id": "Ztmy9e2Xsew",
+  "url": "https://www.youtube.com/watch?v=Ztmy9e2Xsew",
+  "titulo": "Nvidia y los espías -  Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-09T08:30:47+00:00",
+  "fecha_resumen": "2026-11-10T03:42:38.906276+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la apertura de la sesión marcada por la volatilidad y la fuerte caída de Nvidia y el sector de semiconductores tras rumores sobre su CEO, sumado a la creciente preocupación de un techo en el gasto de capital (CapEx) en inteligencia artificial. Advierte que los modelos de riesgo tradicionales subestiman las caídas extremas y destaca el análisis de Nomura sobre grandes fondos actuando como 'vendedores lentos' que limitarán los rebotes hacia fin de año. Asimismo, repasa la fuerte rotación hacia sectores defensivos y los niveles técnicos clave del S&P 500 y Bitcoin alrededor de sus respectivas medias de 200 sesiones.",
+    "ideas_clave": [
+      "Nvidia cae un 5,7% en mercado nocturno por rumores sobre una supuesta espía china vinculada a su CEO, arrastrando a los semiconductores y valores de memoria.",
+      "La inquietud de fondo radica en el posible techo del CapEx de inteligencia artificial de las 'hyperscalers', cuyo crecimiento se desacelerará notablemente en 2027 y 2028.",
+      "El CapEx en IA es crítico para la economía estadounidense: según datos de Jefferies, sin la inversión en IA, el crecimiento del PIB de EE. UU. sería de apenas el 0,7% en lugar del 2,1%.",
+      "Según Charlie McElligott (Nomura), los fondos soberanos y grandes fondos actuarán como 'vendedores lentos' durante cerca de un mes, frenando cualquier intento de rebote hasta fin de año.",
+      "Gestores de hedge funds han recortado riesgo drásticamente tras los recientes desplomes para proteger sus primas de fin de año y mantendrán posiciones 'homeopáticas' hasta enero.",
+      "La caída del 28,3% en un mes del índice de semiconductores solo es comparable a crisis graves como la burbuja puntocom, 2008 o la pandemia de COVID-19.",
+      "En el plano técnico, el S&P 500 vigila el soporte crítico de la media de 200 sesiones y el nivel cuantitativo de 7.300 puntos, con resistencias en 7.400 y 7.500."
+    ],
+    "tesis_principal": "El mercado atraviesa una fase de elevada fragilidad y riesgo extremo por el temor a que el ciclo de inversión en inteligencia artificial haya tocado techo, lo que, unido a la presión vendedora continuada de grandes instituciones, dificultará subidas sostenidas antes de final de año.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Geopolítica",
+      "Criptomonedas"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "S&P 500",
+      "Nasdaq",
+      "Russell 2000",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Nikkei",
+      "Bitcoin",
+      "Petróleo crudo",
+      "Oro",
+      "Bono estadounidense a 10 años",
+      "EUR/USD",
+      "USD/JPY",
+      "Amazon",
+      "Alphabet"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Las dudas sobre el techo en el crecimiento del CapEx de las grandes tecnológicas y la quema de flujo de caja libre generan gran pesimismo."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "La caída de Nvidia y el desplome mensual del 28,3% en el sector sitúan las métricas en niveles propios de grandes crisis históricas."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La presencia de 'vendedores lentos' institucionales y la cautela de los hedge funds anticipan que los rebotes serán atizados hacia fin de año."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Los derivados monetarios descuentan un 80% de probabilidades de subida de tipos de 25 puntos básicos en diciembre tras los datos de empleo."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "El S&P 500 y Bitcoin intentan defender soportes estructurales muy relevantes en torno a sus medias de 200 sesiones."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los fondos soberanos y grandes fondos institucionales venderán en cada rebote durante aproximadamente un mes hasta finales de año.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "lateral",
+        "horizonte": "finales de año",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los gestores de hedge funds no asumirán riesgo relevante hasta enero para proteger el bonus anual.",
+        "activo_o_variable": "Posicionamiento en renta variable",
+        "direccion": "lateral",
+        "horizonte": "enero",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El crecimiento del CapEx de las hyperscalers se desacelerará fuertemente en 2027 y 2028.",
+        "activo_o_variable": "CapEx en Inteligencia Artificial",
+        "direccion": "baja",
+        "horizonte": "2027-2028",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Nvidia bajó un 5,7% en mercado nocturno; el ETF de semiconductores un 2,47% y los valores de memoria un 2,95%.",
+      "El crecimiento interanual del CapEx de hyperscalers pasaría del 106% en 2026 al 37% en 2027 y al 9% en 2028 según previsiones compartidas por Ryan Detrick.",
+      "La aportación del CapEx en IA al crecimiento del PIB de EE. UU. es del 67%; sin él, el PIB crecería un 0,7% frente al 2,1% reportado.",
+      "El índice de semiconductores acumula una caída del 28,3% en un mes, magnitud solo vista en la burbuja de 2000-2002 (-40%), 2008 (-34%) y 2020 (-35%).",
+      "El Nasdaq 100 perdió cerca de 2,5 billones de dólares de capitalización en una única jornada.",
+      "El ratio de sorpresa de Brian Garrett (movimiento diario de S&P 500 respecto a la volatilidad implícita a un mes previa) marcó su mayor nivel en 19 años (0,32).",
+      "El PER del sector consumo básico cotiza a 22,5x frente a las 10,5x de semiconductores tras el flujo masivo hacia activos ultradefensivos.",
+      "El IPC de China se situó en el +0,7% interanual frente al +0,8% esperado, mientras que el IPP subió al +5,7% frente al +5,3% previsto.",
+      "En cuentas de derivados en la India, solo el 10% de cuentas pequeñas gana dinero, frente al 64% en cuentas superiores a 95.000 euros de garantías.",
+      "En empresas de fondeo, de cada 100 aspirantes solo 14 aprueban la prueba y solo 7 llegan a cobrar al menos una vez."
+    ],
+    "riesgos_mencionados": [
+      "Desaceleración o freno en la inversión en CapEx de inteligencia artificial con impacto directo en el PIB estadounidense.",
+      "Riesgo de cola izquierda severo y movimientos extremos imprevistos que desbordan los modelos gaussianos tradicionales.",
+      "Presión de venta institucional constante ('slow sellers') que aborta los rebotes técnicos.",
+      "Tensiones geopolíticas con Irán a pesar de caídas temporales en el petróleo.",
+      "Subidas de tipos imprevistas de la Reserva Federal en la reunión de diciembre si el IPC se mantiene tensionado."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
