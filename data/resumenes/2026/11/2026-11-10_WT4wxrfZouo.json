@@ -1,0 +1,93 @@
+{
+  "video_id": "WT4wxrfZouo",
+  "url": "https://www.youtube.com/watch?v=WT4wxrfZouo",
+  "titulo": "La CIA está Detrás. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-10T13:14:04+00:00",
+  "fecha_resumen": "2026-11-10T21:24:28.010769+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava plantea la hipótesis de que el Estado profundo estadounidense y la CIA están buscando un chivo expiatorio en Nvidia y su CEO ante el avance de la inteligencia artificial china. Señala que las restricciones de semiconductores iniciadas en 2018 fracasaron y que China podría ofrecer una tecnología de IA superior y más económica. Esta dinámica forzaría una revisión a la baja de las valoraciones del sector tecnológico estadounidense y provocaría caídas bursátiles, más allá de rebotes técnicos pasajeros.",
+    "ideas_clave": [
+      "Cava cuestiona el motivo por el cual la CIA filtró públicamente el escándalo personal del CEO de Nvidia en vez de usarlo como chantaje confidencial, interpretándolo como una maniobra política para desestabilizarlo.",
+      "El Estado profundo de EE. UU. podría estar utilizando a Nvidia como chivo expiatorio para tapar el error estratégico de 2018, cuando el veto a semiconductores no impidió el avance de la IA china.",
+      "Filtraciones como la noticia de Bloomberg sobre entre 10.000 y 20.000 chips de Nvidia no justificados buscan detonar investigaciones en el Congreso estadounidense.",
+      "Si China logra imponer una inteligencia artificial más barata y eficiente a nivel global, los ingresos estimados de las tecnológicas estadounidenses deberán revisarse a la baja, reduciendo fuertemente sus valoraciones.",
+      "El rebote reciente del Nasdaq responde a un cierre apresurado de posiciones cortas ('short squeeze') y no a una capitulación real del mercado.",
+      "Una IA china barata beneficiaría a los gobiernos occidentales aumentando la productividad y conteniendo la inflación, lo que permitiría bajar tipos para sostener la creciente deuda pública."
+    ],
+    "tesis_principal": "El escándalo en torno al liderazgo de Nvidia es una maniobra del Estado profundo estadounidense para eludir responsabilidades ante el liderazgo de la IA china, lo que pone en riesgo las valoraciones infladas de las grandes tecnológicas de Wall Street.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bolsa EE. UU.",
+      "Geopolítica",
+      "Valoración de mercado y burbujas",
+      "Inflación",
+      "Deuda pública y déficit"
+    ],
+    "activos_mencionados": [
+      "NVIDIA",
+      "Nasdaq"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Advierte de una pérdida de hegemonía estadounidense y una presión bajista en precios ante el avance y menor coste de la IA china."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Considera que las valoraciones del sector tecnológico deberán reducirse drásticamente al corregirse a la baja los ingresos esperados."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Nvidia enfrenta crecientes presiones regulatorias, políticas y filtraciones sobre chips no justificados."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las valoraciones del sector tecnológico estadounidense se verán forzadas a la baja al comprobarse menores ingresos futuros frente a la competencia de la IA china.",
+        "activo_o_variable": "Valoraciones del sector tecnológico estadounidense",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El Congreso de Estados Unidos impulsará comisiones de investigación contra Nvidia tras las filtraciones institucionales.",
+        "activo_o_variable": "Investigación regulatoria a Nvidia",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Bloomberg publicó informaciones sobre entre 10.000 y 20.000 chips que Nvidia presuntamente no puede justificar.",
+      "El bloqueo de exportaciones de semiconductores a China data de 2018 y no logró detener la evolución de su infraestructura de IA.",
+      "El reciente rebote bursátil del Nasdaq fue causado por la cancelación brusca de posiciones cortas.",
+      "El interés de los gobiernos occidentales por una IA barata radica en que bajaría la inflación y los costes financieros de su abultada deuda pública."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida de ventaja tecnológica de EE. UU. frente a China en modelos, chips e infraestructura de inteligencia artificial.",
+      "Apertura de investigaciones del Congreso estadounidense sobre Nvidia y su cadena de suministro.",
+      "Caídas bursátiles pronunciadas en Wall Street arrastradas por el ajuste de múltiplos en el sector tecnológico."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

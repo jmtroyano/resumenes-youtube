@@ -1,0 +1,147 @@
+{
+  "video_id": "1_xR6sNCRaY",
+  "url": "https://www.youtube.com/watch?v=1_xR6sNCRaY",
+  "titulo": "IPC da el susto, los bonos caen con fuerza - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-10T18:24:42+00:00",
+  "fecha_resumen": "2026-11-10T21:21:28.147628+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión se ve sacudida negativamente por un dato de IPC en Estados Unidos peor de lo esperado, que reactiva el temor a subidas de tipos más agresivas por parte de la Reserva Federal. Las declaraciones duras de miembros de la Fed y previsiones como las de Deutsche Bank disparan las rentabilidades de los bonos y provocan caídas generalizadas en las bolsas. El sector tecnológico sufre con especial intensidad, arrastrado por el desplome de Nvidia que pierde su media de 200 sesiones y la presión competitiva en inteligencia artificial sobre Microsoft. Los fondos de control de volatilidad añaden presión vendedora en la renta variable estadounidense tras las fuertes subidas de la jornada previa.",
+    "ideas_clave": [
+      "El IPC general mensual de EE. UU. sube al 0,4% frente al 0,3% esperado, y el subyacente marca un 0,3% (0,296% exacto) frente al 0,2% previsto.",
+      "Waller (Fed) había advertido que un IPC subyacente del 0,3% o más abriría la puerta a subidas de tipos de 50 puntos básicos, mientras Logan señala que harán falta al menos dos subidas más.",
+      "Deutsche Bank proyecta tres subidas de tipos (diciembre, enero y marzo de 25 pb), sin descartar 50 pb en diciembre.",
+      "Fuerte castigo a la deuda: la rentabilidad del bono estadounidense a 10 años sube 14,4 puntos básicos superando el 5,00%, y el 2 años escala 20 puntos básicos hasta el 4,75%.",
+      "Nvidia cae más del 7% en el día (-31,69% desde máximos), perforando a la baja la media móvil de 200 sesiones y acercándose al soporte de 162-163 dólares.",
+      "Los fondos de control de volatilidad ejercen presión vendedora sistemática en Wall Street al haber registrado el mercado subidas excesivas el día anterior.",
+      "El S&P 500 y el Nasdaq retroceden con fuerza hacia soportes clave, mientras el oro cae más del 2% y Bitcoin retrocede un 2,7% por la fortaleza del dólar."
+    ],
+    "tesis_principal": "La persistencia de la inflación en EE. UU. combinada con el tono restrictivo de la Reserva Federal tumba los precios de los bonos y devuelve la volatilidad bajista a la renta variable, liderada por correcciones técnicas severas en los gigantes tecnológicos.",
+    "temas": [
+      "Inflación",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Dólar y divisas",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "DAX",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Bono EE. UU. a 10 años",
+      "Bono EE. UU. a 2 años",
+      "Bono EE. UU. a 30 años",
+      "Bund alemán",
+      "Nvidia",
+      "Microsoft",
+      "MAGS ETF",
+      "RSP ETF",
+      "Bitcoin",
+      "Oro",
+      "Petróleo",
+      "EUR/USD",
+      "USD/JPY",
+      "VIX",
+      "CoreWeave"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inflación",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Las lecturas mensual y subyacente superaron las expectativas, demostrando que la inflación de servicios sigue acelerada."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Los miembros de la Fed adoptan posturas hawkish y se vuelven a poner sobre la mesa alzas de tipos de hasta 50 puntos básicos."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "Venta masiva de bonos soberanos con repuntes diarios de rentabilidad de hasta 20 pb en el 2 años y el 10 años superando el 5%."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Caídas en los principales índices por el impacto de los tipos y ventas de fondos de control de volatilidad."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Presión sobre Microsoft por la competencia de Anthropic y dudas sobre la viabilidad de las enormes rondas de financiación en el sector."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Nvidia se desploma más del 7% y rompe a la baja su media de 200 sesiones."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El dólar se fortalece con fuerza contra el euro y el yen impulsado por el repunte de rentabilidades en los bonos estadounidenses."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La Reserva Federal no subirá 50 puntos básicos en diciembre a pesar de las advertencias de Waller.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "no aplica",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el futuro del S&P 500 pierde el nivel mínimo de 7322 tras el pullback, supondrá una señal bajista de primera magnitud.",
+        "activo_o_variable": "Futuro S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "IPC subyacente mensual en 0,296% (redondeado al 0,3%) frente al 0,2% esperado; IPC general mensual en 0,4% frente al 0,3% esperado.",
+      "Rentabilidad del bono estadounidense a 10 años sube 14,4 puntos básicos hasta el 5,006%.",
+      "Rentabilidad del bono estadounidense a 2 años sube 20,1 puntos básicos situándose en el 4,748%-4,75%.",
+      "El bono a 30 años de EE. UU. cae un 1,5% en precio, alcanzando una rentabilidad del 5,37%.",
+      "Nvidia acumula una caída del 31,69% desde sus máximos históricos.",
+      "El PER adelantado (Forward P/E) a 12 meses del Nasdaq 100 se sitúa por debajo del 18x, nivel no visto desde la crisis del COVID.",
+      "Los fondos de control de volatilidad venden sistemáticamente cuando el S&P 500 se mueve fuera del rango +/-0,5% en el día previo.",
+      "Ataques ucranianos han paralizado aproximadamente el 30% de la capacidad de refinado de petróleo en Rusia."
+    ],
+    "riesgos_mencionados": [
+      "Reanudación de subidas de tipos agresivas (hasta 50 pb) por parte de la Fed ante una inflación pegajosa.",
+      "Ruptura de soportes técnicos críticos en el S&P 500 (7.460 y 7.322 puntos).",
+      "Pérdida del soporte de 162-163 dólares en Nvidia tras romper la media móvil de 200.",
+      "Presión sobre los márgenes de las grandes tecnológicas por el elevado coste del desarrollo de IA y competencia directa entre gigantes.",
+      "Problemas de suministro en el mercado de diésel por los ataques a refinerías rusas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Christopher Waller (mencionado)",
+      "Lorie Logan (mencionada)",
+      "Diego Puerta (mencionado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

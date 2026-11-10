@@ -1,0 +1,107 @@
+{
+  "video_id": "VTcF_nOByhs",
+  "url": "https://www.youtube.com/watch?v=VTcF_nOByhs",
+  "titulo": "La FED aumenta la presión -  Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-10T11:43:32+00:00",
+  "fecha_resumen": "2026-11-10T21:29:48.173768+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión de media mañana se ha frenado tras las declaraciones de Christopher Waller de la Reserva Federal, quien abrió la puerta a una subida de tipos de 50 puntos básicos en diciembre si la inflación subyacente supera el 0,3%. En el lado positivo, el petróleo retrocede ante avances en las negociaciones de paz en Oriente Medio y Ucrania. En Europa, la bolsa se mantiene impulsada por el sector bancario y las buenas previsiones de Infineon, mientras el mercado espera los resultados de CoreWeave.",
+    "ideas_clave": [
+      "Christopher Waller (Fed) enfrió las bolsas al advertir que si el IPC subyacente mensual sale en el 0,3% o superior, no habrá más remedio que subir 50 pb en diciembre.",
+      "El consenso estimado para el IPC subyacente se sitúa en el 0,22%, por lo que apenas 8 centésimas separan la previsión del umbral peligroso fijado por Waller.",
+      "El petróleo cae un 1,28% impulsado por el optimismo en posibles acuerdos de paz en Oriente Medio y avances diplomáticos en Ucrania.",
+      "Una encuesta de Reuters/Ipsos refleja que el 62% de los estadounidenses apoya derogar aranceles y el 71% pide el fin de la guerra con Irán por su impacto económico.",
+      "En Europa, la tecnología avanza un 0,91% respaldada por Infineon, y la banca lidera las ganancias con un repunte del 2,34%.",
+      "Los inversores vigilan de cerca los resultados de CoreWeave al cierre tras los problemas pasados en empresas 'neocloud' vinculadas a la inteligencia artificial."
+    ],
+    "tesis_principal": "La presión sobre los tipos de interés de la Fed reaparece tras las declaraciones de Waller sobre el dato de IPC, frenando el optimismo matinal a pesar de la caída del petróleo y la fortaleza de la banca europea.",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Energía y petróleo",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial",
+      "Bancos",
+      "Geopolítica",
+      "Aranceles y comercio"
+    ],
+    "activos_mencionados": [
+      "DAX 40",
+      "Euro Stoxx 50",
+      "S&P 500",
+      "Nasdaq 100",
+      "Petróleo Light Crude",
+      "Infineon",
+      "Nvidia",
+      "CoreWeave",
+      "Nebius"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Waller pone sobre la mesa una posible subida de 50 puntos básicos si la inflación sorprende al alza."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "El dato de IPC subyacente genera gran incertidumbre ante la estrecha distancia con el nivel de alerta del 0,3%."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El precio del crudo cae más de un 1,2% ante expectativas de avances diplomáticos en Oriente Medio."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Los índices europeos mantienen subidas sólidas gracias a la tracción del sector bancario y tecnológico."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Infineon impulsa al sector en Europa, pero existe cautela ante los resultados de CoreWeave y el goteo a la baja de Nvidia."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si la inflación subyacente del IPC se sitúa en 0,3% o superior, la Reserva Federal subirá tipos 50 puntos básicos en diciembre.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Consenso esperado para el IPC subyacente según Nick Timiraos: 0,22%.",
+      "Umbral fijado por Christopher Waller para contemplar alza de 50 pb: 0,30% o superior mensual.",
+      "Caída del petróleo crudo ligero: 1,28%.",
+      "Encuesta Reuters/Ipsos: 62% a favor de derogar aranceles y 71% a favor de finalizar la escalada bélica con Irán.",
+      "Sector tecnológico europeo sube un 0,91% y el sector bancario un 2,34%."
+    ],
+    "riesgos_mencionados": [
+      "Dato de inflación IPC subyacente superior a lo estimado que desencadene alzas agresivas de tipos.",
+      "Falta de acuerdos definitivos en Oriente Medio a pesar de las conversaciones mediadas por Catar.",
+      "Volatilidad en valores ligados a IA tras los resultados y conferencia de CoreWeave."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
