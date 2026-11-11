@@ -1,0 +1,125 @@
+{
+  "video_id": "WBBRgTyaTDQ",
+  "url": "https://www.youtube.com/watch?v=WBBRgTyaTDQ",
+  "titulo": "Subida con muy biena amplitud - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-10T08:05:32+00:00",
+  "fecha_resumen": "2026-11-11T06:40:52.693852+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado estadounidense experimentó un fuerte rebote técnico tras apoyarse con precisión en la media móvil de 200 sesiones del S&P 500. La subida destacó por una amplitud excepcional, con 423 de los 500 valores del índice cerrando en positivo y un avance notable de los semiconductores a pesar del tropiezo de Nvidia. Goldman Sachs atribuye el movimiento al cierre masivo de cortos, el alivio geopolítico con la caída del petróleo, el posicionamiento mínimo de los hedge funds y la ventana favorable de recompras.",
+    "ideas_clave": [
+      "Rebote técnico de gran amplitud: 423 valores de 500 en el S&P 500 cerraron al alza, confirmando soporte clave en la media móvil de 200 sesiones.",
+      "El índice de semiconductores de Filadelfia subió un 6,8% tras alcanzar niveles extremos de sobreventa en valores como SK Hynix y Samsung.",
+      "Goldman Sachs identifica 6 catalizadores: cobertura de cortos, distensión con Irán con caída del petróleo, exposición de hedge funds en percentil 1 a 3 años (14,4%), caída del VIX (-22%), sobreventa en semis y ventana activa de recompras (90% de empresas autorizadas).",
+      "Precaución a corto plazo: Goldman Sachs no otorga aún luz verde total debido a la publicación inminente del IPC mensual, ventas sistemáticas pendientes por parte de los CTA y resultados de empresas del sector de IA (CoreWeave y Nebius).",
+      "Morgan Stanley (Mike Wilson) señala que la divergencia técnica se ha normalizado y prevé que el S&P 493 supere en crecimiento de beneficios (+17% frente a +12%) a los 7 Magníficos de cara a 2027."
+    ],
+    "tesis_principal": "El rebote de las bolsas desde el soporte clave de la media de 200 sesiones es sólido y goza de amplia participación, impulsado por factores técnicos, estacionales y caída del crudo, aunque la confirmación definitiva dependerá del dato de inflación y los flujos sistemáticos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Análisis técnico",
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Inflación",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "Dow Jones",
+      "SOX (Índice de Semiconductores de Filadelfia)",
+      "VIX",
+      "VVIX",
+      "Petróleo WTI",
+      "Nvidia",
+      "Samsung",
+      "SK Hynix",
+      "TSMC",
+      "CoreWeave",
+      "Nebius",
+      "Bitcoin",
+      "Oro"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.55,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El rebote muestra excelente amplitud y respaldo técnico en la media de 200, apoyado por la estacionalidad positiva y las recompras corporativas."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "alcista",
+        "puntuacion": 0.65,
+        "justificacion": "Defensa exitosa de la media de 200 sesiones tanto en el índice contado como en futuros y ETFs."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Fuerte recuperación (+6,8%) tras tocar valoraciones deprimidas y buenas ventas reportadas por TSMC."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Caída del crudo ante la desescalada temporal de tensiones bélicas con Irán, lo que alivia presiones inflacionistas."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "A la espera de los datos mensuales del IPC de EE. UU. que marcarán el tono de las próximas sesiones."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Los fondos CTA mantendrán una posición vendedora neta de renta variable estadounidense durante toda la semana según previsiones de Goldman Sachs.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "baja",
+        "horizonte": "semanal",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Morgan Stanley proyecta que para 2027 el crecimiento de beneficios del S&P 493 (+17%) superará al de los Siete Magníficos (+12%).",
+        "activo_o_variable": "Beneficios empresariales S&P 500 (S&P 493 vs Magníficos)",
+        "direccion": "sube",
+        "horizonte": "2027",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "423 valores de 500 cerraron en verde dentro del S&P 500.",
+      "El SOX repuntó un 6,8% a pesar de que Nvidia cayó.",
+      "El VIX bajó un 22% y el VVIX anotó su tercera mayor caída diaria en 20 años.",
+      "La exposición neta de hedge funds a tecnología en Goldman Sachs Prime Brokerage cayó al 14,4%, situándose en percentil 1 a 1 y 3 años.",
+      "El 90% de las empresas del S&P 500 está en ventana abierta de recompra de acciones propias, alcanzando el 93% al cierre semanal.",
+      "El volumen en Wall Street superó la media anual al alcanzar 19.037 millones de acciones negociadas.",
+      "El 44% de las firmas del S&P 500 cuantifican beneficios directos por la adopción de IA en sus presentaciones de resultados, frente al 32% del año anterior."
+    ],
+    "riesgos_mencionados": [
+      "Dato de IPC de EE. UU. superior a lo previsto.",
+      "Flujos continuados de ventas automáticas por parte de fondos CTA.",
+      "Resultados potencialmente débiles de empresas ligadas a IA como CoreWeave y Nebius.",
+      "Perforación del soporte técnico de la media de 200 y nivel de 7.300 puntos en el S&P 500."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Mike Wilson (citado de Morgan Stanley)",
+      "Nick Timiraos (citado del Wall Street Journal)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

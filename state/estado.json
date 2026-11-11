@@ -555,20 +555,10 @@
   "Ztmy9e2Xsew": "2026-11-10T03:42:53.068817+00:00",
   "1_xR6sNCRaY": "2026-11-10T21:21:29.577723+00:00",
   "WT4wxrfZouo": "2026-11-10T21:24:29.420852+00:00",
-  "VTcF_nOByhs": "2026-11-10T21:29:49.545474+00:00"
+  "VTcF_nOByhs": "2026-11-10T21:29:49.545474+00:00",
+  "WBBRgTyaTDQ": "2026-11-11T06:40:54.130697+00:00"
  },
- "cola": [
-  {
-   "video_id": "WBBRgTyaTDQ",
-   "titulo": "Subida con muy biena amplitud - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=WBBRgTyaTDQ",
-   "publicado": "2026-11-10T08:05:32+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-10T14:58:32.717005+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
