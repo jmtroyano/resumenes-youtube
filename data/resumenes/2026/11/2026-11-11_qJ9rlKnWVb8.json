@@ -1,0 +1,142 @@
+{
+  "video_id": "qJ9rlKnWVb8",
+  "url": "https://www.youtube.com/watch?v=qJ9rlKnWVb8",
+  "titulo": "Gráfico sorprendente del VVIX - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-11T16:45:54+00:00",
+  "fecha_resumen": "2026-11-11T17:20:06.099129+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión bursátil muestra un fuerte rebote concentrado casi exclusivamente en el sector tecnológico impulsado por resultados empresariales y noticias de inteligencia artificial, mientras que el mercado amplio se queda rezagado. José Luis Cárpatos advierte, basándose en informes de Charlie McElligott (Nomura), que la volatilidad realizada del VVIX se encuentra en máximos históricos, lo que revela una profunda inestabilidad subyacente y movimientos bidireccionales violentos provocados por flujos mecánicos. Técnicamente, los índices clave como el S&P 500 y el Nasdaq han rebotado con precisión en sus medias móviles de 200 sesiones, manteniéndose todavía en un canal lateral de consolidación de varios meses. Paralelamente, el petróleo repunta ante la escalada retórica y bélica con Irán, y la fortaleza del dólar recuerda que las presiones de tipos e inflación siguen latentes.",
+    "ideas_clave": [
+      "Divergencia acusada: la tecnología y los semiconductores suben con fuerza (SMH cerca del +4%), pero el S&P de igual ponderación (RSP) cae un 0,1%, reflejando falta de amplitud de mercado.",
+      "Alerta de volatilidad oculta: el indicador de volatilidad histórica del VVIX (a 10 y 20 días) de McElligott (Nomura) marca máximos históricos, incluso superiores a la época de la COVID-19.",
+      "Pauta histórica de Sentimentrader: en giros similares tras caídas, el S&P 500 tiende a subir los primeros 4 días, se estabiliza a la semana, pero a 2 y 3 semanas vista vuelve a desestabilizarse con rentabilidades medias negativas (-2,8% y -4,9%).",
+      "Niveles técnicos clave: el Nasdaq 100 y el S&P 500 rebotan de forma milimétrica en la media de 200 sesiones; el S&P 500 continúa atrapado en un rango lateral vigente desde mayo.",
+      "Contraste en las grandes tecnológicas: fuerte avance en Nvidia (+3,1%) y Apple (+1,58%), mientras Microsoft retrocede (-2,76%) presionada por la competencia del nuevo software de Anthropic frente a Office.",
+      "Repunte del crudo y tensiones geopolíticas: el petróleo sube más del 2,3% hasta los 88 dólares por barril ante la negativa de Irán a negociar su programa nuclear y amenazas sobre bases militares.",
+      "Presión en tipos y divisas: el dólar repunta fuertemente (+0,71% frente al yen y euro a 1,1111), reflejando que los riesgos de tipos de interés e inflación del IPC reciente siguen vigentes pese a ser ignorados hoy por la renta variable."
+    ],
+    "tesis_principal": "El actual rebote alcista está excesivamente concentrado en la tecnología y condicionado por el FOMO, pero la inestabilidad subyacente récord en la volatilidad y la falta de amplitud indican que el mercado permanece en un régimen lateral peligroso y propenso a giros violentos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Energía y petróleo",
+      "Dólar y divisas",
+      "Geopolítica",
+      "Bonos y renta fija"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Mini S&P 500",
+      "Invesco S&P 500 Equal Weight ETF (RSP)",
+      "Nasdaq 100",
+      "Mini Nasdaq 100",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "VanEck Semiconductor ETF (SMH)",
+      "VIX",
+      "VVIX",
+      "CoreWeave (CRWV)",
+      "Nvidia",
+      "Apple",
+      "Microsoft",
+      "Alphabet",
+      "Amazon",
+      "Anthropic",
+      "Petróleo Light Crude",
+      "Oro",
+      "EUR/USD",
+      "USD/JPY",
+      "Bono del Tesoro estadounidense a 10 años",
+      "Bund alemán"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El rebote técnico en la media de 200 sesiones alivia el pánico a corto plazo, pero carece de amplitud y sigue dentro de un rango lateral de 6 meses."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.05,
+        "justificacion": "Aunque hay fuerte subida por resultados de CoreWeave y colocación de Anthropic, Cárpatos advierte de dudas estructurales sobre su rentabilidad y deuda."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El mercado respeta soportes mayores (media de 200), pero choca contra resistencias y medias móviles que no confirman una tendencia alcista clara."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.45,
+        "justificacion": "El crudo repunta con fuerza superando los 88 dólares ante el enquistamiento y las amenazas geopolíticas de Irán."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "El billete verde gana terreno apoyado en el riesgo de tipos de interés elevados por más tiempo."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Aumenta la tensión ante las amenazas iraníes contra instalaciones estadounidenses e infraestructuras europeas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el Mini Nasdaq 100 y el S&P 500 no logran sostenerse sobre la media de 200 y pierden los mínimos recientes, se activará una señal bajista muy potente.",
+        "activo_o_variable": "Nasdaq 100 / S&P 500",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Basado en la estadística de Sentimentrader tras giros similares, el mercado tiende a desestabilizarse y registrar pérdidas medias a 2 y 3 semanas vista.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "2-3 semanas",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de igual ponderación del S&P 500 (RSP) cae un 0,10%, lo que evidencia que la subida no es de mercado amplio.",
+      "El índice de volatilidad histórica del VVIX a 10 y 20 días alcanzó cotas récord de 288, superando los niveles del choque de marzo de 2020.",
+      "Según el estudio de Sentimentrader sobre 11 giros precedentes del S&P 500, a los 4 días el 70% de las veces sube, pero a las 2 semanas solo el 30% está en verde con una pérdida media del 2,8%, y a las 3 semanas cae un 4,9% en promedio.",
+      "El Mini Nasdaq supera el retroceso de Fibonacci del 38,2% y enfrenta resistencias en el 50% (cerca de 29.000) y el 61,8% (en 29.600).",
+      "El futuro del S&P 500 tiene soporte mayor en la media de 200 en 7.460 puntos y resistencias entre 7.667 y 7.720.",
+      "El euro se deprecia un 0,63% frente al dólar hasta 1,1111 tras la asimilación del último dato de IPC en EE. UU.",
+      "El petróleo sube un 2,59% hasta los 88,27 dólares por barril."
+    ],
+    "riesgos_mencionados": [
+      "Extrema inestabilidad subyacente y bandazos provocados por fondos sistemáticos (CTAs y fondos de control de volatilidad).",
+      "Elevado endeudamiento y falta de beneficios en compañías impulsoras del rebote como CoreWeave.",
+      "Riesgo de que la competencia de Anthropic dañe las líneas de ingresos de Microsoft (Office).",
+      "Persistencia de tipos de interés altos e inflación pegajosa no descontada plenamente en las valoraciones bursátiles.",
+      "Escalada bélica con Irán y posibles ataques a bases militares en Oriente Medio o Europa, además de ataques cibernéticos a suministros alimentarios."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Charlie McElligott (mencionado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

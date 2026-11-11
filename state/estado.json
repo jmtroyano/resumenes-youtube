@@ -556,9 +556,51 @@
   "1_xR6sNCRaY": "2026-11-10T21:21:29.577723+00:00",
   "WT4wxrfZouo": "2026-11-10T21:24:29.420852+00:00",
   "VTcF_nOByhs": "2026-11-10T21:29:49.545474+00:00",
-  "WBBRgTyaTDQ": "2026-11-11T06:40:54.130697+00:00"
+  "WBBRgTyaTDQ": "2026-11-11T06:40:54.130697+00:00",
+  "qJ9rlKnWVb8": "2026-11-11T17:20:08.972131+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "VtxPUgSuyD8",
+   "titulo": "CAÍDAS FUERTES del ORO: ¿Es una OPORTUNIDAD o ha Cambiado la TESIS? | Gustavo Martínez",
+   "url": "https://www.youtube.com/watch?v=VtxPUgSuyD8",
+   "publicado": "2026-11-11T13:00:14+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-11T17:13:22.543719+00:00"
+  },
+  {
+   "video_id": "GkMpfp9UYu4",
+   "titulo": "Aparece el FOMO cuando el jueves era el pánico - Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=GkMpfp9UYu4",
+   "publicado": "2026-11-11T14:18:20+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-11T17:13:22.543719+00:00"
+  },
+  {
+   "video_id": "2wr1erQ-eNE",
+   "titulo": "Coreweave devuelve optimismo a la IA - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=2wr1erQ-eNE",
+   "publicado": "2026-11-11T08:20:45+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-11T17:13:22.543719+00:00"
+  },
+  {
+   "video_id": "CVWouTMNNqE",
+   "titulo": "NVIDIA al Borde del Precipicio | José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=CVWouTMNNqE",
+   "publicado": "2026-11-11T14:12:04+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-11T17:13:22.543719+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
