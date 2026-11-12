@@ -1,0 +1,104 @@
+{
+  "video_id": "CVWouTMNNqE",
+  "url": "https://www.youtube.com/watch?v=CVWouTMNNqE",
+  "titulo": "NVIDIA al Borde del Precipicio | José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-11T14:12:04+00:00",
+  "fecha_resumen": "2026-11-12T00:51:25.921852+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la situación de Nvidia tras sus recientes caídas para determinar si es momento de comprar a largo plazo. Aunque a nivel fundamental destaca su liderazgo tecnológico y una valoración atractiva con un PER a un año en torno a 13, técnicamente descarta que haya hecho suelo todavía. Considera que el rebote actual responde a cierre de cortos y prevé consolidación lateral hasta el vencimiento de opciones del 20 de noviembre, tras lo cual ve probable una caída hacia los 147 dólares.",
+    "ideas_clave": [
+      "Desde el punto de vista fundamental, Nvidia mantiene una posición monopolística en innovación y tecnología, cotizando a un PER a un año de aproximadamente 13 frente a 20 del S&P 500 y 40 de Walmart.",
+      "Técnicamente la tendencia sigue siendo bajista y el rebote actual desde 163,90 responde únicamente a la cancelación de posiciones cortas.",
+      "El soporte en 163,90 dólares ya ha sido testeado en tres ocasiones, por lo que se encuentra debilitado y tiene altas probabilidades de ser perforado.",
+      "Fechas clave en noviembre: publicación de resultados el 17, expiración de contratos de VIX el 18 y vencimiento mensual de opciones de acciones e índices el 20.",
+      "Se espera un movimiento lateral por debajo de la resistencia de 189-190 dólares hasta el 20 de noviembre.",
+      "El objetivo principal de soporte técnico y zona para buscar agotamiento vendedor se sitúa en los 147 dólares (retroceso de Fibonacci del 61,8% y antigua resistencia).",
+      "Si el nivel de 147 dólares no frena la caída, el siguiente objetivo bajista se encuentra en la zona de 120 dólares (coincidente con el 78,6% de Fibonacci y cierre de hueco), e incluso 95 dólares en un retroceso total."
+    ],
+    "tesis_principal": "A pesar de la fortaleza fundamental de Nvidia, la estructura técnica sigue siendo bajista y no hay indicios de suelo, por lo que tras una fase lateral previa a los vencimientos de opciones del 20 de noviembre, lo más probable es una corrección hacia la zona de 147 dólares.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Resultados empresariales",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "S&P 500",
+      "Walmart",
+      "VIX"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Advierte de que la acción de Nvidia aún no ha formado suelo técnico y presenta riesgo de caídas adicionales hacia soportes inferiores."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Considera debilitado el soporte de 163,90 y proyecta descensos a 147 o 120 dólares."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Destaca que a nivel fundamental un PER de 13 para Nvidia representa una valoración muy atractiva en comparación con el mercado."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La cotización de Nvidia se moverá lateralmente por debajo de la resistencia de 189-190 dólares hasta el vencimiento del 20 de noviembre",
+        "activo_o_variable": "Nvidia",
+        "direccion": "lateral",
+        "horizonte": "corto plazo (hasta el 20 de noviembre)",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Tras perforar los 163,90 dólares, Nvidia se dirigirá hacia la zona de confluencia de soporte en 147 dólares",
+        "activo_o_variable": "Nvidia",
+        "direccion": "baja",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si Nvidia pierde el soporte de 147 dólares, buscará la zona de los 120 dólares para tapar el hueco",
+        "activo_o_variable": "Nvidia",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El PER a un año de Nvidia se sitúa en torno a 13, frente a aproximadamente 20 del S&P 500 y 40 de Walmart.",
+      "El nivel de 147 coincide con el 61,8% del retroceso de Fibonacci desde los mínimos de 86,87 hasta los máximos recientes, además de haber actuado como resistencia a finales de 2024 y principios de 2025.",
+      "El soporte en 163,90 ha sido tocado tres veces (septiembre de 2025, marzo de 2026 y recientemente), lo que disminuye su fiabilidad técnica.",
+      "La zona de 120 dólares coincide con el retroceso del 78,6% de Fibonacci y un gap técnico previo sin cubrir.",
+      "Se concentran eventos de volatilidad entre el 17 y el 20 de noviembre: resultados trimestrales de Nvidia, expiración de VIX y vencimiento mensual de opciones."
+    ],
+    "riesgos_mencionados": [
+      "Perforación del soporte de 163,90 dólares con aceleración bajista",
+      "Volatilidad derivada de la presentación de resultados trimestrales de Nvidia",
+      "Presión de ventas tras el vencimiento de derivados y opciones mensuales",
+      "Riesgo de caída extendida hasta los 120 o 95 dólares si fallan los soportes principales"
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "video_id": "GkMpfp9UYu4",
+  "url": "https://www.youtube.com/watch?v=GkMpfp9UYu4",
+  "titulo": "Aparece el FOMO cuando el jueves era el pánico - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-11T14:18:20+00:00",
+  "fecha_resumen": "2026-11-12T00:49:57.399474+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado ha pasado rápidamente del pánico vivido la semana anterior a una fase de FOMO ante el actual rebote de las bolsas, por lo que José Luis Cárpatos recomienda mantener la cabeza fría. Técnicamente, el Nasdaq intenta recuperar la media de 200 sesiones para reincorporarse a un canal lateral y alejar el riesgo de una fase bajista. El optimismo generado por valores como CoreWeave y Anthropic contrasta con las tensiones en el petróleo por el conflicto con Irán y la guerra de Ucrania. Además, la sesión estadounidense cuenta con una menor fiabilidad en el mercado de renta fija debido al festivo del Día de los Veteranos.",
+    "ideas_clave": [
+      "Paso abrupto del pánico al FOMO: Cárpatos advierte de no dejarse llevar por la euforia compradora tras el fuerte castigo del mercado.",
+      "El Nasdaq 100 intenta recuperar su media de 200 sesiones; colocarse por encima lo devolvería al rango lateral, mientras que perder los mínimos activaría una fase bajista peligrosa.",
+      "Escepticismo con la euforia en torno a CoreWeave: pese a sus resultados, la semana pasada el mercado descontaba un 65% de probabilidad de impago a 5 años, tiene gran endeudamiento y no espera rentabilidad hasta 2028.",
+      "El petróleo repunta más de un 1,3% presionado por la negativa de Irán a negociar la retirada de material radiactivo enriquecido, incidentes con petroleros y ataques ucranianos continuos.",
+      "Nvidia rebota un 2,2% tras ceder parte de las ganancias iniciales de la sesión, mientras que Anthropic reporta una sobredemanda masiva en su colocación privada.",
+      "Divergencias en la bolsa europea por resultados: Siemens Energy avanza cerca de un 8% y ASM sube más de un 5% por recompras, frente al desplome de casi el 8% en Vestas.",
+      "Bank of America apunta a la posibilidad de un movimiento de tipos de 50 puntos básicos en la reunión de diciembre."
+    ],
+    "tesis_principal": "El rebote actual de los índices bursátiles está impulsado por el FOMO y la cobertura técnica hacia la media de 200 sesiones, pero debe ser analizado con cautela ante riesgos latentes como la geopolítica en Oriente Medio y la fragilidad financiera de ciertos valores de moda.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Análisis técnico",
+      "Energía y petróleo",
+      "Geopolítica",
+      "Tecnología e inteligencia artificial",
+      "Resultados empresariales",
+      "Fed y tipos de interés EE. UU."
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "Petróleo",
+      "Nvidia",
+      "CoreWeave",
+      "Siemens Energy",
+      "ASM",
+      "Vestas",
+      "Anthropic"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.05,
+        "justificacion": "Rebota con fuerza pero impulsado por el FOMO tras una semana de pánico, con necesidad de confirmar niveles técnicos clave."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El Nasdaq 100 se encuentra en plena prueba de su media de 200 sesiones, delimitando la vuelta a un lateral o una caída bajista."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "El crudo sube con fuerza empujado por tensiones con Irán y ataques a infraestructura en el conflicto de Ucrania."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Rebote de Nvidia y sobredemanda en Anthropic, pero con advertencias sobre la solidez financiera de empresas como CoreWeave."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el Nasdaq 100 recupera con facilidad la media de 200 sesiones, volverá a entrar en un rango lateral sin peligro inmediato por abajo.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el Nasdaq 100 falla en superar la media de 200 y pierde el mínimo previo, entrará en una fase bajista peligrosa.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Bank of America no descarta una subida de tipos de 50 puntos básicos en diciembre.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "sube",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "baja"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El Nasdaq 100 busca recuperar la media de 200 sesiones.",
+      "La semana anterior se descontaba un 65% de impago de la deuda de CoreWeave en un plazo de 5 años.",
+      "CoreWeave no proyecta ser rentable hasta el año 2028 y arrastra una losa notable de endeudamiento.",
+      "El petróleo sube un 1,32% por la negativa iraní a retirar material radiactivo enriquecido y ataques en Ucrania.",
+      "Siemens Energy sube cerca del 8% y Vestas se hunde casi un 8% tras sus respectivos resultados.",
+      "El mercado de contado de bonos en EE. UU. se encuentra inactivo por el Día de los Veteranos, restando fiabilidad a los futuros."
+    ],
+    "riesgos_mencionados": [
+      "Entrada en fase bajista técnica en el Nasdaq si perfora mínimos.",
+      "Escalada bélica con Irán y bloqueo en las negociaciones nucleares.",
+      "Ataques continuos ucranianos sobre infraestructuras.",
+      "Riesgo de crédito e impago en empresas muy endeudadas del sector tecnológico como CoreWeave."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

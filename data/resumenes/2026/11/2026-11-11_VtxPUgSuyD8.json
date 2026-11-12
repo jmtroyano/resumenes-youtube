@@ -1,0 +1,137 @@
+{
+  "video_id": "VtxPUgSuyD8",
+  "url": "https://www.youtube.com/watch?v=VtxPUgSuyD8",
+  "titulo": "CAÍDAS FUERTES del ORO: ¿Es una OPORTUNIDAD o ha Cambiado la TESIS? | Gustavo Martínez",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-11T13:00:14+00:00",
+  "fecha_resumen": "2026-11-12T00:53:47.781408+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Gustavo Martínez analiza la fuerte corrección reciente del oro de aproximadamente un 25% desde máximos, reafirmando que la tesis de inversión a largo plazo sigue intacta debido a la degradación monetaria y al gasto fiscal descontrolado. Explica que la caída coyuntural responde a un repunte temporal de los tipos de interés reales, la tensión por liquidez en dólares para financiar el petróleo y las inversiones masivas en IA, así como la contracción temporal de liquidez en China. Además, desmonta los temores sobre la creación de oro sintético y subraya el papel de la plata y las mineras en este superciclo alcista.",
+    "ideas_clave": [
+      "La tesis fundamental del oro no ha cambiado: representa la lucha de la escasez económica frente a la abundancia de moneda fiduciaria impresa por bancos centrales y gobiernos fiscalmente irresponsables.",
+      "El supuesto riesgo de creación de oro sintético a partir de mercurio (caso Marathon Fusion) es inviable: requeriría 1.000 reactores nucleares de 1 GW para producir apenas el 1,5% del stock mundial anual y el material resultante sería radiactivo durante 15 a 20 años.",
+      "Las caídas recientes del oro obedecen a factores coyunturales: tipos de interés reales al alza, shock del petróleo por encima de 100 dólares que obliga a liquidar reservas para obtener dólares y el drenaje de liquidez para el capex de gigantes tecnológicos en inteligencia artificial.",
+      "China y otros bancos centrales periféricos continúan acumulando oro físico en máximos históricos para respaldar su deuda y desdolarizar sus transacciones.",
+      "La ratio oro/plata se sitúa en torno a 80, lo que deja a la plata históricamente infravalorada frente a su media de 50-60 y la convierte en una oportunidad asimétrica.",
+      "Las compañías mineras enfrentan un incremento severo de costes operativos (AISC) y planean reducir su producción futura para proteger márgenes y evitar riesgos de expropiación fiscal.",
+      "Frente al mercado inmobiliario, el oro ha demostrado ser un preservador de capital superior: hoy se necesitan tres veces menos onzas de oro para comprar una vivienda en Madrid que en el año 2000."
+    ],
+    "tesis_principal": "La corrección del oro es un retroceso coyuntural dentro de un superciclo alcista secular provocado por la insostenibilidad de la deuda pública global, la inflación estructural y la constante depreciación de las monedas fiat.",
+    "temas": [
+      "Oro y metales",
+      "Inflación",
+      "Deuda pública y déficit",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Liquidez y crédito",
+      "China",
+      "Tecnología e inteligencia artificial",
+      "Inmobiliario y vivienda"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Plata",
+      "S&P 500",
+      "IBEX 35",
+      "Bitcoin",
+      "Petróleo",
+      "Nvidia",
+      "Alphabet",
+      "Meta",
+      "Oracle",
+      "CoreWeave",
+      "Barrick Gold"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.7,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.95,
+        "justificacion": "El autor considera que las caídas son una clara oportunidad de compra y ve al oro cotizando entre 8.000$ y 9.000$ en 2 o 3 años."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "La deuda estadounidense y mundial crece de forma exponencial e insostenible, forzando a mayores refinanciaciones a tipos altos."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "La inflación real se sitúa en torno al 10% anual y es utilizada de forma deliberada por los gobiernos para expropiar poder adquisitivo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Advierte de una quema de caja excesiva por el capex descomunal en IA que derivará en quiebras empresariales hacia 2027."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Aunque ha contraído liquidez temporalmente afectando al oro a corto plazo, sigue acumulando reservas de metal a largo plazo de forma sistemática."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "En términos reales y medido en activos duros como el oro, el precio de la vivienda ha caído significativamente desde el año 2000."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El precio del oro alcanzará entre 8.000$ y 9.000$ por onza y no se volverá a ver en 1.000$.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "2-3 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Habrá quiebras de empresas del sector tecnológico e inteligencia artificial debido a la deuda y los flujos de caja libres negativos.",
+        "activo_o_variable": "Empresas de Inteligencia Artificial / Hyperscalers",
+        "direccion": "baja",
+        "horizonte": "2027",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La producción global de las minas de oro se reducirá en los próximos años para mantener la rentabilidad y prolongar la vida útil de los yacimientos.",
+        "activo_o_variable": "Oferta minera de oro",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En ciclos anteriores (1974-1976 y 2008), el oro cayó un 50% y un 30% respectivamente debido a subidas de tipos o crisis de liquidez, para multiplicarse luego por 8 y por 3 en los años siguientes.",
+      "El 25% de toda la masa monetaria histórica en dólares se imprimió en un solo año durante la pandemia.",
+      "La deuda de EE. UU. ha pasado de 19 billones de dólares en 2016 a casi 36-41 billones de dólares en una década.",
+      "El capex mensual estimado para las empresas 'hyperscale' de IA alcanzará 100.000 millones de dólares al mes hacia 2027 (1,2 billones al año), compitiendo agresivamente por la liquidez con el Tesoro de EE. UU.",
+      "En 2027 vencerán 10 billones de dólares de deuda del Tesoro estadounidense que deberán refinanciarse a tipos sensiblemente más altos.",
+      "Por cada tonelada de roca excavada en minería de oro actual, se extrae en promedio solo 1 gramo de metal precioso.",
+      "Ray Dalio mantiene el 85% de su cartera declarada en el formulario 13F asignada a ETFs respaldados por oro físico."
+    ],
+    "riesgos_mencionados": [
+      "Persistencia de tipos de interés reales elevados a corto plazo.",
+      "Tensión de liquidez global derivada de shocks geopolíticos y precios del petróleo por encima de 100 dólares.",
+      "Riesgo de expropiación o aumento fiscal sobre compañías mineras por parte de los estados.",
+      "Volatilidad extrema a corto plazo tanto en oro como especialmente en plata.",
+      "Sobreendeudamiento y quiebras en el sector de infraestructura de inteligencia artificial."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Gustavo Martínez"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
