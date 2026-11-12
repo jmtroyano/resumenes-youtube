@@ -570,8 +570,18 @@
    "publicado": "2026-11-11T08:20:45+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-11T17:13:22.543719+00:00"
+  },
+  {
+   "video_id": "xiZ1nQkpo3o",
+   "titulo": "Nvidia se desploma por otro lio amoroso de Huang - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=xiZ1nQkpo3o",
+   "publicado": "2026-11-12T08:19:28+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-12T11:24:12.977716+00:00"
   }
  ],
  "fallidos": {
