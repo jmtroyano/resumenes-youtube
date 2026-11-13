@@ -584,26 +584,6 @@
    "en_cola_desde": "2026-11-12T11:24:12.977716+00:00"
   },
   {
-   "video_id": "ia2MhgR6Tto",
-   "titulo": "Las Empresas de IA han Activado Su Vía de Escape",
-   "url": "https://www.youtube.com/watch?v=ia2MhgR6Tto",
-   "publicado": "2026-11-12T19:00:23+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
-  },
-  {
-   "video_id": "9WmEHzZyjzM",
-   "titulo": "El Oro se HUNDE mientras la Deuda se DISPARA: ¿Qué Está Pasando?",
-   "url": "https://www.youtube.com/watch?v=9WmEHzZyjzM",
-   "publicado": "2026-11-12T19:00:18+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
-  },
-  {
    "video_id": "G5HnBdpkJRo",
    "titulo": "La paz de los mercados sin IA - Cierre Cárpatos",
    "url": "https://www.youtube.com/watch?v=G5HnBdpkJRo",
@@ -624,14 +604,14 @@
    "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
   },
   {
-   "video_id": "1O5wZd1qBqI",
-   "titulo": "Bienvenidos a La CRISIS Demócrata. Así Nos Protegemos | José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=1O5wZd1qBqI",
-   "publicado": "2026-11-12T12:00:02+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
+   "video_id": "Ys7HJytZlmE",
+   "titulo": "Los bonos más preocupantes que los enredos de Huang - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=Ys7HJytZlmE",
+   "publicado": "2026-11-13T08:14:02+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-13T11:07:32.551589+00:00"
   }
  ],
  "fallidos": {
@@ -664,7 +644,10 @@
   "7e6yWdesiK4": "Server disconnected without sending a response.",
   "VzaVZtb-9VI": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "IOjU5U2YSOw": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "duMKfGMGvLk": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "duMKfGMGvLk": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "ia2MhgR6Tto": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "9WmEHzZyjzM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "1O5wZd1qBqI": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
