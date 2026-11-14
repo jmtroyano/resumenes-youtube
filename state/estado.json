@@ -560,7 +560,11 @@
   "qJ9rlKnWVb8": "2026-11-11T17:20:08.972131+00:00",
   "GkMpfp9UYu4": "2026-11-12T00:49:59.045255+00:00",
   "CVWouTMNNqE": "2026-11-12T00:51:27.547560+00:00",
-  "VtxPUgSuyD8": "2026-11-12T00:53:49.285668+00:00"
+  "VtxPUgSuyD8": "2026-11-12T00:53:49.285668+00:00",
+  "xC7JoyvWK7U": "2026-11-14T01:35:02.884203+00:00",
+  "oLHOhz2mSw0": "2026-11-14T01:41:12.943058+00:00",
+  "20K77Er6xpA": "2026-11-14T01:46:32.931239+00:00",
+  "uOr1YtWJunU": "2026-11-14T01:52:43.520277+00:00"
  },
  "cola": [
   {
@@ -612,46 +616,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 1,
    "en_cola_desde": "2026-11-13T11:07:32.551589+00:00"
-  },
-  {
-   "video_id": "xC7JoyvWK7U",
-   "titulo": "¿EL FIN DEL ORO? La Tecnología que Podría Acabar con su ESCASEZ",
-   "url": "https://www.youtube.com/watch?v=xC7JoyvWK7U",
-   "publicado": "2026-11-13T19:00:10+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-13T19:48:11.377553+00:00"
-  },
-  {
-   "video_id": "oLHOhz2mSw0",
-   "titulo": "Causas de las bajadas en detalle - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=oLHOhz2mSw0",
-   "publicado": "2026-11-13T16:45:49+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-13T19:48:11.377553+00:00"
-  },
-  {
-   "video_id": "uOr1YtWJunU",
-   "titulo": "Oro en grandes soportes - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=uOr1YtWJunU",
-   "publicado": "2026-11-13T13:54:45+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-13T19:48:11.377553+00:00"
-  },
-  {
-   "video_id": "20K77Er6xpA",
-   "titulo": "Así detectamos la COMPRA de las MANOS FUERTES y la MANIPULACIÓN previa. José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=20K77Er6xpA",
-   "publicado": "2026-11-13T13:19:40+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-13T19:48:11.377553+00:00"
   }
  ],
  "fallidos": {

@@ -1,0 +1,106 @@
+{
+  "video_id": "uOr1YtWJunU",
+  "url": "https://www.youtube.com/watch?v=uOr1YtWJunU",
+  "titulo": "Oro en grandes soportes - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-13T13:54:45+00:00",
+  "fecha_resumen": "2026-11-14T01:52:42.091754+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El dato de IPP en Estados Unidos salió mejor de lo esperado, impulsando las bolsas a máximos intradía, aunque con cautela al tratarse de un indicador más volátil que el IPC. José Luis Cárpatos destaca la postura de Michael Hartnett de evitar un exceso de riesgo en cartera mientras el bono a 10 años no caiga del 4,5%. En materias primas y criptomonedas, el oro testea soportes críticos semanales y el Bitcoin rebota desde su media de 200 semanas. Además, los inversores minoristas concentraron fuertemente sus compras en Nvidia durante las recientes caídas.",
+    "ideas_clave": [
+      "El IPP estadounidense subió un +0,3% mensual (frente al +0,4% esperado) y un +6,5% interanual (frente al +6,6%), impulsando alzas inmediatas en los futuros del S&P 500.",
+      "Michael Hartnett (Bank of America) aconseja no asumir más riesgo en cartera mientras la rentabilidad del bono estadounidense a 10 años se mantenga por encima del 4,5%.",
+      "El oro al contado (spot) se encuentra en un nivel de soporte clave en gráfico semanal, apoyado por la banda Nogales inferior y la media de 100 periodos.",
+      "El Bitcoin mantiene la lucha técnica contra su media móvil de 200 semanas, logrando rebotar en dicho nivel crucial.",
+      "Según Vanda Research, el 61% de todas las compras netas de acciones por parte de inversores minoristas entre el lunes y el miércoles se dirigieron exclusivamente a Nvidia.",
+      "El índice europeo STOXX 600 se encamina hacia su mejor semana desde junio a pesar de leves caídas intradía."
+    ],
+    "tesis_principal": "El mercado reacciona favorablemente a una moderación en la inflación mayorista (IPP), pero los altos rendimientos de los bonos y soportes técnicos clave en activos como el oro y Bitcoin exigen no sobreponderar riesgo.",
+    "temas": [
+      "Inflación",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Oro y metales",
+      "Criptomonedas",
+      "Bolsa Europa",
+      "Semiconductores",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500 (Mini S&P 500)",
+      "Bono de EE. UU. a 10 años",
+      "Oro (Spot)",
+      "Bitcoin",
+      "STOXX 600",
+      "Nvidia",
+      "Cisco",
+      "Dólar estadounidense"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inflación",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "El dato de IPP salió una décima por debajo de las previsiones tanto en tasa mensual como interanual."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "La rentabilidad del bono a 10 años de EE. UU. sigue en niveles elevados y de riesgo, habiendo tocado el 5,14%."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Reacción alcista a corto plazo por el IPP, pero condicionada por la elevada rentabilidad de los bonos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El oro spot aguanta sobre un soporte crítico de media de 100 y banda Nogales, con riesgo si pierde dicho nivel."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Bitcoin ha conseguido rebotar justo en la media de 200 semanas, aunque sigue en una dura batalla técnica."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Goldman Sachs sitúa su objetivo para el S&P 500 a 12 meses en los 8.700 puntos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "12 meses",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "IPP de EE. UU.: +0,3% mensual vs. +0,4% esperado; +6,5% interanual vs. +6,6% esperado.",
+      "El bono a 10 años estadounidense tocó el 5,14% durante la sesión matinal.",
+      "Vanda Research revela que el 61% de las compras minoristas de renta variable se concentraron en Nvidia entre lunes y miércoles.",
+      "El índice STOXX 600 apunta a su mejor desempeño semanal desde el mes de junio.",
+      "Cisco cae un 3% en las operaciones fuera de hora tras publicar resultados."
+    ],
+    "riesgos_mencionados": [
+      "Rentabilidad del bono a 10 años en EE. UU. por encima del 4,5%, lo que desaconseja asumir riesgo excesivo según Michael Hartnett.",
+      "Riesgo de ruptura bajista en el oro si pierde la banda Nogales inferior y la media de 100 semanas.",
+      "Tensiones por contrabando de chips hacia centros en Shanghái según Bloomberg."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

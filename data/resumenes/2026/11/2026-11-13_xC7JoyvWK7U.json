@@ -1,0 +1,83 @@
+{
+  "video_id": "xC7JoyvWK7U",
+  "url": "https://www.youtube.com/watch?v=xC7JoyvWK7U",
+  "titulo": "¿EL FIN DEL ORO? La Tecnología que Podría Acabar con su ESCASEZ",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-13T19:00:10+00:00",
+  "fecha_resumen": "2026-11-14T01:35:01.398212+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Luis Miguel Ortiz y Gustavo Martínez analizan la noticia sobre Marathon Fusion y los intentos de sintetizar oro a partir de mercurio mediante fusión nuclear. Gustavo Martínez desmonta el pánico generado en redes sociales, explicando la inviabilidad técnica y económica actual del proceso. Se necesitarían cientos o miles de reactores nucleares con un coste desorbitado para apenas mover un porcentaje insignificante del stock mundial, además de requerir décadas de enfriamiento por radiactividad. Por ello, concluyen que la escasez del oro no corre ningún riesgo real y el mercado no ha cotizado esta amenaza.",
+    "ideas_clave": [
+      "La tesis de crear oro artificial a partir de mercurio requeriría plantas nucleares gigantescas: cada gigavatio de potencia apenas generaría unas 5 toneladas de oro al año.",
+      "Para igualar la producción anual mundial harían falta unas 1.000 centrales nucleares de 1 GW; en todo el planeta solo existen unas 440 construidas a lo largo de 70 años.",
+      "El impacto sobre el stock existente de oro sería insignificante (alrededor del 1,5% o 2% del total acumulado), teniendo un impacto mínimo o nulo en su cotización.",
+      "El oro producido mediante reacciones nucleares sería radiactivo y tendría que permanecer almacenado entre 15 y 18 años antes de poder ser comercializado.",
+      "Históricamente y psicológicamente, el mercado discrimina los bienes sintéticos de los naturales, como ocurrió con el desplome de precio de los diamantes sintéticos frente a los naturales.",
+      "Gustavo Martínez ironiza señalando que ve más probable que la humanidad logre sintetizar oro de forma viable antes de que los políticos se vuelvan fiscalmente responsables."
+    ],
+    "tesis_principal": "La amenaza de que la transmutación nuclear o fusión acabe con la escasez del oro es una ficción inviable a corto y medio plazo debido a barreras energéticas, económicas y de radiactividad.",
+    "temas": [
+      "Oro y metales",
+      "Criptomonedas",
+      "Política fiscal e impuestos"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Descartan por completo que la tecnología de síntesis nuclear amenace la escasez o el valor intrínseco del oro monetario."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Mencionan que la comunidad de Bitcoin intentó usar esta noticia contra el oro, validando implícitamente la importancia del concepto de escasez compartida."
+      },
+      {
+        "tema": "Política fiscal e impuestos",
+        "sentimiento": "bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Afirman que no hay ninguna esperanza en que los políticos actúen con responsabilidad fiscal."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La síntesis de oro artificial mediante reactores no tendrá impacto material en el precio del oro durante las próximas décadas por inviabilidad económica y técnica.",
+        "activo_o_variable": "Precio del oro",
+        "direccion": "lateral",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Una planta de fusión produciría unas 5 toneladas de oro al año por cada gigavatio (GW) de potencia.",
+      "100 plantas de fusión generarían unas 500 toneladas de oro, lo que representa solo el 14% de la producción minera anual.",
+      "Para igualar la producción minera mundial de oro se necesitarían 1.000 plantas de fusión de 1 GW, frente a las 440 centrales nucleares que existen actualmente en el mundo tras 70 años de desarrollo.",
+      "Incluso generando 5.000 toneladas de oro artificial, esto solo representaría un incremento de flujo del 1,5% - 2% frente al stock acumulado existente.",
+      "El oro generado por fisión/fusión nuclear presentaría radiactividad y requeriría aislamiento y almacenamiento durante un periodo de entre 15 y 18 años."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo a muy largo plazo de desarrollo tecnológico de transmutación a escala comercial.",
+      "Irresponsabilidad fiscal continua por parte de los gobiernos y degradación monetaria de las divisas fiat."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Gustavo Martínez"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

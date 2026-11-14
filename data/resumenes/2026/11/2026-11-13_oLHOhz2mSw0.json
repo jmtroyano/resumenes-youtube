@@ -1,0 +1,138 @@
+{
+  "video_id": "oLHOhz2mSw0",
+  "url": "https://www.youtube.com/watch?v=oLHOhz2mSw0",
+  "titulo": "Causas de las bajadas en detalle - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-13T16:45:49+00:00",
+  "fecha_resumen": "2026-11-14T01:41:11.380070+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el violento giro a la baja de las bolsas estadounidenses, motivado principalmente por el desplome del sector de inteligencia artificial y los semiconductores tras dudas sobre la red de financiación de Nvidia. A nivel técnico, destaca el fracaso de los índices al chocar contra la media móvil de 200 periodos y la posible formación de una estrella de la noche bajista en el Nasdaq. Además, el tensionamiento de los rendimientos de la deuda soberana por encima del 5,14% y las tensiones geopolíticas entre Israel e Irán incrementan la presión vendedora.",
+    "ideas_clave": [
+      "Derrumbe en el ecosistema 'neocloud' e inteligencia artificial: el ETF NCLD cae un 10,44%, Nebius un 13,2% y CoreWeave un 11,65% por desconfianza en la financiación cruzada de Nvidia.",
+      "Nvidia cede más del 4,7% afectada por las incertidumbres sobre su directiva interina, investigaciones sobre contrabando de chips a China y la falta de acuerdos vinculantes de financiación en Scale con Anthropic.",
+      "El ETF de semiconductores (SMH) se desploma un 6,22% y Broadcom sufre una rebaja de recomendación de comprar a neutral con recorte de precio objetivo de 595 a 390 dólares.",
+      "Fallo técnico relevante: los futuros del Nasdaq y del S&P 500 no logran superar sus respectivas medias móviles de 200 periodos, dejando abierta una peligrosa figura de 'estrella de la noche' en el Nasdaq si cierra bajo 28.000.",
+      "La rentabilidad de los bonos estadounidenses repunta hasta el entorno del 5,14%-5,15%, ejerciendo una fuerte presión bajista generalizada y castigando especialmente a las 'small caps' (Russell 2000 -0,87%).",
+      "El Bitcoin retrocede cerca del 4% y pone a prueba el soporte crítico de la media móvil de 200 semanas en el entorno de los 68.500 dólares tras perder su media diaria.",
+      "El índice de volatilidad VIX sube casi un 9% superando la cota de 20 puntos (20,28), señal de un entorno de alta volatilidad en los mercados."
+    ],
+    "tesis_principal": "La corrección violenta del mercado está guiada por la desconfianza estructural en el entramado de financiación del sector de IA y chips, combinada con un claro rechazo técnico en resistencias de medio plazo (media de 200) y la presión de unos tipos de interés de la deuda en niveles muy elevados.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bolsa EE. UU.",
+      "Bonos y renta fija",
+      "Análisis técnico",
+      "Criptomonedas",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "S&P 500",
+      "Russell 2000",
+      "Nvidia",
+      "Broadcom",
+      "Apple",
+      "Microsoft",
+      "Nebius",
+      "CoreWeave",
+      "ETF Roundhill NeoCloud (NCLD)",
+      "ETF VanEck Semiconductor (SMH)",
+      "Bitcoin",
+      "VIX",
+      "Bono EE. UU. 10 años",
+      "Bono EE. UU. 30 años",
+      "Petróleo",
+      "Oro"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Fuertes ventas en todo el ecosistema de IA y nubes alternativas por dudas sobre su modelo de negocio y financiación."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El ETF SMH se desploma más del 6% y sufre rebajas de valoración contundentes en valores clave como Broadcom."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Las caídas tecnológicas arrastran al conjunto de los índices, con el VIX superando los 20 puntos."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los precios de la deuda caen mientras los rendimientos suben hacia el 5,15%, lo cual perjudica a los activos de riesgo."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Rechazo contundente en la media de 200 sesiones tanto en Nasdaq como en S&P 500 con patrones de giro bajista."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Bitcoin cae cerca de un 4% y testea un soporte clave de largo plazo en la media móvil semanal de 200."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Presiones de Israel para reanudar operaciones contra Irán mantienen el riesgo latente en el mercado petrolero."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el futuro del Nasdaq cierra por debajo de 28.000, confirmará una figura técnica de estrella de la noche que, de perder los mínimos el lunes, podría llevar la cotización a la zona de mínimos previos.",
+        "activo_o_variable": "Mini Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Perder la zona de soporte de 7.440-7.460 en el S&P 500 activaría una oleada masiva de órdenes de stop y aceleraría una caída rápida hacia mínimos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El IPP subió un 0,3% frente al 0,4% esperado, pero el mercado ignoró el dato macroeconómico favorable.",
+      "El ETF de NeoCloud (NCLD) cayó un 10,44%, Nebius un 13,2% marcando mínimos desde marzo de 2026, y CoreWeave un 11,65%.",
+      "Nvidia retrocedió un 4,72%-4,84% tras sospechas y coberturas mediáticas sobre desvío de chips a Shanghái y cambios en su cúpula directiva.",
+      "El ETF SMH de semiconductores descendió un 6,22% al topar de nuevo con la resistencia de su media de 200.",
+      "Rothschild Redburn rebajó a Broadcom de comprar a neutral recortando el precio objetivo de 595 a 390 dólares.",
+      "El VIX subió un 8,97% situándose en 20,28, superando la barrera clave de volatilidad de 20.",
+      "El rendimiento del bono soberano estadounidense se ubica en el 5,14%-5,15%."
+    ],
+    "riesgos_mencionados": [
+      "Dudas sobre la sostenibilidad financiera del 'banco de Nvidia' y la capacidad de pago de las empresas de centros de datos y 'neocloud'.",
+      "Investigaciones de seguridad nacional en EE. UU. sobre contrabando de semiconductores avanzados hacia China.",
+      "Ruptura de soportes críticos en el S&P 500 (7.440) que active ventas automáticas por 'stop loss'.",
+      "Persistencia de tipos de interés altos de los bonos (5,15%) encareciendo el coste de capital general.",
+      "Escalada bélica en Oriente Medio ante las presiones de Israel sobre la administración estadounidense respecto a Irán."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

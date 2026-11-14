@@ -1,0 +1,102 @@
+{
+  "video_id": "20K77Er6xpA",
+  "url": "https://www.youtube.com/watch?v=20K77Er6xpA",
+  "titulo": "Así detectamos la COMPRA de las MANOS FUERTES y la MANIPULACIÓN previa. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-13T13:19:40+00:00",
+  "fecha_resumen": "2026-11-14T01:46:31.498510+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava explica cómo detectar las compras de las manos fuertes y la capitulación del mercado mediante el análisis del gráfico de 'volume footprint' en Nvidia tras la caída a la zona de 149 dólares. Afirma que mientras Nvidia cotice por encima de 160 dólares, el objetivo de rebote se sitúa en los 178 dólares, con una fuerte resistencia en el nivel de 200. Asimismo, advierte de una crisis de liquidez y deuda en el sistema financiero global provocada por la absorción de recursos por parte de los gobiernos occidentales y el sector de la inteligencia artificial, lo que obligará eventualmente a los bancos centrales a inyectar liquidez.",
+    "ideas_clave": [
+      "Identificación de capitulación de ventas agresivas en Nvidia en la zona de 149-150 dólares, seguida de compras agresivas de manos fuertes visibles en el footprint.",
+      "El soporte clave a corto plazo para Nvidia queda establecido en los 160 dólares.",
+      "Objetivo alcista inmediato de rebote para Nvidia hacia los 178 dólares si respeta los 160 dólares.",
+      "El nivel de 200 dólares en Nvidia actúa como un muro infranqueable a corto plazo, ya que allí las manos fuertes realizaron ventas masivas.",
+      "El sistema financiero mundial afronta tensiones por falta de liquidez y elevado endeudamiento público y privado.",
+      "Los bancos centrales se verán forzados a inyectar liquidez para evitar una crisis financiera similar a los errores de la Reserva Federal en 1929."
+    ],
+    "tesis_principal": "El análisis de la huella de volumen (footprint) permite identificar con precisión la manipulación y entrada compradora de las manos fuertes tras la capitulación en Nvidia alrededor de 149 dólares, lo que habilita un rebote hacia 178 dólares en un contexto macroeconómico global dominado por la escasez de liquidez.",
+    "temas": [
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico",
+      "Liquidez y crédito",
+      "Fed y tipos de interés EE. UU."
+    ],
+    "activos_mencionados": [
+      "Nvidia (NVDA)"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Señala compras de manos fuertes en Nvidia en 149 dólares y prevé rebote hacia 178 dólares mientras aguante los 160."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El análisis de volumen y footprint muestra señales claras de giro y capitulación bajista en soportes clave."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Existe escasez de liquidez en el sistema financiero por la excesiva demanda de recursos de la deuda pública y la inteligencia artificial."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Considera que los bancos centrales tendrán que verse obligados finalmente a inyectar liquidez al sistema."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Mientras Nvidia se mantenga por encima de 160 dólares, intentará dirigirse hacia la zona de 178 dólares.",
+        "activo_o_variable": "Nvidia (NVDA)",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La cotización de Nvidia encontrará un muro muy difícil de superar en los 200 dólares debido a ventas masivas previas de manos fuertes.",
+        "activo_o_variable": "Nvidia (NVDA)",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los banqueros centrales acabarán teniendo que inyectar liquidez en el sistema financiero ante la crisis de liquidez y deuda.",
+        "activo_o_variable": "Liquidez del sistema financiero",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Mínimo registrado por Nvidia en 148,80 dólares el 12 de noviembre, coincidente con la zona estimada de 147-150 dólares.",
+      "El gráfico horario de volume footprint muestra un pico de ventas agresivas en 150 dólares seguido de su agotamiento por debajo de ese nivel.",
+      "Aparición de fuerte volumen comprador agresivo en 149 dólares impulsando la cotización al alza.",
+      "Absorción masiva de liquidez por parte de los gobiernos occidentales para financiar déficit y gasto público, sumado a la demanda de capital del sector de inteligencia artificial."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida del soporte de 160 dólares en Nvidia que invalidaría el escenario de rebote hacia 178 dólares.",
+      "Crisis de deuda pública y privada en los países occidentales por falta de liquidez en el sistema."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
