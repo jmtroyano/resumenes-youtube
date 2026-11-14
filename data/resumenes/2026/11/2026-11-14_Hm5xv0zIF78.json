@@ -1,0 +1,96 @@
+{
+  "video_id": "Hm5xv0zIF78",
+  "url": "https://www.youtube.com/watch?v=Hm5xv0zIF78",
+  "titulo": "El Movimiento de China con el ORO que Podría Cambiar el SISTEMA MONETARIO",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-14T19:00:36+00:00",
+  "fecha_resumen": "2026-11-14T22:36:36.139159+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El analista Gustavo Martínez explica junto a Luis Miguel Ortiz cómo China se ha convertido en el principal motor de la demanda de oro a nivel mundial. Destacan que el Banco Central de China compra oro de forma recurrente para reforzar su sistema financiero y protegerse ante posibles confiscaciones de reservas como la ocurrida con Rusia. Basándose en la teoría de la jerarquía del dinero de Perry Mehrling, argumentan que en momentos de crisis de confianza crediticia el único activo sin riesgo de contrapartida es el oro. Esta pugna geopolítica ha llevado a Estados Unidos a vigilar de cerca estos movimientos e incorporar perfiles favorables al patrón oro como Judy Shelton.",
+    "ideas_clave": [
+      "La histórica correlación del oro con los tipos de interés reales estadounidenses se ha roto desde 2022, pasando a estar más ligada a las inyecciones y contracciones de liquidez del Banco Central de China (PBOC).",
+      "China aprovecha las correcciones del mercado para acumular reservas de oro mediante una estrategia de 'buy the dip' a largo plazo.",
+      "El Banco Central de China compró recientemente entre 21 y 22 toneladas de oro en un solo mes, marcando el mayor ritmo de compras en los últimos tres años.",
+      "China está desarrollando un sistema alternativo tipo SWIFT respaldado en oro desde Hong Kong, además de explorar la tokenización del metal.",
+      "Bajo la tesis de Perry Mehrling, todo el sistema fiduciario son promesas de pago cruzadas; si colapsa la confianza, solo el oro permanece al no ser pasivo de nadie.",
+      "Tener reservas de oro físico e inconfiscable permite a China colateralizar y abaratar el coste de su deuda soberana frente a los riesgos de sanciones internacionales.",
+      "Como respuesta en esta guerra económica, Estados Unidos ha recurrido a economistas como Judy Shelton, defensora del patrón oro y de respaldar bonos del Tesoro con oro."
+    ],
+    "tesis_principal": "China está acumulando oro a gran escala y creando infraestructura financiera a su alrededor para blindarse geopolíticamente, abaratar su financiación y liderar una reconfiguración del sistema monetario mundial donde el oro recupera su papel como dinero definitivo.",
+    "temas": [
+      "Oro y metales",
+      "China",
+      "Otros bancos centrales",
+      "Liquidez y crédito",
+      "Geopolítica",
+      "Deuda pública y déficit"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "Dólar",
+      "Bonos del Tesoro de EE. UU.",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.8,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.95,
+        "justificacion": "Se destaca la acumulación institucional masiva por parte de bancos centrales, su condición de colateral inconfiscable y su posición como activo monetario supremo."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Aunque enfrenta problemas económicos y contracción puntual de liquidez, su estrategia de posicionamiento financiero a largo plazo con el oro es sólida e inteligente."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Se describe una guerra económica abierta entre China y Estados Unidos caracterizada por desconfianza monetaria y riesgo de sanciones o confiscaciones."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Las fluctuaciones de liquidez del PBOC marcan los movimientos a corto plazo del oro, mientras los sistemas de crédito enfrentan riesgos de confianza."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El precio del oro estará significativamente más alto a largo plazo independientemente de la volatilidad a corto plazo.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La compra mensual reciente del Banco Central de China alcanzó entre 21 y 22 toneladas de oro, la cifra más alta en 3 años.",
+      "La ruptura de la correlación tradicional entre tipos de interés reales de EE. UU. y el precio del oro ocurrió en el año 2022.",
+      "El oro se ha consolidado como la segunda posición de reserva más grande para el conjunto de los bancos centrales mundiales.",
+      "Referencia a la congelación de 300.000 millones de dólares de reservas rusas como catalizador del cambio hacia reservas físicas e inconfiscables.",
+      "Modelo de pirámide de dinero de Perry Mehrling: las acciones y bonos en la base, depósitos de bancos comerciales arriba, moneda de bancos centrales sobre ellos y en la cúspide el oro."
+    ],
+    "riesgos_mencionados": [
+      "Freno transitorio en la demanda de oro o correcciones de precio debido a la contracción de liquidez por parte del banco central chino.",
+      "Riesgo de confiscación de activos fiduciarios y reservas extranjeras como precedente de las sanciones a Rusia.",
+      "Crisis de confianza sistémica en la cadena de promesas de pago y crédito fiduciario global."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Gustavo Martínez"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "video_id": "G7eedh_3Uuc",
+  "url": "https://www.youtube.com/watch?v=G7eedh_3Uuc",
+  "titulo": "El Escándalo de Jensen Huang Que Hunde a Nvidia",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-14T18:00:07+00:00",
+  "fecha_resumen": "2026-11-14T22:44:22.163136+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Antonio Hidalgo analiza una intensa semana en los mercados marcada por el cisne negro de la dimisión de Jensen Huang como CEO de Nvidia tras un escándalo personal y corporativo, lo que ha disparado la volatilidad implícita y los CDS de la compañía. Asimismo, se repasa la normalización de las valoraciones del S&P 500 frente a años previos, con sólidas previsiones de beneficios empresariales hacia 2027 y 2028. Finalmente, examina la evolución de materias primas como el petróleo y el gas natural al alza frente a caídas en oro y plata, el retroceso en Bitcoin y las oportunidades operativas mediante opciones en Nvidia, Strategy y Hims.",
+    "ideas_clave": [
+      "La dimisión forzada de Jensen Huang en Nvidia tras salir a la luz relaciones con empleadas y sospechas de espionaje provocó caídas abruptas y elevó el percentil de volatilidad implícita al 99% y los CDS de deuda de la tecnológica.",
+      "Pese al desplome institucional de Nvidia y el mejor desempeño relativo récord de AMD (+53,2% en 5 días frente a NVDA), los inversores minoristas (retail) han estado comprando agresivamente la caída.",
+      "Las valoraciones del mercado general se están moderando hacia medias históricas de 35 años (PER forward y ratio PEG) y el gap de valoración entre las 5 mayores empresas y las 495 restantes del S&P 500 se ha cerrado por completo.",
+      "El gas natural y el petróleo vuelven a repuntar ante bajas reservas y tensiones geopolíticas con Irán, mientras que el oro cayó un 4,7% perdiendo los 4.000 $/oz y la plata descendió un 3,6% situándose por debajo de 50 $.",
+      "En Bitcoin y Strategy (MSTR) se plantea la posibilidad de iniciar un ciclo alcista para 2027; Antonio propone aprovechar la alta volatilidad de Strategy mediante LEAPS call de delta 80 financiadas con la venta recurrente de calls a corto plazo ('estrategia del mayorista').",
+      "Los movimientos 13F de George Soros muestran una reducción de peso en Nvidia, Adobe y Amazon, una multiplicación por 28 en Intel, coberturas bajistas en energía mediante puts y compras de calls sobre bonos del Tesoro a 20 años apostando a caídas de tipos.",
+      "Hims cayó un 22% en 5 días tras resultados debido al desplome de sus márgenes brutos y la pérdida de suscriptores orgánicos, pese a mantener un alto gasto medio por cliente."
+    ],
+    "tesis_principal": "El cisne negro generado por la salida de Jensen Huang de Nvidia y las dudas sobre la circularidad de la deuda en la IA sacuden al sector tecnológico, abriendo un escenario de alta volatilidad donde las valoraciones generales se normalizan y surgen oportunidades asimétricas a través de derivados.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Valoración de mercado y burbujas",
+      "Criptomonedas",
+      "Energía y petróleo",
+      "Oro y metales",
+      "Bonos y renta fija",
+      "Resultados empresariales"
+    ],
+    "activos_mencionados": [
+      "NVDA",
+      "AMD",
+      "AVGO",
+      "S&P 500",
+      "Nasdaq 100",
+      "VIX",
+      "CoreWeave (CRWV)",
+      "Hims & Hers Health (HIMS)",
+      "Bitcoin",
+      "Strategy (MSTR)",
+      "Oro",
+      "Plata (SLV)",
+      "Petróleo (WTI / Crude Continuous)",
+      "Gas natural",
+      "Intel (INTC)",
+      "Adobe (ADBE)",
+      "Amazon (AMZN)",
+      "ETF 20y Treasury"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El escándalo en Nvidia genera gran incertidumbre directiva y crediticia, aunque sus competidores como AMD y Broadcom se han beneficiado a corto plazo."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Los múltiplos PER y PEG vuelven a niveles razonables y las proyecciones de beneficios para 2027-2028 de Goldman Sachs son notablemente positivas."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "El petróleo repunta por falta de incentivos de paz en el conflicto con Irán y el gas natural sube por bajas reservas e invierno frío."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Fuerte corrección semanal perdiendo soportes relevantes tanto en el oro por debajo de 4.000 $ como en la plata bajo 50 $."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Sufre caídas perforando mínimos recientes, pero los inversores comienzan a posicionarse de cara a un nuevo ciclo alcista en 2027."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Grandes inversores como Soros se posicionan fuertemente en calls de bonos a 20 años anticipando relajación de tipos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Se proyecta un crecimiento inusualmente positivo de los beneficios por acción globales en 2027 y 2028 según estimaciones de consenso.",
+        "activo_o_variable": "Beneficios por acción globales (MSCI AC World EPS)",
+        "direccion": "sube",
+        "horizonte": "2027-2028",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El precio del gas natural continuará presionado al alza durante el invierno debido a temperaturas bajas y menores inventarios.",
+        "activo_o_variable": "Gas natural",
+        "direccion": "sube",
+        "horizonte": "meses",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La volatilidad implícita en Nvidia tenderá a contraerse una vez que se disipe la incertidumbre directiva.",
+        "activo_o_variable": "Volatilidad implícita de NVDA",
+        "direccion": "baja",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice de miedo y codicia subió de 22 a 39 puntos y el VIX bajó un 16,88% semanal hasta 19,30.",
+      "El PER forward del MSCI AC World cotiza en niveles de 15,8x, cercano a su promedio histórico a 35 años.",
+      "El múltiplo PER de Nvidia cayó a 11,3x, su nivel más bajo en 13 años.",
+      "La volatilidad implícita de Nvidia se sitúa en el 61%, lo que representa un percentil histórico del 99%.",
+      "Los spreads de CDS (Credit Default Swaps) de Nvidia se dispararon tras la dimisión de Jensen Huang ante el riesgo en el esquema de financiación circular de las GPU.",
+      "CoreWeave batió expectativas con 3.600 millones de dólares en ingresos frente a los 3.560 estimados y un margen EBITDA ajustado del 62%.",
+      "Hims & Hers cayó con fuerza tras contraerse su margen bruto trimestral del 82% a niveles del 57%, pese a ingresar 509 millones de dólares impulsados por compras inorgánicas."
+    ],
+    "riesgos_mencionados": [
+      "Peligro de colapso en la economía circular de la inteligencia artificial si Nvidia deja de avalar préstamos y contratos a proveedores cloud como CoreWeave.",
+      "Riesgo de seguridad nacional e investigaciones del Congreso estadounidense sobre Nvidia por filtraciones a espías chinos.",
+      "Inviernos más fríos combinados con escasez de almacenamiento de gas que puedan generar una crisis energética en Europa y EE. UU.",
+      "Riesgo de apalancamiento extremo y caídas prolongadas en microempresas o vehículos ligados a Bitcoin como Strategy."
+    ],
+    "participantes": [
+      "Antonio Hidalgo (Antonio LWS)"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
