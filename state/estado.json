@@ -594,18 +594,28 @@
    "publicado": "2026-11-12T12:41:21+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
   },
   {
-   "video_id": "Ys7HJytZlmE",
-   "titulo": "Los bonos más preocupantes que los enredos de Huang - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=Ys7HJytZlmE",
-   "publicado": "2026-11-13T08:14:02+00:00",
+   "video_id": "G7eedh_3Uuc",
+   "titulo": "El Escándalo de Jensen Huang Que Hunde a Nvidia",
+   "url": "https://www.youtube.com/watch?v=G7eedh_3Uuc",
+   "publicado": "2026-11-14T18:00:07+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-14T18:11:49.967050+00:00"
+  },
+  {
+   "video_id": "wk_vanyPLkg",
+   "titulo": "IA ¿estamos en 2000 otra vez sin darnos cuenta? - Las 4 claves de la semana Cárpatos",
+   "url": "https://www.youtube.com/watch?v=wk_vanyPLkg",
+   "publicado": "2026-11-14T12:25:45+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-13T11:07:32.551589+00:00"
+   "intentos": 1,
+   "en_cola_desde": "2026-11-14T18:11:49.967050+00:00"
   }
  ],
  "fallidos": {
@@ -643,7 +653,8 @@
   "9WmEHzZyjzM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "1O5wZd1qBqI": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "UFv__h6oaEI": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "G5HnBdpkJRo": "The read operation timed out"
+  "G5HnBdpkJRo": "The read operation timed out",
+  "Ys7HJytZlmE": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
  },
  "aviso_config": null
 }
