@@ -588,23 +588,13 @@
    "en_cola_desde": "2026-11-12T11:24:12.977716+00:00"
   },
   {
-   "video_id": "G5HnBdpkJRo",
-   "titulo": "La paz de los mercados sin IA - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=G5HnBdpkJRo",
-   "publicado": "2026-11-12T16:16:36+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
-  },
-  {
    "video_id": "KbuLwVkVVnc",
    "titulo": "Nvidia preocupa -  Media sesión Cárpatos",
    "url": "https://www.youtube.com/watch?v=KbuLwVkVVnc",
    "publicado": "2026-11-12T12:41:21+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
+   "intentos": 1,
    "en_cola_desde": "2026-11-12T20:00:15.559552+00:00"
   },
   {
@@ -614,7 +604,7 @@
    "publicado": "2026-11-13T08:14:02+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-13T11:07:32.551589+00:00"
   }
  ],
@@ -651,7 +641,9 @@
   "duMKfGMGvLk": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "ia2MhgR6Tto": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "9WmEHzZyjzM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "1O5wZd1qBqI": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "1O5wZd1qBqI": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "UFv__h6oaEI": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "G5HnBdpkJRo": "The read operation timed out"
  },
  "aviso_config": null
 }
