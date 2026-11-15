@@ -1,0 +1,162 @@
+{
+  "video_id": "wk_vanyPLkg",
+  "url": "https://www.youtube.com/watch?v=wk_vanyPLkg",
+  "titulo": "IA ¿estamos en 2000 otra vez sin darnos cuenta? - Las 4 claves de la semana Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-14T12:25:45+00:00",
+  "fecha_resumen": "2026-11-15T16:29:18.898561+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza las tensiones recientes en el mercado, argumentando que tras los problemas de Nvidia y las tecnológicas subyace un deterioro crítico de la liquidez global y un repunte de las rentabilidades de los bonos. Destaca que el auge de inversión en inteligencia artificial afronta un techo de capex y restricciones severas de capacidad eléctrica en EE. UU., en claro contraste con China. Asimismo, analiza las tesis de Albert Edwards y Michael Hartnett, quienes recomiendan mantener cautela ('risk-off') hasta que el bono estadounidense a 10 años caiga del 4,5% y se aclaren los riesgos de inflación y política monetaria.",
+    "ideas_clave": [
+      "La retirada de liquidez excedente del G10, que históricamente anticipa los movimientos de la bolsa con seis meses de adelanto, ha entrado en terreno negativo por primera vez desde 2023.",
+      "El fuerte repunte de la rentabilidad del bono de EE. UU. a 10 años hacia el 5,15%-5,17% sitúa al mercado al borde del umbral de alerta del 5,25% fijado por Goldman Sachs, por encima del cual las caídas bursátiles se intensifican.",
+      "La burbuja de la IA muestra signos de agotamiento estructural: el 33,6% de los valores del S&P 500 cae más de un 20% desde máximos, mientras el capex desbocado de los hiperescaladores (Amazon, Alphabet, Microsoft) ha provocado flujos de caja libre negativos.",
+      "Riesgo de crédito en las 'neoclouds': empresas como CoreWeave presentan un Credit Default Swap (CDS) disparado a 1.163 puntos básicos, descontando una probabilidad superior al 60% de impago en sus bonos a 5 años.",
+      "Cuello de botella eléctrico: UBS estima que los chips demandarán 117 GW de potencia para 2030, pero la red estadounidense solo dispondrá de 55 GW, mientras que China instaló 543 GW en 2025 frente a solo 53 GW de EE. UU.",
+      "Michael Hartnett (BofA) sostiene su postura de 'risk-off' hasta que confluyan tres factores: petróleo por debajo de 70 dólares, dólar a la baja y la TIR del bono a 10 años por debajo del 4,5%."
+    ],
+    "tesis_principal": "La corrección bursátil va más allá de los problemas puntuales de Nvidia: obedece a un drenaje de liquidez global, tipos de interés elevados y un exceso de capacidad e insostenibilidad del capex en inteligencia artificial, emulando la dispersión del mercado vista en el año 2000.",
+    "temas": [
+      "Liquidez y crédito",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Fed y tipos de interés EE. UU.",
+      "Inflación",
+      "Bolsa EE. UU.",
+      "Valoración de mercado y burbujas",
+      "Dólar y divisas",
+      "Oro y metales",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "DAX",
+      "STOXX 600",
+      "Nvidia",
+      "Nebius",
+      "CoreWeave",
+      "Alphabet",
+      "Amazon",
+      "Microsoft",
+      "Oracle",
+      "USD/JPY",
+      "EUR/USD",
+      "Oro (XAU/USD)",
+      "Petróleo WTI",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El capex excesivo está destruyendo el flujo de caja libre, la rentabilidad sobre el capital cae y hay un cuello de botella insalvable en la red eléctrica."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Los indicadores de liquidez excedente del G10 han entrado en negativo y los CDS de compañías vinculadas a la nube marcan tensiones severas de crédito."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "La rentabilidad del bono a 10 años estadounidense ronda el 5,15% y amenaza con superar el nivel crítico del 5,25%."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El IPC subyacente sin vivienda a tres meses anualizado y los precios de las empresas apuntan a un repunte persistente."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La fortaleza del dólar actúa como una bola de demolición sobre la liquidez global y el EUR/USD corre riesgo de caer hacia 1,06."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Existe una marcada debilidad interna con un tercio de las acciones cayendo más del 20%, aunque los sectores defensivos amortiguan el índice general."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El oro corrige presionado por el dólar fuerte, poniendo a prueba su soporte técnico en la zona de los 3.880 dólares."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el S&P 500 pierde su media de 200 sesiones o el futuro del Nasdaq perfora sus mínimos previos, se confirmará un tramo bajista severo hacia el escenario de Hartnett por debajo de 7.000 puntos.",
+        "activo_o_variable": "S&P 500 / Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La TIR del bono estadounidense a 10 años podría caer por debajo del 4,5% entre diciembre y enero.",
+        "activo_o_variable": "Bono EE. UU. a 10 años",
+        "direccion": "baja",
+        "horizonte": "enero 2027",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el EUR/USD pierde el soporte actual, se dirigirá a la zona de 1,06.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El Banco de Japón intervendrá para frenar la depreciación del yen si el USD/JPY se consolida por encima de 160.",
+        "activo_o_variable": "USD/JPY",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El crecimiento del beneficio por acción para 2027 en el S&P 500 caerá a un tercio del ritmo actual (del 36% previsto al 11%).",
+        "activo_o_variable": "Beneficio por acción (BPA) S&P 500",
+        "direccion": "baja",
+        "horizonte": "2027",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Goldman Sachs advierte de que subidas de dos desviaciones estándar en el rendimiento de los bonos (hacia el 5,25%) dañan seriamente la rentabilidad del S&P 500.",
+      "El 33,6% de los valores del S&P 500 acumula caídas superiores al 20%, y un 15,1% pierde más del 30%, pese a que el índice está a solo 3% de máximos.",
+      "Amazon registró un flujo de caja libre negativo de -35.000 millones de dólares y Alphabet de -9.000 millones en el 3T debido al capex en IA.",
+      "La emisión de bonos de los hiperescaladores de IA se situó en 296.000 millones de dólares en 2026, casi el triple que en 2025 y equivalente a los seis años anteriores sumados.",
+      "La tasa de inflación subyacente estadounidense sin vivienda a 3 meses anualizada vuelve a repuntar con fuerza.",
+      "El desplome de 4,9 sigmas vivido por el Nasdaq en una sola jornada solo debería ocurrir teóricamente una vez cada 8.300 años según la campana de Gauss, demostrando que los modelos normales infravaloran el riesgo extremo de colas gruesas."
+    ],
+    "riesgos_mencionados": [
+      "Drenaje y contracción de la liquidez global del G10.",
+      "Rentabilidad del bono de EE. UU. a 10 años superando el 5,25%.",
+      "Colapso financiero en compañías 'neocloud' por endeudamiento y dependencia del crédito de Nvidia.",
+      "Cuello de botella insalvable por falta de capacidad en la red eléctrica para centros de datos en EE. UU.",
+      "Endurecimiento de políticas regulatorias y moratorias a centros de datos por parte de gobernadores demócratas.",
+      "Errores de política monetaria con bancos centrales subiendo o manteniendo tipos altos en plena desaceleración.",
+      "Fallo de los modelos de riesgo gaussianos ante movimientos extremos de mercado cada vez más frecuentes."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

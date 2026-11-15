@@ -1,0 +1,135 @@
+{
+  "video_id": "xiZ1nQkpo3o",
+  "url": "https://www.youtube.com/watch?v=xiZ1nQkpo3o",
+  "titulo": "Nvidia se desploma por otro lio amoroso de Huang - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-12T08:19:28+00:00",
+  "fecha_resumen": "2026-11-15T16:34:11.208700+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión se ve condicionada por el desplome de Nvidia superior al 8% en el mercado fuera de hora tras nuevas polémicas personales sobre su consejero delegado publicadas por The Wall Street Journal, lo que lastra a los futuros estadounidenses. A pesar del fuerte rebote anterior impulsado por el cierre de coberturas, compras minoristas y el reflujo hacia la tecnología, persiste la incertidumbre sobre la continuidad de la tendencia alcista. A nivel cuantitativo, Charlie McElligott señala un aumento del suelo estructural de la volatilidad con mayor amplitud en las oscilaciones diarias, aunque descarta un estallido descontrolado del VIX por la falta de inversores forzados a cubrirse.",
+    "ideas_clave": [
+      "Nvidia cae más del 8,6% en el mercado nocturno por rumores de dimisión o cese de Jensen Huang tras destaparse un nuevo escándalo personal con una alta ejecutiva, arrastrando a los futuros del Nasdaq.",
+      "Bernstein rebaja la recomendación de Nvidia de sobreponderar a neutral y reduce su precio objetivo drásticamente de 400 a 200 dólares.",
+      "Goldman Sachs justificó la subida previa de Wall Street por la relajación del VIX a 17,5, la digestión de las elecciones, compras institucionales y un repunte minorista del 4,95% en sus valores favoritos.",
+      "Cárpatos discrepa técnicamente con Goldman Sachs respecto a que el Nasdaq haya superado de forma convincente la media móvil de 200 sesiones.",
+      "Charlie McElligott (Nomura) destaca que el suelo del VIX ha subido hacia 18 y el VVIX hacia 95, augurando bandazos diarios de mayor rango pero descartando un pánico extremo por la salida masiva de capital en derivados de volatilidad.",
+      "En tipos de interés, el mercado monetario descuenta un 90% de probabilidades de recorte de tipos de la Fed en diciembre, aunque con escasas opciones (25%) de que sea de 50 puntos básicos.",
+      "En divisas y materias primas, el euro roza soportes críticos en 1,1095 dólares, el oro cotiza por debajo de los 4.000 dólares y el petróleo repunta levemente entre la hostilidad de Irán en Ormuz."
+    ],
+    "tesis_principal": "El mercado experimenta un cambio de régimen hacia una volatilidad bidireccional más elevada con suelos del VIX más altos, donde la fuerte recuperación técnica reciente se enfrenta a la debilidad de megacaps como Nvidia por factores de gobierno corporativo e incertidumbre en la política monetaria.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bolsa EE. UU.",
+      "Fed y tipos de interés EE. UU.",
+      "Análisis técnico",
+      "Dólar y divisas",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "Nasdaq 100",
+      "S&P 500",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Ibex 35",
+      "VIX",
+      "VVIX",
+      "EUR/USD",
+      "USD/JPY",
+      "Bitcoin",
+      "Oro",
+      "Petróleo WTI",
+      "CoreWeave",
+      "Nebius",
+      "Telefónica"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.05,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "La fuerte caída de Nvidia por escándalos internos y rebajas de precios objetivo presiona a la baja a todo el sector occidental, pese al alza de competidores chinos."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Se debate entre el alivio tras las elecciones con posiciones institucionales limpias y la falta de consenso sobre si la recuperación es un rebote puntual o el inicio de otro tramo alcista."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El mercado asume casi por completo una rebaja en diciembre pero con dudas sobre la magnitud debido a datos de inflación todavía elevados."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.05,
+        "justificacion": "El S&P 500 rebotó con precisión en la media de 200 y cuenta con soportes sólidos en 7.500 y 7.400, pero el Nasdaq aún no confirma la ruptura alcista de su media."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "El euro muestra una clara debilidad técnica acercándose a soportes relevantes en 1,1095 con riesgo de caer a 1,06 si los pierde."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Se registrarán rangos diarios de precios más anchos y movimientos bidireccionales amplios en la bolsa.",
+        "activo_o_variable": "Volatilidad / S&P 500",
+        "direccion": "lateral",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el euro pierde el soporte técnico de 1,1095, podría caer hasta el nivel de 1,06 dólares.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el S&P 500 continúa subiendo, tiene camino relativamente despejado hasta la zona de 7.800 puntos por la falta de resistencias fuertes.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Nvidia registra caídas del 8,6% en el mercado nocturno arrastrando al Nasdaq un 1,04% a la baja.",
+      "Bernstein recorta el precio objetivo de Nvidia de 400 a 200 dólares y degrada su recomendación a neutral.",
+      "El índice VIX retrocedió a 17,5 tras caer cerca del 10% y la estructura temporal de futuros volvió a cotizar en contango.",
+      "La cesta de valores favoritos de los minoristas de Goldman Sachs repuntó un 4,95%, su tercer mejor registro diario en tres años.",
+      "Charlie McElligott sitúa el nuevo suelo del VIX en 18 (frente al rango anterior de 15-16) y del VVIX en 95.",
+      "Los productos cotizados sobre el VIX sufrieron salidas netas masivas de capital (-20,2 millones de vega en la semana), eliminando combustible para un repunte forzado de la volatilidad.",
+      "El mercado de derivados monetarios asigna un 90% de probabilidades a un recorte de tipos por parte de la Fed en diciembre.",
+      "El índice de precios a la producción de Japón se situó en el 7,1% frente al 6,5% previsto.",
+      "CoreWeave solicita 4.000 millones de dólares en financiación tras haber sugerido previamente que se financiaría mediante anticipos de clientes."
+    ],
+    "riesgos_mencionados": [
+      "Posible dimisión o destitución del CEO de Nvidia y daño reputacional/operativo a la compañía.",
+      "Ruptura a la baja de la media de 200 en el Nasdaq si las caídas perforan los mínimos recientes.",
+      "Persistencia de tensiones geopolíticas y bloqueo del estrecho de Ormuz por parte de Irán.",
+      "Presiones inflacionistas persistentes evidenciadas en datos como el IPP de Japón.",
+      "Pérdida del soporte técnico clave del EUR/USD en 1,1095."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

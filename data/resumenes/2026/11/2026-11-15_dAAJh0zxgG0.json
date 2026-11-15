@@ -1,0 +1,120 @@
+{
+  "video_id": "dAAJh0zxgG0",
+  "url": "https://www.youtube.com/watch?v=dAAJh0zxgG0",
+  "titulo": "La inflación no va a bajar hasta dentro de bastante tiempo - Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-15T09:15:46+00:00",
+  "fecha_resumen": "2026-11-15T16:27:37.349855+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos rebate la idea política de que la inflación caerá rápidamente gracias a la bajada del crudo, explicando que los cuellos de botella en las refinerías y el desfase temporal de los costes industriales mantendrán los precios altos durante meses. Apoyándose en un estudio de Allianz, señala que el IPC general y el subyacente aún no han tocado techo, lo que impedirá a la Reserva Federal bajar tipos. Asimismo, repasa la debilidad de los activos y criptomonedas durante el fin de semana y analiza un gráfico de Morgan Stanley que revela que la extrema desinversión de los hedge funds suele funcionar como un potente indicador alcista contrario a 12 meses para el S&P 500.",
+    "ideas_clave": [
+      "La caída del crudo no se traslada de inmediato al consumidor porque se consumen refinados: el gasóleo sigue un 70% arriba en surtidor y hay 3,5 millones de barriles diarios de refino paralizados en Rusia y Oriente Medio.",
+      "El encarecimiento industrial (+6,3%) y de insumos alimentarios tarda entre 4 y 6 meses en trasladarse completamente a las tiendas y al dato final de IPC.",
+      "China añade presión inflacionaria al elevar un 15% los precios de exportación (un 27,6% en tecnología) sumado a la apreciación del yuan del 4,6% frente al dólar.",
+      "En el mejor de los escenarios, la inflación en EE. UU. no tocaría techo hasta comienzos de año (alrededor del 4,3% general y 3,7% subyacente) y no empezará a descender antes de abril o mayo.",
+      "Durante el fin de semana se observa debilidad en plataformas como Hyperliquid, con caídas en valores tecnológicos (Nvidia -1,2%, CoreWeave -2,4%) y en Bitcoin.",
+      "Históricamente, cuando los hedge funds reducen su exposición al decil 1 (mínimo apalancamiento, como ocurrió la semana previa), el S&P 500 ha subido una media del 20,7% en los siguientes 12 meses."
+    ],
+    "tesis_principal": "La inflación no bajará a corto plazo por el retraso en el traspaso de costes de refinación, industria y alimentos, obligando a la Fed a mantener o subir tipos; no obstante, el repliegue histórico de los hedge funds supone un indicador contrarian muy favorable para la bolsa a doce meses.",
+    "temas": [
+      "Inflación",
+      "Fed y tipos de interés EE. UU.",
+      "Bolsa EE. UU.",
+      "Energía y petróleo",
+      "China",
+      "Criptomonedas"
+    ],
+    "activos_mencionados": [
+      "Petróleo Brent",
+      "Gasóleo",
+      "S&P 500",
+      "Nasdaq",
+      "Bitcoin",
+      "Nvidia",
+      "CoreWeave",
+      "Iren",
+      "Yuan",
+      "Dólar"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inflación",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Advierte de que matemáticamente es imposible que baje a corto plazo y aún tiene que marcar nuevos máximos."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Considera que los bancos centrales tendrán que seguir subiendo tipos debido a la persistencia inflacionaria."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "La capitulación y retirada masiva de los hedge funds al decil 1 anticipa estadísticamente fuertes subidas a 12 meses."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Aunque el crudo ha bajado un 20%, los márgenes de refino e interrupciones de suministro mantienen tensionados los combustibles."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Muestra que Bitcoin continúa con caídas relevantes y tónica floja durante el fin de semana."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La inflación en EE. UU. no va a bajar antes de abril o mayo, alcanzando techos estimados del 4,3% en general y 3,7% en subyacente.",
+        "activo_o_variable": "IPC de Estados Unidos",
+        "direccion": "sube",
+        "horizonte": "abril o mayo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los bancos centrales no van a parar de subir tipos mientras la inflación continúe tensionada.",
+        "activo_o_variable": "Tipos de interés de la Fed",
+        "direccion": "sube",
+        "horizonte": "próximos meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El S&P 500 apunta a una rentabilidad media cercana al 20,7% a 12 meses tras situarse el posicionamiento de los hedge funds en el decil 1.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "12 meses",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El crudo ha caído cerca de un 20% desde máximos rondando los 90 dólares, pero el gasóleo en surtidor sube un 70%.",
+      "Existen 3,5 millones de barriles diarios de capacidad de refino fuera de servicio por ataques en Rusia y conflictos en Oriente Medio.",
+      "Los precios de producción industrial han subido un 6,3% y tardan de 4 a 6 meses en transmitirse a los precios finales de la cesta del IPC.",
+      "China ha incrementado sus precios de exportación un 15% (27,6% en componentes tecnológicos) y el yuan se ha apreciado un 4,6% frente al dólar.",
+      "El informe de Morgan Stanley muestra una retirada acumulada del 9% en la exposición bruta de hedge funds desde 2016, la mayor de toda la serie histórica."
+    ],
+    "riesgos_mencionados": [
+      "Que no se alcance un acuerdo geopolítico con Irán o que el petróleo vuelva a dispararse, empeorando el escenario de inflación.",
+      "Riesgo de que la persistencia en las presiones inflacionistas fuerce subidas de tipos más agresivas por parte de la Fed.",
+      "Deterioro continuo de la liquidez o caídas adicionales en fin de semana en activos de riesgo y criptomonedas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

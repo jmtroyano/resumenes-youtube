@@ -567,40 +567,13 @@
   "uOr1YtWJunU": "2026-11-14T01:52:43.520277+00:00",
   "Hm5xv0zIF78": "2026-11-14T22:36:37.602391+00:00",
   "G7eedh_3Uuc": "2026-11-14T22:44:25.157616+00:00",
-  "KbuLwVkVVnc": "2026-11-14T22:52:35.280226+00:00"
+  "KbuLwVkVVnc": "2026-11-14T22:52:35.280226+00:00",
+  "dAAJh0zxgG0": "2026-11-15T16:27:46.892170+00:00",
+  "wk_vanyPLkg": "2026-11-15T16:29:21.721054+00:00",
+  "xiZ1nQkpo3o": "2026-11-15T16:34:12.656571+00:00",
+  "2wr1erQ-eNE": "2026-11-15T16:35:46.067366+00:00"
  },
- "cola": [
-  {
-   "video_id": "2wr1erQ-eNE",
-   "titulo": "Coreweave devuelve optimismo a la IA - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=2wr1erQ-eNE",
-   "publicado": "2026-11-11T08:20:45+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-11T17:13:22.543719+00:00"
-  },
-  {
-   "video_id": "xiZ1nQkpo3o",
-   "titulo": "Nvidia se desploma por otro lio amoroso de Huang - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=xiZ1nQkpo3o",
-   "publicado": "2026-11-12T08:19:28+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-12T11:24:12.977716+00:00"
-  },
-  {
-   "video_id": "wk_vanyPLkg",
-   "titulo": "IA ¿estamos en 2000 otra vez sin darnos cuenta? - Las 4 claves de la semana Cárpatos",
-   "url": "https://www.youtube.com/watch?v=wk_vanyPLkg",
-   "publicado": "2026-11-14T12:25:45+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-14T18:11:49.967050+00:00"
-  }
- ],
+ "cola": [],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",

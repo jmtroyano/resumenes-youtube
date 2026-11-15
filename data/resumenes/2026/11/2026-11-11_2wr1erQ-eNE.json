@@ -1,0 +1,142 @@
+{
+  "video_id": "2wr1erQ-eNE",
+  "url": "https://www.youtube.com/watch?v=2wr1erQ-eNE",
+  "titulo": "Coreweave devuelve optimismo a la IA - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-11T08:20:45+00:00",
+  "fecha_resumen": "2026-11-15T16:35:42.156711+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los futuros de Wall Street rebotan impulsados por los sólidos resultados de CoreWeave y datos positivos en el sector de chips asiático, devolviendo el optimismo a la inteligencia artificial tras una jornada previa de caídas. No obstante, persiste la cautela ante la dureza mostrada por miembros de la Reserva Federal tras un dato de IPC peor de lo esperado, que tensó las rentabilidades de los bonos. Asimismo, se destacan serios cuellos de botella estructurales para el sector tecnológico, como la falta de capacidad eléctrica para abastecer los centros de datos hasta 2030 y el elevado endeudamiento de empresas vinculadas a la IA. Técnicamente, el S&P 500 continúa en un rango lateral por encima de su media de 200 sesiones, enfrentando una fuerte resistencia en los 7.500-7.600 puntos.",
+    "ideas_clave": [
+      "CoreWeave impulsa el sector tecnológico y de IA al batir previsiones y elevar guías futuras, subiendo más del 16% fuera de hora.",
+      "El sector de semiconductores (SMH) sube un 3% y el de memorias un 5,81%, apoyados por ventas de TSMC que sextuplican las del año anterior y fuertes exportaciones de chips en Corea del Sur.",
+      "Discurso agresivo de miembros de la Fed (Waller, Bowman, Goolsbee): se descartan recortes rápidos y no se descartan subidas adicionales de tipos si la inflación repunta, llevando al bono a 2 años a su mayor subida de rentabilidad reciente.",
+      "UBS plantea varios escenarios para el S&P 500 a 2027: escenario base en 8.900 (+20,6%), optimista con petróleo a 60 dólares en 9.550 (+29,4%) y pesimista por decepción de la IA y recesión en 6.450 (-12,6%).",
+      "Restricción eléctrica crítica: un informe de UBS alerta de que para 2030 los chips demandarán 117 GW mientras que la red eléctrica solo suministrará 55 GW, dejando en el aire 1 billón de dólares en ingresos potenciales.",
+      "Fragilidad financiera en la IA: pese al entusiasmo, CoreWeave ganó 207 millones de dólares pero pagó 846 millones en intereses de deuda, recurriendo a pedir anticipos a clientes para financiarse.",
+      "Posicionamiento extremo en divisas: las posiciones cortas sobre el euro frente al dólar (EUR/USD) alcanzan máximos desde 2020 según MUFG, lo que abre la puerta a un fuerte rebote técnico si saltan cierres de cortos."
+    ],
+    "tesis_principal": "Aunque los resultados de CoreWeave y el dinamismo de semiconductores reactivan temporalmente la euforia alcista en torno a la IA, el mercado se enfrenta a importantes vientos en contra derivados de la dureza de la Fed, valoraciones exigentes y límites físicos de infraestructura eléctrica.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Bolsa EE. UU.",
+      "Resultados empresariales",
+      "Dólar y divisas",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Nikkei",
+      "CoreWeave",
+      "TSMC",
+      "Anthropic",
+      "ETF SMH",
+      "ETF RAM",
+      "EUR/USD",
+      "USD/JPY",
+      "Bono EE. UU. a 10 años",
+      "Bono EE. UU. a 2 años",
+      "Bund alemán",
+      "Petróleo Crudo",
+      "Oro",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Se celebra el tirón a corto plazo por resultados de CoreWeave, pero se advierte del elevado coste de la deuda y de los límites energéticos hasta 2030."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Fuerte dinamismo avalado por el crecimiento de ventas de TSMC y las cifras de exportación de chips en Corea del Sur."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Múltiples portavoces de la Reserva Federal reiteran un tono duro ante la persistencia de la inflación, alejando las bajadas de tipos."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Fuertes subidas en los rendimientos de la deuda estadounidense y tensión renovada tras el dato de IPC."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Rebote intradía apoyado por tecnológicas pero atrapado en una estructura técnica lateral y con riesgos macroeconómicos pendientes."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El euro sigue presionado a la baja contra el dólar, pero el récord de posiciones cortas desde 2020 eleva la probabilidad de un 'short squeeze'."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "UBS prevé en su escenario base que el S&P 500 alcanzará los 8.900 puntos en 2027 (+20,6%), pudiendo llegar a 9.550 si el petróleo baja a 60 dólares o caer a 6.450 si la IA decepciona.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "2027",
+        "conviccion_del_autor": "baja"
+      },
+      {
+        "afirmacion": "Si el S&P 500 consolida por encima de la resistencia clave de los 7.500 puntos, tiene vía libre al alza hasta los 7.600 y niveles superiores.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La acumulación histórica de posiciones cortas en el EUR/USD provocará fuertes rebotes técnicos al mínimo catalizador favorable al euro.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "CoreWeave ganó 207 millones de dólares pero tuvo que afrontar 846 millones en intereses de su deuda.",
+      "Las ventas de TSMC sextuplican las del mismo periodo del año pasado.",
+      "El bono americano a 2 años experimentó su mayor repunte de rentabilidad en una sola sesión desde el 9 de abril de 2025.",
+      "Según UBS, para 2030 los chips demandarán 117 GW frente a una capacidad de suministro de la red eléctrica de solo 55 GW, arriesgando 1 billón de dólares en ingresos anuales teóricos.",
+      "El 30% de la nueva capacidad de centros de datos en EE. UU. prevista para 2028 se encuentra en riesgo por trabas políticas a nivel estatal.",
+      "El 12% de los proyectos mundiales de centros de datos depende de financiación externa en empresas de 'neocloud'."
+    ],
+    "riesgos_mencionados": [
+      "Cuello de botella de la red eléctrica que impida la puesta en marcha de centros de datos para IA.",
+      "Tensiones inflacionarias derivadas del coste del petróleo que fuercen a la Fed a mantener o subir tipos de interés.",
+      "Elevado coste del servicio de la deuda en empresas que lideran la inversión en inteligencia artificial.",
+      "Riesgo de corrección por valoraciones bursátiles excesivas señalado por miembros de la Reserva Federal.",
+      "Pérdida del soporte técnico de la media de 200 sesiones en el S&P 500 (zona de 7.300 puntos)."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}
