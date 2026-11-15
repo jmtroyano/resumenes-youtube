@@ -1,0 +1,147 @@
+{
+  "video_id": "nLsafed36M8",
+  "url": "https://www.youtube.com/watch?v=nLsafed36M8",
+  "titulo": "💥AVISO IMPORTANTE: Lo IMPENSABLE está a PUNTO de SUCEDER en BOLSA según Tom Lee",
+  "canal": "El Arte de Invertir (Alejandro Estebaranz)",
+  "handle": "@Artedeinvertir",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "value investing",
+  "fecha_publicacion": "2026-11-15T17:15:23+00:00",
+  "fecha_resumen": "2026-11-15T22:59:44.766102+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Alejandro Estebaranz analiza la tesis marcadamente alcista del inversor Tom Lee (Fundstrat), quien proyecta que el S&P 500 alcanzará los 15.000 puntos para 2030 impulsado por la demografía y la inteligencia artificial. A pesar del pesimismo reinante y las advertencias de inversores como Paul Tudor Jones sobre riesgos fiscales para 2027, el ponente argumenta que las correcciones son habituales y presentan oportunidades de compra a largo plazo. Finalmente, examina las principales apuestas de la cartera de Lee (Fundstrat Granny Shots), entre las que destacan Freeport-McMoRan, Bank of New York Mellon, ServiceNow, AMD y MicroStrategy.",
+    "ideas_clave": [
+      "Frente al pesimismo de gestores como Paul Tudor Jones (que prevé un 2027 complejo por déficit descontrolado), Tom Lee prevé que el S&P 500 llegará a 15.000 puntos para 2030, con retornos anualizados superiores al 20%.",
+      "Los dos motores estructurales según Tom Lee son la demografía (traspaso de riqueza de Baby Boomers hacia Millennials/Gen X en edad de máximo consumo e inversión) y el impacto productivo y deflacionario de la IA.",
+      "Históricamente, las revoluciones tecnológicas (ferrocarril, automoción, semiconductores, internet) desencadenan ciclos alcistas de entre 15 y 20 años antes de formar una burbuja terminal; el ciclo actual de la IA apenas lleva unos 3-4 años.",
+      "El cobre cuenta con un viento de cola estructural de oferta deficitaria y fuerte demanda (electrificación, centros de datos, defensa), donde mineras como Freeport-McMoRan cuentan con costes muy competitivos y reservas para casi 30 años.",
+      "Bank of New York Mellon destaca por un modelo de negocio de custodia y comisiones (71,8% de ingresos) con un ROTCE del 26%, beneficiándose del crecimiento patrimonial sin el riesgo de crédito tradicional.",
+      "ServiceNow y AMD se presentan como beneficiarias del auge tecnológico y de la IA que han sufrido correcciones de múltiplo atractivas respecto a sus perspectivas de crecimiento de beneficios por acción (EPS)."
+    ],
+    "tesis_principal": "A pesar de las advertencias a corto o medio plazo sobre posibles crisis o recesiones hacia 2027, el mercado bursátil estadounidense se encuentra en las etapas iniciales de un megaciclo alcista hasta 2030 liderado por la transferencia demográfica de riqueza y la revolución productiva de la inteligencia artificial.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Oro y metales",
+      "Materias primas",
+      "Bancos",
+      "Semiconductores",
+      "Criptomonedas",
+      "Deuda pública y déficit"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Cobre",
+      "Oro",
+      "Bitcoin",
+      "Ethereum",
+      "Freeport-McMoRan (FCX)",
+      "Southern Copper (SCCO)",
+      "Bank of New York Mellon (BK / BNY)",
+      "ServiceNow (NOW)",
+      "AMD (Advanced Micro Devices)",
+      "Nvidia",
+      "MicroStrategy (MSTR)",
+      "SpaceX",
+      "Microsoft",
+      "Apple",
+      "Vistra Corp",
+      "Philip Morris"
+    ],
+    "sentimiento_general": "muy alcista",
+    "puntuacion_sentimiento": 0.85,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.9,
+        "justificacion": "Se proyecta que el S&P 500 alcance los 15.000 puntos para 2030, respaldado por la demografía y las ganancias empresariales impulsadas por la IA."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "Las revoluciones tecnológicas generan ciclos alcistas de 15 a 20 años y la IA apenas está en su fase inicial de adopción corporativa."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "El cobre afronta un déficit estructural frente a una demanda disparada por electrificación, centros de datos y defensa, con plazos de apertura de minas de más de 12 años."
+      },
+      {
+        "tema": "Bancos",
+        "sentimiento": "alcista",
+        "puntuacion": 0.65,
+        "justificacion": "Entidades custodias como BNY Mellon muestran alta rentabilidad (ROTCE superior al 25%) y estabilidad al depender de comisiones y no de margen de intermediación tradicional."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "AMD proyecta crecimientos superiores al 35% en ingresos impulsados por la demanda de hardware para IA y centros de datos."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Se mencionan las advertencias de Paul Tudor Jones sobre el gasto descontrolado del gobierno de EE. UU. y el riesgo que supone para el mercado de bonos en 2027."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El S&P 500 alcanzará los 15.000 puntos para finales de la década (hacia 2030), generando retornos anuales de aproximadamente el 20%.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "2030",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La demanda de cobre superará con creces a la oferta durante las próximas décadas, generando una racha alcista de varias décadas.",
+        "activo_o_variable": "Cobre",
+        "direccion": "sube",
+        "horizonte": "más de 5 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "AMD proyecta acelerar su crecimiento de ingresos por encima del 35% anual en los próximos 3-5 años y alcanzar un EPS de 20 dólares para 2030.",
+        "activo_o_variable": "AMD (Advanced Micro Devices)",
+        "direccion": "sube",
+        "horizonte": "2030",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Tom Lee prevé que Bitcoin superará los 150.000 dólares en los próximos años.",
+        "activo_o_variable": "Bitcoin",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Paul Tudor Jones afirma que 2027 podría ser muy negativo por el problema de déficit en EE. UU., comparándolo con 2008.",
+      "Estadísticamente en el S&P 500 ocurren correcciones del 10% cada 1,6 años, del 20% cada 4 años y del 30% cada 9 años; la duración media de un mercado bajista es de 1 año frente a 5,3 años de un mercado alcista.",
+      "Los Baby Boomers acumulan 76 billones de dólares en EE. UU., riqueza que se traspasará a los Millennials y Generación X, quienes están alcanzando su pico de ingresos (35-55 años) y tienen mayor propensión al consumo y a la inversión en bolsa.",
+      "Freeport-McMoRan produce cobre con costes netos de extracción de 2,50 a 2,90 dólares por libra y tiene reservas para casi 29 años, beneficiándose de una sensibilidad donde cada 10 centavos adicionales en el precio del cobre suman 415 millones de dólares a su EBITDA.",
+      "Poner en marcha una mina de cobre desde cero tarda una media de 12 años debido a las exigencias regulatorias y medioambientales.",
+      "BNY Mellon genera el 71,8% de sus ingresos mediante comisiones por custodia y servicios, con un ROTCE del 26% y márgenes antes de impuestos que aspiran al 38%."
+    ],
+    "riesgos_mencionados": [
+      "Problemas de déficit fiscal y deuda en Estados Unidos que podrían estresar el mercado de bonos hacia 2027.",
+      "Volatilidad habitual del mercado con correcciones periódicas del 10% al 30%.",
+      "Riesgos de sobrevaloración temporal o euforia de mercado similar a picos de salidas a bolsa (IPOs).",
+      "Alta volatilidad intrínseca en el sector de las criptomonedas y empresas vinculadas como MicroStrategy."
+    ],
+    "participantes": [
+      "Alejandro Estebaranz",
+      "Tom Lee (citado)",
+      "Paul Tudor Jones (citado)",
+      "Stanley Druckenmiller (citado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

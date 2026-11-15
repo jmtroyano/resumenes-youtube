@@ -1,0 +1,88 @@
+{
+  "video_id": "pyIolcyMnpg",
+  "url": "https://www.youtube.com/watch?v=pyIolcyMnpg",
+  "titulo": "Cuándo Comprar y Vender ORO: Gustavo Martínez Revela su ESTRATEGIA",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-15T19:00:21+00:00",
+  "fecha_resumen": "2026-11-15T22:55:50.236420+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Gustavo Martínez y Luis Miguel Ortiz analizan el papel del oro no como un instrumento especulativo para enriquecerse rápido, sino como un mecanismo de protección patrimonial frente a la devaluación monetaria y la inflación. Explican cómo el oro ha rendido cerca del 9% nominal anual desde 1971 y un 11% anual desde el año 2000, superando ampliamente a la vivienda en términos de poder adquisitivo real. Asimismo, detallan su estrategia para rotar entre oro y renta variable estadounidense en función de los precios relativos y los momentos de estrés de mercado.",
+    "ideas_clave": [
+      "El oro no debe verse como un activo especulativo de corto plazo, sino como una reserva de valor que preserva el ahorro frente al envilecimiento de la moneda fiat.",
+      "Desde el fin de Bretton Woods en 1971, el oro ha tenido una revalorización nominal anualizada cercana al 9% (alrededor del 6% real), a la par de la revalorización de capital del S&P 500.",
+      "Desde el año 2000, el oro pasó de 270-300 dólares a cerca de 4.000 dólares la onza (con correcciones puntuales), rentando un 11% anual compuesto.",
+      "Comparado con activos como la vivienda (ejemplificado en Madrid), los inmuebles se han encarecido en euros (de 1.000€/m² a 4.000-5.000€/m²), pero en términos de oro comprar una vivienda hoy requiere hasta tres veces menos onzas que en el año 2000.",
+      "Es posible generar rendimientos adicionales sobre el oro físico (entorno al 2% - 2,5% anual) mediante alquiler, pignoración o colateralización.",
+      "Gustavo Martínez señala que el momento de reducir exposición al oro es cuando la renta variable se encuentra en mínimos históricos o valoraciones extremas de oportunidad (como el S&P 500 en 670 puntos en 2009), rotando hacia la bolsa."
+    ],
+    "tesis_principal": "El oro es la mejor protección a largo plazo frente a la sistemática devaluación monetaria estatal, habiendo superado a la vivienda en términos reales y ofreciendo una excelente herramienta para preservar poder adquisitivo y rotar hacia renta variable cuando esta última se vuelva extraordinariamente barata.",
+    "temas": [
+      "Oro y metales",
+      "Bolsa EE. UU.",
+      "Inmobiliario y vivienda",
+      "Inflación",
+      "Dólar y divisas"
+    ],
+    "activos_mencionados": [
+      "Oro",
+      "S&P 500",
+      "IBEX 35",
+      "Bitcoin",
+      "Plata"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Consideran que el oro sigue siendo un activo imprescindible y rentable para protegerse contra la continua emisión y pérdida de valor de la moneda fiat."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Observan al S&P 500 en zonas de máximos, lo cual no ofrece un coste de oportunidad atractivo para vender oro en este momento."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Argumentan que la subida del precio de la vivienda es una ilusión nominal frente a monedas fiat, ya que en términos reales frente al oro o índices bursátiles pierde valor."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Sostienen que las monedas fiduciarias sufren una pérdida constante de poder adquisitivo por culpa de la inflación y las políticas monetarias."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Desde 1971, cuando el oro cotizaba a 35 dólares tras el fin del patrón Bretton Woods, ha subido a un ritmo de aproximadamente 9% nominal anual y 6% real descontando la inflación.",
+      "El S&P 500 con reinversión de dividendos (total return) ha promediado un 11% anual desde 1971.",
+      "Desde el año 2000, el oro subió de 270-300 dólares a cotas cercanas a los 4.000 dólares por onza, alcanzando una tasa compuesta anualizada de alrededor del 11%.",
+      "El metro cuadrado en Madrid pasó de aproximadamente 1.000 euros en el año 2000 a entre 4.000 y 5.000 euros en la actualidad (multiplicándose por 4 o 5), mientras que el oro multiplicó su valor por más de 12 o 13 veces en el mismo período.",
+      "Pignorar o alquilar el oro en casas especializadas puede reportar entre un 2% y un 2,5% de rentabilidad anual adicional sobre la revalorización propia del metal.",
+      "En el mínimo de la crisis financiera de 2009, el S&P 500 cayó hasta los 670 puntos mientras el oro alcanzaba máximos relativos, configurando una gran oportunidad de arbitraje de precio relativo."
+    ],
+    "riesgos_mencionados": [
+      "Períodos prolongados de lateralidad o caídas intermedias en el oro (ejemplificados entre 1980 tras la subida de tipos de Paul Volcker al 20%, o la travesía en el desierto entre 2012 y 2018).",
+      "Coste de oportunidad de mantener oro cuando la renta variable se encuentra extraordinariamente barata.",
+      "Riesgo de comprar en el pico absoluto de un ciclo alcista de materias primas."
+    ],
+    "participantes": [
+      "Gustavo Martínez",
+      "Luis Miguel Ortiz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
