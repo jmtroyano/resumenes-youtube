@@ -1,0 +1,262 @@
+{
+  "videos": 24,
+  "media_global": 0.043750000000000004,
+  "temas": [
+    {
+      "tema": "Bolsa EE. UU.",
+      "menciones": 15,
+      "media": -0.003333333333333332,
+      "min": -0.6,
+      "max": 0.7,
+      "canales": [
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Tecnología e inteligencia artificial",
+      "menciones": 12,
+      "media": -0.35,
+      "min": -0.85,
+      "max": 0.1,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Semiconductores",
+      "menciones": 12,
+      "media": -0.25,
+      "min": -0.8,
+      "max": 0.6,
+      "canales": [
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos",
+        "Los Locos de Wall Street"
+      ]
+    },
+    {
+      "tema": "Análisis técnico",
+      "menciones": 10,
+      "media": 0.03000000000000001,
+      "min": -0.7,
+      "max": 0.8,
+      "canales": [
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Energía y petróleo",
+      "menciones": 9,
+      "media": -0.04999999999999999,
+      "min": -0.6,
+      "max": 0.45,
+      "canales": [
+        "José Luis Cárpatos",
+        "Los Locos de Wall Street"
+      ]
+    },
+    {
+      "tema": "Fed y tipos de interés EE. UU.",
+      "menciones": 7,
+      "media": -0.4142857142857143,
+      "min": -0.8,
+      "max": 0.0,
+      "canales": [
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Inflación",
+      "menciones": 7,
+      "media": -0.40714285714285714,
+      "min": -0.85,
+      "max": 0.4,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Dólar y divisas",
+      "menciones": 6,
+      "media": 0.13333333333333333,
+      "min": -0.5,
+      "max": 0.6,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Bonos y renta fija",
+      "menciones": 6,
+      "media": -0.43333333333333335,
+      "min": -0.9,
+      "max": 0.4,
+      "canales": [
+        "José Luis Cárpatos",
+        "Los Locos de Wall Street"
+      ]
+    },
+    {
+      "tema": "Oro y metales",
+      "menciones": 6,
+      "media": 0.3833333333333333,
+      "min": -0.3,
+      "max": 0.95,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cárpatos",
+        "Los Locos de Wall Street"
+      ]
+    },
+    {
+      "tema": "Criptomonedas",
+      "menciones": 5,
+      "media": -0.14,
+      "min": -0.5,
+      "max": 0.1,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cárpatos",
+        "Los Locos de Wall Street"
+      ]
+    },
+    {
+      "tema": "Geopolítica",
+      "menciones": 4,
+      "media": -0.4,
+      "min": -0.6,
+      "max": 0.0,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Bolsa Europa",
+      "menciones": 3,
+      "media": 0.6666666666666666,
+      "min": 0.6,
+      "max": 0.8,
+      "canales": [
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "China",
+      "menciones": 3,
+      "media": 0.33333333333333337,
+      "min": 0.0,
+      "max": 0.9,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Liquidez y crédito",
+      "menciones": 3,
+      "media": -0.5,
+      "min": -0.8,
+      "max": -0.1,
+      "canales": [
+        "Inversión Racional",
+        "José Luis Cava (Bolsacava)",
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Inmobiliario y vivienda",
+      "menciones": 2,
+      "media": 0.22499999999999998,
+      "min": -0.4,
+      "max": 0.85,
+      "canales": [
+        "Inversión Racional"
+      ]
+    },
+    {
+      "tema": "Política fiscal e impuestos",
+      "menciones": 2,
+      "media": 0.0,
+      "min": -0.8,
+      "max": 0.8,
+      "canales": [
+        "Inversión Racional"
+      ]
+    },
+    {
+      "tema": "Valoración de mercado y burbujas",
+      "menciones": 2,
+      "media": 0.5,
+      "min": 0.5,
+      "max": 0.5,
+      "canales": [
+        "José Luis Cava (Bolsacava)",
+        "Los Locos de Wall Street"
+      ]
+    },
+    {
+      "tema": "Bancos",
+      "menciones": 1,
+      "media": 0.8,
+      "min": 0.8,
+      "max": 0.8,
+      "canales": [
+        "José Luis Cárpatos"
+      ]
+    },
+    {
+      "tema": "Mercados emergentes",
+      "menciones": 1,
+      "media": 0.75,
+      "min": 0.75,
+      "max": 0.75,
+      "canales": [
+        "Inversión Racional"
+      ]
+    },
+    {
+      "tema": "Deuda pública y déficit",
+      "menciones": 1,
+      "media": -0.9,
+      "min": -0.9,
+      "max": -0.9,
+      "canales": [
+        "Inversión Racional"
+      ]
+    }
+  ],
+  "canales": [
+    [
+      "José Luis Cava (Bolsacava)",
+      -0.33749999999999997,
+      4
+    ],
+    [
+      "José Luis Cárpatos",
+      -0.03666666666666666,
+      15
+    ],
+    [
+      "Los Locos de Wall Street",
+      0.05,
+      1
+    ],
+    [
+      "Inversión Racional",
+      0.725,
+      4
+    ]
+  ],
+  "regiones": {
+    "España": 0.043750000000000004
+  }
+}
