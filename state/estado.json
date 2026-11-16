@@ -575,7 +575,58 @@
   "pyIolcyMnpg": "2026-11-15T22:55:51.771006+00:00",
   "nLsafed36M8": "2026-11-15T22:59:47.847126+00:00"
  },
- "cola": [],
+ "cola": [
+  {
+   "video_id": "lENo5eyz7pI",
+   "titulo": "Las GRANDES OPORTUNIDADES de INVERSIÓN para este 2026 y Principios del 2027 | Víctor Alvargonzález",
+   "url": "https://www.youtube.com/watch?v=lENo5eyz7pI",
+   "publicado": "2026-11-16T13:00:18+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
+  },
+  {
+   "video_id": "JQeqdyOeiIg",
+   "titulo": "Trump ve bien que Huang vuelva a Nvidia -  Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=JQeqdyOeiIg",
+   "publicado": "2026-11-16T16:09:38+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
+  },
+  {
+   "video_id": "vct-t3HA9Oc",
+   "titulo": "Oro machaca al euro - Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=vct-t3HA9Oc",
+   "publicado": "2026-11-16T12:47:17+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
+  },
+  {
+   "video_id": "jWSBR7rHowo",
+   "titulo": "Carnicería tecnológica en Asia - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=jWSBR7rHowo",
+   "publicado": "2026-11-16T08:12:45+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
+  },
+  {
+   "video_id": "jTaHPoLgoDI",
+   "titulo": "NVDA: Tienen preparada otra trampa. Esto no ha acabado. José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=jTaHPoLgoDI",
+   "publicado": "2026-11-16T13:59:14+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
+  }
+ ],
  "fallidos": {
   "xpoXCWwW9pU": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "t_T9d8FHvng": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
