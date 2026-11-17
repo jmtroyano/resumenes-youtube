@@ -1,0 +1,131 @@
+{
+  "video_id": "JQeqdyOeiIg",
+  "url": "https://www.youtube.com/watch?v=JQeqdyOeiIg",
+  "titulo": "Trump ve bien que Huang vuelva a Nvidia -  Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-16T16:09:38+00:00",
+  "fecha_resumen": "2026-11-17T03:57:26.076275+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el cierre de sesión destacando la rotación de capital desde el sector tecnológico hacia sectores defensivos como el consumo básico, un patrón que evoca el inicio del pinchazo de la burbuja puntocom del año 2000. El mercado muestra señales de debilidad interna con un empeoramiento en la amplitud de nuevos máximos frente a mínimos y un incremento notable en la volatilidad diaria. En el plano corporativo, se presta especial atención al ecosistema de inteligencia artificial en torno a Nvidia, sus compromisos financieros fuera de balance y la inminente publicación de sus resultados trimestrales.",
+    "ideas_clave": [
+      "Jonathan Krinsky (BTIG) señala una rotación masiva hacia consumo básico frente a tecnología de +33% en 30 días, la mayor ventaja relativa en casi 25 años, comparable a la rotación de 2000-2001.",
+      "En la burbuja del 2000 el mercado amplio no se hundió de inmediato: mientras la tecnología cayó un 56,9% en doce meses tras el pico, el consumo básico subió un 50,3% y siete sectores avanzaron más del 12%.",
+      "Donald Trump intervino declarando que no considera una espía a la acompañante china de Jensen Huang y viendo positivo que este vuelva a Nvidia, lo que frenó temporalmente las caídas intradía del valor.",
+      "El sector semiconductores (SMH) y las 'neoclouds' (como Nebius, cayendo cerca del 6%) sufren ante las dudas sobre la sostenibilidad del entramado de financiación y compromisos ('el banco de Nvidia') estimado en más de 530.000 millones de dólares.",
+      "El indicador de amplitud de nuevos máximos menos nuevos mínimos (NYSE + Nasdaq) se deteriora de forma continuada, pauta que históricamente ha precedido a correcciones importantes.",
+      "El rango medio diario de oscilación en noviembre (2,4% en Nasdaq 100 y 1,6% en S&P 500) alcanza niveles de volatilidad no vistos desde inicios de 2025.",
+      "Divergencia anómala señalada por Héctor Chamizo: el precio spot del oro continúa a la baja mientras las tenencias de los ETFs respaldados por oro físico no dejan de aumentar."
+    ],
+    "tesis_principal": "El mercado bursátil está replicando dinámicas observadas durante el pinchazo puntocom del año 2000, caracterizadas por una fuerte rotación de dinero desde la tecnología sobrevalorada hacia sectores defensivos más que por un colapso generalizado inmediato, en un contexto de deterioro de amplitud y elevada volatilidad en la inteligencia artificial.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Valoración de mercado y burbujas",
+      "Análisis técnico",
+      "Oro y metales",
+      "Resultados empresariales"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Russell 2000",
+      "RSP (Invesco S&P 500 Equal Weight ETF)",
+      "XLP (Consumer Staples Select Sector SPDR)",
+      "SMH (VanEck Semiconductor ETF)",
+      "Nvidia",
+      "Nebius",
+      "Anthropic",
+      "Microsoft",
+      "Apple",
+      "Tesla",
+      "Alphabet",
+      "Meta",
+      "Oro",
+      "Petróleo",
+      "Bitcoin",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Ibex 35"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "La amplitud de mercado se deteriora, aumenta el rango diario de volatilidad y los índices principales sufren caídas encabezadas por la tecnología."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Existe un desinfle patente en valoraciones, problemas con el apalancamiento fuera de balance de Nvidia y rotación clara de capital fuera del sector."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El ETF SMH cede casi un 4% y amenaza con perder la media móvil de 200 sesiones."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Los paralelismos técnicos y sectoriales con el pinchazo de la burbuja puntocom del 2000 son cada vez más evidentes."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El precio al contado cae pero se observa una divergencia anómala con las entradas sostenidas en ETFs de oro."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el futuro del S&P 500 pierde la media de 200 sesiones y el mínimo anterior, se generará una señal técnica muy peligrosa que podría llevarlo hacia el soporte de la banda Mogalef inferior en 7.444 o 7.375.",
+        "activo_o_variable": "Futuro Mini S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Anthropic saldrá a bolsa el jueves con una valoración de aproximadamente 1,4 billones de dólares y entrará próximamente en el índice Nasdaq.",
+        "activo_o_variable": "Anthropic",
+        "direccion": "no aplica",
+        "horizonte": "días",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El sector consumo básico supera a la tecnología en un 33% en un lapso de 30 días, el mayor diferencial desde 2001.",
+      "Entre marzo de 2000 y marzo de 2001, tras el estallido puntocom, el sector tecnológico cayó un 56,9% mientras el consumo básico subió un 50,3% y servicios públicos un 44%.",
+      "En el período del 22 de junio al 13 de noviembre de 2026, salud (+25%), energía (+19,7%) y consumo básico (+12,6%) lideran las subidas frente a caídas del 7,3% en tecnología.",
+      "El 'banco de Nvidia' acumula compromisos y garantías fuera de balance por 530.500 millones de dólares según datos de Mizuho y ZeroHedge.",
+      "El promedio diario de oscilación mensual en noviembre se sitúa en el 2,4% para el Nasdaq 100 y 1,6% para el S&P 500.",
+      "El índice manufacturero Empire State de la Fed de Nueva York se desplomó a 7,8 frente a los 18 esperados.",
+      "UBS rebajó el precio objetivo de Nvidia de 300 a 240 dólares."
+    ],
+    "riesgos_mencionados": [
+      "Pinchazo de la burbuja de inteligencia artificial con descalabro del entramado financiero de financiación circular entre Nvidia y sus clientes neocloud.",
+      "Pérdida de soportes clave y de la media móvil de 200 sesiones en el S&P 500 y en el ETF de semiconductores SMH.",
+      "Deterioro severo en la amplitud de mercado (más nuevos mínimos que nuevos máximos en NYSE y Nasdaq).",
+      "Alta volatilidad e incertidumbre de cara a la presentación de resultados de Nvidia y la OPV de Anthropic."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Jonathan Krinsky (mencionado)",
+      "Héctor Chamizo (mencionado)",
+      "Donald Trump (mencionado)"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

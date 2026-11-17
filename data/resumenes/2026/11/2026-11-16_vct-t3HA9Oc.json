@@ -1,0 +1,118 @@
+{
+  "video_id": "vct-t3HA9Oc",
+  "url": "https://www.youtube.com/watch?v=vct-t3HA9Oc",
+  "titulo": "Oro machaca al euro - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-16T12:47:17+00:00",
+  "fecha_resumen": "2026-11-17T04:01:50.431580+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El euro muestra una debilidad estructural histórica al perder un 92% frente al oro desde el año 2000 y sufrir por la desconfianza y la crisis de deuda en Francia. En renta variable, el mercado vigila con cautela a Nvidia y las dudas sobre su esquema de financiación circular, lo que castiga a las firmas de 'neocloud'. En materias primas, el petróleo cede terreno tras estimar la AIE un superávit global de crudo, mientras Morgan Stanley eleva su previsión para 2026 y sobrepondera la bolsa mundial.",
+    "ideas_clave": [
+      "El euro acumula una caída del 92% frente al oro desde el año 2000 y cotiza en mínimos frente al dólar debido a la crisis de deuda francesa y la desconfianza sistémica en la eurozona.",
+      "Nvidia retrocede un 2,58% antes de sus resultados ante la proliferación de artículos que cuestionan su sistema circular de financiación de clientes.",
+      "Compañías del sector 'neocloud' como Nebius o CoreWeave caen más de un 5% por el temor a restricciones en la financiación ligada a Nvidia.",
+      "La AIE sitúa al mercado petrolero en un superávit de 1,7 millones de barriles diarios, contrarrestando tensiones geopolíticas en Oriente Medio, aunque persisten cuellos de botella en productos refinados.",
+      "Zelenski reconoce una propuesta estadounidense para entrar en la OTAN a cambio de ceder el Donbás, sujeta a consulta con la población ucraniana.",
+      "Morgan Stanley eleva su precio objetivo promedio para el crudo Brent en 2026 de 94 a 96,7 dólares y sitúa a la bolsa global en máxima sobreponderación.",
+      "La producción industrial de la zona euro empeora drásticamente al registrar una caída del -1,5% interanual frente al -0,2% esperado."
+    ],
+    "tesis_principal": "La persistente debilidad económica y política de la eurozona debilita al euro frente a activos reales, mientras la incertidumbre sobre la financiación en el sector de inteligencia artificial y los débiles datos macroeconómicos europeos generan volatilidad en las bolsas.",
+    "temas": [
+      "Dólar y divisas",
+      "Oro y metales",
+      "Tecnología e inteligencia artificial",
+      "Energía y petróleo",
+      "Bolsa Europa",
+      "Bolsa EE. UU.",
+      "Crecimiento y recesión",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "EUR/USD",
+      "Oro",
+      "Petróleo Brent",
+      "Bitcoin",
+      "Nvidia",
+      "CoreWeave",
+      "Nebius",
+      "Novo Nordisk"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.3,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El euro sigue deprimido frente al dólar por la desconfianza en la zona euro y la crisis de deuda en Francia."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Se destaca la enorme fortaleza histórica del oro frente a la depreciación del 92% del euro desde el año 2000."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Crecen las dudas sobre el modelo de financiación de Nvidia y se castiga severamente a las acciones de neocloud."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El informe de superávit de la AIE compensa las tensiones bélicas y las alzas de precio objetivo de Morgan Stanley."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "La producción industrial en la eurozona se desplomó un -1,5% interanual, muy por debajo de lo previsto."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Morgan Stanley sitúa el precio objetivo promedio del petróleo Brent para 2026 en 96,7 dólares",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "sube",
+        "horizonte": "2026",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Morgan Stanley sitúa a la bolsa global en máxima sobreponderación",
+        "activo_o_variable": "Bolsa global",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El euro ha caído un 92% frente al oro desde el año 2000.",
+      "El EUR/USD cotiza con una caída del 0,14% en 1,1022.",
+      "Nvidia retrocede un 2,58% previo a la publicación de sus resultados trimestrales.",
+      "Valores de infraestructura cloud como CoreWeave y Nebius sufren caídas superiores al 5%.",
+      "La AIE señala un superávit global de petróleo de 1,7 millones de barriles diarios en lugar de déficit.",
+      "Morgan Stanley eleva su previsión de Brent para 2026 de 94 a 96,7 dólares por barril.",
+      "La producción industrial interanual de la zona euro cae un -1,5% frente al -0,2% estimado por el consenso."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de deuda soberana y desestabilización fiscal en Francia.",
+      "Ruptura o cuestionamiento del modelo de financiación circular en el ecosistema de inteligencia artificial de Nvidia.",
+      "Colapso o recortes de actividad en firmas de 'neocloud'.",
+      "Cuellos de botella persistentes en la capacidad de refinado de petróleo.",
+      "Escalada de ataques bélicos directos en Oriente Medio e impacto en refinerías ucranianas y rusas."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

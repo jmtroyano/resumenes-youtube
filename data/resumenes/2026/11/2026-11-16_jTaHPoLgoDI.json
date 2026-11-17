@@ -1,0 +1,83 @@
+{
+  "video_id": "jTaHPoLgoDI",
+  "url": "https://www.youtube.com/watch?v=jTaHPoLgoDI",
+  "titulo": "NVDA: Tienen preparada otra trampa. Esto no ha acabado. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-16T13:59:14+00:00",
+  "fecha_resumen": "2026-11-17T03:58:13.992534+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava explica una trampa clásica de mercado aplicada a las acciones de NVIDIA, donde el precio marca un nuevo máximo para barrer liquidez mientras los grandes inversores institucionales absorben las compras y distribuyen papel. Detalla la venta masiva de 500.000 acciones ejecutada por un directivo de la compañía mediante el formulario 144 antes de la fuerte corrección. Asimismo, advierte sobre la acumulación histórica de opciones 'put' y analiza cómo la recompra de coberturas por parte de los 'dealers' podría desencadenar un rebote técnico puntual, aunque el riesgo estructural persiste.",
+    "ideas_clave": [
+      "La trampa de mercado típica consiste en marcar un primer máximo, consolidar lateralmente y superar ese nivel con menor volumen para atrapar a la masa antes de una fuerte caída.",
+      "En NVIDIA se produjo un barrido de liquidez por encima de 235 dólares antes de publicarse noticias comprometedoras sobre su cúpula directiva.",
+      "El directivo Mark A. Stevens presentó el formulario 144 ante la SEC para vender medio millón de acciones justo en las inmediaciones del máximo.",
+      "El análisis de flujo de órdenes ('footprint') mostró absorción institucional clara los días 3 y 4 de septiembre, con ventas agresivas bloqueando las subidas.",
+      "Existe un récord histórico de interés abierto en opciones 'put' en la zona de mínimos, reflejando un pánico extremo entre los inversores.",
+      "Si el evento de riesgo extremo no ocurre y la volatilidad disminuye, los creadores de mercado ('dealers') se verán forzados a recomprar acciones vendidas en corto para cubrir sus 'puts', impulsando un rebote técnico.",
+      "Cava lanza una advertencia sobre la posibilidad de que directivos que abandonan sus cargos puedan liquidar grandes paquetes accionariales sin necesidad de reportar el formulario 144."
+    ],
+    "tesis_principal": "NVIDIA ha completado un patrón de libro de distribución y trampa alcista con absorción institucional y ventas de 'insiders', y aunque el exceso de opciones 'put' puede forzar un rebote técnico por cierre de coberturas de los creadores de mercado, la estructura técnica y de fondo entraña alto riesgo.",
+    "temas": [
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU.",
+      "Análisis técnico",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "NVIDIA (NVDA)"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.4,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Señala manipulación, distribución de directivos y trampas de mercado en NVIDIA tras barrer máximos."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Identifica absorción y pánico vendedor extremo, lo que técnicamente puede abrir la puerta a un rebote por cobertura de opciones put."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Advierte de las trampas bursátiles dirigidas a desplumar al inversor particular en los grandes valores tecnológicos."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si no se materializa un shock de riesgo extremo en los próximos días, los dealers recomprarán acciones de NVIDIA y generarán un rebote técnico.",
+        "activo_o_variable": "NVIDIA (NVDA)",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El director Mark A. Stevens registró el formulario 144 el 3 de septiembre para vender 500.000 acciones (unos 235 millones de dólares).",
+      "Los días 3 y 4 de septiembre el delta de volumen fue negativo en zona de máximos, confirmando absorción vendedora institucional.",
+      "El 12 de noviembre se registró una descarga masiva y un récord histórico de contratos abiertos en opciones 'put' en zona de mínimos."
+    ],
+    "riesgos_mencionados": [
+      "Trampas de liquidez y ruptura falsa en máximos.",
+      "Ventas de grandes paquetes de acciones por parte de 'insiders' o exdirectivos sin previo aviso en el formulario 144.",
+      "Riesgo extremo de caídas adicionales si se desencadenan noticias corporativas o escándalos no resueltos."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
