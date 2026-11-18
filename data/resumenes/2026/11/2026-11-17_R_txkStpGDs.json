@@ -1,0 +1,138 @@
+{
+  "video_id": "R_txkStpGDs",
+  "url": "https://www.youtube.com/watch?v=R_txkStpGDs",
+  "titulo": "Huang quiere volver y el mercado que vuelva -  Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-17T16:26:15+00:00",
+  "fecha_resumen": "2026-11-18T01:06:13.215603+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza una sesión de fuertes caídas en las bolsas mundiales donde los principales índices y sectores tecnológicos han testeado niveles críticos de soporte como la media de 200 sesiones. Pese a la tranquilidad transmitida por los bancos de inversión, surgen temores a un pinchazo de la burbuja de la inteligencia artificial, tensiones geopolíticas y problemas de crédito en la financiación de chips. A última hora, los índices rebotaron bruscamente desde soportes clave tras declaraciones de Jensen Huang mostrándose abierto a regresar al liderazgo de Nvidia si el consejo lo aprueba.",
+    "ideas_clave": [
+      "Los índices estadounidenses y sectores clave (software y semiconductores) coquetean con perforar a la baja la media móvil de 200 sesiones, lo que activaría un patrón técnico bajista severo.",
+      "El sector de semiconductores (ETF SMH) acumula un retroceso cercano al 33%, alimentando dudas sobre si la burbuja de la inteligencia artificial se está desinflando.",
+      "Se registran tensiones de liquidez y crédito ligadas a la IA: varios bancos han frenado préstamos sindicados para la compra de chips (como uno de 480 millones de dólares vinculado a ByteDance) y surgen problemas en firmas como NeoCloud.",
+      "El índice de confianza de los constructores (NAHB) en EE. UU. se desplomó a 25 puntos (frente a 29 esperado), marcando el peor dato en 14 años debido a tipos hipotecarios superiores al 7%.",
+      "La encuesta a gestores de Bank of America (Hartnett) revela un desplome histórico en la asignación a tecnología, un nivel de liquidez en cartera de solo el 3,6% y un 52% de gestores esperando recortes de capex en hiperescaladores en los próximos 6 meses.",
+      "Un repentino rebote intradía en Wall Street evitó la pérdida de soportes tras circular un comunicado donde Jensen Huang admite errores y expresa su disposición a regresar a Nvidia si el consejo se lo pide."
+    ],
+    "tesis_principal": "El mercado bursátil se encuentra en una situación técnica y fundamental de extrema vulnerabilidad ante el agotamiento del relato de la IA, problemas de crédito sectorial y tipos altos, habiendo sido salvado 'in extremis' en soportes por la especulación en torno al regreso de Jensen Huang a Nvidia.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Inmobiliario y vivienda",
+      "Fed y tipos de interés EE. UU.",
+      "Geopolítica",
+      "Energía y petróleo",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Ibex 35",
+      "Russell 2000",
+      "Nvidia",
+      "Tesla",
+      "Microsoft",
+      "Alphabet",
+      "Amazon",
+      "ETF IGV (Software)",
+      "ETF SMH (Semiconductores)",
+      "ETF SPY",
+      "Petróleo",
+      "Oro",
+      "Bitcoin",
+      "Bono 10Y EE. UU.",
+      "Bund alemán"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los índices cotizan al filo de perder las medias de 200 días y niveles clave como los 7.300 puntos en el futuro del S&P 500."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Crecen las dudas sobre la rentabilidad de las inversiones, el sobreendeudamiento y posibles recortes de capex en hiperescaladores."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.75,
+        "justificacion": "El ETF SMH pierde soportes relevantes, acumula una caída del 33% y afronta restricciones de exportación cruzadas entre EE. UU. y China."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "La confianza de los constructores en EE. UU. se encuentra en mínimos de 14 años asfixiada por hipotecas por encima del 7%."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "El crudo sube más del 1,5% superando los 87 dólares por ataques a petroleros e incidentes armados entre EE. UU. e Irán en Oriente Medio."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el futuro del S&P 500 pierde la zona de mínimos de 7.300 puntos, confirmará una ruptura bajista letal de la media de 200 sesiones que acelerará las caídas.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El gobernador de la Fed Musalem prevé que habrá varias subidas más de tipos de interés antes de la primavera debido a la persistencia de la inflación.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "sube",
+        "horizonte": "antes de primavera",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Un 52% de los gestores encuestados por Bank of America prevé que al menos un hiperescalador recortará su capex en IA en los próximos seis meses.",
+        "activo_o_variable": "Capex en inteligencia artificial",
+        "direccion": "baja",
+        "horizonte": "6 meses",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El ETF de software (IGV) cayó más de un 4% aproximándose a su media móvil de 200 sesiones.",
+      "El ETF de semiconductores (SMH) acumula una caída del 32,94% desde sus máximos.",
+      "La confianza de los constructores de la NAHB cayó a 25 puntos frente a 29 esperado, el peor dato en 14 años.",
+      "La producción industrial de EE. UU. se contrajo un -0,4% mensual frente al +0,1% estimado.",
+      "En la encuesta FMS de Bank of America, el nivel de liquidez de los gestores bajó a 3,6% (desde 3,9%), un nivel históricamente muy bajo que limita la capacidad de compra de acciones.",
+      "El 34% de los gestores señala la burbuja de IA y el 31% un evento crediticio en hiperescaladores como los mayores riesgos de cola (tail risks).",
+      "Bancos internacionales paralizaron la financiación de un crédito de 480 millones de dólares para chips vinculado a ByteDance.",
+      "El VIX repuntó más de un 7% situándose en 24,54 puntos, zona de alta volatilidad."
+    ],
+    "riesgos_mencionados": [
+      "Pinchazo de la burbuja bursátil en inteligencia artificial.",
+      "Evento de crédito por apalancamiento excesivo en empresas e infraestructuras de IA.",
+      "Pérdida confirmada de la media móvil de 200 días en los índices S&P 500 y Nasdaq 100.",
+      "Riesgo geopolítico y escalada bélica en el estrecho de Ormuz e incidentes con Irán.",
+      "Tipos hipotecarios elevados por encima del 7% que colapsan el sector residencial.",
+      "Posibles ciberataques a infraestructuras críticas tras la caída temporal de la red clasificada NSA Net."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

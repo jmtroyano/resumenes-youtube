@@ -577,7 +577,11 @@
   "JQeqdyOeiIg": "2026-11-17T03:57:27.505968+00:00",
   "jTaHPoLgoDI": "2026-11-17T03:58:15.379400+00:00",
   "lENo5eyz7pI": "2026-11-17T04:01:21.966549+00:00",
-  "vct-t3HA9Oc": "2026-11-17T04:01:51.866137+00:00"
+  "vct-t3HA9Oc": "2026-11-17T04:01:51.866137+00:00",
+  "9luOqpnrqCU": "2026-11-18T01:01:04.831559+00:00",
+  "R_txkStpGDs": "2026-11-18T01:06:14.834222+00:00",
+  "nZuocaTM-f0": "2026-11-18T01:11:07.164291+00:00",
+  "xcEDTnjO5EI": "2026-11-18T01:14:42.517529+00:00"
  },
  "cola": [
   {
@@ -607,16 +611,6 @@
    "publicado": "2026-11-17T08:09:14+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-17T16:08:14.233274+00:00"
-  },
-  {
-   "video_id": "nZuocaTM-f0",
-   "titulo": "Ignorados: No Cuentan, No Sirven. José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=nZuocaTM-f0",
-   "publicado": "2026-11-17T13:26:47+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
    "intentos": 1,
    "en_cola_desde": "2026-11-17T16:08:14.233274+00:00"
   }

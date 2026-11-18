@@ -1,0 +1,135 @@
+{
+  "video_id": "nZuocaTM-f0",
+  "url": "https://www.youtube.com/watch?v=nZuocaTM-f0",
+  "titulo": "Ignorados: No Cuentan, No Sirven. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-17T13:26:47+00:00",
+  "fecha_resumen": "2026-11-18T01:11:05.622250+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la situación técnica y macroeconómica de los mercados, señalando que la sobreventa y la compra masiva de opciones put sobre Nvidia y tecnología sientan las bases para un rebote a corto plazo. A nivel macroeconómico, argumenta que la Reserva Federal no podrá mantener tipos elevados debido a la insostenibilidad de la deuda pública estadounidense de más de 40 billones de dólares. Asimismo, aborda la cumbre geopolítica entre Estados Unidos, China y Rusia, destacando la irrelevancia absoluta de los líderes europeos y anticipando que la salida final a las tensiones globales será una inyección masiva de liquidez que beneficiará al oro y al bitcoin.",
+    "ideas_clave": [
+      "A corto plazo, las bolsas podrían haber marcado un suelo temporal gracias al posicionamiento extremo en opciones put de tecnología y a la estacionalidad positiva de finales de noviembre, aunque a medio y largo plazo el mercado no ha hecho suelo definitivo.",
+      "La caída de Nvidia hacia la zona de 148,8 dólares mostró compras por parte de manos fuertes ('big players'), lo que sugiere que las malas noticias ya están descontadas.",
+      "Las declaraciones agresivas de miembros de la Fed sobre subir tipos son pura intervención verbal, ya que una subida de tipos de 50 puntos básicos agravaría el coste de la deuda y frenaría la actividad económica.",
+      "Con una deuda pública estadounidense que ronda los 41 billones de dólares, Estados Unidos necesita desesperadamente atraer capital asiático hacia sus bonos para evitar que la rentabilidad del bono a 10 años supere el 6%.",
+      "China se encuentra en deflación y necesita exportarla para reactivar su economía, mientras que Europa ha quedado completamente marginada de las grandes decisiones geopolíticas mundiales.",
+      "La resolución estructural de estos desequilibrios pasará inevitablemente por una masiva inyección de liquidez global, lo que actuará como catalizador para el oro y el bitcoin."
+    ],
+    "tesis_principal": "El mercado bursátil está preparado para un rebote a corto plazo por dinámicas de derivados y estacionalidad, pero la inviabilidad de mantener tipos altos ante el endeudamiento soberano forzará inyecciones masivas de liquidez que impulsarán fuertemente al oro y a bitcoin.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Fed y tipos de interés EE. UU.",
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Semiconductores",
+      "China",
+      "Geopolítica",
+      "Oro y metales",
+      "Criptomonedas",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "VIX",
+      "Bono EE. UU. 10 años",
+      "Bono China 10 años",
+      "Bono Rusia 10 años",
+      "Oro",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Espera un rebote técnico a corto plazo por cobertura de opciones y estacionalidad, pero advierte de que a medio y largo plazo el mercado todavía tiene caídas pendientes."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Considera inviables nuevas alzas de tipos debido al volumen asfixiante de deuda pública y a la falta de liquidez en el sistema."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "Advierte de un grave problema fiscal en EE. UU. con una deuda que supera los 40 billones de dólares."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Señala que China enfrenta un serio problema económico marcado por la deflación y la caída de la rentabilidad de sus bonos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.9,
+        "justificacion": "Proyecta que las futuras inyecciones de liquidez para sostener el sistema llevarán al oro a niveles de 5.000 dólares."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Considera a Bitcoin, junto con el oro, el principal beneficiario del retorno de la expansión cuantitativa y la liquidez."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Se va a producir un rebote en las bolsas tras el vencimiento de opciones y resultados de Nvidia.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "A medio y largo plazo los mercados no han hecho suelo y continuarán cayendo.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La cotización del oro se dirigirá hacia los 5.000 dólares debido a la inyección masiva de liquidez.",
+        "activo_o_variable": "Oro",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La Reserva Federal no podrá llevar a cabo subidas agresivas de tipos de interés.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La deuda pública nacional de EE. UU. supera los 40,6 billones de dólares (Debt Clock mostrado en 40,63 billones).",
+      "La cotización de Nvidia rebotó en la zona de soporte clave de 148,8 dólares donde entraron grandes compradores institucionales.",
+      "El vencimiento de opciones del VIX y el vencimiento mensual de opciones sobre acciones e índices fuerzan coberturas de deltas por parte de los dealers bursátiles.",
+      "La rentabilidad del bono chino a 10 años cotiza a la baja en el entorno del 1,63%, reflejando presiones deflacionarias.",
+      "La rentabilidad del bono ruso a 10 años se sitúa en torno al 16%, similar a los niveles del inicio del conflicto en Ucrania."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de liquidez estructural a nivel internacional.",
+      "Espiral del coste de la deuda estadounidense si los rendimientos de los bonos se aproximan al 6%.",
+      "Persistencia de la deflación en China y contagio a la economía global.",
+      "Pérdida total de peso geopolítico y económico de los países de la Unión Europea."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "video_id": "9luOqpnrqCU",
+  "url": "https://www.youtube.com/watch?v=9luOqpnrqCU",
+  "titulo": "La Crisis de DEUDA que Puede SACUDIR Europa",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-17T19:00:09+00:00",
+  "fecha_resumen": "2026-11-18T01:01:03.287297+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Víctor Alvargonzález analiza los riesgos crecientes de una crisis de deuda soberana, diferenciando la situación de Estados Unidos frente a la de Europa. Mientras que EE. UU. cuenta con el respaldo del dólar como moneda de reserva global y un crecimiento impulsado por la inteligencia artificial, Europa muestra una preocupante debilidad fiscal con escaso crecimiento económico. Países como Francia han disparado su ratio deuda/PIB sin reducir el desempleo, y Alemania ha eliminado trabas constitucionales al gasto público. Ante este escenario, el experto defiende una estrategia de inversión en renta fija de muy corto plazo o fondos monetarios para evitar pérdidas por caídas en el precio de los bonos largos.",
+    "ideas_clave": [
+      "EE. UU. puede sostener un ratio de deuda/PIB del 120% gracias al papel del dólar como divisa global y a un crecimiento del 2% al 3% respaldado por la revolución tecnológica de la IA.",
+      "Tener una deuda al 5% es viable si el tejido empresarial y productivo genera rentabilidades superiores (por ejemplo, del 25% al 30%), dinámica que favorece a EE. UU. frente a Europa.",
+      "Francia representa un caso alarmante en Europa: la deuda/PIB ha subido a cerca del 117% (con un billón de euros más de deuda) con un crecimiento anémico cercano al 1% y el mismo desempleo.",
+      "Alemania eliminó por vía parlamentaria exprés los límites constitucionales al techo de deuda, lo que abre la puerta al aumento indiscriminado del gasto público.",
+      "España mantiene una deuda/PIB cercana al 100% dopada temporalmente por fondos Next Generation y turismo; si el crecimiento converge al 1% medio europeo, la ratio empeorará notablemente.",
+      "Estrategia en renta fija: Alvargonzález recomienda situarse en monetarios y duraciones cortas, evitando bonos a 10-15 años que han sufrido fuertes caídas de precio de alrededor del 5%.",
+      "Una caída del petróleo hacia el entorno de los 70 dólares proporcionaría un alivio relevante a la renta fija al moderar la inflación y rebajar la presión sobre los tipos de interés."
+    ],
+    "tesis_principal": "La acumulación desmedida de deuda pública sin crecimiento económico real coloca a Europa en una posición de extrema vulnerabilidad ante una crisis de deuda soberana, haciendo desaconsejable la inversión en bonos de largo plazo en favor de activos monetarios y de corto plazo.",
+    "temas": [
+      "Deuda pública y déficit",
+      "Bonos y renta fija",
+      "Crecimiento y recesión",
+      "Inflación",
+      "Energía y petróleo",
+      "Tecnología e inteligencia artificial"
+    ],
+    "activos_mencionados": [
+      "Bonos soberanos a 10 años",
+      "Bonos soberanos a 15 años",
+      "Fondos monetarios",
+      "Petróleo",
+      "Dólar estadounidense"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Las ratios de deuda sobre PIB son insostenibles a largo plazo en Europa, con países como Francia en el 117% y Alemania retirando sus restricciones constitucionales al endeudamiento."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Mantiene una postura negativa hacia los bonos de largo plazo por riesgo de pérdida de valor y aconseja posicionarse en duraciones cortas y fondos monetarios."
+      },
+      {
+        "tema": "Crecimiento y recesión",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Observa un contraste claro entre el dinamismo estadounidense del 2%-3% impulsado por la IA y la debilidad europea estancada en torno al 1%."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Considera que un descenso del petróleo hacia 70 dólares sería el principal catalizador para aliviar la inflación y relajar la rentabilidad de la deuda."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el precio del petróleo baja a los 70 dólares, habrá un alivio notable en la renta fija al caer con fuerza la inflación y disiparse el riesgo de subidas de tipos.",
+        "activo_o_variable": "Petróleo / Rentabilidad de los bonos",
+        "direccion": "baja",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si la deuda pública sigue aumentando sin crecimiento, llegará un punto en que los mercados exigirán primas de riesgo mucho mayores o cerrarán el crédito a los países europeos.",
+        "activo_o_variable": "Prima de riesgo de deuda europea",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La deuda global respecto al PIB ha pasado de representar aproximadamente un 60% a mediados/finales de los años 90 a superar el 100% en la actualidad.",
+      "El ratio de deuda/PIB de Estados Unidos se sitúa alrededor del 120%, pero su economía crece entre el 2% y el 3%.",
+      "Francia ha incrementado su deuda desde el 94%-98% hasta el 117% del PIB, sumando un billón de euros adicional de deuda bajo la presidencia de Macron con un crecimiento de apenas el 1%.",
+      "Los bonos de referencia a 10 y 15 años llegaron a registrar caídas de alrededor del 5% en precio debido al repunte de rentabilidades y temores fiscales.",
+      "El 90% del repunte de la inflación en los últimos ciclos ha estado vinculado a los precios de la energía, mientras que la subyacente ha mostrado menor volatilidad."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de deuda soberana en Europa que dispare las primas de riesgo y encarezca la financiación estatal.",
+      "Pérdidas de capital en carteras conservadoras y moderadas sobreexpuestas a bonos de renta fija de media y larga duración.",
+      "Desaceleración económica en España hacia la media europea del 1%, lo que dispararía rápidamente su ratio deuda/PIB.",
+      "Aumento indiscriminado del gasto público en Alemania tras flexibilizar su freno constitucional a la deuda.",
+      "Subidas agresivas de impuestos a los ciudadanos como única vía gubernamental para sostener el endeudamiento."
+    ],
+    "participantes": [
+      "Víctor Alvargonzález",
+      "Presentador de Inversión Racional"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
