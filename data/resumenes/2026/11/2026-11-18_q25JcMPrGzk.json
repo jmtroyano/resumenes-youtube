@@ -1,0 +1,111 @@
+{
+  "video_id": "q25JcMPrGzk",
+  "url": "https://www.youtube.com/watch?v=q25JcMPrGzk",
+  "titulo": "Si La Economía Está Mal, Por Qué Los Mercados Están en Record Histórico",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-18T19:00:21+00:00",
+  "fecha_resumen": "2026-11-19T21:08:54.291921+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El vídeo explica la aparente contradicción entre la percepción de crisis de los ciudadanos y los máximos históricos en los mercados bursátiles. El autor señala que las bolsas descuentan beneficios futuros de multinacionales globales y no reflejan el poder adquisitivo familiar ni los salarios reales. Además, destaca la fuerte concentración de los índices bursátiles en un puñado de gigantes tecnológicos y financieros, así como la enorme inversión financiada con deuda en inteligencia artificial.",
+    "ideas_clave": [
+      "La bolsa no mide la economía real ni las nóminas familiares: descuenta los flujos futuros de multinacionales globales y expectativas de tipos de interés.",
+      "El poder adquisitivo se deteriora por la inflación acumulada: según la OCDE, los salarios reales en España seguían un 2% por debajo de su nivel de hace cinco años.",
+      "La riqueza bursátil está fuertemente concentrada: según la Reserva Federal, el 10% de los hogares estadounidenses con mayor patrimonio posee cerca del 88% de las acciones y fondos.",
+      "La concentración distorsiona los índices: las 10 mayores empresas del S&P 500 concentran cerca del 40% del índice, superando ampliamente el rendimiento del índice equiponderado (+12,75% frente a +10%).",
+      "En España, el IBEX 35 está muy sesgado hacia la banca (que subió un 96,2% frente al 41,2% del índice general) favorecida por la subida del Euríbor.",
+      "Los gigantes tecnológicos (Amazon, Alphabet, Microsoft y Meta) prevén desembolsar unos 730.000 millones de dólares en 2026 en infraestructura e IA, disparando sus emisiones de bonos a 194.000 millones de dólares solo en el primer semestre de 2026."
+    ],
+    "tesis_principal": "Los máximos en bolsa y el pesimismo de los hogares conviven porque los índices miden las expectativas futuras de un grupo reducido de megacorporaciones multinacionales y no el poder adquisitivo de la economía cotidiana.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa España",
+      "Tecnología e inteligencia artificial",
+      "Inflación",
+      "Inmobiliario y vivienda",
+      "Bancos",
+      "Valoración de mercado y burbujas",
+      "Bonos y renta fija"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "S&P 500 equiponderado",
+      "IBEX 35",
+      "Amazon",
+      "Alphabet",
+      "Microsoft",
+      "Meta",
+      "Blue Owl",
+      "Euríbor"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Reconoce los máximos históricos pero advierte del riesgo que supone la extrema concentración del índice en diez valores."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "Cuestiona si los ingresos y retornos futuros de la IA compensarán el colosal endeudamiento e inversión en capital asumidos."
+      },
+      {
+        "tema": "Bolsa España",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Destaca la fuerte subida del IBEX 35 apoyada en los márgenes de los bancos por el alza de tipos, aunque no representa a toda la economía."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Señala que beneficia el patrimonio sobre el papel de los propietarios pero agrava la barrera de acceso para compradores primerizos."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Explica cómo la inflación sigue erosionando el poder adquisitivo y el ahorro no remunerado de las familias."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Amazon, Alphabet, Microsoft y Meta planean invertir alrededor de 730.000 millones de dólares en tecnología e inteligencia artificial en 2026.",
+        "activo_o_variable": "Inversión en capital (Capex) en IA de las grandes tecnológicas",
+        "direccion": "sube",
+        "horizonte": "2026",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice de confianza del consumidor de la Universidad de Michigan se situó en niveles débiles de 48-51 puntos mientras el S&P 500 marcaba récords.",
+      "La inflación interanual española alcanzó el 4,9% en septiembre de 2026 y los salarios reales continuaban un 2% por debajo de su nivel de hace 5 años (datos OCDE).",
+      "El precio de la vivienda según el INE subió un 12,9% interanual a finales de 2025.",
+      "El 10% más rico en EE. UU. concentra el 88% de las acciones y participaciones en fondos de los hogares (datos Reserva Federal).",
+      "Las diez mayores cotizadas representan cerca del 40% del S&P 500 a mediados de 2025.",
+      "La inversión tecnológica aportó alrededor de un tercio del crecimiento interanual de EE. UU. en el 2T según ING.",
+      "Las emisiones de bonos de cinco hiperescaladores pasaron de 17.000 millones de dólares en 2024 a 109.000 millones en 2025 y a 194.000 millones solo en el primer semestre de 2026 (J.P. Morgan)."
+    ],
+    "riesgos_mencionados": [
+      "Falta de amplitud de mercado y extrema dependencia de un puñado de megacapitalizaciones.",
+      "Riesgo de que el rendimiento financiero futuro de la inteligencia artificial no compense el endeudamiento y Capex masivo.",
+      "Peligro de pagar múltiplos excesivos por empresas con grandes expectativas que luego decepcionen.",
+      "Erosión continua del poder adquisitivo de los hogares por efecto del desfase entre inflación acumulada y salarios reales.",
+      "Riesgos de liquidez y concentración de capital en el mercado inmobiliario."
+    ],
+    "participantes": [
+      "Presentador de Los Locos de Wall Street"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
