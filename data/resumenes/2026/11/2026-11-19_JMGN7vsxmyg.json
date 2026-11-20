@@ -1,0 +1,114 @@
+{
+  "video_id": "JMGN7vsxmyg",
+  "url": "https://www.youtube.com/watch?v=JMGN7vsxmyg",
+  "titulo": "Desplome AMD estropea la fiesta de Anthropic - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-19T16:40:27+00:00",
+  "fecha_resumen": "2026-11-20T02:23:48.633807+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La euforia inicial por la salida a bolsa de Anthropic se desinfló rápidamente debido a la debilidad del mercado amplio y al desplome de AMD tras un informe de venta en corto. José Luis Cárpatos destaca la creciente presión sobre los márgenes de la inteligencia artificial debido al encarecimiento del alquiler de GPUs frente a la caída del precio de los tokens. Con el S&P 500 encadenando seis sesiones consecutivas de caídas por primera vez en 650 días, los soportes técnicos clave están bajo seria amenaza.",
+    "ideas_clave": [
+      "La salida a bolsa de Anthropic no logró sostener las alzas iniciales debido a que el mercado amplio (RSP y Russell 2000) mostró una clara debilidad estructural.",
+      "AMD se desplomó más de un 8% (llegando a caer cerca del 13%) tras un informe de Hunterbrook Capital acusando a la compañía de vender chips ilegalmente a China.",
+      "La rentabilidad de la inteligencia artificial sufre un fuerte estrechamiento de márgenes: el alquiler de GPUs H100 ha subido un 56% mientras el precio de los tokens ha caído un 25% (un 60% desde mayo).",
+      "Los inversores vendieron activos en el S&P 500 durante los días previos para hacer hueco a la OPV de Anthropic, replicando el patrón observado antes de la salida a bolsa de SpaceX.",
+      "Las dudas sobre Nvidia aumentan tras investigaciones periodísticas sobre su filial en Singapur, que concentró casi el 50% de su facturación global aunque menos del 1% de los chips se quedaron físicamente en el país.",
+      "El S&P 500 registra seis sesiones consecutivas a la baja, algo que no ocurría desde hacía 650 días de cotización, situándose al borde de perder la media de 200 sesiones."
+    ],
+    "tesis_principal": "El mercado bursátil se encuentra en una fase muy frágil y vulnerable, donde el pinchazo del entusiasmo por la IA y acusaciones corporativas como la de AMD están quebrando soportes técnicos críticos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Empleo"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "RSP ETF",
+      "Russell 2000",
+      "AMD",
+      "Nvidia",
+      "Anthropic",
+      "Apple",
+      "Tesla",
+      "Alphabet",
+      "Oro",
+      "Petróleo",
+      "Bitcoin",
+      "DAX"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "El mercado amplio arrastra caídas generalizadas, encadenando seis sesiones seguidas en rojo y atacando soportes vitales como la media de 200 sesiones."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "El modelo de negocio de los laboratorios de IA enfrenta compresión de márgenes por el elevado coste del cómputo y el colapso del valor de los tokens."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Acusaciones de elusión de sanciones contra AMD y sospechas sobre la facturación de Nvidia en Singapur generan un alto riesgo regulatorio y caídas abruptas de precio."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Tanto el RSP como el futuro del S&P 500 amenazan medias móviles clave y arriesgan caídas hacia la zona de 7.200 puntos si cede el nivel de 7.300."
+      },
+      {
+        "tema": "Empleo",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "Las peticiones de subsidio por desempleo subieron a 203.000, reflejando una leve pérdida de dinamismo en el mercado laboral sin llegar a ser grave."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el futuro del S&P 500 pierde el soporte de los 7.300 puntos, el objetivo de caída se situará en la zona de 7.200 puntos.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El coste de alquiler de la GPU Nvidia H100 ha subido un 56%, mientras que el precio del token de IA ha caído un 25% (un 60% desde mayo).",
+      "Cada GPU necesita fabricar el doble de tokens para que su alquiler resulte tan rentable como a finales de 2025.",
+      "AMD llegó a caer casi un 13% en la sesión tras publicar Hunterbrook Capital una posición corta acusando a la empresa de triangulación de chips hacia China.",
+      "La filial de Nvidia en Singapur declaró un beneficio de apenas 53 millones de dólares sobre unos ingresos de 117.800 millones en 2025.",
+      "Las peticiones semanales de desempleo en EE. UU. se situaron en 203.000 frente a las 198.000 de la semana previa.",
+      "El índice manufacturero de la Fed de Filadelfia se desplomó de 20,9 a 6,3 puntos.",
+      "La encuesta de la AAII muestra un 42,2% de inversores bajistas frente a un 33,3% de alcistas."
+    ],
+    "riesgos_mencionados": [
+      "Intervención o sanciones del gobierno estadounidense sobre ventas de semiconductores a China por parte de AMD o Nvidia.",
+      "Ruptura de soportes técnicos clave como la media de 200 sesiones en el S&P 500 y en el RSP.",
+      "Inviabilidad del modelo de negocio de IA por falta de margen si la demanda elástica (paradoja de Jevons) no compensa la caída de precios.",
+      "Ciberataques recientes que afectaron a clientes de Visa, Mastercard y JP Morgan Chase."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Diego Puertas",
+      "Antonio Iruzubieta"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

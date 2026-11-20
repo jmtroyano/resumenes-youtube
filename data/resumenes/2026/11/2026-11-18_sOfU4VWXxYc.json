@@ -1,0 +1,102 @@
+{
+  "video_id": "sOfU4VWXxYc",
+  "url": "https://www.youtube.com/watch?v=sOfU4VWXxYc",
+  "titulo": "El LADRILLO Frente a la BOLSA: ¿Quién Gana Realmente?",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-18T17:00:32+00:00",
+  "fecha_resumen": "2026-11-20T02:26:43.008630+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Víctor Alvargonzález analiza el mito de la superior rentabilidad del sector inmobiliario frente a los mercados financieros, mostrando que la bolsa global y los índices han superado ampliamente al ladrillo en los últimos 15 años. Argumenta que el crecimiento de los precios de la vivienda en España tenderá a moderarse debido a la presión política y social para incrementar la oferta de vivienda y a potenciales regulaciones en los alquileres. Por ello, defiende como alternativa superior para horizontes de largo plazo (20 a 30 años) la inversión en fondos indexados globales y deuda pública a largo plazo con atractivos rendimientos actuales.",
+    "ideas_clave": [
+      "En los últimos 15 años, la rentabilidad total media de la vivienda (revalorización y alquiler) en las principales ciudades españolas fue del 169%, alcanzando cerca del 200% en plazas destacadas como Madrid o Barcelona.",
+      "En el mismo periodo de 15 años, el Ibex 35 rindió un 215% y el índice global MSCI World multiplicó por más de 5 veces su valor (más del 500%).",
+      "Para la inmensa mayoría de ahorradores, invertir a través de ETFs indexados globales de bajo coste ha sido mucho más rentable y eficiente que invertir en activos inmobiliarios.",
+      "El previsible desbloqueo de oferta de vivienda pública y privada, motivado por la urgencia electoral y la confluencia institucional, moderará la escalada de precios del sector inmobiliario en el futuro.",
+      "El endurecimiento normativo y los límites al alquiler suponen un riesgo latente y prolongado para los propietarios de inmuebles.",
+      "Los bonos gubernamentales europeos a largo plazo (como los bonos franceses, británicos o italianos rondando el 5%) ofrecen actualmente una ventana de rentabilidad histórica no vista en años para carteras a largo plazo."
+    ],
+    "tesis_principal": "La inversión en vivienda no bate a la renta variable global a largo plazo y afronta crecientes riesgos regulatorios y de contención de precios, por lo que una cartera indexada o de renta fija a largo plazo resulta más rentable y eficiente.",
+    "temas": [
+      "Inmobiliario y vivienda",
+      "Fondos indexados y ETFs",
+      "Bolsa España",
+      "Bonos y renta fija",
+      "Finanzas personales"
+    ],
+    "activos_mencionados": [
+      "MSCI World",
+      "IBEX 35",
+      "Bonos franceses a 30 años",
+      "Bonos italianos",
+      "Bonos españoles",
+      "Bonos británicos"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Anticipa que el aumento de oferta de vivienda y posibles limitaciones al alquiler frenarán el ritmo de revalorización histórica del ladrillo."
+      },
+      {
+        "tema": "Fondos indexados y ETFs",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Considera la indexación pasiva global como la mejor alternativa de inversión a muy largo plazo frente a los inmuebles."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Destaca los atractivos rendimientos de la deuda soberana europea a largo plazo (en torno al 5%) como oportunidad para carteras de jubilación."
+      },
+      {
+        "tema": "Bolsa España",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Reconoce que históricamente el Ibex ha batido la rentabilidad de la vivienda en España, aunque prefiere la diversificación global."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El crecimiento del precio de la vivienda no mantendrá el ritmo del pasado debido a medidas de incremento de oferta y equilibrio del mercado.",
+        "activo_o_variable": "Precio de la vivienda en España",
+        "direccion": "baja",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Se aplicarán o mantendrán medidas de regulación o limitación a los alquileres con independencia del color político gobernante.",
+        "activo_o_variable": "Regulación del alquiler en España",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Rentabilidad media acumulada de la vivienda más alquiler en las 5 principales ciudades de España en los últimos 15 años: 169% (datos del Ministerio de Vivienda).",
+      "Rentabilidad del Ibex 35 en el mismo plazo de 15 años: 215%.",
+      "Rendimiento acumulado del índice global MSCI World en ese periodo: superior al 500% (multiplicado por 5).",
+      "Tipos de interés del bono francés a 30 años: cotizando alrededor del 5%, cuando hace pocos años ofrecían rentabilidades cercanas al 0%."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo regulatorio y límites legales al precio del alquiler.",
+      "Fricciones e inseguridad jurídica asociadas a la ocupación y derechos de propietarios.",
+      "Plazos prolongados y burocracia para la construcción efectiva de nueva oferta residencial."
+    ],
+    "participantes": [
+      "Víctor Alvargonzález",
+      "Luis Miguel Ortiz"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

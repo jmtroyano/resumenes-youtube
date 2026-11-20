@@ -583,7 +583,11 @@
   "nZuocaTM-f0": "2026-11-18T01:11:07.164291+00:00",
   "xcEDTnjO5EI": "2026-11-18T01:14:42.517529+00:00",
   "v2Szzgb-v8Y": "2026-11-19T20:55:03.546620+00:00",
-  "q25JcMPrGzk": "2026-11-19T21:08:55.886110+00:00"
+  "q25JcMPrGzk": "2026-11-19T21:08:55.886110+00:00",
+  "JMGN7vsxmyg": "2026-11-20T02:23:49.995389+00:00",
+  "l5RuX4phSC8": "2026-11-20T02:25:37.222419+00:00",
+  "sOfU4VWXxYc": "2026-11-20T02:26:44.346222+00:00",
+  "YCe2YUmKOUk": "2026-11-20T02:27:49.131272+00:00"
  },
  "cola": [
   {
@@ -627,16 +631,6 @@
    "en_cola_desde": "2026-11-18T11:50:49.963534+00:00"
   },
   {
-   "video_id": "sOfU4VWXxYc",
-   "titulo": "El LADRILLO Frente a la BOLSA: ¿Quién Gana Realmente?",
-   "url": "https://www.youtube.com/watch?v=sOfU4VWXxYc",
-   "publicado": "2026-11-18T17:00:32+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 0,
-   "en_cola_desde": "2026-11-18T20:37:48.092177+00:00"
-  },
-  {
    "video_id": "rhEKSAS80mM",
    "titulo": "Lecciones del 2000 y su burbuja - Cierre Cárpatos",
    "url": "https://www.youtube.com/watch?v=rhEKSAS80mM",
@@ -675,36 +669,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 1,
    "en_cola_desde": "2026-11-19T11:48:00.988756+00:00"
-  },
-  {
-   "video_id": "JMGN7vsxmyg",
-   "titulo": "Desplome AMD estropea la fiesta de Anthropic - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=JMGN7vsxmyg",
-   "publicado": "2026-11-19T16:40:27+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-19T20:43:02.926073+00:00"
-  },
-  {
-   "video_id": "YCe2YUmKOUk",
-   "titulo": "Anthropic puede subir hoy a 100$ piensa el mercado - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=YCe2YUmKOUk",
-   "publicado": "2026-11-19T12:30:08+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
-   "en_cola_desde": "2026-11-19T20:43:02.926073+00:00"
-  },
-  {
-   "video_id": "l5RuX4phSC8",
-   "titulo": "ORO ORO ORO",
-   "url": "https://www.youtube.com/watch?v=l5RuX4phSC8",
-   "publicado": "2026-11-19T11:50:08+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-19T20:43:02.926073+00:00"
   }
  ],
  "fallidos": {
