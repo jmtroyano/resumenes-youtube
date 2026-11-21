@@ -653,34 +653,14 @@
    "en_cola_desde": "2026-11-18T20:37:48.092177+00:00"
   },
   {
-   "video_id": "rPQyZxMbu8M",
-   "titulo": "Anthropic motor alcista - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=rPQyZxMbu8M",
-   "publicado": "2026-11-19T08:15:09+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-19T11:48:00.988756+00:00"
-  },
-  {
    "video_id": "m1xuSJRwrCc",
    "titulo": "Cae media 200 SP500  Causas bajadas - Apertura Cárpatos",
    "url": "https://www.youtube.com/watch?v=m1xuSJRwrCc",
    "publicado": "2026-11-20T07:09:04+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-20T11:48:01.270415+00:00"
-  },
-  {
-   "video_id": "Oi0ns0CoTs8",
-   "titulo": "Cómo Utilizar la INTELIGENCIA ARTIFICIAL para Analizar EMPRESAS e Invertir Mejor",
-   "url": "https://www.youtube.com/watch?v=Oi0ns0CoTs8",
-   "publicado": "2026-11-20T19:00:15+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
    "intentos": 2,
-   "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
+   "en_cola_desde": "2026-11-20T11:48:01.270415+00:00"
   },
   {
    "video_id": "3_btffoevA0",
@@ -689,7 +669,7 @@
    "publicado": "2026-11-20T12:17:43+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
   }
  ],
@@ -734,7 +714,9 @@
   "dU4Jb8zbyi4": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "ESkC8qSGW5Q": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "TtoNoyU4fYg": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "GQP6sXsF0os": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  "GQP6sXsF0os": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+  "Oi0ns0CoTs8": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "rPQyZxMbu8M": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
  },
  "aviso_config": null
 }
