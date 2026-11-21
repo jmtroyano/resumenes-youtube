@@ -1,0 +1,118 @@
+{
+  "video_id": "3_btffoevA0",
+  "url": "https://www.youtube.com/watch?v=3_btffoevA0",
+  "titulo": "Hartnett rebote tras Acción de Gracias posible - Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-20T12:17:43+00:00",
+  "fecha_resumen": "2026-11-21T19:30:34.248658+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "La sesión bursátil está marcada por fuertes caídas globales lideradas por el castigo al sector tecnológico y de semiconductores, arrastrando a los principales índices de Europa y Estados Unidos. Se suman tensiones geopolíticas por el temor a un ataque de EE. UU. a Irán y los vencimientos de opciones. No obstante, los bonos soberanos actúan con fuerza como activo refugio y Michael Hartnett anticipa un posible rebote pronunciado tras Acción de Gracias si los indicadores de sobreventa alcanzan niveles extremos.",
+    "ideas_clave": [
+      "Fuerte corrección en la tecnología: semiconductores caen un 3% y arrastran al Nasdaq (-1,74%), mientras que la tecnología europea se desploma un 3,82%.",
+      "Asia registra su peor caída semanal en el índice MSCI Asia-Pacífico desde la crisis del COVID en marzo de 2020.",
+      "Tensión geopolítica y derivados: JP Morgan alerta de temor a un posible ataque de EE. UU. a Irán durante el fin de semana, coincidiendo con vencimientos de opciones.",
+      "Vuelo hacia la calidad en renta fija: el Bund alemán sube un 1,44% y el bono estadounidense a 30 años un 0,76%, reflejando su papel de activo refugio.",
+      "Michael Hartnett (BofA) advierte que no conviene tomar posiciones de riesgo salvo que el bono estadounidense a 10 años baje del 4,5% de rentabilidad.",
+      "Posible suelo táctico tras Acción de Gracias: el indicador de sobreventa de Hartnett está en el 68% y, si alcanza el 88%, emitiría una señal de compra para un fuerte rebote.",
+      "McElligott advierte de que los grandes fondos preferirán no asumir riesgos para proteger sus bonus anuales hasta el 2 de enero."
+    ],
+    "tesis_principal": "El mercado sufre una corrección generalizada liderada por el desplome tecnológico y la aversión al riesgo geopolítico, pero los niveles crecientes de sobreventa técnica podrían preparar el terreno para un fuerte rebote tras Acción de Gracias.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Geopolítica",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "S&P 500",
+      "RSP (S&P 500 Equal Weight)",
+      "DAX 40",
+      "MSCI Asia Pacific",
+      "Bund alemán",
+      "Bono EE. UU. 30 años",
+      "Bono EE. UU. 10 años",
+      "Petróleo",
+      "Anthropic"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Presión vendedora concentrada en los pesos pesados del mercado y pérdida de niveles clave en los índices."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Desplomes generalizados en semiconductores, software y retrasos en salidas a bolsa ligadas a centros de datos de IA."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.75,
+        "justificacion": "Caídas severas en el DAX y sectores cíclicos como lujo, recursos básicos e industriales."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Comportamiento muy favorable actuando con claridad como activo refugio y con fuertes subidas de precios."
+      },
+      {
+        "tema": "Geopolítica",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Miedo en el mercado a una escalada militar de EE. UU. contra Irán durante el fin de semana."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El indicador de sobreventa global podría alcanzar el 88% en los próximos días tras más caídas, favoreciendo un fuerte rebote tras Acción de Gracias",
+        "activo_o_variable": "Bolsa global / S&P 500",
+        "direccion": "sube",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Los grandes fondos especulativos y gestores no van a tomar posiciones de riesgo hasta el 2 de enero para no poner en riesgo sus bonus",
+        "activo_o_variable": "Flujos de fondos de inversión",
+        "direccion": "lateral",
+        "horizonte": "finales de año",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Los semiconductores caen un 3% y el índice del sector tecnológico europeo retrocede un 3,82%.",
+      "El índice MSCI Asia Pacific registra su peor semana desde marzo de 2020.",
+      "El 68% de las bolsas de países desarrollados cotizan por debajo de sus medias de 50 y 200 sesiones; el nivel del 88% activaría una señal de compra contraria.",
+      "El bono alemán (Bund) sube un 1,44% y el bono de EE. UU. a 30 años se anota un 0,76% actuando como refugio.",
+      "Sectores europeos como recursos básicos (-2%), lujo (-2%) e industriales (-2,40%) extienden la debilidad a toda la renta variable europea."
+    ],
+    "riesgos_mencionados": [
+      "Escalada de conflicto bélico con ataque potencial de EE. UU. a Irán el fin de semana.",
+      "Riesgo de que la rentabilidad del bono estadounidense a 10 años permanezca sobre el 4,5%.",
+      "Pérdida de niveles psicológicos clave en los índices bursátiles.",
+      "Retirada de liquidez institucional para preservar beneficios y bonus anuales."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Michael Hartnett (citado)",
+      "Charlie McElligott (citado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

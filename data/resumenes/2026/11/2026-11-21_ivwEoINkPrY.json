@@ -1,0 +1,136 @@
+{
+  "video_id": "ivwEoINkPrY",
+  "url": "https://www.youtube.com/watch?v=ivwEoINkPrY",
+  "titulo": "El Crash Bursátil Acaba de Comenzar",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-21T14:12:20+00:00",
+  "fecha_resumen": "2026-11-21T19:27:22.265523+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Antonio Hidalgo analiza el severo desplome semanal de las bolsas, donde el S&P 500 cayó un 8% y el Nasdaq un 9%, situando el sentimiento de mercado en niveles de miedo extremo. Explica que la violencia de la caída se debió principalmente a la dinámica de las opciones y al posicionamiento de los creadores de mercado en gamma negativa, que forzó ventas automáticas continuadas. Pese al pánico generalizado y la incertidumbre en torno a la Fed y a tecnológicas como Nvidia y Anthropic, identifica señales contrarias de suelo inminente, como un VIX superior a 37 y la compresión extrema de valoraciones. Concluye planteando posibles rebotes de cara a las próximas semanas mediante estrategias de opciones alcistas con sesgo favorable por la asimetría de volatilidad.",
+    "ideas_clave": [
+      "La caída del S&P 500 (8% semanal) cayendo más de un 1% todos los días consecutivos de la semana solo se ha visto 5 veces en la historia (como en 2001 y 2008), llevando el índice de Miedo y Avaricia a 10.",
+      "El sell-off se vio retroalimentado por el récord en el Put/Call ratio y la entrada de los creadores de mercado en gamma negativa profunda, lo que generó un efecto bola de nieve vicioso obligándolos a vender más acciones conforme caían los precios.",
+      "El uso masivo de ETF apalancados 2x (como en Anthropic o tecnológicas) y la especulación minorista han exacerbado la volatilidad extrema respecto al Value Investing tradicional.",
+      "La retórica hawkish del gobernador de la Fed Christopher Waller (pidiendo subidas de 50 pb) revivió el fantasma del error de política monetaria de diciembre de 2018, aunque la caída en materias primas apunta a desinflación.",
+      "Históricamente, lecturas del VIX superiores a 37 han generado rendimientos medios positivos en el Nasdaq del 12,1% a 3 meses, 24,8% a 6 meses y 33,7% a 12 meses.",
+      "Las valoraciones del sector tecnológico han alcanzado mínimos no vistos desde la pandemia de 2020 tras ventas institucionales récord en los libros de Prime Brokerage.",
+      "Se plantean operaciones sintéticas alcistas (túnel alcista) en QQQ y Nvidia (NVDA) aprovechando que las primas de las puts están desorbitadas y financian la compra de calls con cobro neto de crédito."
+    ],
+    "tesis_principal": "El violento colapso bursátil reciente ha sido amplificado de forma mecánica por la gamma negativa de los creadores de mercado ante una demanda masiva de opciones put; no obstante, el pánico extremo, la capitulación institucional y las métricas históricas del VIX señalan que el mercado está en zona de capitulación propicia para un rebote.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Análisis técnico",
+      "Valoración de mercado y burbujas",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "QQQ",
+      "Nvidia (NVDA)",
+      "Anthropic",
+      "VIX",
+      "Bonos del Tesoro EE. UU. a 10 años (US10Y)",
+      "Bonos del Tesoro EE. UU. a 2 años (US02Y)",
+      "Bitcoin",
+      "Oro",
+      "Cobre",
+      "Petróleo WTI"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.35,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Considera que los niveles de sobreventa, pánico extremo y drenaje de puts anticipan un suelo y rebote técnico a corto-medio plazo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Reconoce dudas sobre el ROI real y las cuentas de compañías del sector, pero las valoraciones han caído a niveles atractivos de 2020."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.3,
+        "justificacion": "A pesar de la caída del 21% y la investigación de la SEC, ve soporte en Nvidia en 120 dólares y potencial retorno a zonas de 150-160 dólares por Max Pain."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Critica las declaraciones duras de miembros de la Fed advirtiendo del peligro de repetir el desplome de diciembre de 2018."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.3,
+        "justificacion": "El flujo de refugio hacia los bonos ha relajado la rentabilidad del 10 años por debajo del 5%, dando un respiro a la deuda pública."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El QQQ tiene potencial magnético para rebotar hacia su nivel de Max Pain en torno a 660 dólares.",
+        "activo_o_variable": "QQQ",
+        "direccion": "sube",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Nvidia tiene un suelo fuerte en los 120 dólares por concentración de Put Wall y tenderá a rebotar hacia los 152-160 dólares según el Max Pain.",
+        "activo_o_variable": "Nvidia (NVDA)",
+        "direccion": "sube",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La acción de Anthropic tenderá a cotizar más probablemente por debajo de su precio de salida a bolsa que por encima debido a sus cuantiosas pérdidas operativas y falta de foso.",
+        "activo_o_variable": "Anthropic",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La Reserva Federal no subirá 50 puntos básicos en diciembre, manteniéndose en un aumento de 25 pb o pausa.",
+        "activo_o_variable": "Tipos de interés Fed",
+        "direccion": "lateral",
+        "horizonte": "diciembre",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El S&P 500 ha perdido un 8% en la semana y el Nasdaq un 9%, borrando 6 billones de dólares en 45 días.",
+      "El indicador de Extreme Fear se sitúa en 10 puntos.",
+      "El Put/Call ratio sobrepasó 1.40-1.50 en el QQQ y se ha drenado hacia 1.01.",
+      "Nvidia presentó resultados con crecimiento del 100% pero cayó un 21% en 5 días tras la renuncia de Jensen Huang y una supuesta investigación contable de la SEC.",
+      "Anthropic acumula pérdidas operativas estimadas en 80 billones de dólares, con un negocio donde el 78% de los ingresos depende del consumo de cómputo.",
+      "El bono a 10 años de EE. UU. ha cedido rentabilidad hasta el 4,95% debido a la huida hacia la calidad.",
+      "Materias primas como el crudo, gasolina, cobre y platino registran fuertes caídas mensuales en noviembre, lo que debería moderar la inflación."
+    ],
+    "riesgos_mencionados": [
+      "Escasez de liquidez en los mercados por la festividad de Acción de Gracias.",
+      "Error de política monetaria de la Fed si sube tipos 50 puntos básicos como en 2018.",
+      "Efecto arrastre de margin calls obligando a liquidaciones forzadas en todos los activos.",
+      "Investigación de la SEC sobre presuntas irregularidades contables y ventas circulares en Nvidia.",
+      "Pinchazo de la burbuja de gasto en infraestructura de inteligencia artificial sin retorno de inversión claro."
+    ],
+    "participantes": [
+      "Antonio Hidalgo"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

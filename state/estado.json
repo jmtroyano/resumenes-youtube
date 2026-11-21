@@ -589,7 +589,11 @@
   "sOfU4VWXxYc": "2026-11-20T02:26:44.346222+00:00",
   "YCe2YUmKOUk": "2026-11-20T02:27:49.131272+00:00",
   "5V3VH0T9skQ": "2026-11-21T02:31:30.025630+00:00",
-  "qyv5omOjmd4": "2026-11-21T02:35:54.308008+00:00"
+  "qyv5omOjmd4": "2026-11-21T02:35:54.308008+00:00",
+  "kP1w62FcR94": "2026-11-21T19:25:22.154679+00:00",
+  "ivwEoINkPrY": "2026-11-21T19:27:24.992344+00:00",
+  "z_wWN3pGAss": "2026-11-21T19:29:39.600244+00:00",
+  "3_btffoevA0": "2026-11-21T19:30:35.598374+00:00"
  },
  "cola": [
   {
@@ -661,16 +665,6 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 2,
    "en_cola_desde": "2026-11-20T11:48:01.270415+00:00"
-  },
-  {
-   "video_id": "3_btffoevA0",
-   "titulo": "Hartnett rebote tras Acción de Gracias posible - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=3_btffoevA0",
-   "publicado": "2026-11-20T12:17:43+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
   }
  ],
  "fallidos": {

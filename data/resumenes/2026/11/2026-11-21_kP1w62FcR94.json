@@ -1,0 +1,101 @@
+{
+  "video_id": "kP1w62FcR94",
+  "url": "https://www.youtube.com/watch?v=kP1w62FcR94",
+  "titulo": "La ESCASEZ de COBRE que Podría Disparar su Precio en los Próximos Años",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-21T19:00:32+00:00",
+  "fecha_resumen": "2026-11-21T19:25:20.803839+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El gestor invitado expone su tesis alcista sobre el cobre y su convicción en Atalaya Mining como principal posición en su fondo. Argumenta que la demanda estructural de cobre se acelerará por la inteligencia artificial, la transición energética y el desarrollo de infraestructuras en países como India. Al mismo tiempo, la oferta enfrenta un grave déficit debido a la falta de nuevos yacimientos en los últimos años y el agotamiento de minas maduras. Bajo estas dinámicas, Atalaya Mining cotiza a múltiplos muy atractivos, con alta rentabilidad por caja y un coste por tonelada en reservas muy inferior al coste de reposición del sector.",
+    "ideas_clave": [
+      "Atalaya Mining capitaliza aproximadamente 1.500 millones con 300 millones en caja neta (EV de 1.200 millones) y genera unos 250 millones de beneficio neto normalizado con los precios actuales del cobre.",
+      "La compañía produce 55.000 toneladas anuales con costes cercanos a 3 $/lb y prevé elevar la producción a 60.000 toneladas uniendo tajos de mayor ley mineral (Corta Atalaya y San Dionisio).",
+      "Comprar Atalaya equivale a pagar unos 400 $ por tonelada de cobre en reservas in situ (3,6 millones de toneladas estimadas), frente a los 1.800 $ por tonelada que cuesta encontrar nuevos yacimientos en el mercado.",
+      "Opcionalidad de crecimiento adicional con el proyecto Touro en Galicia (declarado estratégico por la UE, con potencial de 30.000 toneladas adicionales) y Masa Valverde.",
+      "La demanda global de cobre crece de forma base al ritmo del PIB (~3% anual) y se ve acelerada por los centros de datos de IA (50 kg de cobre por nevera/rack), el vehículo eléctrico y la red eléctrica de India.",
+      "La oferta sufre un déficit estructural: tras 4-5 años de escasa exploración e inversión (2020-2023), los nuevos yacimientos disponibles se ubican en zonas geopolíticamente complejas (Congo) o a 5.000 metros de altitud en los Andes."
+    ],
+    "tesis_principal": "El cobre se enfrenta a un desequilibrio estructural insalvable a medio plazo entre una demanda creciente (IA, electrificación, emergentes) y una oferta estancada sin nuevos yacimientos, lo que convierte a mineras productoras eficientes como Atalaya Mining en inversiones extraordinariamente infravaloradas con fuerte generación de caja.",
+    "temas": [
+      "Materias primas",
+      "Oro y metales",
+      "Value investing",
+      "Bolsa España"
+    ],
+    "activos_mencionados": [
+      "Atalaya Mining",
+      "Cobre",
+      "Oro"
+    ],
+    "sentimiento_general": "muy alcista",
+    "puntuacion_sentimiento": 0.85,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.9,
+        "justificacion": "Existe un déficit estructural de oferta de cobre frente a una demanda que crece sin freno impulsada por la electrificación y la IA."
+      },
+      {
+        "tema": "Materias primas",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "La falta de inversión en exploración durante los últimos años provocará tensiones severas en la oferta física de metales industriales."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Atalaya Mining ofrece una valoración atractiva cotizando a un EV/Beneficio inferior a 5 veces con caja neta y activos infravalorados frente al coste de reposición."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La producción de Atalaya Mining aumentará de 55.000 a unas 60.000 toneladas anuales con la explotación del mineral de mayor ley de San Dionisio",
+        "activo_o_variable": "Atalaya Mining (producción anual)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Aparecerá un agujero de oferta en el cobre debido a los 4-5 años transcurridos sin apenas descubrimiento ni puesta en marcha de nuevos yacimientos",
+        "activo_o_variable": "Cobre (oferta global)",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La demanda de cobre continuará creciendo a un ritmo base de al menos un 3% anual ligada al PIB, complementada con un ~4% adicional por centros de datos de IA y electrificación",
+        "activo_o_variable": "Cobre (demanda global)",
+        "direccion": "sube",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Atalaya Mining cotiza con 1.500 millones de capitalización y 300 millones en caja (EV de 1.200 millones).",
+      "Genera aproximadamente 250 millones de beneficio neto descontados costes e impuestos con precios de cobre en torno a 6 $/lb y costes de extracción de unos 3 $/lb.",
+      "Coste de adquisición implícito de reservas en Atalaya: 400 $/t de cobre (1.200M EV / 3,6M toneladas en reservas), frente a los 1.800 $/t que cuesta descubrir nuevas reservas en la industria.",
+      "Un centro de datos contiene cerca de 50 kg de cobre por cada rack/nevera, requiriéndose miles de ellos en cada una de las 5.000 nuevas instalaciones previstas.",
+      "El proyecto minero Touro aportaría 30.000 toneladas adicionales y ya ha sido catalogado como proyecto estratégico por la Unión Europea."
+    ],
+    "riesgos_mencionados": [
+      "Riesgos regulatorios y aprobaciones medioambientales para proyectos mineros (caso del proyecto Touro en Galicia).",
+      "Dificultades operativas y costes desorbitados en nuevos yacimientos situados a más de 5.000 metros de altitud (frontera Chile-Argentina).",
+      "Riesgo político y de seguridad en jurisdicciones mineras inestables como la República Democrática del Congo.",
+      "Ciclicidad inherente a las compañías mineras y posibles fluctuaciones en el precio del cobre a corto plazo."
+    ],
+    "participantes": [
+      "Presentador (Inversión Racional)",
+      "Invitado (gestor de fondos de inversión)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

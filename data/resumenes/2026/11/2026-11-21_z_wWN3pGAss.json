@@ -1,0 +1,184 @@
+{
+  "video_id": "z_wWN3pGAss",
+  "url": "https://www.youtube.com/watch?v=z_wWN3pGAss",
+  "titulo": "IA: se pincha la burbuja de infraestructuras -  Las 4 claves de la semana  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-21T12:23:38+00:00",
+  "fecha_resumen": "2026-11-21T19:29:36.910949+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos defiende que la burbuja de infraestructuras de inteligencia artificial ha comenzado a pincharse tras una semana de fuertes caídas en los mercados globales. Apoyándose en precedentes históricos como el año 2000 y 2018, desmiente que las elevadas ventas actuales de semiconductores descarten un colapso bursátil. Alerta de que, aunque estadísticamente es muy probable un fuerte rebote técnico a corto plazo, el riesgo de recaídas posteriores y mayor corrección sigue siendo elevado. Asimismo, analiza el informe semanal de Michael Hartnett (BofA), destacando la extrema sobreventa global y la falta de liquidez en las carteras.",
+    "ideas_clave": [
+      "La burbuja bursátil de la infraestructura de IA se considera pinchada; el desplome semanal del Nasdaq (-10,4%) y del S&P 500 (-8,6%) supone la peor semana desde marzo de 2020.",
+      "El argumento de que 'las ventas y pedidos siguen altos' no invalida el pinchazo: en el año 2000, las ventas de chips subieron un 23% y la cartera de pedidos creció hasta diciembre tras hacer techo el Nasdaq en marzo, antes de desplomarse un 46% y 27% respectivamente.",
+      "Estadística de rebotes tras caídas del 5%: en 16 de 19 grandes rebotes históricos del Nasdaq, el índice volvió a caer al menos un 10% adicional en las 60 sesiones posteriores, borrando toda la subida previa en casi la mitad de los casos.",
+      "El capex de los gigantes tecnológicos (Microsoft, Alphabet, Amazon y Meta) representa el 115% de su flujo de caja operativo, con un 32% financiado con deuda nueva, un ritmo que Cárpatos considera insostenible.",
+      "Factores detonantes de la semana: la salida a bolsa de Anthropic drenando 119.500 millones de dólares de liquidez, la investigación de la SEC a Nvidia unida a su menor financiación a clientes, y el tono duro de la Fed (Waller pidiendo subidas de 50 pb).",
+      "Michael Hartnett (BofA) señala que el indicador de amplitud global está al 68% de sobreventa (señal de compra contraria en el 88%), lo que anticipa un posible rebote táctico tras Acción de Gracias.",
+      "Hartnett exige tres condiciones para un suelo duradero: bono estadounidense a 10 años por debajo del 4,5%, petróleo WTI por debajo de 70 dólares y techo en el dólar.",
+      "Niveles técnicos clave: Nvidia toca su media de 200 semanas por primera vez en años; el S&P 500 vigila la zona de soporte 6.700-6.800; Bitcoin arriesga soporte crítico en 57.400 dólares con figura de hombro-cabeza-hombro; y el oro pierde su media de 100 semanas apuntando a 3.000-3.050 dólares."
+    ],
+    "tesis_principal": "La burbuja bursátil asociada al despliegue de infraestructura de inteligencia artificial ha comenzado a desinflarse debido al agotamiento del capex, el endurecimiento del crédito y valoraciones insostenibles; aunque habrá violentos rebotes estadísticos a corto plazo, la tendencia dominante exige máxima cautela ante el riesgo de recaídas más profundas.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bolsa EE. UU.",
+      "Fed y tipos de interés EE. UU.",
+      "Valoración de mercado y burbujas",
+      "Liquidez y crédito",
+      "Análisis técnico",
+      "Bonos y renta fija",
+      "Oro y metales",
+      "Criptomonedas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Nasdaq Composite",
+      "Dow Jones",
+      "Russell 2000",
+      "Nvidia",
+      "Anthropic",
+      "Microsoft",
+      "Alphabet",
+      "Amazon",
+      "Meta",
+      "SpaceX",
+      "CoreWeave",
+      "Bitcoin",
+      "Oro",
+      "Plata",
+      "Petróleo Brent",
+      "Petróleo WTI",
+      "Dólar (DXY)",
+      "EUR/USD",
+      "Bono EE. UU. a 10 años",
+      "Bono EE. UU. a 30 años",
+      "KOSPI"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Afirma que la burbuja de infraestructura de IA se ha pinchado por el capex desorbitado, el fiasco de la OPV de Anthropic y la caída en el precio del token frente al coste del alquiler de GPUs."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Las acciones del sector caen más del 40% desde máximos y Nvidia sufre investigaciones contables, recorte de crédito a clientes y desplome de cotización."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Prevé volatilidad extrema y caídas adicionales a medio plazo, advirtiendo de que los rebotes técnicos no deben confundirse con un suelo definitivo."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El tono duro de miembros de la Fed y la amenaza de más subidas de tipos están estrangulando las valoraciones de los activos de riesgo."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Compara la situación actual con el colapso del año 2000, demostrando que los múltiplos y beneficios se reajustarán a la baja cuando disminuya la inversión."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.75,
+        "justificacion": "Señala el cierre de ventanilla de financiación privada, diferenciales de crédito ampliándose y niveles de efectivo en fondos en mínimos históricos del 3,6%."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "El oro no está funcionando como activo refugio y ha perforado soportes semanales clave, abriendo la puerta a correcciones hacia los 3.000 dólares."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Bitcoin presenta una gran estructura técnica de hombro-cabeza-hombro y está testeando su media de 200 semanas con serio riesgo de ruptura bajista."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Se producirá un rebote técnico a corto plazo en los mercados de renta variable tras la fuerte sobreventa acumulada.",
+        "activo_o_variable": "Bolsa EE. UU. (Nasdaq y S&P 500)",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Tras el rebote técnico inicial, existe una probabilidad muy alta (superior al 50-60%) de que el mercado vuelva a recaer y marque nuevos mínimos en los siguientes meses.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "1 a 3 meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El ritmo de crecimiento del gasto de capital (capex) en inteligencia artificial tocará techo y comenzará a desacelerarse o recortarse de cara a 2027-2028.",
+        "activo_o_variable": "Capex de gigantes tecnológicos en IA",
+        "direccion": "baja",
+        "horizonte": "2027",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El euro frente al dólar continuará presionado a la baja hacia la zona de soporte de 1,06 salvo que la Fed frene su agresividad.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el oro no recupera los 3.910 dólares, se dirigirá a buscar apoyo en la media de 200 semanas en la zona de 3.000-3.050 dólares.",
+        "activo_o_variable": "Oro",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Caída semanal: S&P 500 bajó un 8,6% acumulando 7 días consecutivos en negativo (peor racha desde febrero de 2020) y Nasdaq 100 cayó un 10,4%.",
+      "El VIX cerró en 37,10 puntos tras dispararse un 28,5% en la jornada del viernes.",
+      "En el año 2000, tras hacer techo el Nasdaq el 10 de marzo, las ventas mundiales de chips siguieron aumentando durante 7 meses un 23% antes de desplomarse un 46% en 16 meses.",
+      "La cartera de pedidos de semiconductores en el año 2000 siguió creciendo un 18% hasta diciembre antes de hundirse un 27% desde su pico.",
+      "El capex de Microsoft, Alphabet, Amazon y Meta se multiplicó por 3,4 en dos años, alcanzando los 201.900 millones de dólares en el 3T y consumiendo el 115% de su flujo de caja operativo.",
+      "Existen más de 4 billones de dólares en compromisos fuera de balance (arrendamientos y centros de datos) asumidos por las grandes tecnológicas.",
+      "En la encuesta de gestores de BofA, la sobreponderación neta en tecnología se hundió del 37% al 12% (mayor recorte mensual desde junio de 2006).",
+      "Los niveles de liquidez (cash) en las carteras de los gestores se sitúan en un escaso 3,6%, limitando la capacidad de compra de soporte.",
+      "La OPV de Anthropic drenó 119.500 millones de dólares del mercado, abriendo a 111,50$ antes de desplomarse un 27% hacia los 83$.",
+      "Los modelos de descuento sitúan el valor razonable medio de Anthropic en torno a 66,71 dólares según InvestingPro.",
+      "Nvidia acumula una caída del 47,5% desde sus máximos de octubre de 2026 y llegó por primera vez en años a su media móvil de 200 semanas.",
+      "El coste del alquiler de GPUs ha subido un 56% mientras que el precio de venta de los tokens ha caído un 25%, estrangulando los márgenes operativos de los laboratorios de IA."
+    ],
+    "riesgos_mencionados": [
+      "Aterrizaje forzoso y recesión económica infravalorada por el consenso.",
+      "Accidente crediticio en la deuda emitida por hiperescaladores y compañías de IA.",
+      "Recorte masivo de previsiones de beneficios empresariales si el capex tecnológico se frena.",
+      "Nuevas restricciones comerciales y geopolíticas de Estados Unidos sobre el acceso de China a microchips y centros de datos.",
+      "Continuación de subidas de tipos por parte de la Fed ante una inflación persistente.",
+      "Ruptura de soportes estructurales en gráficos de largo plazo en bolsas, oro y Bitcoin."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Michael Hartnett (citado)",
+      "Priborilsky / Goldman Sachs (citado)",
+      "JJ Montoya (mencionado)"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
