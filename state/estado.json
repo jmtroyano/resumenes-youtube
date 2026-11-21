@@ -587,7 +587,9 @@
   "JMGN7vsxmyg": "2026-11-20T02:23:49.995389+00:00",
   "l5RuX4phSC8": "2026-11-20T02:25:37.222419+00:00",
   "sOfU4VWXxYc": "2026-11-20T02:26:44.346222+00:00",
-  "YCe2YUmKOUk": "2026-11-20T02:27:49.131272+00:00"
+  "YCe2YUmKOUk": "2026-11-20T02:27:49.131272+00:00",
+  "5V3VH0T9skQ": "2026-11-21T02:31:30.025630+00:00",
+  "qyv5omOjmd4": "2026-11-21T02:35:54.308008+00:00"
  },
  "cola": [
   {
@@ -677,17 +679,7 @@
    "publicado": "2026-11-20T19:00:15+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
-  },
-  {
-   "video_id": "5V3VH0T9skQ",
-   "titulo": "Largo o corto está en peligro - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=5V3VH0T9skQ",
-   "publicado": "2026-11-20T16:16:11+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
   },
   {
@@ -697,16 +689,6 @@
    "publicado": "2026-11-20T12:17:43+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
-  },
-  {
-   "video_id": "qyv5omOjmd4",
-   "titulo": "Falta Más Pánico. FRANCO está Detrás. José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=qyv5omOjmd4",
-   "publicado": "2026-11-20T13:31:21+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
    "intentos": 1,
    "en_cola_desde": "2026-11-20T20:27:51.002940+00:00"
   }

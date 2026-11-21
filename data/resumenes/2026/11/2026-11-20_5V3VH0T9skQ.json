@@ -1,0 +1,129 @@
+{
+  "video_id": "5V3VH0T9skQ",
+  "url": "https://www.youtube.com/watch?v=5V3VH0T9skQ",
+  "titulo": "Largo o corto está en peligro - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-20T16:16:11+00:00",
+  "fecha_resumen": "2026-11-21T02:31:27.220870+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la fuerte corrección en los mercados provocada por la liquidación en valores vinculados a la inteligencia artificial y la ruptura de la media móvil de 200 sesiones en el S&P 500. Aunque el sentimiento es negativo y la volatilidad es alta con el VIX en 30, presenta un estudio histórico de Bloomberg que muestra que la mayoría de rupturas de la media de 200 son leves o moderadas y se resuelven con rebotes rápidos en pocos días. Asimismo, señala niveles técnicos clave como los 7.000 puntos en el S&P 500 y los 58.500 en Bitcoin, advirtiendo del peligro tanto para posiciones largas como cortas en entornos correctivos tan violentos.",
+    "ideas_clave": [
+      "La liquidación en el sector de inteligencia artificial continúa arrastrando al mercado global, con semiconductores en mínimos de 7 meses y caídas destacadas en valores como Nvidia y Anthropic.",
+      "El S&P 500 ha perforado su media de 200 sesiones, pero un estudio histórico de Bloomberg revela que de 39 rupturas registradas, 34 fueron leves o moderadas, recuperando la media en apenas 6 a 7 días y con caídas adicionales promedio de solo el 1%.",
+      "Analistas como Chris Kim (BTIG) estiman un posible suelo en torno a los 7.000 puntos del S&P 500 seguido de un rebote técnico hacia la media de 200.",
+      "Michael Hartnett (Bank of America) destaca que el indicador de sobreventa global ronda el 88%, lo que abre la puerta a un rebote estacional a partir de Acción de Gracias, aunque advierte no fiarse mientras el bono a 10 años no baje del 4,5%.",
+      "Los bonos del Tesoro de EE. UU. a 10 años actúan intensamente como activo refugio, reduciendo su rentabilidad 10 puntos básicos hasta el 4,95%.",
+      "En datos macroeconómicos, la confianza del consumidor de la Universidad de Michigan se situó en 51,5 puntos y las expectativas de inflación a un año cayeron con fuerza al 3,7% frente al 4,2% esperado.",
+      "Bitcoin cae por debajo de los 60.000 dólares y testea un soporte crítico en los 58.500 dólares; perderlo pondría en jaque la media móvil de 200 semanas.",
+      "El vencimiento masivo de opciones put (el mayor desde abril de 2023) y la disminución de la gamma negativa por debajo de los 7.100 puntos podrían atenuar la aceleración vendedora."
+    ],
+    "tesis_principal": "El mercado atraviesa una fase correctiva violenta liderada por las tecnológicas y la IA que ha quebrado la media de 200 en el S&P 500, pero la historia y la extrema sobreventa apuntan a la inminencia de un potente rebote técnico que atrapará tanto a cortos rezagados como a largos prematuros.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "Análisis técnico",
+      "Inflación",
+      "Criptomonedas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "SPY",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "IBEX 35",
+      "Anthropic (ANT)",
+      "Nvidia (NVDA)",
+      "Bitcoin (BTC)",
+      "Bono EE. UU. 10 años (US10Y)",
+      "VIX",
+      "Oro",
+      "Petróleo"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Pérdida de la media de 200 sesiones y fuerte presión vendedora, aunque con alta probabilidad técnica de rebote a corto plazo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Dudas de fondo sobre la rentabilidad del sector que provocan un desplome generalizado en valores líderes y semiconductores."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Compras masivas de deuda soberana impulsadas por el pánico bursátil, actuando como activo refugio indiscutible."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Bitcoin pierde los 60.000 dólares con alta correlación con el Nasdaq y se acerca a soportes que amenazan su tendencia de largo plazo."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "La fuerte caída de las expectativas de inflación a un año al 3,7% en el dato de Michigan es una lectura macro positiva."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El S&P 500 podría caer hacia la zona de 7.000 puntos y desde ahí rebotar de vuelta a testear la media de 200 sesiones.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "A partir de Acción de Gracias podría desarrollarse un rebote potente en los mercados de cara al último mes del año debido a los niveles extremos de sobreventa.",
+        "activo_o_variable": "Bolsa global",
+        "direccion": "sube",
+        "horizonte": "finales de año",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Nvidia tiene su soporte estructural de largo plazo en la media de 200 semanas sobre los 124 dólares.",
+        "activo_o_variable": "Nvidia (NVDA)",
+        "direccion": "no aplica",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Estudio de Bloomberg: en 39 ocasiones en que el S&P 500 rompió la media de 200, 25 fueron leves y 9 moderadas, recuperándose en una mediana de 6-7 días.",
+      "Solo en 5 ocasiones la ruptura de la media de 200 fue profunda, tardando 45 días en recuperarse con una caída adicional mediana del 11,3%.",
+      "El indicador de amplitud y sobreventa de Michael Hartnett sitúa al 88% de los mercados mundiales por debajo de sus medias de 50 y 200 sesiones.",
+      "La confianza del consumidor de Michigan salió en 51,5 frente a 51,6 esperado, mientras que la expectativa de inflación a un año cayó del 4,2% al 3,7%.",
+      "La rentabilidad del bono a 10 años de EE. UU. retrocede 10 puntos básicos hasta el 4,948% por compras de refugio.",
+      "El índice VIX cotiza en niveles elevados de 30,46 reflejando alta tensión e incertidumbre."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de quedar atrapado operando a corto si se desata un rebote violento por sobreventa extrema.",
+      "Riesgo de falsos rebotes que lleven al índice a perder mínimos posteriores con caídas adicionales severas de dos dígitos.",
+      "Pérdida del soporte de 58.500 dólares en Bitcoin que confirmaría la ruptura de su media móvil de 200 semanas.",
+      "Activación de los bonos como refugio, lo que evidencia que las caídas de renta variable responden a un temor profundo y no a una simple toma de beneficios."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

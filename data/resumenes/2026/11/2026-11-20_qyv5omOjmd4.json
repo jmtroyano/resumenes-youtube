@@ -1,0 +1,123 @@
+{
+  "video_id": "qyv5omOjmd4",
+  "url": "https://www.youtube.com/watch?v=qyv5omOjmd4",
+  "titulo": "Falta Más Pánico. FRANCO está Detrás. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-20T13:31:21+00:00",
+  "fecha_resumen": "2026-11-21T02:35:52.946738+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la reciente corrección en las bolsas, el oro y bitcoin, señalando que aún no se ha visto la capitulación definitiva porque el índice VIX no ha superado la zona de 40. A corto plazo prevé un posible rebote técnico impulsado por el vencimiento de opciones y la estacionalidad de Acción de Gracias, aunque la tendencia de fondo sigue siendo bajista para los próximos meses. A medio y largo plazo, sostiene que los bancos centrales y gobiernos (EE. UU. y China) tendrán que inyectar más de 6,6 billones de dólares en liquidez para financiar déficits e inversiones en inteligencia artificial, lo que convertirá las caídas del oro en una excelente oportunidad estratégica de compra.",
+    "ideas_clave": [
+      "No se ha alcanzado la capitulación final en las bolsas mientras el VIX no supere la zona de resistencia entre 36 y 40 con pánico vendedor.",
+      "El índice de correlación ha repuntado y el ETF equiponderado S&P 500 (RSP) ha dibujado un escape falso al alza en 222, confirmando debilidad generalizada y ventas en todos los sectores.",
+      "A corto plazo es probable un rebote técnico debido al vencimiento mensual de contratos de opciones (reducción del impacto de gamma negativa) y la estacionalidad positiva que arranca a finales de noviembre.",
+      "El déficit fiscal de EE. UU. supera el 6% (con el marginal sobre el 8%), un desequilibrio insostenible que los políticos no atajarán hasta que la crisis sea evidente para los votantes.",
+      "La contracción de liquidez y la desaceleración económica ya se reflejan en la caída de las rentabilidades de los bonos a 10 años y en el precio del petróleo.",
+      "EE. UU. y China necesitarán inyectar al menos 6,6 billones de dólares en liquidez combinada en el sistema para financiar deuda pública y proyectos de inteligencia artificial.",
+      "Para el oro, Cava aprovecha las caídas comprando cada 100 dólares de descenso como inversión estratégica a largo plazo ante la futura inundación de liquidez."
+    ],
+    "tesis_principal": "La corrección bursátil actual aún no ha terminado por falta de capitulación real, pero obligará a los gobiernos y bancos centrales a una masiva inyección de liquidez de más de 6,6 billones de dólares que acabará impulsando con fuerza al oro y a los activos sensibles a la liquidez.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Liquidez y crédito",
+      "Oro y metales",
+      "Bonos y renta fija",
+      "Deuda pública y déficit",
+      "Fed y tipos de interés EE. UU.",
+      "China",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "VIX",
+      "RSP (Invesco S&P 500 Equal Weight ETF)",
+      "Bono de EE. UU. a 10 años",
+      "Oro",
+      "Bitcoin",
+      "Petróleo"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.1,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Falta pánico de capitulación en el VIX y el ETF RSP muestra fallos alcistas con soporte pendiente en 204-206."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Aunque sufre caídas por la contracción de liquidez a corto plazo, las futuras inyecciones multimillonarias lo convierten en una oportunidad estratégica de compra."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Las rentabilidades de los bonos del Tesoro a 10 años están cayendo por la desaceleración del crecimiento económico."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Prevé una inyección colosal de más de 6,6 billones de dólares entre EE. UU. y China para sostener el sistema financiero."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El déficit público de EE. UU. supera el 6% y el marginal el 8%, reflejando irresponsabilidad fiscal que requerirá monetización."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Se producirá un rebote a corto plazo en las bolsas tras la expiración de opciones y el inicio del periodo estacional de Acción de Gracias.",
+        "activo_o_variable": "Bolsa EE. UU. (S&P 500)",
+        "direccion": "sube",
+        "horizonte": "semanas",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La bolsa continuará cayendo en los próximos meses hasta alcanzar un nivel de soporte en el RSP en torno a 204-206 y un VIX por encima de 40.",
+        "activo_o_variable": "Bolsa EE. UU. / RSP",
+        "direccion": "baja",
+        "horizonte": "meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Las autoridades estadounidenses y chinas inyectarán más de 6,6 billones de dólares de liquidez en el sistema.",
+        "activo_o_variable": "Liquidez global",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "El índice VIX cotiza en torno a 30, pero su nivel de resistencia clave para señalar capitulación se sitúa entre 36 y 40.",
+      "El ETF RSP sufrió un escape falso al alza en los 222 dólares y apunta al soporte de máximos previos en 204-206 dólares.",
+      "El S&P 500 entró en gamma negativa al perforar los 7.300 puntos, obligando a los creadores de mercado a vender para cubrir coberturas.",
+      "El déficit público de EE. UU. se sitúa por encima del 6% del PIB, con un déficit marginal estimado sobre el 8%.",
+      "La rentabilidad del bono de EE. UU. a 10 años ha caído por debajo del 5,2% hasta situarse cerca del 4,97%.",
+      "EE. UU. requerirá inyectar en torno a 6 billones de dólares y China un mínimo de 0,6 billones de dólares en estímulos."
+    ],
+    "riesgos_mencionados": [
+      "Crisis de liquidez sistémica por contracción monetaria tras las caídas bursátiles.",
+      "Descontrol del déficit público y endeudamiento excesivo en EE. UU.",
+      "Riesgo de que la desaceleración económica derive en recesión con un margen fiscal agotado.",
+      "Volatilidad y caídas adicionales en activos sensibles a la liquidez a corto plazo."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
