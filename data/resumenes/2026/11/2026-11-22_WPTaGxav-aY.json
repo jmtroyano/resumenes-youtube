@@ -1,0 +1,110 @@
+{
+  "video_id": "WPTaGxav-aY",
+  "url": "https://www.youtube.com/watch?v=WPTaGxav-aY",
+  "titulo": "El GASTO MILLONARIO en IA Podría Llegar a su LÍMITE Antes de lo que Imaginas",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-22T19:00:15+00:00",
+  "fecha_resumen": "2026-11-22T19:46:25.094415+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Xavier Brun analiza la sostenibilidad del gasto masivo en inteligencia artificial, señalando que el sector vive una burbuja de beneficios e inversión de capital (CapEx) más que de múltiplos de valoración. Destaca que la construcción de centros de datos se financia como proyectos de 10 a 15 años cuyos ingresos se están concentrando artificialmente en los proveedores actuales. Sin embargo, los cuellos de botella en la red eléctrica, la lentitud en la concesión de permisos regulatorios y los límites de endeudamiento frenarán este ritmo inversor hacia 2028.",
+    "ideas_clave": [
+      "La burbuja actual de la IA no radica en múltiplos PER desorbitados, sino en una burbuja de márgenes y beneficios impulsada por una demanda inelástica frente a una oferta muy limitada.",
+      "El auge de la IA depende de infraestructuras críticas como turbinas, cables de alta tensión, transformadores, refrigeración y cobre, dominados por pocos proveedores.",
+      "Los hiperescaladores están ejecutando un CapEx masivo para centros de datos calculados a 10-15 años de vida útil; una vez construidos, los pedidos a proveedores caerán drásticamente.",
+      "Para justificar el CapEx proyectado de 5 billones de dólares entre 2024 y 2028 y mantener rentabilidades del 30%, el sector necesitaría generar beneficios equivalentes a 10 veces Microsoft o 19 veces Meta.",
+      "A partir de agotar la caja, las tecnológicas recurrirán a deuda y ampliaciones de capital, topándose con el límite financiero de 3 veces EBITDA hacia mediados o finales de 2028.",
+      "El principal cuello de botella físico es la generación eléctrica y la regulación: solo alrededor del 15% de la capacidad eléctrica necesaria cuenta actualmente con permisos aprobados."
+    ],
+    "tesis_principal": "El ciclo inversor multimillonario en IA enfrenta límites estructurales inminentes por cuellos de botella regulatorios en el suministro eléctrico y techos de endeudamiento corporativo hacia 2028, lo que provocará una fuerte normalización en los márgenes y beneficios de los proveedores.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Valoración de mercado y burbujas",
+      "Resultados empresariales",
+      "Energía y petróleo"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "GE Vernova",
+      "Vertiv",
+      "Siemens Energy",
+      "Schneider Electric",
+      "Microsoft",
+      "Meta",
+      "Amazon",
+      "Alphabet",
+      "SpaceX",
+      "Oracle",
+      "Anthropic"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Las expectativas de retornos sobre el CapEx de los hiperescaladores son irreales y requerirían crear el equivalente a múltiples gigantes tecnológicos en beneficios en pocos años."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Los márgenes brutos récord del 70-80% se normalizarán a medida que entre en funcionamiento nueva oferta de capacidad de chips como la planificada en Corea."
+      },
+      {
+        "tema": "Valoración de mercado y burbujas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Existe una burbuja de beneficios e ingresos transitorios contabilizados como recurrentes procedentes de inversiones en CapEx de centros de datos."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "La electrificación y la demanda de energía serán elevadísimas pero se verán constreñidas por la burocracia y la falta de permisos de red."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las grandes tecnológicas tendrán que frenar su ritmo de inversión en CapEx hacia mediados o finales de 2028 al toparse con el límite de endeudamiento de tres veces EBITDA.",
+        "activo_o_variable": "CapEx de hiperescaladores en IA",
+        "direccion": "baja",
+        "horizonte": "2028",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los precios y márgenes anormalmente altos en chips y componentes de centros de datos se normalizarán a la baja conforme entre nueva capacidad productiva.",
+        "activo_o_variable": "Márgenes brutos de proveedores de hardware y chips",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Los márgenes brutos de las compañías de chips se han disparado al 70-80%, frente a niveles históricos habituales del 40%.",
+      "Corea del Sur invertirá 500.000 millones de dólares en ampliar la capacidad de fabricación de chips de memoria.",
+      "El gasto acumulado en CapEx entre 2024 y 2028 alcanzará aproximadamente 5 billones de dólares (5.000 billions americanos), equivalente a tres veces el PIB español.",
+      "Para rentabilizar dicho CapEx al 30%, se necesitarían 1,5 billones de dólares de beneficio neto, lo que obligaría a generar los beneficios de 10 Microsoft, 19 Meta o 10 Amazon.",
+      "Solo cerca del 15% de la energía eléctrica necesaria para abastecer las proyecciones de centros de datos cuenta actualmente con permisos de conexión aprobados."
+    ],
+    "riesgos_mencionados": [
+      "Cuello de botella administrativo y regulatorio en la obtención de permisos de conexión y generación eléctrica.",
+      "Rápida depreciación y obsolescencia del hardware tecnológico acumulado antes de poder ser instalado o conectado a la red.",
+      "Sobreendeudamiento de las grandes tecnológicas o dilución por emisiones de capital y bonos convertibles.",
+      "Destrucción de demanda aguas abajo por la multiplicación de precios de los chips en dispositivos finales como ordenadores y teléfonos."
+    ],
+    "participantes": [
+      "Xavier Brun",
+      "Presentador de Inversión Racional"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
