@@ -1,0 +1,136 @@
+{
+  "video_id": "vqNKQkFJXPU",
+  "url": "https://www.youtube.com/watch?v=vqNKQkFJXPU",
+  "titulo": "Nvidia da buenos resultados - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-18T08:37:18+00:00",
+  "fecha_resumen": "2026-11-22T01:38:27.721950+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Tras salvar los niveles clave de la media de 200 sesiones gracias a los rumores y a los sólidos resultados de Nvidia, las bolsas estadounidenses intentan estabilizarse. Sin embargo, el mercado presenta una estructura técnica y cuantitativa extremadamente bidireccional y volátil, condicionada por una gamma marcadamente negativa de los creadores de mercado. Según los análisis cuantitativos de Charlie McElligott expuestos por Cárpatos, el S&P 500 se debate entre rebotar hacia los 7.800-8.000 puntos si se disipa el miedo o desplomarse por debajo de los 6.500 si cede el soporte crítico de los 7.300 puntos.",
+    "ideas_clave": [
+      "Los resultados de Nvidia superaron expectativas (sorpresa de +8,5% en BPA y +6,4% en ventas) y elevaron previsiones para 2028 a crecimientos del 70-75%, aunque advirtieron mayor selectividad en la financiación de proveedores cloud.",
+      "La gamma agregada de los dealers se encuentra en terreno fuertemente negativo (-7.300 millones de dólares), lo que magnifica cualquier movimiento del mercado al obligarles a vender cuando cae y comprar cuando sube.",
+      "McElligott plantea dos caminos extremos a un mes vista: caída bajo 6.500 puntos si se rompe el suelo, o subida a 7.800-8.000 puntos si el miedo remite.",
+      "En el análisis técnico del S&P 500, el nivel de 7.300 puntos constituye el soporte cuantitativo principal con mayor concentración de gamma; perderlo abriría un escenario muy bajista hacia 7.200 o niveles inferiores.",
+      "A pesar de la tensión geopolítica con Irán atacando defensas Patriot en Kuwait, el petróleo cae más del 2% tras el dato de inventarios API (+5,3 millones de barriles de crudo y +5,1 millones de gasolina).",
+      "Ante la inminente salida a bolsa de Anthropic, Cárpatos advierte mediante un estudio de Charlie Bilello (1980-2024) que las OPV rinden de media a tres años un 6% anualizado frente al 11,8% del mercado general."
+    ],
+    "tesis_principal": "El mercado se encuentra en un punto de extrema fragilidad y bidireccionalidad donde la media de 200 y el soporte cuantitativo de 7.300 puntos en el S&P 500 marcan la frontera entre una fuerte corrección acelerada por gamma negativa o un violento rebote hacia máximos.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Resultados empresariales",
+      "Análisis técnico",
+      "Energía y petróleo",
+      "Oro y metales"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "SPY",
+      "Nasdaq 100",
+      "Mini Nasdaq",
+      "Russell 2000",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Nvidia",
+      "Anthropic",
+      "Roundhill Neocloud ETF",
+      "VanEck Semiconductor ETF",
+      "SK Hynix",
+      "Petróleo",
+      "Oro",
+      "Bitcoin",
+      "EUR/USD",
+      "USD/JPY",
+      "Bund alemán",
+      "T-Bond estadounidense a 10 años"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.0,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Mercado atrapado en un rango bidireccional con riesgo de fuerte caída por gamma negativa si pierde soportes o de rebote considerable si se enfría la volatilidad."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Cifras y previsiones a largo plazo excepcionales de Nvidia que tiran al alza del conjunto del sector y de los ETF asociados."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Fuerte subida inesperada de los inventarios semanales de crudo y gasolina en Estados Unidos que pesa más que los riesgos geopolíticos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Presionado por la fortaleza del dólar y perforando niveles técnicos relevantes como la media de 100 semanas."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Euforia por resultados de IA contrastada con advertencias sobre selectividad en financiación y rentabilidades históricas mediocres en OPVs del sector."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Si el S&P 500 pierde los soportes técnicos y la gamma negativa acelera la venta, podría caer por debajo de 6.500 puntos en un mes.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "baja",
+        "horizonte": "1 mes",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el miedo se enfría y el VIX se comprime, el S&P 500 podría subir al rango de 7.800 a 8.000 puntos en un mes.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "1 mes",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Morgan Stanley fija como objetivo para el par USD/JPY los 162 yenes para finales de 2027.",
+        "activo_o_variable": "USD/JPY",
+        "direccion": "sube",
+        "horizonte": "finales de 2027",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Gamma agregada de los dealers en el S&P 500 situada en -7.300 millones de dólares.",
+      "Nvidia batió el BPA previsto en un +8,5% y las ventas en un +6,4%, elevando sus proyecciones de crecimiento para 2028 entre el 70% y el 75%.",
+      "Los hogares en Estados Unidos mantienen un 48% de sus activos financieros en bolsa, superando por primera vez a la vivienda.",
+      "Estudio de Creative Planning / Charlie Bilello muestra que las OPV rinden de media anualizada a 3 años un 6% frente al 11,8% del mercado total estadounidense (1980-2024).",
+      "Inventarios de crudo API aumentaron en 5,3 millones de barriles y los de gasolina en 5,1 millones de barriles.",
+      "Nivel de gamma máxima y soporte crítico en el S&P 500 en 7.300 puntos, con resistencias cuantitativas en 7.400 y 7.500."
+    ],
+    "riesgos_mencionados": [
+      "Gamma negativa de los creadores de mercado que acelera y magnifica caídas repentinas.",
+      "Tipos de interés reales más altos y encarecimiento del crédito corporativo.",
+      "Fuerte exposición de la riqueza de los hogares a la bolsa, lo que afectaría de inmediato al consumo si caen las acciones.",
+      "Escalada bélica en Oriente Medio con ataques entre Irán e instalaciones estadounidenses.",
+      "Riesgos cibernéticos, fallos informáticos y choque entre geopolítica e infraestructura de inteligencia artificial.",
+      "Vencimiento de opciones y futuros de volatilidad (VIX) y de derivados a final de semana."
+    ],
+    "participantes": [
+      "José Luis Cárpatos",
+      "Charlie McElligott (citado)",
+      "Charlie Bilello (citado)"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

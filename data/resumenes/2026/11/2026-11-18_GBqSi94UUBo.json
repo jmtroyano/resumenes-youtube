@@ -1,0 +1,122 @@
+{
+  "video_id": "GBqSi94UUBo",
+  "url": "https://www.youtube.com/watch?v=GBqSi94UUBo",
+  "titulo": "Banco central IA de Nvidia -  Media sesión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-18T12:53:29+00:00",
+  "fecha_resumen": "2026-11-22T01:34:56.575404+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "El mercado se muestra inestable a media sesión tras enfriarse el entusiasmo inicial generado por los resultados de Nvidia y las empresas neocloud. La persistente fortaleza del dólar está presionando notablemente a la baja a las materias primas como el cobre y el oro, además de debilitar a las bolsas europeas. En el frente macroeconómico, la inflación subyacente europea empeora hasta el 2,6% y las hipotecas a 30 años en Estados Unidos se sitúan en el 7,35%, lastrando la construcción a pesar de los buenos resultados de cadenas comerciales como Lowe's y Target.",
+    "ideas_clave": [
+      "El impulso de Nvidia y las neocloud se apaga tras aclararse que el riesgo de construcción y puesta en marcha de centros de datos recae en los constructores y no en Nvidia.",
+      "Hasta cinco grandes bancos de inversión han rebajado el precio objetivo de Nvidia hacia la zona de 220-260 dólares, por debajo de los 300 dólares previos.",
+      "El dólar muestra gran fortaleza frente a todas las divisas, llevando al euro a caer un 0,42% hasta el nivel de 1,09.",
+      "El cobre registra su quinta sesión consecutiva de caídas en Londres y el oro se desploma un 2,87%, ambos afectados por el dólar fuerte y la menor demanda china.",
+      "En Europa el sector de materiales básicos retrocede un 2,6% y el lujo un 1,32%, mientras que solo aguantan tecnología (+1,30%) e industriales (+0,27%).",
+      "El IPC de la eurozona se sitúa en el 4% y la inflación subyacente repunta al 2,6% (peor del 2,5% esperado), al tiempo que el BCE advierte de caídas en la deuda soberana.",
+      "En EE. UU., los tipos hipotecarios a 30 años alcanzan el 7,35%, congelando la construcción, aunque el consumo minorista resiste con buenos resultados de Target y Lowe's."
+    ],
+    "tesis_principal": "La euforia inicial por las cuentas de Nvidia pierde tracción ante las dudas en la ejecución de infraestructuras de IA y recortes de valoración bancarios, todo ello en un contexto de dólar fuerte que castiga a las materias primas e inflación europea persistente.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Dólar y divisas",
+      "Oro y metales",
+      "Materias primas",
+      "Bolsa Europa",
+      "Bolsa EE. UU.",
+      "Inflación",
+      "Inmobiliario y vivienda",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "EUR/USD",
+      "Cobre",
+      "Oro",
+      "Petróleo",
+      "Target",
+      "Lowe's",
+      "DAX",
+      "Euro Stoxx 600",
+      "Sector LVMH / Lujo"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "A pesar de las buenas cifras de Nvidia, el valor se enfría y varios bancos de inversión rebajan sus precios objetivos a 220-260 dólares."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "El dólar estadounidense se muestra muy fuerte contra casi todas las divisas, presionando al euro a la baja hasta 1,09."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "El oro se desploma un 2,87% tentando soportes semanales y el cobre sufre su quinta sesión consecutiva a la baja."
+      },
+      {
+        "tema": "Bolsa Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Caídas generalizadas lideradas por materiales básicos (-2,6%) y el sector lujo (-1,32%), con muy pocos sectores en verde."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La inflación de la eurozona sigue alta en el 4% y la subyacente empeora al 2,6% superando las previsiones."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Los tipos hipotecarios en Estados Unidos al 7,35% asfixian al sector de la construcción."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las posibilidades de que Estados Unidos levante sanciones, elimine el bloqueo naval y devuelva fondos congelados a Irán antes de cualquier negociación son exactamente de cero.",
+        "activo_o_variable": "Acuerdo geopolítico entre EE. UU. e Irán",
+        "direccion": "no aplica",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Colette Kress (CFO de Nvidia) señaló que la garantía de compra solo se activa cuando el centro de datos está totalmente operativo, dejando el riesgo de construcción a los clientes.",
+      "Cinco bancos de inversión recortaron el precio objetivo de Nvidia al rango de 220-260 dólares tras situarse antes sobre los 300 dólares.",
+      "El euro cae un 0,42% hasta el 1,09 frente al dólar.",
+      "El cobre encadena 5 sesiones consecutivas de pérdidas en Londres.",
+      "El oro cae un 2,87% y pone a prueba soportes semanales.",
+      "El sectorial europeo de materiales básicos cae un 2,6% y el del lujo baja un 1,32%, mientras tecnología sube un 1,30% e industriales un 0,27%.",
+      "El IPC de la eurozona marca un 4% y la subyacente repunta a 2,6% (frente al 2,5% previsto).",
+      "Las hipotecas a 30 años en EE. UU. se encuentran en el 7,35%."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de ejecución, retrasos y sobrecostes en la construcción de centros de datos de IA.",
+      "Debilidad de la demanda industrial procedente de China.",
+      "Alerta del BCE sobre una posible fuerte caída en la deuda soberana europea.",
+      "Escalada de tensiones geopolíticas en Oriente Medio.",
+      "Impacto recesivo de tipos hipotecarios al 7,35% sobre la construcción residencial en EE. UU."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

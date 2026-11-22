@@ -1,0 +1,155 @@
+{
+  "video_id": "m1xuSJRwrCc",
+  "url": "https://www.youtube.com/watch?v=m1xuSJRwrCc",
+  "titulo": "Cae media 200 SP500  Causas bajadas - Apertura Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-20T07:09:04+00:00",
+  "fecha_resumen": "2026-11-22T01:28:14.444310+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la severa corrección en Wall Street y las bolsas asiáticas, destacando un deterioro extremo de la amplitud de mercado y la pérdida de la media móvil de 200 sesiones en los principales índices. La caída se ve impulsada por la desconfianza hacia la financiación y valoraciones en inteligencia artificial, el debut decepcionante de Anthropic y acusaciones contra AMD. Además, el vencimiento de opciones acentúa un entorno de gamma negativa extrema, mientras activos como el oro sufren fuertes retrocesos técnicos y pierden su condición de refugio.",
+    "ideas_clave": [
+      "Deterioro extremo de la amplitud bursátil: en el S&P 500 cayeron 462 valores y en el Nasdaq 100 bajaron 90 de sus 100 componentes.",
+      "Contagio severo en Asia: caídas cercanas al 5% en el Nikkei y la bolsa coreana, y un desplome del 6,23% en Taiwán pese a las restricciones impuestas a las posiciones cortas.",
+      "Ruptura técnica clave: el S&P 500 y el Nasdaq 100 han perforado sus medias de 200 sesiones, activando multitud de órdenes de stop loss.",
+      "Efecto drenaje por la salida a bolsa de Anthropic: según Vanda Research, los minoristas liquidaron posiciones en los 11 sectores del S&P para acudir a la OPV, cayendo luego el valor en el 'after-hours'.",
+      "Falta de liquidez institucional: un informe de Goldman Sachs refleja que los grandes fondos activos tienen apenas un 1% de efectivo disponible para comprar.",
+      "El vencimiento de opciones elimina la gamma positiva restante, dejando al mercado expuesto a una gamma negativa aún más extrema y mayor volatilidad según Charlie McElligott.",
+      "El oro se desploma más de un 3% perdiendo la media semanal de 100 periodos, invalidando su rol de refugio y arriesgando caídas hacia soportes de 3.400 o 3.040 dólares."
+    ],
+    "tesis_principal": "El mercado bursátil está estructuralmente tocado por excesos de valoración y deuda en inteligencia artificial; cualquier rebote inminente será una trampa alcista antes de continuar con una corrección más profunda.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Análisis técnico",
+      "Oro y metales",
+      "Dólar y divisas",
+      "Liquidez y crédito",
+      "Valoración de mercado y burbujas"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq 100",
+      "Nikkei",
+      "KOSPI",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Russell 2000",
+      "Anthropic",
+      "AMD",
+      "Apple",
+      "SpaceX",
+      "Oro",
+      "Petróleo Brent",
+      "EUR/USD",
+      "USD/JPY",
+      "Bitcoin",
+      "Bono del Tesoro estadounidense a 10 años",
+      "Bund alemán"
+    ],
+    "sentimiento_general": "muy bajista",
+    "puntuacion_sentimiento": -0.85,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.9,
+        "justificacion": "La pérdida de la media de 200 sesiones, la caída de los 11 sectores y la pésima amplitud técnica anticipan continuidad bajista pese a posibles rebotes trampa."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Creciente aversión y endurecimiento del crédito hacia las empresas ligadas a la IA, sumado a valoraciones excesivas comparables a la burbuja del año 2000."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "bajista",
+        "puntuacion": -0.75,
+        "justificacion": "Fuertes descensos del sector liderados por el desplome de AMD tras informes de ventas irregulares a China y correcciones en los ETFs del sector."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.85,
+        "justificacion": "Duro desplome técnico perdiendo la media de 100 semanas, sin actuar como refugio y amenazando con caer hacia los 3.400 o 3.040 dólares."
+      },
+      {
+        "tema": "Dólar y divisas",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Los análisis de mercado proyectan caídas adicionales para el euro frente al dólar con objetivos en la zona de 1,08."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Los fondos de inversión apenas disponen de un 1% de efectivo y se exige un spread crediticio cada vez mayor a la deuda de empresas tecnológicas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Tarde o temprano llegará un rebote sustancial en las bolsas pero será una trampa alcista que atrapará a inversores pensando que terminó la corrección.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "baja",
+        "horizonte": "semanas o meses",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El mercado tras el vencimiento de opciones quedará en una posición de gamma negativa aún mayor, lo que incrementará los movimientos reactivos y las ventas.",
+        "activo_o_variable": "S&P 500 / Volatilidad",
+        "direccion": "sube",
+        "horizonte": "días o semanas",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Diversos informes de análisis sitúan el objetivo del euro frente al dólar en la cota de 1,08 en los próximos meses.",
+        "activo_o_variable": "EUR/USD",
+        "direccion": "baja",
+        "horizonte": "pocos meses",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el oro no recupera con rapidez los 3.900 dólares, el objetivo técnico apunta hacia la media de 200 semanas en los 3.040 dólares o el 61,8% de Fibonacci en 3.400 dólares.",
+        "activo_o_variable": "Oro",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Si el futuro del S&P 500 pierde la zona de soporte de 7.200 puntos, el siguiente nivel de detención se sitúa en los 7.000 puntos.",
+        "activo_o_variable": "Futuro S&P 500",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "En Wall Street retrocedieron 462 valores del S&P 500 y 90 valores del Nasdaq 100.",
+      "La bolsa de Taiwán cayó un 6,23% con 16 valores al alza y 1.058 a la baja a pesar de la prohibición de posiciones cortas.",
+      "Anthropic debutó con alza del 17% pero en el fuera de horas caía un 6,35%, con una valoración intrínseca de InvestingPro un 27% inferior al precio de cotización.",
+      "Los fondos de gestión activa encuestados por Goldman Sachs mantienen únicamente un 1% de liquidez en cartera.",
+      "Las acciones de AMD se desplomaron un 7,72% y cayeron un 3,81% adicional en el 'after-hours' por acusaciones de venta ilícita de chips a China.",
+      "El 60% del vencimiento de opciones del día corresponde a la apertura y elimina gamma positiva, dejando una estructura dominada por coberturas en gamma negativa.",
+      "El oro cae un 3,49% en la sesión hasta 3.557 dólares, perforando la media móvil de 100 semanas."
+    ],
+    "riesgos_mencionados": [
+      "Pinchazo de una presunta burbuja de valoraciones y crédito ligada a la inteligencia artificial.",
+      "Apertura de una ventana de fuerte volatilidad técnica impulsada por el vencimiento de opciones y la extrema gamma negativa.",
+      "Riesgo de trampas alcistas ('bull traps') al producirse rebotes técnicos temporales.",
+      "Falta de 'pólvora seca' o liquidez en manos de gestores para sostener compras ante nuevas caídas.",
+      "Ruptura de soportes críticos de largo plazo en índices y materias primas (medias de 200 sesiones y de 100 semanas)."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
