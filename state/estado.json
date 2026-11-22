@@ -607,28 +607,18 @@
    "publicado": "2026-11-16T08:12:45+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
   },
   {
-   "video_id": "OapXHxcEU7A",
-   "titulo": "Caja fondos al 3,6% dice Hartnett, nivel desfavorable - Media sesión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=OapXHxcEU7A",
-   "publicado": "2026-11-17T13:49:17+00:00",
+   "video_id": "E9CxLV8TWx4",
+   "titulo": "¿Capitulación? Aún no. Manual de burbujas - Cárpatos",
+   "url": "https://www.youtube.com/watch?v=E9CxLV8TWx4",
+   "publicado": "2026-11-22T09:43:14+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-17T16:08:14.233274+00:00"
-  },
-  {
-   "video_id": "Y0yDQgA_DwM",
-   "titulo": "7 magníficos sobre media 200  Momento clave - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=Y0yDQgA_DwM",
-   "publicado": "2026-11-17T08:09:14+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-17T16:08:14.233274+00:00"
+   "intentos": 1,
+   "en_cola_desde": "2026-11-22T11:33:50.426158+00:00"
   }
  ],
  "fallidos": {
@@ -674,7 +664,9 @@
   "TtoNoyU4fYg": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "GQP6sXsF0os": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
   "Oi0ns0CoTs8": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "rPQyZxMbu8M": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  "rPQyZxMbu8M": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+  "OapXHxcEU7A": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "Y0yDQgA_DwM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
