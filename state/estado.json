@@ -602,14 +602,34 @@
  },
  "cola": [
   {
-   "video_id": "KMpJeDh3q8Y",
-   "titulo": "💥TODO va a CAMBIAR en 2027 para la BOLSA y la ECONOMÍA según B.ACKMAN|👉BAJARÁN más las ACCIONES?",
-   "url": "https://www.youtube.com/watch?v=KMpJeDh3q8Y",
-   "publicado": "2026-11-22T17:15:36+00:00",
-   "canal": "El Arte de Invertir (Alejandro Estebaranz)",
-   "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-22T19:45:56.934324+00:00"
+   "video_id": "vBf5ZiVar3I",
+   "titulo": "Inversión inmobiliaria. Debate con Diego Bestard de Urbanitae.",
+   "url": "https://www.youtube.com/watch?v=vBf5ZiVar3I",
+   "publicado": "2026-11-23T11:32:27+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-23T12:58:24.014753+00:00"
+  },
+  {
+   "video_id": "63rryzrZ-cc",
+   "titulo": "Rebote, pero sin garantías - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=63rryzrZ-cc",
+   "publicado": "2026-11-23T08:11:30+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-23T12:58:24.014753+00:00"
+  },
+  {
+   "video_id": "WTiyzEztsmA",
+   "titulo": "Sólo el PÁNICO no es Suficiente. José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=WTiyzEztsmA",
+   "publicado": "2026-11-23T10:01:07+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-23T12:58:24.014753+00:00"
   }
  ],
  "fallidos": {
@@ -660,7 +680,8 @@
   "Y0yDQgA_DwM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "2myE9zWo3jc": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "E9CxLV8TWx4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "jWSBR7rHowo": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "jWSBR7rHowo": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "KMpJeDh3q8Y": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
