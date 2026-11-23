@@ -602,33 +602,13 @@
  },
  "cola": [
   {
-   "video_id": "jWSBR7rHowo",
-   "titulo": "Carnicería tecnológica en Asia - Apertura Cárpatos",
-   "url": "https://www.youtube.com/watch?v=jWSBR7rHowo",
-   "publicado": "2026-11-16T08:12:45+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-16T19:39:57.195124+00:00"
-  },
-  {
-   "video_id": "E9CxLV8TWx4",
-   "titulo": "¿Capitulación? Aún no. Manual de burbujas - Cárpatos",
-   "url": "https://www.youtube.com/watch?v=E9CxLV8TWx4",
-   "publicado": "2026-11-22T09:43:14+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-22T11:33:50.426158+00:00"
-  },
-  {
    "video_id": "KMpJeDh3q8Y",
    "titulo": "💥TODO va a CAMBIAR en 2027 para la BOLSA y la ECONOMÍA según B.ACKMAN|👉BAJARÁN más las ACCIONES?",
    "url": "https://www.youtube.com/watch?v=KMpJeDh3q8Y",
    "publicado": "2026-11-22T17:15:36+00:00",
    "canal": "El Arte de Invertir (Alejandro Estebaranz)",
    "clave_canal": "UC-yJ1V3fN75A4dlR6dgRgEg",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-22T19:45:56.934324+00:00"
   }
  ],
@@ -678,7 +658,9 @@
   "rPQyZxMbu8M": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
   "OapXHxcEU7A": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "Y0yDQgA_DwM": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "2myE9zWo3jc": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "2myE9zWo3jc": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "E9CxLV8TWx4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "jWSBR7rHowo": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
