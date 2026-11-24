@@ -1,0 +1,112 @@
+{
+  "video_id": "WTiyzEztsmA",
+  "url": "https://www.youtube.com/watch?v=WTiyzEztsmA",
+  "titulo": "Sólo el PÁNICO no es Suficiente. José Luis Cava",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-23T10:01:07+00:00",
+  "fecha_resumen": "2026-11-24T02:26:26.106341+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava analiza la situación de los mercados tras las recientes caídas y el posterior rebote en el S&P 500, el oro y bitcoin. Sostiene que el repunte actual se debe al cierre de posiciones cortas, flujos de opciones y la estacionalidad alcista por Acción de Gracias, pero no a una capitulación definitiva de los inversores institucionales. Argumenta que la crisis financiera y bursátil continuará y se profundizará para forzar a la Reserva Federal a bajar tipos e inyectar liquidez masiva (QE) con el fin de refinanciar la deuda pública que vence en 2027. Por ello, descarta una recuperación en 'V' y anticipa una nueva caída antes de que se forme un suelo definitivo.",
+    "ideas_clave": [
+      "El rebote actual de las bolsas no marca un suelo de mercado definitivo, sino un mero rebote técnico provocado por cancelación de cortos y flujos de opciones.",
+      "Solo han capitulado los hedge funds; los fondos de inversión tradicionales y ETFs clásicos continúan posicionados en largo y no han vendido en pánico.",
+      "El calendario estacional alcista en torno al día de Acción de Gracias (semana del 26 de noviembre) favorece un rebote de corto plazo.",
+      "Se han observado rupturas falsas al alza en gráficos semanales en activos clave como Nvidia, el Nasdaq, el S&P 500, el sector bancario y el RSP (S&P 500 equiponderado).",
+      "La administración y los políticos necesitan provocar una crisis para obligar a la Reserva Federal a revertir las subidas de tipos y lanzar un nuevo programa de flexibilización cuantitativa (QE).",
+      "El vencimiento medio de la deuda pública de EE. UU. se sitúa en torno a los 5,9 años; la gran masa emitida durante la pandemia (2020-2021) vence en 2027 y requiere urgente inyección de liquidez para ser refinanciada.",
+      "No se espera una recuperación en 'V' como en 2020, sino un proceso de formación de base más prolongado por la regla de la alternancia o una segunda caída para marcar el suelo real."
+    ],
+    "tesis_principal": "El rebote actual es solo una tregua temporal por cierre de cortos y estacionalidad; el suelo definitivo aún no se ha formado y la crisis continuará hasta forzar a la Reserva Federal a inyectar liquidez y recortar tipos para refinanciar la deuda de 2027.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Fed y tipos de interés EE. UU.",
+      "Liquidez y crédito",
+      "Deuda pública y déficit",
+      "Tecnología e inteligencia artificial",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "RSP",
+      "Nvidia",
+      "Oro",
+      "Bitcoin",
+      "Bonos del Tesoro de EE. UU. a 10 años",
+      "Bonos del Tesoro de EE. UU. a 5 años"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Considera que los institucionales no han capitulado, que hay falsas rupturas en gráficos semanales y que vendrá otra caída antes de formar suelo."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Anticipa que las amenazas de subidas de tipos de 50 o 100 pb se verán forzadas a revertirse hacia bajadas y QE cuando la crisis se agrave."
+      },
+      {
+        "tema": "Deuda pública y déficit",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Advierte de un grave problema de refinanciación de la masiva deuda pública estadounidense con vencimiento crítico hacia 2027."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Señala que actualmente el sistema carece de la liquidez necesaria, requiriendo una crisis política y de mercado para desbloquearla."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Las bolsas continuarán su rebote a corto plazo impulsadas por Acción de Gracias y el cierre de cortos, pero no formarán un suelo definitivo.",
+        "activo_o_variable": "Bolsa EE. UU. (S&P 500 / Nasdaq)",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Tras el rebote se producirá una segunda caída bursátil que marcará la capitulación real y el suelo definitivo del mercado.",
+        "activo_o_variable": "Bolsa EE. UU.",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La Reserva Federal se verá obligada a revertir las subidas de tipos de interés e implementar un programa de flexibilización cuantitativa (QE).",
+        "activo_o_variable": "Tipos de interés de la Fed y balance monetario",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La verticalidad de la caída reciente de los índices no se presenciaba desde febrero de 2020 con el inicio de la pandemia.",
+      "El vencimiento medio de la deuda pública de EE. UU. se calcula en 5,9 años, coincidiendo el grueso de la emisión de 2020-2021 con vencimientos en 2027.",
+      "Contactos en la City de Londres confirman que los hedge funds capitularon pero los fondos tradicionales y ETFs siguen comprados.",
+      "Caída de las rentabilidades de los bonos y de los diferenciales a 5 y 10 años por descuento de desaceleración económica y posibles frenos a la inversión en IA."
+    ],
+    "riesgos_mencionados": [
+      "Falta de liquidez para refinanciar el masivo volumen de deuda soberana que vence en 2027.",
+      "Agravamiento de la crisis financiera por confrontación política entre republicanos y demócratas.",
+      "Desaceleración económica abrupta si se restringe la inversión en inteligencia artificial."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
