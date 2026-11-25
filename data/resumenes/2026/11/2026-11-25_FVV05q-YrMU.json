@@ -1,0 +1,126 @@
+{
+  "video_id": "FVV05q-YrMU",
+  "url": "https://www.youtube.com/watch?v=FVV05q-YrMU",
+  "titulo": "No se ven compradores, más allá cierre de cortos del lunes - Apertura  Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-25T06:48:21+00:00",
+  "fecha_resumen": "2026-11-25T08:46:43.916460+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza la debilidad de las bolsas tras el rebote inicial, destacando la fuerte presión vendedora que persiste en el sector tecnológico y de inteligencia artificial. Los comentarios de Donald Trump sobre Nvidia y Jensen Huang añaden incertidumbre regulatoria y de gobernanza corporativa, mientras los CDS de empresas ligadas a IA alcanzan niveles de tensión elevados. Además, los datos de Goldman Sachs confirman que el rebote del lunes se debió a cierres de cortos sin presencia de dinero comprador real, con fondos institucionales tradicionales manteniendo ventas netas.",
+    "ideas_clave": [
+      "La estadística histórica tras rebotes superiores al 5% en el Nasdaq 100 muestra que solo el 8% de las veces el índice está en positivo a tres sesiones, con una caída media del 5,4%.",
+      "Los comentarios de Trump sugiriendo una posible toma de participación pública en Nvidia e indultos a Jensen Huang generan desconfianza sobre la gobernanza y crean riesgo moral en las grandes tecnológicas.",
+      "Los Credit Default Swaps (CDS) reflejan tensión severa en el crédito vinculado a la IA: Oracle se sitúa en 363 puntos, SpaceX en 296 y Broadcom en 195.",
+      "Dell presentó buenos resultados por servidores de IA, pero advirtió que no atenderá pedidos si los clientes no demuestran acceso a capital, terreno y suministro eléctrico.",
+      "La mesa de Goldman Sachs constata la ausencia total de compradores defendiendo precios: las gestoras tradicionales operan como vendedoras netas y el mercado se mueve sin respaldo estructural.",
+      "En Asia se vivieron caídas agresivas, destacando la bolsa de Taiwán con desplomes de hasta el 8,5% intradía pese a tener prohibidas las ventas en corto.",
+      "En el análisis técnico del S&P 500 se identifica un soporte crítico cuantitativo en los 7.000 puntos y una fuerte franja de resistencia entre 7.250 y 7.300 puntos."
+    ],
+    "tesis_principal": "El rebote del mercado carece de soporte comprador estructural al estar impulsado únicamente por cierre de cortos, mientras los problemas de fondo en la financiación de la inteligencia artificial, las tensiones crediticias y las ventas de gestores a largo plazo mantienen la presión bajista.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Liquidez y crédito",
+      "Inflación",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nasdaq 100",
+      "S&P 500",
+      "Dow Jones",
+      "Russell 2000",
+      "DAX 40",
+      "Nikkei 225",
+      "Nvidia",
+      "Dell",
+      "Oracle",
+      "SpaceX",
+      "Broadcom",
+      "Anthropic",
+      "Bitcoin",
+      "Oro",
+      "Petróleo WTI",
+      "Bono EE. UU. 10 años",
+      "EUR/USD",
+      "USD/JPY"
+    ],
+    "sentimiento_general": "bajista",
+    "puntuacion_sentimiento": -0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Las dudas sobre financiación, el encarecimiento de los CDS y los límites físicos de electricidad y suelo lastran gravemente al sector."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "A pesar de cierta amplitud positiva en sectores tradicionales, los futuros caen y no aparecen compradores reales en las caídas."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.7,
+        "justificacion": "Los diferenciales de los CDS en tecnológicas alcanzan cotas equiparables a fases de estrés financiero severo."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "neutral",
+        "puntuacion": -0.2,
+        "justificacion": "Preocupación por el repunte del IPC en Australia de cara a la publicación del deflactor PCE en EE. UU."
+      },
+      {
+        "tema": "Análisis técnico",
+        "sentimiento": "neutral",
+        "puntuacion": -0.1,
+        "justificacion": "El S&P 500 intenta rebotar pero sigue muy lejos de su media de 200 y encajado entre el soporte de 7.000 y resistencias en 7.250-7.300."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Históricamente, tras un rebote del 5% en el Nasdaq, en las siguientes sesiones (a 3 días) hay un 92% de probabilidades estadísticas de estar en negativo con una caída media del 5,4%.",
+        "activo_o_variable": "Nasdaq 100",
+        "direccion": "baja",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La mesa de derivados descuenta para la sesión un movimiento de +/- 1,14% en cualquier dirección en el S&P 500.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "no aplica",
+        "horizonte": "sesión diaria",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Estadística de BTIG: 12 casos desde 1985 con rebote del 5% en el Nasdaq 100 muestran que solo el 17% sube al día siguiente y el 8% a tres sesiones.",
+      "El CDS de Oracle cotiza a 363 puntos básicos, niveles comparables a los bancos en la crisis de 2008.",
+      "Los CDS de SpaceX se sitúan en 296 puntos básicos y los de Broadcom en 195.",
+      "La correlación inversa entre los sectores que subieron el lunes y los que cayeron el martes fue de -0,82 según datos de RenMac.",
+      "El saldo en el cierre de mercado (MOC) fue comprador por 7.400 millones de dólares con un volumen total de 18.622 millones de acciones negociadas.",
+      "El IPC mensual de Australia repuntó del 4,3% al 4,9%.",
+      "Consenso del deflactor PCE de EE. UU.: interanual 3,83%, subyacente 3,24% y avance mensual del 0,29-0,30%."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de gobernanza corporativa e intervención estatal por declaraciones de Trump sobre Nvidia.",
+      "Riesgo de cuello de botella en infraestructuras de IA por falta de acceso a electricidad y terrenos.",
+      "Deterioro en el mercado de crédito corporativo reflejado en los CDS de empresas ligadas a tecnología.",
+      "Iliquidez y volatilidad por el festivo de Acción de Gracias en EE. UU.",
+      "Tensión geopolítica en Oriente Medio y conflicto entre Estados Unidos e Irán que podría reactivarse."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

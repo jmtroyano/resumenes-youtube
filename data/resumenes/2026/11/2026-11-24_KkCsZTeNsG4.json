@@ -1,0 +1,78 @@
+{
+  "video_id": "KkCsZTeNsG4",
+  "url": "https://www.youtube.com/watch?v=KkCsZTeNsG4",
+  "titulo": "Por qué la IA NO Podrá Sustituir Fácilmente estos NEGOCIOS",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-24T19:00:15+00:00",
+  "fecha_resumen": "2026-11-25T08:49:38.573223+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Xavier Brun analiza la tesis de inversión en corredores o brokers de seguros institucionales como Marsh McLennan y Brown & Brown, los cuales han sufrido caídas injustificadas de valoración por el temor del mercado a la disrupción de la inteligencia artificial. Brun defiende que estos negocios no se verán fácilmente sustituidos porque operan en un modelo basado en la confianza, la gestión de siniestros complejos y la alineación de incentivos donde el cliente corporativo no asume el coste directo. Por ello, considera una gran oportunidad de inversión que el sector haya pasado de múltiplos PER de 20-25 a cotizar en torno a 13-14 veces beneficios.",
+    "ideas_clave": [
+      "Los temores a que la inteligencia artificial desintermedie a los brokers de seguros han desplomado los múltiplos del sector de PER 20-25 a rangos de PER 10-14.",
+      "El broker de seguros institucional actúa entre la gran empresa y las aseguradoras; el servicio no lo paga el cliente corporativo de su bolsillo, sino que la aseguradora abona una comisión sobre la póliza.",
+      "Los gestores de riesgos en empresas (como Repsol o cadenas hoteleras) carecen de incentivos para prescindir del broker: delegar la gestión del siniestro y la negociación pericial les evita asumir el riesgo personal de ser despedidos ante un error o un infraseguro.",
+      "El coste de cambio de proveedor en grandes empresas es elevado debido a la relación de años, el conocimiento específico del negocio y la confianza depositada.",
+      "Brown & Brown, orientada a pequeñas y medianas empresas, ha sido la más castigada por la creencia de que las pymes usarán IA directamente, obviando que los empresarios tampoco quieren gestionar la complejidad de los siniestros.",
+      "Xavier Brun mantiene un peso de control de riesgo de aproximadamente un 5% en cada una de sus posiciones (como Marsh McLennan y Brown & Brown) para proteger la cartera de retrasos temporales o errores en la tesis."
+    ],
+    "tesis_principal": "Los brokers de seguros institucionales cuentan con fosos defensivos inexpugnables frente a la inteligencia artificial gracias a la relación de confianza, los altos costes de cambio y una estructura de incentivos donde el cliente prefiere delegar el riesgo y la gestión del siniestro en un tercero experto.",
+    "temas": [
+      "Value investing",
+      "Tecnología e inteligencia artificial",
+      "Bolsa EE. UU."
+    ],
+    "activos_mencionados": [
+      "Brown & Brown",
+      "Marsh McLennan",
+      "Aon",
+      "Arthur J. Gallagher",
+      "Willis Towers Watson",
+      "Repsol"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.7,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Value investing",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Considera que los brokers de seguros cotizan a valoraciones muy atractivas (PER 13-14) castigados por miedos infundados del mercado."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Afirma que la IA no logrará sustituir modelos de negocio basados en la confianza humana y la gestión de responsabilidades complejas."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Visión positiva sobre la cotización futura de las compañías del sector de correduría de seguros estadounidense."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "Las valoraciones de los brokers cayeron desde un PER de entre 20 y 25 veces hasta múltiplos de entre 10 y 14 veces debido a la narrativa de disrupción por la IA.",
+      "Compañías como Tuio y startups tecnológicas provocaron caídas puntuales de hasta el 10% en bolsa para todo el sector de corretaje.",
+      "El broker cobra habitualmente un porcentaje (por ejemplo, en torno al 1-2%) del importe de la póliza directamente de la aseguradora, por lo que el cliente final percibe el servicio como 'gratuito'.",
+      "Marsh McLennan trabaja prestando servicio a las 500 mayores compañías a nivel global."
+    ],
+    "riesgos_mencionados": [
+      "Error en la tesis de inversión respecto a la resistencia del negocio a largo plazo.",
+      "Riesgo de que la tesis tarde más tiempo del previsto en materializarse y que el mercado prolongue el castigo de valoración.",
+      "Riesgo de infraseguro o negligencia operativa en la gestión de pólizas empresariales."
+    ],
+    "participantes": [
+      "Xavier Brun"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
