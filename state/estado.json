@@ -686,6 +686,56 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 1,
    "en_cola_desde": "2026-11-24T23:55:45.252390+00:00"
+  },
+  {
+   "video_id": "bYRQH0waMFk",
+   "titulo": "Cómo aprendería a Invertir de 0 en 2026",
+   "url": "https://www.youtube.com/watch?v=bYRQH0waMFk",
+   "publicado": "2026-11-25T19:00:14+00:00",
+   "canal": "Los Locos de Wall Street",
+   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
+  },
+  {
+   "video_id": "3BaRUK5R8ZE",
+   "titulo": "Después de 20 Años INVIRTIENDO Así HA CAMBIADO mi Forma de ANALIZAR EMPRESAS | Paco Lodeiro",
+   "url": "https://www.youtube.com/watch?v=3BaRUK5R8ZE",
+   "publicado": "2026-11-25T13:21:24+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
+  },
+  {
+   "video_id": "GYjx3sYdo_I",
+   "titulo": "Causas bajadas explicadas - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=GYjx3sYdo_I",
+   "publicado": "2026-11-25T17:05:47+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
+  },
+  {
+   "video_id": "C8iLEJFmhiw",
+   "titulo": "Nasdaq pierde todo lo ganado el día del rebote - Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=C8iLEJFmhiw",
+   "publicado": "2026-11-25T13:08:54+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
+  },
+  {
+   "video_id": "FH1xHnOsNqY",
+   "titulo": "¿Trump le tiene cogido? José Luis Cava",
+   "url": "https://www.youtube.com/watch?v=FH1xHnOsNqY",
+   "publicado": "2026-11-25T13:52:50+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
   }
  ],
  "fallidos": {
