@@ -688,23 +688,13 @@
    "en_cola_desde": "2026-11-24T23:55:45.252390+00:00"
   },
   {
-   "video_id": "bYRQH0waMFk",
-   "titulo": "Cómo aprendería a Invertir de 0 en 2026",
-   "url": "https://www.youtube.com/watch?v=bYRQH0waMFk",
-   "publicado": "2026-11-25T19:00:14+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
-  },
-  {
    "video_id": "3BaRUK5R8ZE",
    "titulo": "Después de 20 Años INVIRTIENDO Así HA CAMBIADO mi Forma de ANALIZAR EMPRESAS | Paco Lodeiro",
    "url": "https://www.youtube.com/watch?v=3BaRUK5R8ZE",
    "publicado": "2026-11-25T13:21:24+00:00",
    "canal": "Inversión Racional",
    "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 1,
+   "intentos": 2,
    "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
   },
   {
@@ -736,6 +726,46 @@
    "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
    "intentos": 2,
    "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
+  },
+  {
+   "video_id": "ZumNie9f8C0",
+   "titulo": "Crédito no se da por aludido de la vuelta al alza - Cierre Cárpatos",
+   "url": "https://www.youtube.com/watch?v=ZumNie9f8C0",
+   "publicado": "2026-11-26T16:29:51+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
+  },
+  {
+   "video_id": "iFuoGC2Uto8",
+   "titulo": "7250 resistencia clave SP500 -  Media sesión Cárpatos",
+   "url": "https://www.youtube.com/watch?v=iFuoGC2Uto8",
+   "publicado": "2026-11-26T12:53:32+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
+  },
+  {
+   "video_id": "EtjN0ABL_ig",
+   "titulo": "¿Por que se dio la vuelta al alza WS? - Apertura Cárpatos",
+   "url": "https://www.youtube.com/watch?v=EtjN0ABL_ig",
+   "publicado": "2026-11-26T08:34:56+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 0,
+   "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
+  },
+  {
+   "video_id": "ZQ3KrNYQMBE",
+   "titulo": "Nos Están Amenazando",
+   "url": "https://www.youtube.com/watch?v=ZQ3KrNYQMBE",
+   "publicado": "2026-11-26T11:12:23+00:00",
+   "canal": "José Luis Cava (Bolsacava)",
+   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
   }
  ],
  "fallidos": {
@@ -787,7 +817,8 @@
   "2myE9zWo3jc": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
   "E9CxLV8TWx4": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "jWSBR7rHowo": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "KMpJeDh3q8Y": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  "KMpJeDh3q8Y": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "bYRQH0waMFk": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }
