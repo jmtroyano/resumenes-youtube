@@ -1,0 +1,131 @@
+{
+  "video_id": "ZumNie9f8C0",
+  "url": "https://www.youtube.com/watch?v=ZumNie9f8C0",
+  "titulo": "Crédito no se da por aludido de la vuelta al alza - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-26T16:29:51+00:00",
+  "fecha_resumen": "2026-11-27T01:52:00.353303+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En una jornada festiva en Wall Street con baja liquidez, los mercados europeos y los futuros estadounidenses rebotaron tras las fuertes caídas previas. Sin embargo, el mercado de crédito no acompañó esta subida, mostrando un fuerte deterioro en los Credit Default Swaps (CDS) de empresas tecnológicas y 'hyperscalers'. A la par de nuevos rumores y presiones regulatorias sobre Nvidia, se analizan las previsiones a largo plazo de Michael Hartnett (BofA), quien alerta de un agotamiento del capex de inteligencia artificial y una desaceleración de beneficios.",
+    "ideas_clave": [
+      "El rebote bursátil de la sesión previa se atribuye a un brusco estrangulamiento de posiciones cortas en empresas 'neocloud' (algunas con más del 40% de cortos) apoyado por el cierre de cortos de Michael Burry en un mercado sin liquidez.",
+      "El mercado de crédito y bonos no validó el rebote de la bolsa: los CDS de tecnológicas como Oracle (371 pb), Google y Nvidia tocaron máximos, mientras que CoreWeave alcanzó los 1.453 pb, señalando una probabilidad de impago estimada en torno al 70%.",
+      "Nvidia continúa en el foco de tensión por el veto de exportaciones a países del sudeste asiático, investigaciones a su socia Super Micro Computer y rumores periodísticos sobre posibles intervenciones del gobierno estadounidense.",
+      "Michael Hartnett (BofA) plantea tres escenarios para el S&P 500: central en 7.777 (+7,5%), bajista en 6.666 (-7,9%) y burbuja IA en 8.888 (+22,8%).",
+      "Hartnett se desmarca del consenso previendo un crecimiento del BPA mundial inferior al 10% para 2027 frente al 17% que espera el mercado, argumentando que el capex de IA y el impulso de rentas altas tocarán techo.",
+      "En el plano técnico, el futuro del S&P 500 dibuja una vela pinbar alcista en gráfico diario, con resistencia clave en la zona 7.250-7.300 y soporte fundamental en los 7.000 puntos."
+    ],
+    "tesis_principal": "El rebote de las bolsas carece de solidez fundamental al no estar respaldado por el mercado de crédito, donde los seguros contra impago (CDS) de tecnológicas están en máximos de tensión crediticia en un contexto de dudas sobre la rentabilidad del capex de inteligencia artificial.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Liquidez y crédito",
+      "Tecnología e inteligencia artificial",
+      "Semiconductores",
+      "Bonos y renta fija",
+      "BCE y tipos de interés Europa",
+      "Oro y metales",
+      "Análisis técnico"
+    ],
+    "activos_mencionados": [
+      "Nvidia",
+      "Super Micro Computer",
+      "Oracle",
+      "CoreWeave",
+      "S&P 500",
+      "Nasdaq 100",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Bund alemán",
+      "Plata",
+      "Petróleo",
+      "Oro"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": -0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "muy bajista",
+        "puntuacion": -0.8,
+        "justificacion": "Los diferenciales de los CDS en tecnológicas e hiperescaladores se disparan a niveles críticos, ignorando por completo el rebote bursátil."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Incertidumbre regulatoria en torno a Nvidia y previsiones de freno en el crecimiento del capex en IA hacia 2027."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Se observa un rebote técnico con vela pinbar a corto plazo, pero empañado por la falta de volumen y la divergencia con el crédito."
+      },
+      {
+        "tema": "BCE y tipos de interés Europa",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Las actas del BCE revelaron que se llegó a debatir una subida de tipos en octubre, presionando a la baja el precio de los bonos europeos."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "La plata experimenta un desplome acumulado cercano al 70% desde máximos históricos, dañando gravemente al sector."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Escenario central de Bank of America (Michael Hartnett) sitúa al S&P 500 en 7.777 puntos",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El crecimiento del beneficio por acción mundial (MSCI ACWI) será inferior al 10% en 2027",
+        "activo_o_variable": "BPA MSCI ACWI",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Los bonos y la bolsa de China experimentarán una vuelta alcista hacia 2027",
+        "activo_o_variable": "Bonos y Bolsa de China",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "Si el futuro del S&P 500 supera los 7.260 puntos, se dirigirá a buscar resistencias en 7.310 y 7.388-7.422",
+        "activo_o_variable": "Futuro S&P 500",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Empresas 'neocloud' contaban con posiciones cortas acumuladas de entre el 40% y el 44% de su capital flotante antes del estrangulamiento de ayer.",
+      "El CDS a 5 años de Oracle subió a 371 pb (niveles comparables a la banca en la crisis de 2008) y el de CoreWeave cotiza a 1.453 pb, lo que implica pagar 1,45 millones anuales para cubrir 10 millones de deuda.",
+      "El consenso de mercado espera un incremento del 17% del beneficio por acción para el MSCI ACWI, frente a menos del 10% estimado por Bank of America.",
+      "El sector de automoción europeo avanzó un 2,89% tras diluirse el temor inicial a la magnitud de los aranceles de Trump."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de insolvencia o impago descontado por el mercado de CDS en compañías de computación e infraestructura en la nube.",
+      "Intervención gubernamental o daño reputacional y comercial sobre Nvidia tras investigaciones y audiencias parlamentarias.",
+      "Freno abrupto en las inversiones de capital (capex) destinadas a centros de datos e inteligencia artificial.",
+      "Tensiones geopolíticas al alza en Oriente Medio centradas en la situación con Irán."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

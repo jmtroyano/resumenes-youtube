@@ -1,0 +1,135 @@
+{
+  "video_id": "ZQ3KrNYQMBE",
+  "url": "https://www.youtube.com/watch?v=ZQ3KrNYQMBE",
+  "titulo": "Nos Están Amenazando",
+  "canal": "José Luis Cava (Bolsacava)",
+  "handle": "@JoseLuisCavatv",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "análisis técnico",
+  "fecha_publicacion": "2026-11-26T11:12:23+00:00",
+  "fecha_resumen": "2026-11-27T01:54:25.554254+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cava cuestiona la narrativa dominante del mercado que anticipa agresivas subidas de tipos de interés por parte de la Reserva Federal. Argumenta que el coste energético global ha caído cerca de un 25% y que las expectativas de inflación a cinco años han descendido a la zona del 2,23%, lo que obligará a la Fed a frenar o rectificar su sesgo restrictivo. Además, los masivos vencimientos de deuda pública estadounidense y la deflación en China forzarán inyecciones de liquidez y estímulos fiscales. Ante este escenario, Cava plantea una estrategia en renta fija centrada en el tramo de bonos del Tesoro de EE. UU. a dos años mediante el ETF IBTA.",
+    "ideas_clave": [
+      "Cuestionamiento de la narrativa de la Fed: Cava discrepa de las advertencias del FOMC sobre subidas de 50 puntos básicos, argumentando que se basan en datos de inflación pasados.",
+      "Fuerte caída del coste energético total: La combinación de descensos en el crudo Brent (11-13%), tarifas de fletes marítimos, primas de seguros de guerra y márgenes de refino supone un ahorro energético agregado de aproximadamente el 25% desde los máximos de octubre.",
+      "Desplome de las expectativas de inflación: Las expectativas de inflación media a 5 años del mercado han retrocedido desde el 2,7% hasta el 2,23%.",
+      "Muro de vencimientos de deuda pública en EE. UU.: Con una vida media de la deuda de 5,9 años y una deuda nacional que se aproxima a los 41 billones de dólares, el Tesoro necesitará refinanciar emisiones masivas, lo que obligará a la Fed a proveer liquidez.",
+      "Necesidad de estímulos en China: Con la rentabilidad del bono chino a 10 años cayendo por debilidad interna y deflación, se anticipa un paquete de estímulo fiscal chino del 2% al 3% del PIB (unos 500.000 millones de dólares) financiado con deuda que comprará el banco central.",
+      "Estrategia de inversión en renta fija: Cava apuesta por el tramo de 2 años de la deuda estadounidense, señalando que la rentabilidad encuentra fuerte resistencia en la zona del 5% al 5,3% y no superará el 6%.",
+      "Implementación mediante ETF: Invierte en el ETF iShares USD Treasury Bond 1-3yr (IBTA), con vencimiento medio ponderado de 1,79 años y TER del 0,07%, advirtiendo del riesgo del tipo de cambio dólar/euro."
+    ],
+    "tesis_principal": "La caída de los costes energéticos y de las expectativas de inflación, junto a las necesidades de liquidez por el vencimiento de deuda en EE. UU. y la debilidad china, forzarán una relajación de la política monetaria, haciendo muy atractiva la inversión en el tramo corto de renta fija estadounidense (bonos a 2 años).",
+    "temas": [
+      "Fed y tipos de interés EE. UU.",
+      "Bonos y renta fija",
+      "Inflación",
+      "Deuda pública y déficit",
+      "Energía y petróleo",
+      "Liquidez y crédito",
+      "China",
+      "Fondos indexados y ETFs",
+      "Dólar y divisas"
+    ],
+    "activos_mencionados": [
+      "Crudo Brent",
+      "Índice Dólar (DXY)",
+      "Bono del Tesoro EE. UU. a 2 años",
+      "Bono del Tesoro EE. UU. a 10 años",
+      "Bono soberano de China a 10 años",
+      "iShares USD Treasury Bond 1-3yr UCITS ETF (IBTA)"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Considera que los rendimientos de la deuda estadounidense a 2 años toparán con resistencias y descenderán, revalorizando los bonos."
+      },
+      {
+        "tema": "Fed y tipos de interés EE. UU.",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Prevé que la Fed tendrá que rectificar o frenar sus subidas debido a la moderación inflacionaria y al riesgo de desaceleración."
+      },
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "bajista",
+        "puntuacion": -0.6,
+        "justificacion": "Detalla la caída simultánea del precio del crudo, fletes, seguros y márgenes de refino."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Las expectativas de inflación del mercado han caído notablemente hasta el 2,23%."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Sufre deflación y debilidad en la demanda interna, lo que forzará estímulos masivos."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.4,
+        "justificacion": "Apunta a que un cambio de expectativas de tipos por parte de la Fed favorecería un rebote en las bolsas."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La rentabilidad de las notas del Tesoro de EE. UU. a 2 años no superará la resistencia clave del 6% y probablemente se moverá a la baja o en lateral tras tocar el 5,0%-5,3%.",
+        "activo_o_variable": "Rentabilidad bono EE. UU. 2 años",
+        "direccion": "baja",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El ETF IBTA (iShares USD Treasury Bond 1-3yr) romperá su movimiento lateral para iniciar un nuevo tramo alcista.",
+        "activo_o_variable": "ETF IBTA",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El gobierno de China tendrá que anunciar un paquete de estímulo fiscal equivalente al 2%-3% de su PIB (aproximadamente 0,5 billones de dólares).",
+        "activo_o_variable": "Estímulo fiscal de China",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "El índice dólar no desarrollará una fuerte tendencia bajista y se moverá lateral tras acercarse al nivel de 105.",
+        "activo_o_variable": "Índice Dólar (DXY)",
+        "direccion": "lateral",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Caída del 11%-13% en el crudo Brent desde los máximos de comienzos de octubre.",
+      "El coste energético global (petróleo, fletes, primas de seguros marítimos y margen de refino) se ha reducido aproximadamente un 25%.",
+      "Las expectativas de inflación a 5 años en EE. UU. han bajado del 2,7% al 2,23%.",
+      "El vencimiento medio de la deuda pública de EE. UU. se sitúa en 5,9 años.",
+      "El reloj de la deuda pública estadounidense proyecta una cifra que se acerca a los 41 billones de dólares.",
+      "La rentabilidad del bono a 2 años de EE. UU. enfrenta resistencia gráfica en 5,0%-5,3%.",
+      "El ETF IBTA presenta una duración efectiva de 1,79 años y una comisión de gestión del 0,07% anual sin reparto de dividendos."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de divisa dólar/euro en el ETF IBTA para inversores europeos si el dólar se deprecia fuertemente.",
+      "Riesgo de error de política monetaria si la Fed sube tipos sobre datos desfasados y estrangula el crecimiento.",
+      "Necesidad de utilizar órdenes de stop de pérdidas incluso al operar con activos de renta fija."
+    ],
+    "participantes": [
+      "José Luis Cava"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

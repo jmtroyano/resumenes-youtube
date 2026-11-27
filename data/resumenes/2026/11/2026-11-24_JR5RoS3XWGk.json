@@ -1,0 +1,136 @@
+{
+  "video_id": "JR5RoS3XWGk",
+  "url": "https://www.youtube.com/watch?v=JR5RoS3XWGk",
+  "titulo": "Jensen Huang Vuelve como CEO y Los Mercados Vuelan",
+  "canal": "Los Locos de Wall Street",
+  "handle": "@locosdewallstreet",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-24T21:09:42+00:00",
+  "fecha_resumen": "2026-11-27T01:59:07.538815+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "En este consultorio bursátil de Los Locos de Wall Street, los analistas debaten sobre la volatilidad reciente en los mercados tecnológicos y las noticias en torno a Nvidia y Jensen Huang. Repasan ampliamente el sector de materias primas y energía, mostrando una postura constructiva en petróleo, oro, mineras y sector offshore. Finalmente, responden a cuestiones sobre asignación de capital, gestión de pérdidas y defienden la inversión en valor frente a pagar múltiplos excesivos por empresas de calidad.",
+    "ideas_clave": [
+      "Albert Millan mantiene una visión estructuralmente alcista en el petróleo y proyecta que el barril de Brent alcanzará los 100 dólares debido a que el conflicto geopolítico con Irán no se resolverá a corto plazo.",
+      "En mineras de oro y cobre, Albert aconseja valorar los activos siempre a precios medios de ciclo y no a precios spot; destaca el valor de Dynacor (DNG) tras la oferta pública de adquisición (OPA) parcial al 10% a 5,75 dólares.",
+      "Petrobras presenta un plan estratégico sólido que prevé aumentar su producción en 300.000 barriles diarios para 2031 y repartir una rentabilidad por dividendo anual del 14-15% con el crudo a 70 dólares.",
+      "El sector de semiconductores de memoria (Micron, SanDisk, SK Hynix) empieza a ofrecer valor tras correcciones del 60-70%, cotizando cerca de 1 vez valor en libros pese al carácter cíclico del negocio.",
+      "En el sector cripto, Albert señala que la liquidez volverá con el eventual pivote de tipos de la Reserva Federal y destaca a Coinbase como el actor mejor posicionado por su condición de custodio institucional regulado.",
+      "Sobre gestión de cartera y toma de pérdidas, Antonio recalca que el éxito inversor no depende del porcentaje de acierto, sino de perder poco cuando se falla y maximizar los beneficios (multiplicar por 4 o 5) cuando se acierta.",
+      "En el debate de 'value' versus 'compounders', Albert defiende comprar barato por el margen de seguridad que protege de fuertes caídas de mercado, advirtiendo que los múltiplos exigentes en compañías de calidad eliminan dicha protección."
+    ],
+    "tesis_principal": "Las correcciones del mercado ofrecen oportunidades atractivas en sectores cíclicos castigados y materias primas (petróleo, gas, oro y memoria), donde el margen de seguridad y las valoraciones razonables siguen siendo la mejor defensa frente a la volatilidad macroeconómica y geopolítica.",
+    "temas": [
+      "Energía y petróleo",
+      "Oro y metales",
+      "Semiconductores",
+      "Tecnología e inteligencia artificial",
+      "Criptomonedas",
+      "Value investing",
+      "Geopolítica"
+    ],
+    "activos_mencionados": [
+      "Nvidia (NVDA)",
+      "Brent",
+      "WTI",
+      "Oro",
+      "Cobre",
+      "Dynacor Group (DNG)",
+      "Amerigo Resources (ARG)",
+      "Petrobras (PBR)",
+      "Kosmos Energy (KOS)",
+      "Golar LNG (GLNG)",
+      "FlatexDEGIRO",
+      "MicroStrategy (MSTR)",
+      "Coinbase (COIN)",
+      "Micron Technology (MU)",
+      "SanDisk (SNDK)",
+      "SK Hynix",
+      "Comcast (CMCSA)",
+      "Tenaz Energy",
+      "Harbour Energy",
+      "Gran Tierra Energy (GTE)",
+      "Freeport-McMoRan (FCX)"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.45,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Energía y petróleo",
+        "sentimiento": "alcista",
+        "puntuacion": 0.75,
+        "justificacion": "Ven asimetría positiva en el crudo debido a la tensión geopolítica con Irán y destacan los atractivos retornos y dividendos de petroleras como Petrobras."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Mantienen una postura alcista estructural en el oro por la depreciación de las divisas y ven valor en mineras valoradas a precios medios de ciclo."
+      },
+      {
+        "tema": "Semiconductores",
+        "sentimiento": "neutral",
+        "puntuacion": 0.2,
+        "justificacion": "Consideran que el ciclo de memorias comienza a ponerse a tiro tras caídas del 60-70%, cotizando a múltiplos en libros razonables."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Anticipan que un futuro pivote de la Fed devolverá la liquidez y ven a Coinbase como clara ganadora estructural."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Reafirman que comprar con margen de seguridad es la estrategia idónea para proteger el capital en momentos de incertidumbre y corrección."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "El precio del barril de petróleo Brent alcanzará los 100 dólares debido a que la situación con Irán no se solucionará a corto plazo.",
+        "activo_o_variable": "Petróleo Brent",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Petrobras aumentará su producción en 300.000 barriles al día de aquí a 2031 repartiendo un dividendo de entre el 14% y 15% a 70 dólares el barril.",
+        "activo_o_variable": "Petrobras",
+        "direccion": "sube",
+        "horizonte": "2031",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "El spin-off de la división de televisión por cable de Comcast en 2025 servirá como catalizador para expandir el múltiplo de valoración del negocio restante.",
+        "activo_o_variable": "Comcast (CMCSA)",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Dynacor recibió una oferta pública de compra mediante tender offer por el 10% de sus acciones a un precio de 5,75 dólares.",
+      "El plan estratégico de Petrobras estima un dividendo anualizado de 14-15% con el petróleo a 70 dólares por barril.",
+      "Compañías de memoria como SanDisk cotizan a aproximadamente 1 vez valor en libros con expectativas de beneficio por acción de 35 a 37 dólares tras caídas del 60-70%.",
+      "MicroStrategy llegó a cotizar por debajo de 1x mNAV (mínimo histórico respecto a su tenencia neta de Bitcoin).",
+      "La corrección del S&P 500 de la semana pasada supuso un movimiento estadístico de 4 desviaciones estándar (sigma)."
+    ],
+    "riesgos_mencionados": [
+      "Escalada de tensiones bélicas y geopolíticas en Oriente Medio que afecten el suministro y el transporte marítimo de materias primas.",
+      "Riesgos regulatorios y multas operativas en jurisdicciones emergentes como Perú (caso Dynacor) o Colombia (caso Gran Tierra / Ecopetrol).",
+      "Riesgo de absorción de capex y tensión en balances de empresas de transporte de gas licuado (Golar LNG) por financiación de nuevos buques con tipos de interés altos.",
+      "Peligro de pagar múltiplos excesivos en empresas de calidad y crecimiento sin margen de seguridad en entornos de tipos elevados."
+    ],
+    "participantes": [
+      "Albert Millan (@albertrjf)",
+      "Migue (@PaezFinance)",
+      "Antonio LWS"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -604,7 +604,10 @@
   "WTiyzEztsmA": "2026-11-24T02:26:27.552606+00:00",
   "FVV05q-YrMU": "2026-11-25T08:46:45.393731+00:00",
   "KkCsZTeNsG4": "2026-11-25T08:49:40.032514+00:00",
-  "TXy5KCnJ6sM": "2026-11-25T08:51:25.294407+00:00"
+  "TXy5KCnJ6sM": "2026-11-25T08:51:25.294407+00:00",
+  "ZumNie9f8C0": "2026-11-27T01:52:02.036081+00:00",
+  "ZQ3KrNYQMBE": "2026-11-27T01:54:28.457157+00:00",
+  "JR5RoS3XWGk": "2026-11-27T01:59:10.437093+00:00"
  },
  "cola": [
   {
@@ -668,16 +671,6 @@
    "en_cola_desde": "2026-11-24T13:51:03.381217+00:00"
   },
   {
-   "video_id": "JR5RoS3XWGk",
-   "titulo": "Jensen Huang Vuelve como CEO y Los Mercados Vuelan",
-   "url": "https://www.youtube.com/watch?v=JR5RoS3XWGk",
-   "publicado": "2026-11-24T21:09:42+00:00",
-   "canal": "Los Locos de Wall Street",
-   "clave_canal": "UCCVIYA5kpLvEToE8Gj8Fszw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-24T23:55:45.252390+00:00"
-  },
-  {
    "video_id": "bOlvftBVuyo",
    "titulo": "Como detectar fin de inestabilidad probable -  Cierre Cárpatos",
    "url": "https://www.youtube.com/watch?v=bOlvftBVuyo",
@@ -728,16 +721,6 @@
    "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
   },
   {
-   "video_id": "ZumNie9f8C0",
-   "titulo": "Crédito no se da por aludido de la vuelta al alza - Cierre Cárpatos",
-   "url": "https://www.youtube.com/watch?v=ZumNie9f8C0",
-   "publicado": "2026-11-26T16:29:51+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
-  },
-  {
    "video_id": "iFuoGC2Uto8",
    "titulo": "7250 resistencia clave SP500 -  Media sesión Cárpatos",
    "url": "https://www.youtube.com/watch?v=iFuoGC2Uto8",
@@ -758,14 +741,14 @@
    "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
   },
   {
-   "video_id": "ZQ3KrNYQMBE",
-   "titulo": "Nos Están Amenazando",
-   "url": "https://www.youtube.com/watch?v=ZQ3KrNYQMBE",
-   "publicado": "2026-11-26T11:12:23+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
+   "video_id": "s-vH0NeYPwY",
+   "titulo": "2 Empresas DESCONOCIDAS con un Enorme Potencial de Crecimiento",
+   "url": "https://www.youtube.com/watch?v=s-vH0NeYPwY",
+   "publicado": "2026-11-26T19:00:24+00:00",
+   "canal": "Inversión Racional",
+   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
    "intentos": 1,
-   "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
+   "en_cola_desde": "2026-11-27T01:45:58.503701+00:00"
   }
  ],
  "fallidos": {
