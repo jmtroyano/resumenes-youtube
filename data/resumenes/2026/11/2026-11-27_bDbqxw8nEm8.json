@@ -1,0 +1,128 @@
+{
+  "video_id": "bDbqxw8nEm8",
+  "url": "https://www.youtube.com/watch?v=bDbqxw8nEm8",
+  "titulo": "Indicadores rebote serio activándose - Cierre Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-27T17:13:10+00:00",
+  "fecha_resumen": "2026-11-27T23:32:19.447992+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "José Luis Cárpatos analiza el cierre semanal del mercado destacando la activación de indicadores cuantitativos de corto plazo que señalan la formación de un posible suelo o rebote relevante. Entre ellos sobresalen el oscilador McClellan, las desviaciones estándar sobre medias móviles y la señal de 'Estrés Crítico' de Bank of America, históricamente muy precisa. La sesión ha estado dominada por una fuerte subida en tecnología impulsada por medidas de apoyo en China, aunque con distorsiones por la escasa liquidez tras el festivo en EE. UU.",
+    "ideas_clave": [
+      "Varios indicadores de corto plazo apuntan a la formación de un suelo de mercado, incluyendo el oscilador McClellan y el modelo de 'Estrés Crítico' de Bank of America.",
+      "La señal de 'Estrés Crítico' de BofA se ha activado por 16ª vez desde 2013; en 15 de las ocasiones el mercado estaba a menos de un 5% de su suelo definitivo y la peor caída posterior en 10 sesiones rondó el -3%.",
+      "El índice de pánico de Goldman Sachs se sitúa en 9,8 sobre 10, nivel visto solo en las correcciones más graves desde 2007; históricamente, tras caídas del 10%, el S&P 500 sube una mediana del 4% a 3 meses y del 8% a 6 meses.",
+      "BofA sostiene que el ciclo actual de la IA se asemeja al año 1998 y no al pico del 2000, sugiriendo que la burbuja de la inteligencia artificial aún dispondría de recorrido.",
+      "El mercado de crédito y bonos no acompaña con la misma euforia al rebote de las bolsas, con inquietud por colocaciones de deuda tecnológica como los 4.500 millones de dólares de CoreWeave.",
+      "Cárpatos advierte prudencia antes de comprar cobre tras sus caídas, debido a la distorsión creada por la acumulación previa de inventarios en previsión de aranceles."
+    ],
+    "tesis_principal": "Múltiples indicadores técnicos y de sentimiento extremo sugieren que las bolsas están muy cerca de tocar suelo en el corto plazo e iniciar un rebote relevante, a pesar de que el crédito sigue mostrando cautela.",
+    "temas": [
+      "Bolsa EE. UU.",
+      "Análisis técnico",
+      "Tecnología e inteligencia artificial",
+      "Bonos y renta fija",
+      "Materias primas",
+      "China",
+      "Liquidez y crédito"
+    ],
+    "activos_mencionados": [
+      "S&P 500",
+      "Nasdaq",
+      "DAX 40",
+      "Euro Stoxx 50",
+      "Russell 2000",
+      "Nvidia",
+      "Apple",
+      "Tesla",
+      "Amazon",
+      "Meta",
+      "Alphabet",
+      "CoreWeave",
+      "Anthropic",
+      "Oro",
+      "Plata",
+      "Cobre",
+      "Petróleo",
+      "Bitcoin",
+      "Bono EE. UU. 10 años",
+      "Bono EE. UU. 30 años",
+      "EUR/USD",
+      "USD/JPY"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.2,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Señales técnicas y de pánico extremo sugieren agotamiento vendedor y alta probabilidad de rebote a corto plazo."
+      },
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Fuerte rebote del sector apoyado por China, pero contrastado con riesgos crediticios en firmas de IA y problemas corporativos en Nvidia."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "El mercado de deuda corporativa no secunda el optimismo de la renta variable y la falta de volumen distorsiona los precios."
+      },
+      {
+        "tema": "Bonos y renta fija",
+        "sentimiento": "bajista",
+        "puntuacion": -0.3,
+        "justificacion": "Ventas en los tramos largos y aumento de la rentabilidad del bono a 10 años por desactivación del activo refugio."
+      },
+      {
+        "tema": "Materias primas",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "El petróleo y el cobre muestran debilidad e incertidumbres, compensado por el rebote de metales preciosos como oro y plata."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "A corto plazo las bolsas podrían estar en el suelo definitivo de la corrección o como máximo a un 5% de distancia del mismo.",
+        "activo_o_variable": "S&P 500",
+        "direccion": "sube",
+        "horizonte": "corto plazo",
+        "conviccion_del_autor": "media"
+      },
+      {
+        "afirmacion": "La tesis de Bank of America apunta a que la tendencia alcista de la IA podría prolongarse siguiendo el patrón del Nasdaq de 1998.",
+        "activo_o_variable": "Nasdaq Composite",
+        "direccion": "sube",
+        "horizonte": "medio plazo",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "La señal de estrés crítico de BofA ha funcionado 15 de 16 veces marcando suelos a menos del 5% desde 2013, siendo la única excepción la crisis del COVID-19 en 2020 (-29,3%).",
+      "El índice de pánico de Goldman Sachs alcanzó 9,8 sobre 10 el 20 de noviembre.",
+      "El ratio Price/Sales de Apple ronda 11x frente a una media histórica más contenida, mientras que el de Nvidia se ha moderado a 10x tras haber tocado 45x.",
+      "El déficit comercial de EE. UU. se reportó en -149.500 millones frente a los -133.000 millones previstos.",
+      "La rentabilidad del bono del Tesoro estadounidense a 10 años subió al 4,93% desde el 4,80% previo."
+    ],
+    "riesgos_mencionados": [
+      "Escasa liquidez en el parqué por el puente festivo, lo que puede sobredimensionar los movimientos.",
+      "Colocación de 4.500 millones de dólares en deuda de CoreWeave que genera tensión en el mercado de crédito.",
+      "Divergencia entre la renta variable al alza y la falta de acompañamiento del mercado de crédito corporativo.",
+      "Tensiones geopolíticas en Oriente Medio y ataques a refinerías en Rusia.",
+      "Investigaciones sobre la venta clandestina de chips Blackwell de Nvidia en China a través de intermediarios."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "video_id": "_EXrL8waUYs",
+  "url": "https://www.youtube.com/watch?v=_EXrL8waUYs",
+  "titulo": "Las Grandes OPORTUNIDADES de Inversión en VIDEOJUEGOS Pese a la IA",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-27T19:00:30+00:00",
+  "fecha_resumen": "2026-11-27T23:30:42.099914+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Paco Lodeiro analiza las oportunidades de inversión en la industria de los videojuegos frente al avance disruptivo de la inteligencia artificial. Destaca que la IA reducirá las barreras de entrada pero potenciará la productividad de los estudios con talento. Apuesta por compañías protegidas por propiedad intelectual sólida como Nintendo y estudios especializados infravalorados como Bloober Team.",
+    "ideas_clave": [
+      "La inteligencia artificial generativa reducirá drásticamente las barreras de entrada en el sector del videojuego, permitiendo a personas individuales crear títulos decentes o de nicho.",
+      "A pesar de la IA, los estudios consolidados con talento verán mejorada su capacidad técnica y creativa para desarrollar juegos superiores.",
+      "Nintendo cuenta con un foso defensivo basado en su propiedad intelectual y la confianza familiar, expandiéndose a cine y parques temáticos al estilo de Disney.",
+      "Paco Lodeiro tiene en cartera Bloober Team, estudio polaco especializado en terror psicológico (remake de Silent Hill 2 y próximo Silent Hill 1), que cotiza a unas 10 veces beneficios.",
+      "El sector de los videojuegos no depende del ciclo macroeconómico general, sino de sus propios ciclos de producto y lanzamientos clave como GTA."
+    ],
+    "tesis_principal": "El auge de la inteligencia artificial no destruirá el valor en el sector de los videojuegos si se invierte en compañías con franquicias y propiedad intelectual inexpugnables o en estudios con talento creativo diferencial a valoraciones atractivas.",
+    "temas": [
+      "Tecnología e inteligencia artificial",
+      "Value investing",
+      "Small caps"
+    ],
+    "activos_mencionados": [
+      "Nintendo",
+      "Bloober Team",
+      "Konami",
+      "Take-Two Interactive / Rockstar Games",
+      "The Walt Disney Company"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.6,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Supone un riesgo al derribar barreras de entrada e inducir ingeniería inversa, pero es una herramienta catalizadora para los desarrolladores de calidad."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Se identifican oportunidades a múltiplos atractivos (PER 10x en Bloober Team) y con fosos defensivos claros como la propiedad intelectual en Nintendo."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "Una sola persona va a poder crear juegos de nicho o videojuegos muy decentes gracias a la inteligencia artificial.",
+        "activo_o_variable": "Desarrollo de videojuegos e IA",
+        "direccion": "sube",
+        "horizonte": "no especificado",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Bloober Team sacará el remake de Silent Hill 1 el próximo año.",
+        "activo_o_variable": "Bloober Team / Silent Hill 1",
+        "direccion": "no aplica",
+        "horizonte": "1 año",
+        "conviccion_del_autor": "alta"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Google y otras tecnológicas están lanzando modelos de IA capaces de crear mundos virtuales hiperrealistas e interactivos al instante.",
+      "Bloober Team cotiza a un múltiplo aproximado de 10 veces beneficios (PER 10).",
+      "Silent Hill 2 remake supuso un gran éxito comercial y de crítica financiado por Konami.",
+      "El videojuego tiene una resiliencia contracíclica: ante una recesión económica, el consumidor sigue gastando menos de 100 euros por cientos de horas de entretenimiento (ejemplo de GTA)."
+    ],
+    "riesgos_mencionados": [
+      "Pérdida de barreras de entrada competitivas por la democratización de herramientas de IA.",
+      "Riesgo de ingeniería inversa mediante IA para replicar código o videojuegos antes de sus lanzamientos oficiales.",
+      "Pérdida del componente social y cultural compartido si se abusa de contenidos hiperpersonalizados por IA.",
+      "Riesgo de ejecución y dependencia del talento creativo propio de la industria del entretenimiento."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Paco Lodeiro"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
