@@ -611,7 +611,8 @@
   "_EXrL8waUYs": "2026-11-27T23:30:43.421500+00:00",
   "bDbqxw8nEm8": "2026-11-27T23:32:20.802535+00:00",
   "7XzJzPiiLEA": "2026-11-28T07:59:16.585970+00:00",
-  "s-vH0NeYPwY": "2026-11-28T08:13:07.216220+00:00"
+  "s-vH0NeYPwY": "2026-11-28T08:13:07.216220+00:00",
+  "3BaRUK5R8ZE": "2026-11-28T17:46:29.437716+00:00"
  },
  "cola": [
   {
@@ -675,16 +676,6 @@
    "en_cola_desde": "2026-11-24T23:55:45.252390+00:00"
   },
   {
-   "video_id": "3BaRUK5R8ZE",
-   "titulo": "Después de 20 Años INVIRTIENDO Así HA CAMBIADO mi Forma de ANALIZAR EMPRESAS | Paco Lodeiro",
-   "url": "https://www.youtube.com/watch?v=3BaRUK5R8ZE",
-   "publicado": "2026-11-25T13:21:24+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
-  },
-  {
    "video_id": "GYjx3sYdo_I",
    "titulo": "Causas bajadas explicadas - Cierre Cárpatos",
    "url": "https://www.youtube.com/watch?v=GYjx3sYdo_I",
@@ -702,16 +693,6 @@
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 0,
-   "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
-  },
-  {
-   "video_id": "FH1xHnOsNqY",
-   "titulo": "¿Trump le tiene cogido? José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=FH1xHnOsNqY",
-   "publicado": "2026-11-25T13:52:50+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
-   "intentos": 2,
    "en_cola_desde": "2026-11-25T19:22:12.034456+00:00"
   },
   {
@@ -743,6 +724,16 @@
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
    "intentos": 2,
    "en_cola_desde": "2026-11-27T12:34:44.900229+00:00"
+  },
+  {
+   "video_id": "BDt9ZMxJUyQ",
+   "titulo": "Gobiernos rescatan bolsas - Las 4 claves de la semana Cárpatos",
+   "url": "https://www.youtube.com/watch?v=BDt9ZMxJUyQ",
+   "publicado": "2026-11-28T11:26:41+00:00",
+   "canal": "José Luis Cárpatos",
+   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
+   "intentos": 1,
+   "en_cola_desde": "2026-11-28T17:36:47.810649+00:00"
   }
  ],
  "fallidos": {
@@ -798,7 +789,9 @@
   "bYRQH0waMFk": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "12-gmPITWyE": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "Vvf7XraXD1c": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "L_q7QbxBYhg": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  "L_q7QbxBYhg": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+  "fukI-XY3V8o": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "FH1xHnOsNqY": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
  },
  "aviso_config": null
 }

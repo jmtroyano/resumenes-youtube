@@ -1,0 +1,139 @@
+{
+  "video_id": "3BaRUK5R8ZE",
+  "url": "https://www.youtube.com/watch?v=3BaRUK5R8ZE",
+  "titulo": "Después de 20 Años INVIRTIENDO Así HA CAMBIADO mi Forma de ANALIZAR EMPRESAS | Paco Lodeiro",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-25T13:21:24+00:00",
+  "fecha_resumen": "2026-11-28T17:46:26.192588+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Paco Lodeiro, inversor value y divulgador, analiza cómo la inteligencia artificial (usando modelos como Claude Opus) ha transformado radicalmente el trabajo de análisis de empresas, superando a analistas profesionales en velocidad y profundidad. Explica su evolución desde la inversión en calidad en grandes tecnológicas estadounidenses hacia el deep value en small caps internacionales (Hong Kong, Japón, Polonia, México) ante las altas valoraciones y el riesgo de disrupción por IA. Asimismo, detalla su estrategia patrimonial, centrada en renta variable, bitcoin y la adquisición de pymes tradicionales sin relevo generacional en España mediante esquemas de compra a múltiplos atractivos y vendor financing.",
+    "ideas_clave": [
+      "Paco Lodeiro afirma que los análisis que realiza actualmente asistido por IA (Claude Opus) son más exhaustivos y rápidos que el trabajo de semanas de un analista sénior, obligando a replantear la labor de análisis fundamental.",
+      "A pesar de la democratización de la información por la IA, Lodeiro sostiene que el mercado seguirá siendo irracional debido al factor psicológico humano, perpetuando burbujas y oportunidades de compra.",
+      "Ha reducido su peso histórico en grandes tecnológicas como Alphabet ante el riesgo de disrupción en los buscadores, los elevados márgenes en riesgo y el enorme Capex que están acometiendo los gigantes tecnológicos.",
+      "Defiende su posición en Constellation Software argumentando que sus costes de cambio son extremadamente altos ('sticky software') y que la orden interna de incorporar IA refuerza su ventaja competitiva sobre su base de clientes cautiva.",
+      "Encuentra las mejores oportunidades bursátiles actuales en deep value fuera de EE. UU., como BBB Foods en México, Nagacorp en Camboya (vía Hong Kong), ZIGExN en Japón y estudios de videojuegos como Nintendo, Bloober Team y TinyBuild.",
+      "Destaca la oportunidad generacional en España de comprar pymes no cotizadas rentables a fundadores que se jubilan sin sucesión, a múltiplos medios de 3 a 4 veces EBIT y estructuradas con financiación del vendedor (vendor finance).",
+      "Prefiere vivir de alquiler por puro coste de oportunidad, habiendo vendido su vivienda en 2022 tras la invasión rusa de Ucrania para aprovechar desplomes del 60% en renta variable polaca."
+    ],
+    "tesis_principal": "El inversor disciplinado debe adaptarse a la disrupción de la IA utilizándola como catalizador analítico, mientras rota capital desde empresas de gran capitalización con múltiplos exigentes hacia nichos 'deep value' poco seguidos (small caps internacionales y pymes sin relevo generacional), donde el margen de seguridad y las asimetrías de rentabilidad son notablemente superiores.",
+    "temas": [
+      "Value investing",
+      "Tecnología e inteligencia artificial",
+      "Small caps",
+      "Valoración de mercado y burbujas",
+      "China",
+      "Criptomonedas",
+      "Inmobiliario y vivienda",
+      "Fondos indexados y ETFs"
+    ],
+    "activos_mencionados": [
+      "Constellation Software",
+      "Alphabet / Google",
+      "Apple",
+      "Meta",
+      "Nvidia",
+      "Cisco Systems",
+      "Amazon",
+      "BBB Foods (TBB)",
+      "Nagacorp",
+      "ZIGExN",
+      "Nintendo",
+      "Bloober Team",
+      "TinyBuild",
+      "Grayscale Bitcoin Trust (GBTC)",
+      "Bitcoin",
+      "S&P 500",
+      "Nasdaq"
+    ],
+    "sentimiento_general": "neutral",
+    "puntuacion_sentimiento": 0.15,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Tecnología e inteligencia artificial",
+        "sentimiento": "neutral",
+        "puntuacion": 0.0,
+        "justificacion": "Reconoce su enorme potencial disruptivo pero advierte sobre el elevado Capex, múltiplos exigentes y la dificultad de prever quiénes serán los ganadores finales."
+      },
+      {
+        "tema": "Value investing",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.8,
+        "justificacion": "Considera que los principios del value investing siguen plenamente vigentes y ofrecen extraordinarias oportunidades en nichos deprimidos y small caps."
+      },
+      {
+        "tema": "Small caps",
+        "sentimiento": "muy alcista",
+        "puntuacion": 0.85,
+        "justificacion": "Ve en mercados como Japón, Hong Kong o Reino Unido oportunidades cotizando a menos de 10 veces flujo de caja libre con gran asimetría."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "alcista",
+        "puntuacion": 0.45,
+        "justificacion": "Cree que el miedo occidental a la inseguridad jurídica en China y Hong Kong está exagerado y deja activos de alta calidad a precios de derribo."
+      },
+      {
+        "tema": "Inmobiliario y vivienda",
+        "sentimiento": "bajista",
+        "puntuacion": -0.4,
+        "justificacion": "Considera que en España los inmuebles residenciales ofrecen un coste de oportunidad inasumible frente a las rentabilidades de la renta variable o compra de empresas."
+      },
+      {
+        "tema": "Criptomonedas",
+        "sentimiento": "alcista",
+        "puntuacion": 0.5,
+        "justificacion": "Mantiene exposición a Bitcoin tras haber aprovechado ineficiencias como el descuento del 50% en el fideicomiso GBTC."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "La irracionalidad humana y los ciclos de burbujas y pánicos continuarán en el mercado financiero con independencia de los avances en IA y trading algorítmico.",
+        "activo_o_variable": "Mercados financieros globales",
+        "direccion": "lateral",
+        "horizonte": "largo plazo",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La adquisición de microempresas y pymes sin relevo en España permitirá retornos sobre capital invertido superiores al 20%-30% anualizado.",
+        "activo_o_variable": "Pymes no cotizadas en España",
+        "direccion": "sube",
+        "horizonte": "5-10 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "Nagacorp recuperará y multiplicará su valoración a medida que concluya el proyecto Naga 3 y se normalice el flujo de turistas y jugadores chinos en el sudeste asiático.",
+        "activo_o_variable": "Nagacorp (Hong Kong)",
+        "direccion": "sube",
+        "horizonte": "4-5 años",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "Paco gestiona una cartera concentrada donde alrededor del 70%-80% de su patrimonio está en bolsa y el resto en empresas privadas no cotizadas y liquidez.",
+      "Muestra el caso del arbitraje en GBTC, que cotizaba con un descuento del 50% sobre el NAV y multiplicó rentabilidad al cerrarse la brecha con su conversión a ETF.",
+      "Explica que en pymes tradicionales en España se cierran compras a 3-4x EBIT, y al financiar parte con vendor finance en 2-3 años, el capital propio desembolsado obtiene retornos anuales de más del 20-30%.",
+      "Describe la inversión en TinyBuild, que tras desplomarse un 98% cotizaba a 20 millones de libras teniendo más del triple invertido en desarrollo y títulos situados en el Top 10 de deseadas en Steam como Kingmakers.",
+      "Destaca que ZIGExN en Japón cotiza a menos de 10 veces FCF y amortiza adquisiciones con un payback medio de 4,5 años."
+    ],
+    "riesgos_mencionados": [
+      "Riesgo de disrupción total o parcial por IA en modelos de negocio basados en búsquedas y software que no tengan fuertes barreras de entrada o costes de cambio.",
+      "Riesgo de sobreinversión en Capex por parte de las grandes tecnológicas sin visibilidad clara del retorno del capital.",
+      "Inseguridad jurídica y riesgo regulatorio retroactivo en diversos países (menciona casos de gas y renovables en Europa, así como intervenciones en China).",
+      "Dificultad crítica en la gestión de pymes adquiridas: encontrar directores/gerentes competentes y alinear incentivos adecuadamente tras la salida del fundador.",
+      "Ciclicidad y falta de liquidez en small caps y acciones 'deep value' (como equipos de fútbol cotizados con amplios spreads entre oferta y demanda)."
+    ],
+    "participantes": [
+      "Luis Miguel Ortiz",
+      "Paco Lodeiro"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
