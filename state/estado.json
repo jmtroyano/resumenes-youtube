@@ -609,7 +609,9 @@
   "ZQ3KrNYQMBE": "2026-11-27T01:54:28.457157+00:00",
   "JR5RoS3XWGk": "2026-11-27T01:59:10.437093+00:00",
   "_EXrL8waUYs": "2026-11-27T23:30:43.421500+00:00",
-  "bDbqxw8nEm8": "2026-11-27T23:32:20.802535+00:00"
+  "bDbqxw8nEm8": "2026-11-27T23:32:20.802535+00:00",
+  "7XzJzPiiLEA": "2026-11-28T07:59:16.585970+00:00",
+  "s-vH0NeYPwY": "2026-11-28T08:13:07.216220+00:00"
  },
  "cola": [
   {
@@ -733,44 +735,14 @@
    "en_cola_desde": "2026-11-26T16:59:35.163789+00:00"
   },
   {
-   "video_id": "s-vH0NeYPwY",
-   "titulo": "2 Empresas DESCONOCIDAS con un Enorme Potencial de Crecimiento",
-   "url": "https://www.youtube.com/watch?v=s-vH0NeYPwY",
-   "publicado": "2026-11-26T19:00:24+00:00",
-   "canal": "Inversión Racional",
-   "clave_canal": "UCcyKcWVyR-SiQxQhfKSPzNw",
-   "intentos": 2,
-   "en_cola_desde": "2026-11-27T01:45:58.503701+00:00"
-  },
-  {
    "video_id": "QoNYDgP5Ijg",
    "titulo": "China rescata su bolsa y anima a la tecnología - Apertura Cárpatos",
    "url": "https://www.youtube.com/watch?v=QoNYDgP5Ijg",
    "publicado": "2026-11-27T08:21:52+00:00",
    "canal": "José Luis Cárpatos",
    "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 1,
-   "en_cola_desde": "2026-11-27T12:34:44.900229+00:00"
-  },
-  {
-   "video_id": "L_q7QbxBYhg",
-   "titulo": "BITCOIN & ORO: ¿Tienen... TECHO? José Luis Cava",
-   "url": "https://www.youtube.com/watch?v=L_q7QbxBYhg",
-   "publicado": "2026-11-27T11:08:40+00:00",
-   "canal": "José Luis Cava (Bolsacava)",
-   "clave_canal": "UCvCCLJkQpRg0NdT3zNcI08A",
    "intentos": 2,
    "en_cola_desde": "2026-11-27T12:34:44.900229+00:00"
-  },
-  {
-   "video_id": "7XzJzPiiLEA",
-   "titulo": "China sigue propulsando a las bolsas, no al crédito - Media esión Cárpatos",
-   "url": "https://www.youtube.com/watch?v=7XzJzPiiLEA",
-   "publicado": "2026-11-27T14:18:16+00:00",
-   "canal": "José Luis Cárpatos",
-   "clave_canal": "UCmJL2llHf2tEcDAjaz-LFgQ",
-   "intentos": 0,
-   "en_cola_desde": "2026-11-27T23:29:51.129455+00:00"
   }
  ],
  "fallidos": {
@@ -825,7 +797,8 @@
   "KMpJeDh3q8Y": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "bYRQH0waMFk": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "12-gmPITWyE": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "Vvf7XraXD1c": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  "Vvf7XraXD1c": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "L_q7QbxBYhg": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
  },
  "aviso_config": null
 }

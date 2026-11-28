@@ -1,0 +1,99 @@
+{
+  "video_id": "7XzJzPiiLEA",
+  "url": "https://www.youtube.com/watch?v=7XzJzPiiLEA",
+  "titulo": "China sigue propulsando a las bolsas, no al crédito - Media esión Cárpatos",
+  "canal": "José Luis Cárpatos",
+  "handle": "@JoséLuisCárpatos",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "actualidad diaria",
+  "fecha_publicacion": "2026-11-27T14:18:16+00:00",
+  "fecha_resumen": "2026-11-28T07:59:15.017124+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Los planes de rescate y estímulos en China están impulsando al alza las bolsas internacionales y los futuros de Wall Street, liderados por sectores de tecnología y banca. En Europa, los datos de inflación en España y Francia han salido notablemente por debajo de lo esperado, favoreciendo el apetito por el riesgo bursátil. No obstante, los mercados de crédito corporativo muestran divergencia y no acompañan la euforia de la renta variable.",
+    "ideas_clave": [
+      "Los planes de rescate en China han provocado fuertes alzas en sus índices tecnológicos como el STAR50, contagiando positivamente a los futuros estadounidenses.",
+      "La inflación preliminar de noviembre sorprendió a la baja en España (4,1% frente al 4,7% esperado) y en Francia (3,2% frente al 3,7% previsto), aliviando las presiones sobre el BCE.",
+      "El sector bancario europeo avanza un 2,10% y el tecnológico un 2,18%, mientras que los sectores defensivos quedan rezagados.",
+      "El oro al contado y la plata mantienen fuertes subidas, avanzando el oro cerca del 2%.",
+      "A pesar del optimismo bursátil, el diferencial del crédito corporativo global (Global Agg Corporate OAS) se sitúa en 1,02 (máximos del año), reflejando que el mercado de crédito no valida las subidas bursátiles.",
+      "La estacionalidad de la semana de Acción de Gracias muestra un promedio de subida del 0,54% frente al 0,16% de semanas habituales, con un 68% de semanas positivas."
+    ],
+    "tesis_principal": "El impulso de las medidas de rescate chinas y la relajación de las presiones inflacionarias en Europa impulsan a la renta variable, aunque la falta de confirmación en el mercado de crédito corporativo invita a mantener la cautela.",
+    "temas": [
+      "China",
+      "Bolsa EE. UU.",
+      "Bolsa Europa",
+      "Inflación",
+      "Liquidez y crédito",
+      "Oro y metales",
+      "Bancos",
+      "Tecnología e inteligencia artificial"
+    ],
+    "activos_mencionados": [
+      "STAR50 Index",
+      "S&P 500",
+      "Nasdaq 100",
+      "DAX",
+      "Nvidia",
+      "Banco Santander",
+      "Oro",
+      "Plata",
+      "Bitcoin"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.5,
+    "sentimiento_por_tema": [
+      {
+        "tema": "China",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Las medidas y planes de rescate aplicados por Pekín están provocando fuertes rebotes en sus índices bursátiles."
+      },
+      {
+        "tema": "Bolsa EE. UU.",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Los futuros apuntan a una apertura fuertemente alcista con respaldo de la estacionalidad positiva de Acción de Gracias."
+      },
+      {
+        "tema": "Inflación",
+        "sentimiento": "alcista",
+        "puntuacion": 0.6,
+        "justificacion": "Los datos de IPC en España y Francia resultaron significativamente menores de lo previsto, favoreciendo expectativas de tipos más bajos."
+      },
+      {
+        "tema": "Liquidez y crédito",
+        "sentimiento": "bajista",
+        "puntuacion": -0.5,
+        "justificacion": "Los diferenciales de crédito corporativo están en máximos anuales (102 pb), mostrando desconfianza frente a las subidas de la renta variable."
+      },
+      {
+        "tema": "Oro y metales",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Tanto el oro como la plata registran fuertes avances, con el oro subiendo cerca de un 2%."
+      }
+    ],
+    "predicciones": [],
+    "datos_y_argumentos": [
+      "El índice chino STAR50 registra un repunte vertical tras noticias sobre preparativos de un equipo de rescate bursátil.",
+      "El IPC de España se situó en el 4,1% interanual frente al 4,7% esperado.",
+      "El IPC de Francia marcó 3,2% interanual frente al 3,7% estimado, aunque su PIB trimestral cayó un 0,2%.",
+      "El diferencial OAS del índice Bloomberg BB Global Agg Corporate se sitúa en 1,02 (102 puntos básicos), el nivel más exigente del año.",
+      "Históricamente, la semana de Acción de Gracias en el S&P 500 promedia una subida de +0,54% y un 68% de ocasiones en positivo en los últimos 50 años."
+    ],
+    "riesgos_mencionados": [
+      "Divergencia entre la renta variable y el crédito corporativo, donde los diferenciales siguen ampliándose.",
+      "Investigaciones y problemas regulatorios en torno a Nvidia por la aparición no autorizada de chips Blackwell en China.",
+      "Debilidad del crecimiento económico reflejada en la contracción del 0,2% del PIB de Francia en el tercer trimestre."
+    ],
+    "participantes": [
+      "José Luis Cárpatos"
+    ],
+    "nivel_conviccion": "media",
+    "es_contenido_de_mercados": true
+  }
+}

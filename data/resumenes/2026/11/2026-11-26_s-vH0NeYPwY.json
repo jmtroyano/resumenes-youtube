@@ -1,0 +1,95 @@
+{
+  "video_id": "s-vH0NeYPwY",
+  "url": "https://www.youtube.com/watch?v=s-vH0NeYPwY",
+  "titulo": "2 Empresas DESCONOCIDAS con un Enorme Potencial de Crecimiento",
+  "canal": "Inversión Racional",
+  "handle": "@InversionRacional",
+  "idioma_canal": "es",
+  "region": "España",
+  "tipo_canal": "tertulia",
+  "fecha_publicacion": "2026-11-26T19:00:24+00:00",
+  "fecha_resumen": "2026-11-28T08:13:05.672332+00:00",
+  "modelo": "gemini-3.8-flash",
+  "fuente": "video",
+  "resumen": {
+    "resumen_breve": "Paco Lodeiro analiza dos de las principales posiciones de su cartera en las que considera que el mercado no está prestando suficiente atención. La primera es BBB Foods, un modelo 'hard discount' en México con un crecimiento de ventas del 40% y replicando un éxito probado previamente en Turquía. La segunda es NagaCorp, un operador de casinos con monopolio territorial en Camboya que cotiza en Hong Kong a múltiplos muy atractivos de cara a su futura expansión.",
+    "ideas_clave": [
+      "Paco Lodeiro prioriza buscar oportunidades de inversión en nichos o geografías desatendidas por el consenso del mercado.",
+      "BBB Foods (TBBB) cotiza en EE. UU. y replica en México el exitoso modelo 'hard discount' que su fundador ejecutó previamente en Turquía.",
+      "El crecimiento de ingresos de BBB Foods ronda el 40%, registrando pérdidas netas temporales debido a la agresiva apertura de nuevas tiendas.",
+      "En BBB Foods la clave de valoración no reside en los múltiplos o márgenes actuales, sino en el volumen y rotación proyectados a un horizonte de 5 a 10 años.",
+      "NagaCorp opera un casino en Nom Pen (Camboya) con monopolio en un radio de 200 km y cotiza en la bolsa de Hong Kong a múltiplos normalizados por debajo de 10 veces flujo de caja libre.",
+      "El proyecto de expansión Naga 3 duplicará la capacidad del casino en los próximos 4 o 5 años, beneficiándose del crecimiento del Sudeste Asiático y la recuperación del turismo chino.",
+      "Frente al temor por la seguridad jurídica en Hong Kong o Asia, Lodeiro señala que en Occidente también existe riesgo regulatorio, citando el impuesto extraordinario retroactivo al gas en Europa que afectó a Kistos."
+    ],
+    "tesis_principal": "Invertir en empresas con modelos probados y ventajas competitivas claras en geografías poco seguidas, como BBB Foods en México o NagaCorp en Camboya, ofrece un potencial de rentabilidad asimétrico a 5-10 años frente a las valoraciones convencionales a corto plazo.",
+    "temas": [
+      "Value investing",
+      "Mercados emergentes",
+      "China",
+      "Valoración de mercado y burbujas",
+      "Resultados empresariales"
+    ],
+    "activos_mencionados": [
+      "Constellation Software",
+      "BBB Foods (TBBB)",
+      "NagaCorp (3918.HK)",
+      "Kistos"
+    ],
+    "sentimiento_general": "alcista",
+    "puntuacion_sentimiento": 0.65,
+    "sentimiento_por_tema": [
+      {
+        "tema": "Value investing",
+        "sentimiento": "alcista",
+        "puntuacion": 0.7,
+        "justificacion": "Lodeiro defiende proyectar flujos y valoraciones a 5-10 años en negocios con fuerte crecimiento y ventajas competitivas duraderas."
+      },
+      {
+        "tema": "Mercados emergentes",
+        "sentimiento": "alcista",
+        "puntuacion": 0.75,
+        "justificacion": "Observa un enorme dinamismo y oportunidades a valoraciones atractivas tanto en México como en el Sudeste Asiático."
+      },
+      {
+        "tema": "China",
+        "sentimiento": "neutral",
+        "puntuacion": 0.1,
+        "justificacion": "Reconoce la debilidad en el consumo ('resaca china'), pero prevé que a medio plazo su recuperación impulse los casinos y turismo regional."
+      }
+    ],
+    "predicciones": [
+      {
+        "afirmacion": "BBB Foods mantendrá un elevado ritmo de crecimiento en los próximos años y mejorará márgenes operativos a medida que maduren sus tiendas.",
+        "activo_o_variable": "BBB Foods (TBBB)",
+        "direccion": "sube",
+        "horizonte": "5 a 10 años",
+        "conviccion_del_autor": "alta"
+      },
+      {
+        "afirmacion": "La ampliación Naga 3 estará operativa e incrementará a más del doble la capacidad del casino actual.",
+        "activo_o_variable": "NagaCorp",
+        "direccion": "sube",
+        "horizonte": "4 a 5 años",
+        "conviccion_del_autor": "media"
+      }
+    ],
+    "datos_y_argumentos": [
+      "BBB Foods crece a un ritmo de ingresos ('top line') del 40%.",
+      "Los márgenes de un supermercado 'hard discount' maduro suelen situarse por debajo del 5%, compensándose con una alta rotación.",
+      "NagaCorp cuenta con un monopolio legal de casinos a 200 km a la redonda de Nom Pen.",
+      "NagaCorp cotiza normalizada a menos de 10 veces su flujo de caja libre (Free Cash Flow).",
+      "Naga 3 duplicará con creces el tamaño conjunto de las fases anteriores (Naga 1 y Naga 2)."
+    ],
+    "riesgos_mencionados": [
+      "Necesidad de financiación de deuda para costear el proyecto de expansión de Naga 3.",
+      "Riesgo de inseguridad jurídica y diferencias culturales al invertir en Hong Kong y mercados asiáticos.",
+      "Márgenes netos actualmente negativos en BBB Foods por la rápida apertura de tiendas que aún no han alcanzado madurez."
+    ],
+    "participantes": [
+      "Paco Lodeiro"
+    ],
+    "nivel_conviccion": "alta",
+    "es_contenido_de_mercados": true
+  }
+}
